@@ -14,7 +14,7 @@ permalink: /projets/
   {% for project in projects %}
     <article>
       <p class="meta">{{ project.status }}{% if project.start_year %} · {{ project.start_year }}{% endif %}</p>
-      <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
+      <h2><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h2>
       <p>{{ project.summary }}</p>
       {% if project.team %}
         <span>{{ project.team }}</span>

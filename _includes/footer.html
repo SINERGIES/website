@@ -2,13 +2,13 @@
   <div class="partner-band" aria-label="Partenaires">
     {% for partner in site.data.home.partners %}
       <a class="partner-logo" href="{{ partner.url }}" aria-label="{{ partner.full_name }}" target="_blank" rel="noopener">
-        <img src="{{ partner.logo }}" alt="{{ partner.full_name }}">
+        <img src="{{ partner.logo | relative_url }}" alt="{{ partner.full_name }}">
       </a>
     {% endfor %}
   </div>
   <div class="footer-grid">
-    <a class="brand footer-brand" href="/">
-      <img class="brand-logo" src="/assets/img/logo-sinergies.png" alt="Laboratoire SINERGIES">
+    <a class="brand footer-brand" href="{{ '/' | relative_url }}">
+      <img class="brand-logo" src="{{ '/assets/img/logo-sinergies.png' | relative_url }}" alt="Laboratoire SINERGIES">
     </a>
     <address>
       16 route de Gray<br>
@@ -19,9 +19,9 @@
       <a href="mailto:anne-marie.winninger@univ-fcomte.fr">anne-marie.winninger@univ-fcomte.fr</a>
     </div>
     <div class="footer-links">
-      <a href="/mentions-legales/">Mentions légales</a>
-      <a href="/accessibilite/">Accessibilité</a>
-      <a href="/plan-du-site/">Plan du site</a>
+      <a href="{{ '/mentions-legales/' | relative_url }}">Mentions légales</a>
+      <a href="{{ '/accessibilite/' | relative_url }}">Accessibilité</a>
+      <a href="{{ '/plan-du-site/' | relative_url }}">Plan du site</a>
     </div>
   </div>
 </footer>

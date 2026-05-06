@@ -14,7 +14,7 @@ permalink: /publications/
   {% for publication in publications %}
     <article>
       <p class="meta">{{ publication.year }}{% if publication.journal %} · {{ publication.journal }}{% endif %}</p>
-      <h2><a href="{{ publication.url }}">{{ publication.title }}</a></h2>
+      <h2><a href="{{ publication.url | relative_url }}">{{ publication.title }}</a></h2>
       {% if publication.authors %}
         <p>{{ publication.authors }}</p>
       {% endif %}

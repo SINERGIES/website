@@ -13,7 +13,7 @@ permalink: /actualites/
   {% for post in site.posts %}
     <article>
       <p class="meta">{{ post.date | date: "%d/%m/%Y" }}</p>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
       <p>{{ post.excerpt | strip_html }}</p>
     </article>
   {% endfor %}

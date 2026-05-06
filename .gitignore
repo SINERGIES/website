@@ -1,0 +1,6 @@
+/.bundle/
+/.jekyll-cache/
+/_site/
+/outputs/
+/vendor/
+.DS_Store
