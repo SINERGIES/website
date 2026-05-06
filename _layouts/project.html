@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<article class="page-hero post-page">
+  <p class="meta">{{ page.status }}{% if page.start_year %} · {{ page.start_year }}{% endif %}</p>
+  <h1>{{ page.title }}</h1>
+  {% if page.summary %}
+    <p>{{ page.summary }}</p>
+  {% endif %}
+</article>
+
+<section class="page-content">
+  {% if page.team or page.end_year or page.partners %}
+    <div class="project-details">
+      {% if page.team %}
+        <p><strong>Axe ou équipe</strong><br>{{ page.team }}</p>
+      {% endif %}
+      {% if page.end_year %}
+        <p><strong>Période</strong><br>{{ page.start_year }}-{{ page.end_year }}</p>
+      {% endif %}
+      {% if page.partners %}
+        <div>
+          <strong>Partenaires identifiés</strong>
+          <ul>
+            {% for partner in page.partners %}
+              <li>{{ partner }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+      {% endif %}
+    </div>
+  {% endif %}
+  {{ content }}
+</section>

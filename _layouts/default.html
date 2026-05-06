@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'fr' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description }}">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="preload" href="/assets/img/hero-biomed.png" as="image">
+    <link rel="stylesheet" href="/assets/css/main.css">
+  </head>
+  <body>
+    {% include header.html %}
+    <main>
+      {{ content }}
+    </main>
+    {% include footer.html %}
+  </body>
+</html>

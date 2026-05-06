@@ -1,0 +1,10 @@
+<header class="site-header">
+  <a class="brand" href="/" aria-label="Retour à l'accueil">
+    <img class="brand-logo" src="/assets/img/logo-sinergies.png" alt="Laboratoire SINERGIES">
+  </a>
+  <nav class="main-nav" aria-label="Navigation principale">
+    {% for item in site.data.navigation %}
+      <a href="{{ item.url }}">{{ item.label }}</a>
+    {% endfor %}
+  </nav>
+</header>

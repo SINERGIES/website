@@ -1,0 +1,36 @@
+- name: Frédéric Auber
+  role: Directeur du laboratoire
+  team: Direction
+  email: frederic.auber@univ-fcomte.fr
+- name: Laurent Mourot
+  role: Professeur des universités
+  team: Soins intégrés et personnalisés
+  email:
+- name: Guillaume Besch
+  role: Professeur des universités - praticien hospitalier
+  team: Biomarqueurs et cibles thérapeutiques
+  email:
+- name: Guillaume Herlem
+  role: Professeur des universités
+  team: Ingénierie pour la santé
+  email:
+- name: Oussama Barakat
+  role: Professeur des universités
+  team: Axe Intelligence artificielle
+  email:
+- name: Nicolas Mottet
+  role: Professeur des universités - praticien hospitalier
+  team: Axe Recherche clinique
+  email:
+- name: Paul Calame
+  role: MCU-PH
+  team: Axe Imageries 2D, 3D, 4D
+  email:
+- name: Anne-Marie Winninger
+  role: Secrétariat
+  team: Pôle administratif
+  email:
+- name: Nikolina Dominovic
+  role: Ingénieur d'étude en charge de projets
+  team: Appui projets
+  email:

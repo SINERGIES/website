@@ -1,0 +1,16 @@
+- label: Accueil
+  url: "/#accueil"
+- label: Axes
+  url: "/#axes"
+- label: Projets
+  url: "/#projets-laboratoire"
+- label: Publications
+  url: "/#publications"
+- label: Actualités
+  url: "/#actualites"
+- label: Master
+  url: "/#master"
+- label: À propos
+  url: "/#a-propos"
+- label: Contact
+  url: "/#contact"

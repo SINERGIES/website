@@ -1,0 +1,120 @@
+hero:
+  title: Laboratoire SINERGIES
+  subtitle: Expertise multidisciplinaire en santé et recherche clinique
+  text: De la preuve de concept au bénéfice des patients
+  cta: Découvrir les axes de recherche
+  image: /assets/img/hero-biomed.png
+  stats:
+    - value: "3"
+      label: équipes de recherche
+    - value: "3"
+      label: axes transversaux
+    - value: "2"
+      label: appuis opérationnels
+
+intro:
+  body: Le Laboratoire SINERGIES réunit physiciens, chimistes, biologistes et médecins autour de projets translationnels qui mobilisent des expertises nano, micro et macro pour comprendre, diagnostiquer et traiter les maladies.
+  principles:
+    - title: Multidisciplinaire
+      text: Physique, chimie, biologie et médecine.
+    - title: Translationnel
+      text: De la preuve de concept au bénéfice patient.
+    - title: Données & IA
+      text: Biostatistiques, modèles et apprentissage automatique.
+
+axes:
+  title: Axes de recherche
+  text: Le laboratoire articule ses travaux autour de trois équipes de recherche, soutenues par trois axes transversaux qui apportent méthodes, plateformes et expertises communes.
+  research_title: Équipes de recherche
+  transversal_title: Axes transversaux
+  research:
+    - title: Soins intégrés et personnalisés
+      text: Analyse des parcours, épidémiologie clinique et données de santé pour soutenir une prise en charge personnalisée.
+    - title: Biomarqueurs et cibles thérapeutiques
+      text: Identification de signatures biologiques et validation de cibles pour accélérer le transfert vers la recherche clinique.
+    - title: Ingénierie pour la santé
+      text: Conception de matériaux, microdispositifs, imagerie et instrumentation au service du diagnostic et du soin.
+  transversal:
+    - title: Intelligence artificielle
+      text: Modèles, apprentissage automatique et biostatistiques pour valoriser les données biomédicales.
+    - title: Recherche clinique
+      text: Méthodologies, protocoles et appui au transfert des preuves scientifiques vers les patients.
+    - title: Imageries 2D, 3D, 4D
+      text: Développement et intégration de protocoles d'imagerie multimodale pour documenter les trajectoires de soin.
+
+projects:
+  title: Projets du laboratoire
+  text: "Les projets donnent une traduction concrète aux axes scientifiques du laboratoire : biomarqueurs, imagerie, ingénierie et organisation des soins."
+  cta: Voir tous les projets
+
+teams:
+  - title: Soins intégrés et personnalisés
+    text: Analyse des parcours de soins, épidémiologie clinique et données de santé pour soutenir une prise en charge intégrée, personnalisée et mesurable.
+  - title: Biomarqueurs et cibles thérapeutiques
+    text: Identification de biomarqueurs, exploration des mécanismes biologiques et validation de cibles thérapeutiques pour accélérer le transfert vers la recherche clinique.
+  - title: Ingénierie pour la santé
+    text: Conception de matériaux, nano et microdispositifs, solutions d'imagerie et instrumentation pour développer des outils fiables au service du diagnostic et du soin.
+
+master:
+  title: Master Ingénierie de la santé
+  text: Une formation adossée aux expertises du laboratoire pour préparer les étudiants aux méthodes, outils et enjeux de la recherche en santé. Le parcours met en relation les sciences du vivant, l'ingénierie, les données, l'imagerie et la recherche clinique, avec une attention particulière portée au transfert vers les usages hospitaliers et les projets translationnels.
+  note: Les étudiants peuvent découvrir les problématiques du laboratoire, construire un projet de recherche et se rapprocher des équipes impliquées dans les axes scientifiques de SINERGIES.
+  highlights:
+    - Recherche clinique et méthodologie
+    - Ingénierie, imagerie et données de santé
+    - Immersion dans un environnement hospitalo-universitaire
+  cta: Voir la formation
+  url: https://formations.univ-fcomte.fr/fr/index/formations/feuilleter-le-catalogue/master-lmd-XB/master-ingenierie-de-la-sante-M4QW93HX.html
+
+about:
+  title: À propos de nous
+  vision_title: Notre vision
+  vision: Construire une recherche biomédicale ouverte, rigoureuse et utile, capable de relier les avancées scientifiques aux besoins concrets des patients, des soignants et des partenaires du territoire.
+  lab_title: Le laboratoire
+  lab: SINERGIES rassemble des expertises en physique, chimie, biologie, médecine, données et ingénierie pour faire émerger des projets translationnels, depuis les mécanismes fondamentaux jusqu'à l'évaluation clinique.
+  direction_title: Équipe de direction
+
+organisation:
+  director:
+    title: Directeur du laboratoire
+    lead: Frédéric Auber
+    role: PU-PH
+  teams:
+    - title: Soins intégrés et personnalisés
+      lead: Laurent Mourot
+      role: PU
+    - title: Biomarqueurs et cibles thérapeutiques
+      lead: Guillaume Besch
+      role: PU-PH
+    - title: Ingénierie pour la santé
+      lead: Guillaume Herlem
+      role: PU
+  axes:
+    - title: Intelligence artificielle
+      lead: Oussama Barakat
+      role: PU
+    - title: Recherche clinique
+      lead: Nicolas Mottet
+      role: PU-PH
+    - title: Imageries 2D, 3D, 4D
+      lead: Paul Calame
+      role: MCU-PH
+  support:
+    - title: Secrétariat
+      people: Anne-Marie Winninger
+    - title: Ingénieur d'étude en charge de projets
+      people: Nikolina Dominovic
+
+partners:
+  - name: UMLP
+    full_name: Université Marie et Louis Pasteur
+    url: https://www.umlp.fr/
+    logo: /assets/img/partners/umlp.svg
+  - name: CHU Besançon
+    full_name: CHU de Besançon
+    url: https://www.chu-besancon.fr/
+    logo: /assets/img/partners/chu-besancon.svg
+  - name: Région BFC
+    full_name: Région Bourgogne Franche-Comté
+    url: https://www.bourgognefranchecomte.fr/
+    logo: /assets/img/partners/region-bfc.svg

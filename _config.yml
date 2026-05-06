@@ -1,0 +1,39 @@
+title: Laboratoire SINERGIES
+description: Expertise multidisciplinaire en santé et recherche clinique.
+url: "https://lab-sinergies.fr"
+baseurl: ""
+lang: fr
+timezone: Europe/Paris
+
+markdown: kramdown
+permalink: pretty
+
+collections:
+  publications:
+    output: true
+    permalink: /publications/:name/
+  projects:
+    output: true
+    permalink: /projets/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: publication
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md

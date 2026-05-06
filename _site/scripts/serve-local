@@ -1,0 +1,7 @@
+#!/usr/bin/env sh
+set -eu
+
+export BUNDLE_PATH="${BUNDLE_PATH:-vendor/bundle}"
+export BUNDLE_DISABLE_SHARED_GEMS="${BUNDLE_DISABLE_SHARED_GEMS:-true}"
+
+exec /usr/bin/bundle exec jekyll serve --host 127.0.0.1 --port "${PORT:-4000}" "$@"
