@@ -1,7 +1,6 @@
 hero:
   title: Laboratoire SINERGIES
   subtitle: Expertise multidisciplinaire en santé et recherche clinique
-  text: De la preuve de concept au bénéfice des patients
   cta: Découvrir les axes de recherche
   image: /assets/img/hero-biomed.png
   stats:

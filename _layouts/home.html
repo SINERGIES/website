@@ -9,7 +9,6 @@ layout: default
     <p class="eyebrow">Recherche translationnelle en santé</p>
     <h1>{{ home.hero.title }}</h1>
     <p class="hero-subtitle">{{ home.hero.subtitle }}</p>
-    <p class="hero-text">{{ home.hero.text }}</p>
     <a class="button hero-button" href="#axes">{{ home.hero.cta }}</a>
     <div class="hero-stats" aria-label="Chiffres clés">
       {% for stat in home.hero.stats %}
@@ -68,7 +67,7 @@ layout: default
     <a class="text-link" href="{{ '/projets/' | relative_url }}">{{ home.projects.cta }}</a>
   </div>
   <div class="project-grid">
-    {% assign projects = site.projects | sort: "start_year" | reverse %}
+    {% assign projects = site.projects | where: "status", "En cours" | sort: "start_year" | reverse %}
     {% for project in projects limit:3 %}
       <article class="project-card">
         <p class="project-meta">{{ project.status }}{% if project.start_year %} · {{ project.start_year }}{% endif %}</p>
