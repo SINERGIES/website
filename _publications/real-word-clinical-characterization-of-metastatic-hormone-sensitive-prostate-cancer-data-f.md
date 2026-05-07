@@ -1,0 +1,11 @@
+---
+title: "REAL-WORD CLINICAL CHARACTERIZATION OF METASTATIC HORMONE SENSITIVE PROSTATE CANCER: DATA FROM THE EUROPEAN NETWORK OF EXCELLENCE FOR BIG DATA IN PROSTATE CANCER (PIONEER)"
+authors: "Nicoletti R, Rivas JG, Ibáñez L, Steinbeisserc C, de Meulder B, Golozar A, et al"
+journal: "Journal of Urology"
+year: 2024
+volume: "211"
+bib_key: "r2024_204"
+publication_type: "article"
+---
+
+Nicoletti R, Rivas JG, Ibáñez L, Steinbeisserc C, de Meulder B, Golozar A, et al. REAL-WORD CLINICAL CHARACTERIZATION OF METASTATIC HORMONE SENSITIVE PROSTATE CANCER: DATA FROM THE EUROPEAN NETWORK OF EXCELLENCE FOR BIG DATA IN PROSTATE CANCER (PIONEER). Journal of Urology 2024, 211(5): E222-E222.

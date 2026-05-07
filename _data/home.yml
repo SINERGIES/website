@@ -8,8 +8,8 @@ hero:
       label: équipes de recherche
     - value: "3"
       label: axes transversaux
-    - value: "2"
-      label: appuis opérationnels
+    - value: "1"
+      label: master
 
 intro:
   body: Le Laboratoire SINERGIES réunit physiciens, chimistes, biologistes et médecins autour de projets translationnels qui mobilisent des expertises nano, micro et macro pour comprendre, diagnostiquer et traiter les maladies.

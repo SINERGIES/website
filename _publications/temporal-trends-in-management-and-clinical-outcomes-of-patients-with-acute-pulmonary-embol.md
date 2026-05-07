@@ -1,0 +1,11 @@
+---
+title: "TEMPORAL TRENDS IN MANAGEMENT AND CLINICAL OUTCOMES OF PATIENTS WITH ACUTE PULMONARY EMBOLISM AFTER IMPLEMENTATION OF A MULTIDISCIPLINARY PULMONARY EMBOLISM RESPONSE TEAM"
+authors: "Chopard R, Campia U, Morin L, Jering K, Almarzooq Z, Snyder J, et al"
+journal: "Journal of the American College of Cardiology"
+year: 2022
+volume: "79"
+bib_key: "r2022_442"
+publication_type: "article"
+---
+
+Chopard R, Campia U, Morin L, Jering K, Almarzooq Z, Snyder J, et al. TEMPORAL TRENDS IN MANAGEMENT AND CLINICAL OUTCOMES OF PATIENTS WITH ACUTE PULMONARY EMBOLISM AFTER IMPLEMENTATION OF A MULTIDISCIPLINARY PULMONARY EMBOLISM RESPONSE TEAM. Journal of the American College of Cardiology 2022, 79(9): 1797-1797.
