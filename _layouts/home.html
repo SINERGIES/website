@@ -17,6 +17,10 @@ layout: default
           <span>{{ stat.label }}</span>
         </div>
       {% endfor %}
+      <div>
+        <strong>{{ site.publications | size }}</strong>
+        <span>publications</span>
+      </div>
     </div>
   </div>
   <div class="hero-media">
@@ -86,7 +90,7 @@ layout: default
   <div class="section-heading stacked">
     <p class="eyebrow">Production scientifique</p>
     <h2>Publications récentes</h2>
-    <p>Un aperçu des publications issues des travaux du laboratoire.</p>
+    <p>{{ site.publications | size }} publications issues des travaux du laboratoire.</p>
   </div>
   <div class="publication-list">
     {% assign recent_publications = site.publications | sort: "year" | reverse %}

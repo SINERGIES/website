@@ -11,8 +11,13 @@ layout: default
 </article>
 
 <section class="page-content">
-  {{ content }}
+  <h2>Abstract</h2>
+  {% if page.abstract %}
+    <p>{{ page.abstract }}</p>
+  {% else %}
+    <p>Abstract non disponible dans le fichier BibTeX fourni.</p>
+  {% endif %}
   {% if page.doi %}
-    <p><a class="button" href="https://doi.org/{{ page.doi }}">Ouvrir le DOI</a></p>
+    <p><a class="button" href="https://doi.org/{{ page.doi }}" target="_blank" rel="noopener">Lire l'article complet</a></p>
   {% endif %}
 </section>

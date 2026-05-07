@@ -6,6 +6,8 @@ permalink: /publications/
 
 <section class="page-hero">
   <h1>Publications</h1>
+  <p>{{ site.publications | size }} publications répertoriées.</p>
+  <p class="page-update">Dernière mise à jour : {{ site.data.publications.updated_at }}</p>
 </section>
 
 <section class="page-content archive-list">
@@ -17,6 +19,13 @@ permalink: /publications/
       {% if publication.authors %}
         <p>{{ publication.authors }}</p>
       {% endif %}
+      <p class="publication-abstract">
+        {% if publication.abstract %}
+          {{ publication.abstract }}
+        {% else %}
+          Abstract non disponible dans le fichier BibTeX fourni.
+        {% endif %}
+      </p>
     </article>
   {% endfor %}
 </section>
