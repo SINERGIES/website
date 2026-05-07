@@ -1,0 +1,20 @@
+---
+title: "Epidemiology and outcome of patients admitted to intensive care after anaphylaxis in France: a retrospective multicentre study"
+authors: "Guerci, Philippe, Tacquard, Charles, Chenard, Laura, Millard, David, Soufir, Lila, Malinovsky, Jean-Marc, Garot, Matthias, Lalot, Jean-Marc, Besch, Guillaume, Louis, Guillaume, Thion, Laurie-Anne, Charpentier, Claire, Kimmoun, Antoine, Des Deserts, Marc Danguy, Carreira, Serge, Plantefeve, Gaetan, Novy, Emmanuel, Abraham, Paul, Mertes, Paul-Michel, Soc Francaise Anesthesie Reanimati"
+journal: "BRITISH JOURNAL OF ANAESTHESIA"
+year: 2020
+volume: "125"
+number: "6"
+pages: "1025-1033"
+month: "DEC"
+doi: "10.1016/j.bja.2020.08.024"
+abstract: "Background: Few data are available on patients who have experienced anaphylaxis and were admitted to ICUs. The purpose of this observational study was to describe the epidemiology and management of these patients. Methods: This was a multicentre retrospective study carried out in 23 French ICUs between 2012 and 2017. All patients who suffered anaphylaxis and were transferred to an ICU were included. Data were collected using an electronic database after approval by an ethics committee. Results: A total of 339 patients were included, and 17 (5%) died secondary to anaphylaxis. The main triggers were drugs (77%), contrast media (11%), and food (7%). Epinephrine was administered before ICU admission in 88% of patients with Grade III anaphylaxis and 100% of patients with Grade IV anaphylaxis. Most patients with Grades III and IV anaphylaxes did not receive the recommended dose of i.v. fluid of 30 ml kg(-1) within the first 4 h of ICU admission. The time to epinephrine administration was not statistically different between survivors and non-survivors, but non-survivors received a higher dose of epinephrine (median: 5 [3-10] vs 3 [2-7] mg; P<0.0001), which suggests that some forms of anaphylactic shock may be resistant to epinephrine. In multivariate analysis, only lactate concentration at ICU admission was a predictor of death (odds ratio: 1.47 [1.15-1.88]; P=0.002). Conclusions: Lactate concentration at ICU admission appeared to be the most reliable criterion for assessing prognosis. Epinephrine is widely used during anaphylaxis, but the volume of fluid resuscitation was consistently lower than recommended."
+issn: "0007-0912"
+eissn: "1471-6771"
+unique_id: "WOS:000590872800048"
+bib_key: "WOS:000590872800048"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Background: Few data are available on patients who have experienced anaphylaxis and were admitted to ICUs. The purpose of this observational study was to describe the epidemiology and management of these patients. Methods: This was a multicentre retrospective study carried out in 23 French ICUs between 2012 and 2017. All patients who suffered anaphylaxis and were transferred to an ICU were included. Data were collected using an electronic database after approval by an ethics committee. Results: A total of 339 patients were included, and 17 (5%) died secondary to anaphylaxis. The main triggers were drugs (77%), contrast media (11%), and food (7%). Epinephrine was administered before ICU admission in 88% of patients with Grade III anaphylaxis and 100% of patients with Grade IV anaphylaxis. Most patients with Grades III and IV anaphylaxes did not receive the recommended dose of i.v. fluid of 30 ml kg(-1) within the first 4 h of ICU admission. The time to epinephrine administration was not statistically different between survivors and non-survivors, but non-survivors received a higher dose of epinephrine (median: 5 [3-10] vs 3 [2-7] mg; P<0.0001), which suggests that some forms of anaphylactic shock may be resistant to epinephrine. In multivariate analysis, only lactate concentration at ICU admission was a predictor of death (odds ratio: 1.47 [1.15-1.88]; P=0.002). Conclusions: Lactate concentration at ICU admission appeared to be the most reliable criterion for assessing prognosis. Epinephrine is widely used during anaphylaxis, but the volume of fluid resuscitation was consistently lower than recommended.

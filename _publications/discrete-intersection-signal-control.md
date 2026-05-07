@@ -1,0 +1,15 @@
+---
+title: "Discrete intersection signal control"
+authors: "Wu, Jia, Abbas-Turki, Abdeljalil, Correia, Aurelien, El Moudni, Abdellah"
+journal: ""
+year: 2007
+pages: "7+"
+doi: "10.1109/SOLI.2007.4383891"
+abstract: "In this paper, we propose a new control of traffic lights of a simple intersection, taking into account vehicle behaviour, integral red and orange phases. We consider the intersection as a resource shared between vehicles of two roads. Hence, the control of traffic light signal is performed to take into account each vehicle arrival individually. On the one hand, this allows us to distinguish different kinds of vehicles such as public transport vehicles and emergency vehicles. On the other hand, since the main objective is the minimization of the evacuation time, then the waiting time of each vehicle is dramatically reduced. Moreover, such a control can lead to autonomous vehicles, which would not need traffic lights anymore."
+unique_id: "WOS:000250780200002"
+bib_key: "WOS:000250780200002"
+publication_type: "inproceedings"
+source_file: "savedrecs(3).bib"
+---
+
+In this paper, we propose a new control of traffic lights of a simple intersection, taking into account vehicle behaviour, integral red and orange phases. We consider the intersection as a resource shared between vehicles of two roads. Hence, the control of traffic light signal is performed to take into account each vehicle arrival individually. On the one hand, this allows us to distinguish different kinds of vehicles such as public transport vehicles and emergency vehicles. On the other hand, since the main objective is the minimization of the evacuation time, then the waiting time of each vehicle is dramatically reduced. Moreover, such a control can lead to autonomous vehicles, which would not need traffic lights anymore.

@@ -1,0 +1,19 @@
+---
+title: "Hybrid metaheuristics for solving a home health care routing and scheduling problem with time windows, synchronized visits and lunch breaks"
+authors: "Liu, Wenheng, Dridi, Mahjoub, Fei, Hongying, El Hassani, Amir Hajjam"
+journal: "EXPERT SYSTEMS WITH APPLICATIONS"
+year: 2021
+volume: "183"
+month: "NOV 30"
+doi: "10.1016/j.eswa.2021.115307"
+abstract: "The home health care routing and scheduling problem (HHCRSP), a challenging operational problem in the field of home health care (HHC), consists of assigning suitable caregivers to serve patients at their homes and optimizing a set of caregiver's visits according to certain criteria. Besides the time windows and qualifications of caregivers that are generally considered in HHCRSP, this study further concerns three practical constraints, which are (1): some patients require the services that should be performed by at least two caregivers simultaneously (synchronized visits); (2) caregivers should take lunch breaks when they working during the lunch period (lunch breaks); (3) caregivers can depart from either their homes or the HHC company (flexible departure modes of caregivers). In this study, the concerned problem is firstly modeled as a mixed-integer programming model, and four hybrid metaheuristics are developed. Numerical results obtained with the instances, adapted from a set of benchmark instances, as well as the statistical information, computed by Friedman test present that the hybrid genetic general variable neighborhood search (HGGVNS) shows the best performance among four algorithms. Furthermore, sensitivity analyses are conducted to evaluate the impact of synchronization scales, time window widths, break regulations, and departure strategies on the final solutions. The results of this study can offer HHC management a valuable scheme to construct a high-quality planning of HHC visits by taking into account various important real-life constraints, some of which were not yet been tackled in the literature."
+article_number: "115307"
+issn: "0957-4174"
+eissn: "1873-6793"
+unique_id: "WOS:000691811900006"
+bib_key: "WOS:000691811900006"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+The home health care routing and scheduling problem (HHCRSP), a challenging operational problem in the field of home health care (HHC), consists of assigning suitable caregivers to serve patients at their homes and optimizing a set of caregiver's visits according to certain criteria. Besides the time windows and qualifications of caregivers that are generally considered in HHCRSP, this study further concerns three practical constraints, which are (1): some patients require the services that should be performed by at least two caregivers simultaneously (synchronized visits); (2) caregivers should take lunch breaks when they working during the lunch period (lunch breaks); (3) caregivers can depart from either their homes or the HHC company (flexible departure modes of caregivers). In this study, the concerned problem is firstly modeled as a mixed-integer programming model, and four hybrid metaheuristics are developed. Numerical results obtained with the instances, adapted from a set of benchmark instances, as well as the statistical information, computed by Friedman test present that the hybrid genetic general variable neighborhood search (HGGVNS) shows the best performance among four algorithms. Furthermore, sensitivity analyses are conducted to evaluate the impact of synchronization scales, time window widths, break regulations, and departure strategies on the final solutions. The results of this study can offer HHC management a valuable scheme to construct a high-quality planning of HHC visits by taking into account various important real-life constraints, some of which were not yet been tackled in the literature.

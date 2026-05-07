@@ -1,0 +1,20 @@
+---
+title: "New trends in bladder cancer management"
+authors: "Irani, Jacques, Mottet, Nicolas, Jose Ribal Caparros, Maria, Teillac, Pierre"
+journal: "EUROPEAN UROLOGY SUPPLEMENTS"
+year: 2007
+volume: "6"
+number: "4, SI"
+pages: "388-395"
+month: "MAR"
+doi: "10.1016/j.eursup.2006.12.010"
+abstract: "Objectives: This paper describes and discusses the most relevant new findings on bladder cancer (BCa) that were presented at the 2006 annual meetings from the European Association of Urology (EAU), American Urological Association (AUA) and the American Society of Clinical Oncology (ASCO). Methods: The most relevant abstracts on BCa were selected by experts in the field of BCa and discussed during a closed meeting. Results: The most relevant new data on BCa came from the EAU and AUA meetings. Major topic of the meetings was the development of the EORTC prognostic tables to calculate short- and long-term recurrence and progression rates of patients with superficial BCa. Many (controversial) studies discussed the diagnostic and prognostic potentials of the biomarkers survivin and NMP22. Two studies involved the treatment of patients with refractory superficial BCa. Intravesical therapy with Bacillus Calmette-Guerin + interferon-alpha was considered a promising therapy for patients who failed BCG therapy. With respect to invasive BCa, there were some controversial reports on the impact of delayed cystectomy or hospital volumes on (cancer-free) survival rates. The bladder cancer index was presented as a promising questionnaire to assess quality of life in patients with localised BCa. Finally, one study showed that extensive tumour necrosis in upper urinary tract tumours is a prognostic factor for poor patient outcome. Conclusions: There were many interesting studies about BCa at this year's urologic meetings. Major headline was the introduction of the EORTC prognostic tables, which will probably lead to a major improvement in the evaluation and surveillance of patients with superficial BCa. (c) 2007 European Association of Urology. Published by Elsevier B.V. All rights reserved."
+issn: "1569-9056"
+eissn: "1878-1500"
+unique_id: "WOS:000245013500002"
+bib_key: "WOS:000245013500002"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+Objectives: This paper describes and discusses the most relevant new findings on bladder cancer (BCa) that were presented at the 2006 annual meetings from the European Association of Urology (EAU), American Urological Association (AUA) and the American Society of Clinical Oncology (ASCO). Methods: The most relevant abstracts on BCa were selected by experts in the field of BCa and discussed during a closed meeting. Results: The most relevant new data on BCa came from the EAU and AUA meetings. Major topic of the meetings was the development of the EORTC prognostic tables to calculate short- and long-term recurrence and progression rates of patients with superficial BCa. Many (controversial) studies discussed the diagnostic and prognostic potentials of the biomarkers survivin and NMP22. Two studies involved the treatment of patients with refractory superficial BCa. Intravesical therapy with Bacillus Calmette-Guerin + interferon-alpha was considered a promising therapy for patients who failed BCG therapy. With respect to invasive BCa, there were some controversial reports on the impact of delayed cystectomy or hospital volumes on (cancer-free) survival rates. The bladder cancer index was presented as a promising questionnaire to assess quality of life in patients with localised BCa. Finally, one study showed that extensive tumour necrosis in upper urinary tract tumours is a prognostic factor for poor patient outcome. Conclusions: There were many interesting studies about BCa at this year's urologic meetings. Major headline was the introduction of the EORTC prognostic tables, which will probably lead to a major improvement in the evaluation and surveillance of patients with superficial BCa. (c) 2007 European Association of Urology. Published by Elsevier B.V. All rights reserved.

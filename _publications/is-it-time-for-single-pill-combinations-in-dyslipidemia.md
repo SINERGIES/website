@@ -1,0 +1,20 @@
+---
+title: "Is it Time for Single-Pill Combinations in Dyslipidemia?"
+authors: "Schiele, Francois, Perez de Isla, Leopoldo, Arca, Marcello, Vlachopoulos, Charalambos"
+journal: "AMERICAN JOURNAL OF CARDIOVASCULAR DRUGS"
+year: 2022
+volume: "22"
+number: "3"
+pages: "239-249"
+month: "MAY"
+doi: "10.1007/s40256-021-00498-2"
+abstract: "Despite the availability of lipid-lowering therapies (LLTs) that are safe and effective, the overall rate of low-density lipoprotein cholesterol (LDL-C) control at a population level in real-life studies is low. Higher-intensity treatment, earlier intervention, and longer-term treatment have all been shown to improve outcomes. However, in clinical practice, actual exposure to LLT is a product of the duration and intensity of, and adherence to, the treatment. To increase exposure to LLTs, the European Society of Cardiology guidelines recommended a stepwise optimization of LLTs by increasing statin intensity to the maximally tolerated dose, with subsequent addition of ezetimibe and proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitors. Evidence from randomized controlled trials performed in a range of patients suggested that adding ezetimibe to statins rather than doubling the statin dose resulted in significantly more patients at LDL-C goal and significantly fewer patients discontinuing treatment because of adverse events. In addition, data showed that combination treatments effectively increased exposure to LLT. Despite these data and recommendations, optimization of LLT is often limited to increasing statin dose. Therapeutic inertia and poor treatment adherence are significant and prevalent barriers to increasing treatment exposure. They are known to be influenced by pill burden and complexity of treatment. Single-pill combinations provide a strategic approach that supports the intensification of treatment without increasing pill burden or treatment complexity. Single-pill combinations, compared with free associations, have been shown to increase the adherence to LLT and the percentage of patients at LDL-C goal."
+issn: "1175-3277"
+eissn: "1179-187X"
+unique_id: "WOS:000698050400001"
+bib_key: "WOS:000698050400001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Despite the availability of lipid-lowering therapies (LLTs) that are safe and effective, the overall rate of low-density lipoprotein cholesterol (LDL-C) control at a population level in real-life studies is low. Higher-intensity treatment, earlier intervention, and longer-term treatment have all been shown to improve outcomes. However, in clinical practice, actual exposure to LLT is a product of the duration and intensity of, and adherence to, the treatment. To increase exposure to LLTs, the European Society of Cardiology guidelines recommended a stepwise optimization of LLTs by increasing statin intensity to the maximally tolerated dose, with subsequent addition of ezetimibe and proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitors. Evidence from randomized controlled trials performed in a range of patients suggested that adding ezetimibe to statins rather than doubling the statin dose resulted in significantly more patients at LDL-C goal and significantly fewer patients discontinuing treatment because of adverse events. In addition, data showed that combination treatments effectively increased exposure to LLT. Despite these data and recommendations, optimization of LLT is often limited to increasing statin dose. Therapeutic inertia and poor treatment adherence are significant and prevalent barriers to increasing treatment exposure. They are known to be influenced by pill burden and complexity of treatment. Single-pill combinations provide a strategic approach that supports the intensification of treatment without increasing pill burden or treatment complexity. Single-pill combinations, compared with free associations, have been shown to increase the adherence to LLT and the percentage of patients at LDL-C goal.

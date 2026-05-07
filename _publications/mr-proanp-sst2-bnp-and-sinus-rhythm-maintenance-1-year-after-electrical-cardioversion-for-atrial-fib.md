@@ -1,0 +1,19 @@
+---
+title: "MR-proANP, sST2, BNP and sinus rhythm maintenance 1 year after electrical cardioversion for atrial fibrillation"
+authors: "Badoz, Marc, Serzian, Guillaume, Favoulet, Baptiste, Sellal, Jean-Marc, De Chillou, Christian, Laurent, Gabriel, Ecarnot, Fiona, Bardonnet, Karine, Seronde, Marie-France, Schiele, Francois, Meneveau, Nicolas"
+journal: "BMC CARDIOVASCULAR DISORDERS"
+year: 2025
+volume: "25"
+number: "1"
+month: "AUG 29"
+doi: "10.1186/s12872-025-05052-5"
+abstract: "Background We assessed the ability of MR-proANP, sST2 and BNP to predict maintenance of sinus rhythm at one year after successful electrical cardioversion of atrial fibrillation. Methods Prospective, multicenter, observational study including patients undergoing electrical cardioversion of persistent AF. MR-proANP, sST2 and BNP were measured in peripheral venous blood before cardioversion. Primary endpoint was the first recurrence of AF during the 12-month follow-up, defined as ECG showing AF, or any AF episode lasting > 30 s on 24 h holter monitoring. Results We included 61 patients from 12/2017 to 03/2019 with preserved LVEF (>= 45%), average age was 67.4 +/- 7.8 years, 46 were males (75.4%). Sinus rhythm was restored in 51 patients (83.6%). In these 51 patients, plasma concentrations of MR-proANP were significantly higher among patients with recurrent AF at 12 months than among those without recurrence (314.45 [210.90-342.50] vs 214.50 [138.97-264.72] pmol/L, p < 0.01). There was no difference between groups in terms of sST2 and BNP concentrations. ROC curve analysis identified an MR-proANP threshold of 311.5 pmol/L as having the best predictive value for recurrent AF at 12 months. By multivariable analysis, MR-proANP > 311.5 pmol/L was found to be the sole predictor of AF recurrence (hazard ratio, 4.74; 95% CI, 1.59-14.07), and identified subjects at very high risk of recurrence (positive predictive value = 83.3%). Conclusion Elevated MR-proANP level independently predicts recurrent AF during the year following electrical cardioversion of atrial fibrillation. Our findings warrant confirmation in larger studies."
+article_number: "640"
+issn: "1471-2261"
+unique_id: "WOS:001561108900001"
+bib_key: "WOS:001561108900001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Background We assessed the ability of MR-proANP, sST2 and BNP to predict maintenance of sinus rhythm at one year after successful electrical cardioversion of atrial fibrillation. Methods Prospective, multicenter, observational study including patients undergoing electrical cardioversion of persistent AF. MR-proANP, sST2 and BNP were measured in peripheral venous blood before cardioversion. Primary endpoint was the first recurrence of AF during the 12-month follow-up, defined as ECG showing AF, or any AF episode lasting > 30 s on 24 h holter monitoring. Results We included 61 patients from 12/2017 to 03/2019 with preserved LVEF (>= 45%), average age was 67.4 +/- 7.8 years, 46 were males (75.4%). Sinus rhythm was restored in 51 patients (83.6%). In these 51 patients, plasma concentrations of MR-proANP were significantly higher among patients with recurrent AF at 12 months than among those without recurrence (314.45 [210.90-342.50] vs 214.50 [138.97-264.72] pmol/L, p < 0.01). There was no difference between groups in terms of sST2 and BNP concentrations. ROC curve analysis identified an MR-proANP threshold of 311.5 pmol/L as having the best predictive value for recurrent AF at 12 months. By multivariable analysis, MR-proANP > 311.5 pmol/L was found to be the sole predictor of AF recurrence (hazard ratio, 4.74; 95% CI, 1.59-14.07), and identified subjects at very high risk of recurrence (positive predictive value = 83.3%). Conclusion Elevated MR-proANP level independently predicts recurrent AF during the year following electrical cardioversion of atrial fibrillation. Our findings warrant confirmation in larger studies.

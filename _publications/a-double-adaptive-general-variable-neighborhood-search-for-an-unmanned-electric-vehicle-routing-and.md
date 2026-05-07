@@ -1,0 +1,20 @@
+---
+title: "A double-adaptive general variable neighborhood search for an unmanned electric vehicle routing and scheduling problem in green manufacturing systems"
+authors: "Liu, Wenheng, Dridi, Mahjoub, Ren, Jintong, El Hassani, Amir Hajjam, Li, Shuying"
+journal: "ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE"
+year: 2023
+volume: "126"
+number: "D"
+month: "NOV"
+doi: "10.1016/j.engappai.2023.107113"
+abstract: "In recent years, more and more manufacturing factories have employed unmanned electric vehicles (UEVs) to perform the materials delivery, and efficient routing and scheduling approaches are required to improve the delivery efficiency. However, most of existing papers studied the routing problem of fuel vehicles or the drones. This paper investigates the optimization of UEVs delivery routes and charging strategies. Due to the limited payload capacity and battery capacity, the UEV must return to the depot multiple times to load the materials and go to the recharging station during the route to charge, and thus the problem is modeled as a multi-trip UEV routing and scheduling problem, which assigns the recharging station to the UEV's route and optimizes a set of UEV's trips. The investigated problem is firstly formulated as a mixed integer programming model. Then, considering the routing and scheduling challenges, we develop an efficient double-adaptive variable neighborhood search (DA-GVNS), which incorporates the general variable neighborhood search with a new adaptive mechanism, for this problem. The experimental results on the test and benchmark instances highlight that the DA-GVNS outperforms other existing algorithms. Furthermore, sensitivity analyses are conducted to study the impact of model's characteristics on the optimality and complexity of solutions. Finally, a case study is proposed to present how the developed approach works for a manufacturing factory. This paper can offer decision-makers a valuable approach to construct a high-quality routing and scheduling scheme for the UEV delivery while providing potential managerial insights for implementing efficient green manufacturing systems."
+article_number: "107113"
+issn: "0952-1976"
+eissn: "1873-6769"
+unique_id: "WOS:001148210300001"
+bib_key: "WOS:001148210300001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+In recent years, more and more manufacturing factories have employed unmanned electric vehicles (UEVs) to perform the materials delivery, and efficient routing and scheduling approaches are required to improve the delivery efficiency. However, most of existing papers studied the routing problem of fuel vehicles or the drones. This paper investigates the optimization of UEVs delivery routes and charging strategies. Due to the limited payload capacity and battery capacity, the UEV must return to the depot multiple times to load the materials and go to the recharging station during the route to charge, and thus the problem is modeled as a multi-trip UEV routing and scheduling problem, which assigns the recharging station to the UEV's route and optimizes a set of UEV's trips. The investigated problem is firstly formulated as a mixed integer programming model. Then, considering the routing and scheduling challenges, we develop an efficient double-adaptive variable neighborhood search (DA-GVNS), which incorporates the general variable neighborhood search with a new adaptive mechanism, for this problem. The experimental results on the test and benchmark instances highlight that the DA-GVNS outperforms other existing algorithms. Furthermore, sensitivity analyses are conducted to study the impact of model's characteristics on the optimality and complexity of solutions. Finally, a case study is proposed to present how the developed approach works for a manufacturing factory. This paper can offer decision-makers a valuable approach to construct a high-quality routing and scheduling scheme for the UEV delivery while providing potential managerial insights for implementing efficient green manufacturing systems.

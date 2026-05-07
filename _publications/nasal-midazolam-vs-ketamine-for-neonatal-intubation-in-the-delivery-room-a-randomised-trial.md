@@ -1,0 +1,20 @@
+---
+title: "Nasal midazolam vs ketamine for neonatal intubation in the delivery room: a randomised trial"
+authors: "Milesi, Christophe, Baleine, Julien, Mura, Thibault, Benito-Castro, Fernando, Ferragu, Felicie, Thiriez, Gerard, Thevenot, Pierre, Combes, Clementine, Carbajal, Ricardo, Cambonie, Gilles"
+journal: "ARCHIVES OF DISEASE IN CHILDHOOD-FETAL AND NEONATAL EDITION"
+year: 2018
+volume: "103"
+number: "3"
+pages: "F221-F226"
+month: "MAY"
+doi: "10.1136/archdischild-2017-312808"
+abstract: "Objective To compare the effectiveness of sedation by intranasal administration of midazolam (nMDZ) or ketamine (nKTM) for neonatal intubation. Design A multicentre, prospective, randomised, double-blind study. Setting Delivery rooms at four tertiary perinatal centres in France. Patients Preterm neonates with respiratory distress requiring non-emergent endotracheal intubation for surfactant instillation. Interventions Treatment was randomly allocated, with each neonate receiving a bolus of 0.1 mL/kg in each nostril, corresponding to 0.2 mg/kg for nMDZ and 2 mg/kg for nKTM. The drug was repeated once 7 min later at the same dose if adequate sedation was not obtained. Main outcome measures Success was defined by adequate sedation before intubation and adequate comfort during the procedure. Intubation features, respiratory and cardiovascular events were recorded. Results Sixty newborns, with mean (SD) gestational age and birth weight of 28 (3) weeks and 1100 (350) g, were included within the first 20 min of life. nMDZ was associated with a higher success rate (89% vs 58%; RR: 1.54, 95% CI 1.12 to 2.12, p<0.01) and shorter delays between the first dose and intubation (10 (6) vs 16 (8) min, p<0.01). Number of attempts, time to intubation, mean arterial blood pressure measures over the first 12 hours after birth and length of invasive ventilation were not different. Conclusions nMDZ was more efficient than nKTM to adequately sedate neonates requiring intubation in the delivery room. The haemodynamic and respiratory effects of both drugs were comparable. Clinical trial This clinical trial was recorded on the National Library of Medicine registry (NCT01517828)."
+issn: "1359-2998"
+eissn: "1468-2052"
+unique_id: "WOS:000430830200008"
+bib_key: "WOS:000430830200008"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Objective To compare the effectiveness of sedation by intranasal administration of midazolam (nMDZ) or ketamine (nKTM) for neonatal intubation. Design A multicentre, prospective, randomised, double-blind study. Setting Delivery rooms at four tertiary perinatal centres in France. Patients Preterm neonates with respiratory distress requiring non-emergent endotracheal intubation for surfactant instillation. Interventions Treatment was randomly allocated, with each neonate receiving a bolus of 0.1 mL/kg in each nostril, corresponding to 0.2 mg/kg for nMDZ and 2 mg/kg for nKTM. The drug was repeated once 7 min later at the same dose if adequate sedation was not obtained. Main outcome measures Success was defined by adequate sedation before intubation and adequate comfort during the procedure. Intubation features, respiratory and cardiovascular events were recorded. Results Sixty newborns, with mean (SD) gestational age and birth weight of 28 (3) weeks and 1100 (350) g, were included within the first 20 min of life. nMDZ was associated with a higher success rate (89% vs 58%; RR: 1.54, 95% CI 1.12 to 2.12, p<0.01) and shorter delays between the first dose and intubation (10 (6) vs 16 (8) min, p<0.01). Number of attempts, time to intubation, mean arterial blood pressure measures over the first 12 hours after birth and length of invasive ventilation were not different. Conclusions nMDZ was more efficient than nKTM to adequately sedate neonates requiring intubation in the delivery room. The haemodynamic and respiratory effects of both drugs were comparable. Clinical trial This clinical trial was recorded on the National Library of Medicine registry (NCT01517828).

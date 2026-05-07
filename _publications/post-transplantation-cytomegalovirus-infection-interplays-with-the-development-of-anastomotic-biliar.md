@@ -1,0 +1,19 @@
+---
+title: "Post-Transplantation Cytomegalovirus Infection Interplays With the Development of Anastomotic Biliary Strictures After Liver Transplantation"
+authors: "Georges, Pauline, Clerc, Clementine, Turco, Celia, Di Martino, Vincent, Paquette, Brice, Minello, Anne, Calame, Paul, Magnin, Josephine, Vuitton, Lucine, Weil-Verhoeven, Delphine, Lakkis, Zaher, Vanlemmens, Claire, Latournerie, Marianne, Heyd, Bruno, Doussot, Alexandre"
+journal: "TRANSPLANT INTERNATIONAL"
+year: 2022
+volume: "35"
+month: "JUN 2"
+doi: "10.3389/ti.2022.10292"
+abstract: "Background: Anastomotic biliary stricture (ABS) remains the most frequent complication after liver transplantation (LT). This study aimed to identify new anastomotic biliary stricture risk factors, with a specific focus on postoperative events. Additionally, ABS management and impact on patient and graft survival were assessed.Methods: All consecutive patients who underwent LT with duct-to-duct anastomosis between 2010 and 2019 were included. All patients who died within 90 days after LT due to non-ABS-related causes were excluded.Results: Among 240 patients, 65 (27.1%) developed ABS after a median time of 142 days (range, 13-1265). Median follow-up was 49 months (7-126). Upon multivariable analysis, donor BMI (OR=0.509, p = 0.037), post-LT CMV primoinfection (OR = 5.244, p < 0.001) or reactivation (OR = 2.421, p = 0.015) and the occurrence of post-LT anastomotic biliary fistula (OR = 2.691, p = 0.021) were associated with ABS. Anastomotic technical difficulty did not independently impact the risk of ABS (OR = 1.923, p = 0.051). First-line ABS treatment was systematically endoscopic (100%), and required a median of 2 (range, 1-11) procedures per patient. Repeat LT was not required in patients developing ABS. The occurrence of ABS was not associated with overall patient survival (p = 0.912) nor graft survival (p = 0.521).Conclusion: The risk of developing ABS after LT seems driven by the occurrence of postoperative events such as CMV infection and anastomotic fistula. In this regard, the role of CMV prophylaxis warrants further investigations."
+article_number: "10292"
+issn: "0934-0874"
+eissn: "1432-2277"
+unique_id: "WOS:000822662900001"
+bib_key: "WOS:000822662900001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Background: Anastomotic biliary stricture (ABS) remains the most frequent complication after liver transplantation (LT). This study aimed to identify new anastomotic biliary stricture risk factors, with a specific focus on postoperative events. Additionally, ABS management and impact on patient and graft survival were assessed.Methods: All consecutive patients who underwent LT with duct-to-duct anastomosis between 2010 and 2019 were included. All patients who died within 90 days after LT due to non-ABS-related causes were excluded.Results: Among 240 patients, 65 (27.1%) developed ABS after a median time of 142 days (range, 13-1265). Median follow-up was 49 months (7-126). Upon multivariable analysis, donor BMI (OR=0.509, p = 0.037), post-LT CMV primoinfection (OR = 5.244, p < 0.001) or reactivation (OR = 2.421, p = 0.015) and the occurrence of post-LT anastomotic biliary fistula (OR = 2.691, p = 0.021) were associated with ABS. Anastomotic technical difficulty did not independently impact the risk of ABS (OR = 1.923, p = 0.051). First-line ABS treatment was systematically endoscopic (100%), and required a median of 2 (range, 1-11) procedures per patient. Repeat LT was not required in patients developing ABS. The occurrence of ABS was not associated with overall patient survival (p = 0.912) nor graft survival (p = 0.521).Conclusion: The risk of developing ABS after LT seems driven by the occurrence of postoperative events such as CMV infection and anastomotic fistula. In this regard, the role of CMV prophylaxis warrants further investigations.

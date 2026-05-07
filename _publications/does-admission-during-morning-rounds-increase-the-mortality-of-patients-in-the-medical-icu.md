@@ -1,0 +1,20 @@
+---
+title: "Does Admission During Morning Rounds Increase the Mortality of Patients in the Medical ICU?"
+authors: "Bisbal, Magali, Pauly, Vanessa, Gainnier, Marc, Forel, Jean-Marie, Roch, Antoine, Guervilly, Christophe, Demory, Didier, Arnal, Jean-Michel, Michel, Fabrice, Papazian, Laurent"
+journal: "CHEST"
+year: 2012
+volume: "142"
+number: "5"
+pages: "1179-1184"
+month: "NOV"
+doi: "10.1378/chest.11-2680"
+abstract: "Background: Early optimization of treatment is crucial when admitting patients to the ICU and could depend on the organization of the medical team. The aim of this retrospective observational study was to determine whether admissions during morning rounds are independently associated with hospital mortality in a medical ICU. Methods: The 3,540 patients admitted from May 2000 to April 2010 to the medical ICU of Sainte Marguerite Hospital in Marseille, France, were divided into two groups based on the time of admission. The non-morning rounds group was admitted between 1:00 PM and 7:59 AM, and the morning rounds group was admitted between 8:00,m and 12:59 PM. Hospital mortality (crude and adjusted) was compared between the two groups. Results: The 583 patients (16.5%) admitted during morning rounds were older and sicker upon admission compared with those patients admitted during non-morning rounds. The crude hospital mortality was 35.2% (95% CI, 31.4-39.1) in the group of patients admitted during morning rounds and 28.0% (95% CI, 26.4-29.7) in the other group (P < .001). An admission during morning rounds was not independently associated with hospital death (adjusted hazard ratio, 1.10; 95% CI, 0.94-1.28; P = .24). Conclusions: Being admitted to the medical ICU during morning rounds is not associated with a poorer outcome than afternoon and night admissions. The conditions of the patients admitted during morning rounds were more severe, which underlines the importance of the ICU team's availability during this time. Further studies are needed to evaluate if the presence of a specific medical team overnight in the wards would be able to improve patients' outcome by preventing delayed ICU admission. CHEST 2012; 142(5)3179-1184"
+issn: "0012-3692"
+eissn: "1931-3543"
+unique_id: "WOS:000311010100020"
+bib_key: "WOS:000311010100020"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+Background: Early optimization of treatment is crucial when admitting patients to the ICU and could depend on the organization of the medical team. The aim of this retrospective observational study was to determine whether admissions during morning rounds are independently associated with hospital mortality in a medical ICU. Methods: The 3,540 patients admitted from May 2000 to April 2010 to the medical ICU of Sainte Marguerite Hospital in Marseille, France, were divided into two groups based on the time of admission. The non-morning rounds group was admitted between 1:00 PM and 7:59 AM, and the morning rounds group was admitted between 8:00,m and 12:59 PM. Hospital mortality (crude and adjusted) was compared between the two groups. Results: The 583 patients (16.5%) admitted during morning rounds were older and sicker upon admission compared with those patients admitted during non-morning rounds. The crude hospital mortality was 35.2% (95% CI, 31.4-39.1) in the group of patients admitted during morning rounds and 28.0% (95% CI, 26.4-29.7) in the other group (P < .001). An admission during morning rounds was not independently associated with hospital death (adjusted hazard ratio, 1.10; 95% CI, 0.94-1.28; P = .24). Conclusions: Being admitted to the medical ICU during morning rounds is not associated with a poorer outcome than afternoon and night admissions. The conditions of the patients admitted during morning rounds were more severe, which underlines the importance of the ICU team's availability during this time. Further studies are needed to evaluate if the presence of a specific medical team overnight in the wards would be able to improve patients' outcome by preventing delayed ICU admission. CHEST 2012; 142(5)3179-1184

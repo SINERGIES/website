@@ -1,0 +1,20 @@
+---
+title: "Bacterial ventilator-associated pneumonia: bronchoalveolar lavage results are not influenced by dilution"
+authors: "Baldesi, Olivier, Michel, Fabrice, Guervilly, Christophe, Embriaco, Nathalie, Granfond, Aliocha, La Scola, Bernard, Portugal, Henri, Papazian, Laurent"
+journal: "INTENSIVE CARE MEDICINE"
+year: 2009
+volume: "35"
+number: "7"
+pages: "1210-1215"
+month: "JUL"
+doi: "10.1007/s00134-009-1417-4"
+abstract: "This study was designed to determine if bronchoalveolar lavage (BAL) quantitative culture results can be used confidently for the diagnosis of bacterial ventilator-associated pneumonia (VAP) without taking dilution into account. Prospective observational cohort study. A 12-bed medical ICU in a teaching hospital. A total of 241 BAL (three 50-mL aliquots) were performed in 127 patients presenting a suspicion of VAP. All consecutive adults who were ventilated more than 48 h were included if VAP was clinically suspected. A dilution factor, k, was developed according to the formula: dilution factor k = concentration of urea in plasma/concentration of urea in lavage fluid recovered. Using this dilution factor, the quantitative bacterial counts were interpreted accordingly with a corrected positive threshold at 10(5) colony forming unit (CFU) mL(-1). Eighty-nine BAL with at least one micro-organism a parts per thousand yen10(4) CFU mL(-1) were identified (37%). In 176 BAL (73%), k ranged from 10 to 100. Median k was 24.4 (9.7-40.2) in VAP group and 24.6 (13.1-57.8) in patients without pneumonia (NS). Among the 25 BAL with micro-organism counts of 10(4) CFU mL(-1), 3 had a dilution factor lower than 10, resulting in corrected counts below the threshold of 10(5) CFU mL(-1). Two out of 15 patients with micro-organism counts of 10(3) CFU mL(-1) had corrected micro-organism counts of 10(5) CFU mL(-1). Finally, only five BAL (2.1%) were misclassified when the dilution correction factor was applied. Using urea as dilution factor, we showed that BAL dilution variations did not alter the interpretation of BAL quantitative bacterial culture when administrating three aliquots of 50 mL of saline."
+issn: "0342-4642"
+eissn: "1432-1238"
+unique_id: "WOS:000267220800008"
+bib_key: "WOS:000267220800008"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+This study was designed to determine if bronchoalveolar lavage (BAL) quantitative culture results can be used confidently for the diagnosis of bacterial ventilator-associated pneumonia (VAP) without taking dilution into account. Prospective observational cohort study. A 12-bed medical ICU in a teaching hospital. A total of 241 BAL (three 50-mL aliquots) were performed in 127 patients presenting a suspicion of VAP. All consecutive adults who were ventilated more than 48 h were included if VAP was clinically suspected. A dilution factor, k, was developed according to the formula: dilution factor k = concentration of urea in plasma/concentration of urea in lavage fluid recovered. Using this dilution factor, the quantitative bacterial counts were interpreted accordingly with a corrected positive threshold at 10(5) colony forming unit (CFU) mL(-1). Eighty-nine BAL with at least one micro-organism a parts per thousand yen10(4) CFU mL(-1) were identified (37%). In 176 BAL (73%), k ranged from 10 to 100. Median k was 24.4 (9.7-40.2) in VAP group and 24.6 (13.1-57.8) in patients without pneumonia (NS). Among the 25 BAL with micro-organism counts of 10(4) CFU mL(-1), 3 had a dilution factor lower than 10, resulting in corrected counts below the threshold of 10(5) CFU mL(-1). Two out of 15 patients with micro-organism counts of 10(3) CFU mL(-1) had corrected micro-organism counts of 10(5) CFU mL(-1). Finally, only five BAL (2.1%) were misclassified when the dilution correction factor was applied. Using urea as dilution factor, we showed that BAL dilution variations did not alter the interpretation of BAL quantitative bacterial culture when administrating three aliquots of 50 mL of saline.

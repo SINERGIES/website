@@ -1,0 +1,18 @@
+---
+title: "Active delivery of the anterior arm and incidence of second-degree perineal tears: a clinical practice evaluation"
+authors: "Mottet, Nicolas, Bonneaud, Marine, Eckman-Lacroix, Astrid, Ramanah, Rajeev, Riethmuller, Didier"
+journal: "BMC PREGNANCY AND CHILDBIRTH"
+year: 2017
+volume: "17"
+month: "MAY 12"
+doi: "10.1186/s12884-017-1322-8"
+abstract: "Background: Evaluate the feasibility of active delivery of the anterior arm during spontaneous delivery. This maneuver could decrease incidence of second-degree perineal tears because it reduces fetal biacromial diameter. Methods: An observational comparative prospective study was conducted at our teaching maternity from July 2012 to March 2013. The study included 199 nulliparous women = 18 years, who met the following criteria: singleton pregnancy, vaginal delivery with occiput anterior presentation, on epidural analgesia, from 37 weeks of gestation onward. The distribution of rate and type of perineal tears were compared between two groups: a non-exposed group and a group exposed to the maneuver. Results: A total of 101 patients were exposed to Couder's maneuver (CM) and 98 patients were not exposed. In the intervention group, 3 failures of the maneuver were reported. The maneuver was considered easy in 80% of cases, moderately easy in 12% and difficult in 8% of cases. There was a significant difference (p = 0.03) in the distribution of perineal tears between the two groups. There was a significant reduction (p < 0.001) in the number of second-degree perineal tears in the patients exposed to CM. There was no significant difference in the rate of anterior perineal trauma between the exposed and non-exposed arms. Conclusions: CM in primiparous women at term is feasible with a low failure rate and influences the distribution of perineal tears by lowering second-degree perineal tears in a highly significant manner (p < 0.01)."
+article_number: "141"
+issn: "1471-2393"
+unique_id: "WOS:000401182800002"
+bib_key: "WOS:000401182800002"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Background: Evaluate the feasibility of active delivery of the anterior arm during spontaneous delivery. This maneuver could decrease incidence of second-degree perineal tears because it reduces fetal biacromial diameter. Methods: An observational comparative prospective study was conducted at our teaching maternity from July 2012 to March 2013. The study included 199 nulliparous women = 18 years, who met the following criteria: singleton pregnancy, vaginal delivery with occiput anterior presentation, on epidural analgesia, from 37 weeks of gestation onward. The distribution of rate and type of perineal tears were compared between two groups: a non-exposed group and a group exposed to the maneuver. Results: A total of 101 patients were exposed to Couder's maneuver (CM) and 98 patients were not exposed. In the intervention group, 3 failures of the maneuver were reported. The maneuver was considered easy in 80% of cases, moderately easy in 12% and difficult in 8% of cases. There was a significant difference (p = 0.03) in the distribution of perineal tears between the two groups. There was a significant reduction (p < 0.001) in the number of second-degree perineal tears in the patients exposed to CM. There was no significant difference in the rate of anterior perineal trauma between the exposed and non-exposed arms. Conclusions: CM in primiparous women at term is feasible with a low failure rate and influences the distribution of perineal tears by lowering second-degree perineal tears in a highly significant manner (p < 0.01).

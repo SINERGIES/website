@@ -1,0 +1,20 @@
+---
+title: "Incomplete echocardiographic recovery at 6months predicts long-term sequelae after intermediate-risk pulmonary embolism. A post-hoc analysis of the Pulmonary Embolism Thrombolysis (PEITHO) trial"
+authors: "Barco, Stefano, Russo, Mariaconcetta, Vicaut, Eric, Becattini, Cecilia, Bertoletti, Laurent, Beyer-Westendorf, Jan, Bouvaist, Helene, Couturaud, Francis, Danays, Thierry, Dellas, Claudia, Duerschmied, Daniel, Empen, Klaus, Ferrari, Emile, Galie, Nazzareno, Jimenez, David, Klok, Frederikus A., Kostrubiec, Maciej, Kozak, Matija, Kupatt, Christian, Lang, Irene M., Lankeit, Mareike, Meneveau, Nicolas, Palazzini, Massimiliano, Pruszczyk, Piotr, Rugolotto, Matteo, Salvi, Aldo, Sanchez, Olivier, Schellong, Sebastian, Sobkowicz, Bozena, Meyer, Guy, Konstantinides, Stavros V."
+journal: "CLINICAL RESEARCH IN CARDIOLOGY"
+year: 2019
+volume: "108"
+number: "7"
+pages: "772-778"
+month: "JUL"
+doi: "10.1007/s00392-018-1405-1"
+abstract: "IntroductionSymptoms and functional limitation are frequently reported by survivors of acute pulmonary embolism (PE). However, current guidelines provide no specific recommendations on which patients should be followed after acute PE, when follow-up should be performed, and which tests it should include. Definition and classification of late PE sequelae are evolving, and their predictors remain to be determined.MethodsIn a post hoc analysis of the Pulmonary Embolism Thrombolysis (PEITHO) trial, we focused on 219 survivors of acute intermediate-risk PE with clinical and echocardiographic follow-up 6 months after randomisation as well as over the long term (median, 3years after acute PE). The primary outcome was a composite of (1) confirmed chronic thromboembolic pulmonary hypertension (CTEPH) or (2) post-PE impairment' (PPEI), defined by echocardiographic findings indicating an intermediate or high probability of pulmonary hypertension along with New York Heart Association functional class II-IV.ResultsConfirmed CTEPH or PPEI occurred in 29 (13.2%) patients, (6 with CTEPH and 23 with PPEI). A history of chronic heart failure at baseline and incomplete or absent recovery of echocardiographic parameters at 6 months predicted CTEPH or PPEI at long-term follow-up.ConclusionsCTEPH or PPEI occurs in almost one out of seven patients after acute intermediate-risk PE. Six-month echocardiographic follow-up may be useful for timely detection of late sequelae."
+issn: "1861-0684"
+eissn: "1861-0692"
+unique_id: "WOS:000472151100006"
+bib_key: "WOS:000472151100006"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+IntroductionSymptoms and functional limitation are frequently reported by survivors of acute pulmonary embolism (PE). However, current guidelines provide no specific recommendations on which patients should be followed after acute PE, when follow-up should be performed, and which tests it should include. Definition and classification of late PE sequelae are evolving, and their predictors remain to be determined.MethodsIn a post hoc analysis of the Pulmonary Embolism Thrombolysis (PEITHO) trial, we focused on 219 survivors of acute intermediate-risk PE with clinical and echocardiographic follow-up 6 months after randomisation as well as over the long term (median, 3years after acute PE). The primary outcome was a composite of (1) confirmed chronic thromboembolic pulmonary hypertension (CTEPH) or (2) post-PE impairment' (PPEI), defined by echocardiographic findings indicating an intermediate or high probability of pulmonary hypertension along with New York Heart Association functional class II-IV.ResultsConfirmed CTEPH or PPEI occurred in 29 (13.2%) patients, (6 with CTEPH and 23 with PPEI). A history of chronic heart failure at baseline and incomplete or absent recovery of echocardiographic parameters at 6 months predicted CTEPH or PPEI at long-term follow-up.ConclusionsCTEPH or PPEI occurs in almost one out of seven patients after acute intermediate-risk PE. Six-month echocardiographic follow-up may be useful for timely detection of late sequelae.

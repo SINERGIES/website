@@ -1,0 +1,20 @@
+---
+title: "Outcomes associated with routine systemic antifungal therapy in critically ill patients with Candida colonization"
+authors: "Ferreira, David, Grenouillet, Frederic, Blasco, Gilles, Samain, Emmanuel, Henon, Thierry, Dussaucy, Alain, Millon, Laurence, Mercier, Mariette, Pili-Floury, Sebastien"
+journal: "INTENSIVE CARE MEDICINE"
+year: 2015
+volume: "41"
+number: "6"
+pages: "1077-1088"
+month: "JUN"
+doi: "10.1007/s00134-015-3791-4"
+abstract: "To assess the evolution of patient deep colonization by Candida spp. in a surgical ICU over an 8-year period. This retrospective, observational study included all patients hospitalized for more than 2 days in a surgical and trauma ICU of a university hospital, from 2005 to 2012. Mycological samples were monitored weekly from five sites (oropharyngeal, rectal, gastric, tracheal and urinary). Preemptive fluconazole therapy was started in patients highly colonized with Candida albicans. The evolution in Candida spp. involved in the deep colonization sites distribution over the study period (main outcome measure, trend chi-square and time-series analysis), antifungal consumption, ICU-acquired candidemia and mortality were determined. Among the 3029 patients with ICU stay > 48 h, 2651 had at least one set of mycological sampling. Thirty percent of the 31,171 samples were positive to Candida spp. Caspofungin consumption increased over the years, whereas fluconazole consumption decreased. No trend in C. albicans colonization was observed, after adjusting on colonization risk-factors. A significant increase of acquired C. glabrata colonization was observed, whereas the clearing of C. parapsilosis colonization significantly decreased. No significant shift of colonization to other Candida spp. and mortality was observed. Preemptive strategy of antifungal drug prescriptions in highly colonized ICU patients induced an increase in C. glabrata colonization without significant shift of colonization to other Candida spp. in surgical ICU patients. However, the potential detrimental impact of fluconazole on Candida ecology in ICU and/or on Candida susceptibility to antifungal drugs should be considered, and deserves further studies."
+issn: "0342-4642"
+eissn: "1432-1238"
+unique_id: "WOS:000356801200012"
+bib_key: "WOS:000356801200012"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+To assess the evolution of patient deep colonization by Candida spp. in a surgical ICU over an 8-year period. This retrospective, observational study included all patients hospitalized for more than 2 days in a surgical and trauma ICU of a university hospital, from 2005 to 2012. Mycological samples were monitored weekly from five sites (oropharyngeal, rectal, gastric, tracheal and urinary). Preemptive fluconazole therapy was started in patients highly colonized with Candida albicans. The evolution in Candida spp. involved in the deep colonization sites distribution over the study period (main outcome measure, trend chi-square and time-series analysis), antifungal consumption, ICU-acquired candidemia and mortality were determined. Among the 3029 patients with ICU stay > 48 h, 2651 had at least one set of mycological sampling. Thirty percent of the 31,171 samples were positive to Candida spp. Caspofungin consumption increased over the years, whereas fluconazole consumption decreased. No trend in C. albicans colonization was observed, after adjusting on colonization risk-factors. A significant increase of acquired C. glabrata colonization was observed, whereas the clearing of C. parapsilosis colonization significantly decreased. No significant shift of colonization to other Candida spp. and mortality was observed. Preemptive strategy of antifungal drug prescriptions in highly colonized ICU patients induced an increase in C. glabrata colonization without significant shift of colonization to other Candida spp. in surgical ICU patients. However, the potential detrimental impact of fluconazole on Candida ecology in ICU and/or on Candida susceptibility to antifungal drugs should be considered, and deserves further studies.

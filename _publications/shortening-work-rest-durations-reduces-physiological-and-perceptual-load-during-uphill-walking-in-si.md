@@ -1,0 +1,20 @@
+---
+title: "Shortening Work-Rest Durations Reduces Physiological and Perceptual Load During Uphill Walking in Simulated Cold High-Altitude Conditions"
+authors: "Fornasiero, Alessandro, Savoldelli, Aldo, Stella, Federico, Callovini, Alexa, Bortolan, Lorenzo, Zignoli, Andrea, Low, David A., Mourot, Laurent, Schena, Federico, Pellegrini, Barbara"
+journal: "HIGH ALTITUDE MEDICINE & BIOLOGY"
+year: 2020
+volume: "21"
+number: "3"
+pages: "249-257"
+month: "SEP 1"
+doi: "10.1089/ham.2019.0136"
+abstract: "Background: We investigated the effects of two different work-rest durations on the physiological and perceptual responses to a simulated mountain hike in a cold hypoxic environment. Materials and Methods: Twelve healthy nonacclimatized active men (age 31.3 +/- 5.3 years, body mass index 22.4 +/- 1.5 kg/m(2)) completed a 80-minute work-matched intermittent exercise on a motorized treadmill (25% incline, fixed self-selected speed), in a simulated mountain environment (-25 degrees C, FiO(2) = 11%, approximate to 5000 m a.s.l.), wearing extreme cold weather gear, once with short (20 x 3 minutes walking with 1 minute rest; SHORT) and once with long (10 x 6 minutes walking with 2 minutes rest; LONG) work-rest durations. Heart rate (HR), pulse oxygen saturation (SpO(2)), rate of perceived exertion (RPE), and thermal sensation (TS) were assessed throughout the exercise protocols. Cardiac autonomic modulation was assessed before (PRE) and after exercise (POST) in supine position, as well as during standing resting periods by means of HR recovery (HRR) assessment. Results: SpO(2) and TS were similar (p > 0.05) in SHORT and LONG protocols. HR and RPE were increased, and HRR reduced during LONG compared to SHORT (p < 0.05). Parasympathetic activity indices were reduced at POST after both protocols (p < 0.05), but to a lesser extent after SHORT (p < 0.05). Conclusions: Reduced work-rest durations are associated with improved perceptual responses and less perturbation of cardiac autonomic balance, compared to longer work-rest durations. Shorter exercise periods from more frequent breaks during hikes at high altitude may represent a valid strategy to limit the impact of exercise under extreme environmental conditions."
+issn: "1527-0297"
+eissn: "1557-8682"
+unique_id: "WOS:000533214500001"
+bib_key: "WOS:000533214500001"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Background: We investigated the effects of two different work-rest durations on the physiological and perceptual responses to a simulated mountain hike in a cold hypoxic environment. Materials and Methods: Twelve healthy nonacclimatized active men (age 31.3 +/- 5.3 years, body mass index 22.4 +/- 1.5 kg/m(2)) completed a 80-minute work-matched intermittent exercise on a motorized treadmill (25% incline, fixed self-selected speed), in a simulated mountain environment (-25 degrees C, FiO(2) = 11%, approximate to 5000 m a.s.l.), wearing extreme cold weather gear, once with short (20 x 3 minutes walking with 1 minute rest; SHORT) and once with long (10 x 6 minutes walking with 2 minutes rest; LONG) work-rest durations. Heart rate (HR), pulse oxygen saturation (SpO(2)), rate of perceived exertion (RPE), and thermal sensation (TS) were assessed throughout the exercise protocols. Cardiac autonomic modulation was assessed before (PRE) and after exercise (POST) in supine position, as well as during standing resting periods by means of HR recovery (HRR) assessment. Results: SpO(2) and TS were similar (p > 0.05) in SHORT and LONG protocols. HR and RPE were increased, and HRR reduced during LONG compared to SHORT (p < 0.05). Parasympathetic activity indices were reduced at POST after both protocols (p < 0.05), but to a lesser extent after SHORT (p < 0.05). Conclusions: Reduced work-rest durations are associated with improved perceptual responses and less perturbation of cardiac autonomic balance, compared to longer work-rest durations. Shorter exercise periods from more frequent breaks during hikes at high altitude may represent a valid strategy to limit the impact of exercise under extreme environmental conditions.

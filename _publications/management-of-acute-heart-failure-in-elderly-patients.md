@@ -1,0 +1,20 @@
+---
+title: "Management of acute heart failure in elderly patients"
+authors: "Teixeira, Antonio, Arrigo, Mattia, Tolppanen, Heli, Gayat, Etienne, Laribi, Said, Metra, Marco, Seronde, Marie France, Cohen-Solal, Alain, Mebazaa, Alexandre"
+journal: "ARCHIVES OF CARDIOVASCULAR DISEASES"
+year: 2016
+volume: "109"
+number: "6-7"
+pages: "422-430"
+month: "JUN-JUL"
+doi: "10.1016/j.acvd.2016.02.002"
+abstract: "Acute heart failure (AHF) is the most common cause of unplanned hospital admissions, and is associated with high mortality rates. Over the next few decades, the combination of improved cardiovascular disease survival and progressive ageing of the population will further increase the prevalence of AHF in developed countries. New recommendations on the management of AHF have been published recently, but as elderly patients are under-represented in clinical trials, and scientific evidence is often lacking, the diagnosis and management of AHF in this population is challenging. The clinical presentation of AHF, especially in patients aged > 85 years, differs substantially from that in younger patients, with unspecific symptoms, such as fatigue and confusion, often overriding dyspnoea. Older patients also have a different risk profile compared with younger patients: often heart failure with preserved ejection fraction, and infection as the most frequent precipitating factor of AHF. Moreover, co-morbidities, disability and frailty are common, and increase morbidity, recovery time, readmission rates and mortality; their presence should be detected during a geriatric assessment. Diagnostics and treatment for AHF should be tailored according to cardiopulmonary and geriatric status, giving special attention to the patient's preferences for care. Whereas many elderly AHF patients may be managed similarly to younger patients, different strategies should be applied in the presence of relevant co-morbidities, disability and frailty. The option of palliative care should be considered at an early stage, to avoid unnecessary and harmful diagnostics and treatments. (C) 2016 Elsevier Masson SAS. All rights reserved."
+issn: "1875-2136"
+eissn: "1875-2128"
+unique_id: "WOS:000380421100007"
+bib_key: "WOS:000380421100007"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Acute heart failure (AHF) is the most common cause of unplanned hospital admissions, and is associated with high mortality rates. Over the next few decades, the combination of improved cardiovascular disease survival and progressive ageing of the population will further increase the prevalence of AHF in developed countries. New recommendations on the management of AHF have been published recently, but as elderly patients are under-represented in clinical trials, and scientific evidence is often lacking, the diagnosis and management of AHF in this population is challenging. The clinical presentation of AHF, especially in patients aged > 85 years, differs substantially from that in younger patients, with unspecific symptoms, such as fatigue and confusion, often overriding dyspnoea. Older patients also have a different risk profile compared with younger patients: often heart failure with preserved ejection fraction, and infection as the most frequent precipitating factor of AHF. Moreover, co-morbidities, disability and frailty are common, and increase morbidity, recovery time, readmission rates and mortality; their presence should be detected during a geriatric assessment. Diagnostics and treatment for AHF should be tailored according to cardiopulmonary and geriatric status, giving special attention to the patient's preferences for care. Whereas many elderly AHF patients may be managed similarly to younger patients, different strategies should be applied in the presence of relevant co-morbidities, disability and frailty. The option of palliative care should be considered at an early stage, to avoid unnecessary and harmful diagnostics and treatments. (C) 2016 Elsevier Masson SAS. All rights reserved.

@@ -1,0 +1,19 @@
+---
+title: "Mode of delivery of twin pregnancies with the first twin in breech position after the introduction of a policy of planned caesarean delivery for nulliparous women"
+authors: "Pascalet, Marion, Fourel, Marianne, Bourtembourg, Aude, Toubin, Claire, Coppola, Camille, Becher, Patrick, Ramanah, Rajeev, Riethmuller, Didier, Mottet, Nicolas"
+journal: "EUROPEAN JOURNAL OF OBSTETRICS & GYNECOLOGY AND REPRODUCTIVE BIOLOGY"
+year: 2019
+volume: "234"
+pages: "58-62"
+month: "MAR"
+doi: "10.1016/j.ejogrb.2018.11.023"
+abstract: "Introduction: To evaluate the impact of the mode of delivery of twin pregnancies with the first twin in breech position for all parities combined after introduction of a policy of planned caesarean section in 38 weeks' gestation in nulliparas. Material and methods: A retrospective study of the mode of delivery of twin pregnancies with the first twin in breech position was conducted from January 2007 to December 2015 after the implementation of a planned caesarean section in 38 weeks' gestation in nulliparas. Maternal and neonatal outcomes were compared according to the decision of attempted vaginal or planned caesarean delivery. Results: Among the 134 women included, an attempted vaginal delivery was decided for 30.6% women (n = 41), with 95% (n = 39) who delivered vaginally and 5% (n = 2) by caesarean section during labour. Among the 69.4% women (n = 93) with a planned caesarean section, 64.5% (n = 60) and 11.8% (n = 11) delivered by caesarean before labour and during labour, respectively, and 23.7% (n = 22) delivered vaginally. The overall vaginal delivery rate was 45.5%, and the overall rate of caesarean section was 54.5% for all parities combined. In nulliparous women, the rate of caesarean section during labour was 33%. There were no significant differences in maternal mortality or morbidity between the two groups. Conclusion: A selective policy of attempted vaginal delivery based on parity for twin pregnancies with the first twin in breech position can lead to a reduction in the overall rate of caesarean section in this population. (C) 2018 Elsevier B.V. All rights reserved."
+issn: "0301-2115"
+eissn: "1872-7654"
+unique_id: "WOS:000460825100012"
+bib_key: "WOS:000460825100012"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Introduction: To evaluate the impact of the mode of delivery of twin pregnancies with the first twin in breech position for all parities combined after introduction of a policy of planned caesarean section in 38 weeks' gestation in nulliparas. Material and methods: A retrospective study of the mode of delivery of twin pregnancies with the first twin in breech position was conducted from January 2007 to December 2015 after the implementation of a planned caesarean section in 38 weeks' gestation in nulliparas. Maternal and neonatal outcomes were compared according to the decision of attempted vaginal or planned caesarean delivery. Results: Among the 134 women included, an attempted vaginal delivery was decided for 30.6% women (n = 41), with 95% (n = 39) who delivered vaginally and 5% (n = 2) by caesarean section during labour. Among the 69.4% women (n = 93) with a planned caesarean section, 64.5% (n = 60) and 11.8% (n = 11) delivered by caesarean before labour and during labour, respectively, and 23.7% (n = 22) delivered vaginally. The overall vaginal delivery rate was 45.5%, and the overall rate of caesarean section was 54.5% for all parities combined. In nulliparous women, the rate of caesarean section during labour was 33%. There were no significant differences in maternal mortality or morbidity between the two groups. Conclusion: A selective policy of attempted vaginal delivery based on parity for twin pregnancies with the first twin in breech position can lead to a reduction in the overall rate of caesarean section in this population. (C) 2018 Elsevier B.V. All rights reserved.

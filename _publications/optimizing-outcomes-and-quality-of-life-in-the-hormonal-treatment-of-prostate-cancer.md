@@ -1,0 +1,20 @@
+---
+title: "Optimizing outcomes and quality of life in the hormonal treatment of prostate cancer"
+authors: "Mottet, Nicolas, Prayer-Galetti, Tommaso, Hammerer, Peter, Kattan, Michael W., Tunn, Ulf"
+journal: "BJU INTERNATIONAL"
+year: 2006
+volume: "98"
+number: "1"
+pages: "20-27"
+month: "JUL"
+doi: "10.1111/j.1464-410X.2006.06176.x"
+abstract: "We review the effectiveness of androgen-deprivation therapy (ADT) in the management of prostate cancer, and the effect that this treatment has on a patient's quality of life (QoL), based on discussions held at a European symposium on the management of prostate cancer. The overall QoL is reduced in asymptomatic men, and there are known decreases in cognitive function, self-esteem, libido and sexual function. Hot flashes are also a frequent problem. Prolonged ADT can lead to osteoporosis and subsequently fractures. Various effective methods exist to manage and minimize these side-effects; some are specific to the side-effect, whereas other more general methods include lifestyle changes, specific drugs and added hormonal manipulations. Intermittent ADT for patients taking luteinizing hormone-releasing hormone agonists offers a promising method to reduce adverse effects, and possibly increases the time to androgen independence. Initial studies indicate that prostate-specific antigen-based progression with intermittent ADT is similar to that seen with continuous ADT, but there is a reduction in side-effects, leading to an improvement in QoL."
+issn: "1464-4096"
+eissn: "1464-410X"
+unique_id: "WOS:000238948900007"
+bib_key: "WOS:000238948900007"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+We review the effectiveness of androgen-deprivation therapy (ADT) in the management of prostate cancer, and the effect that this treatment has on a patient's quality of life (QoL), based on discussions held at a European symposium on the management of prostate cancer. The overall QoL is reduced in asymptomatic men, and there are known decreases in cognitive function, self-esteem, libido and sexual function. Hot flashes are also a frequent problem. Prolonged ADT can lead to osteoporosis and subsequently fractures. Various effective methods exist to manage and minimize these side-effects; some are specific to the side-effect, whereas other more general methods include lifestyle changes, specific drugs and added hormonal manipulations. Intermittent ADT for patients taking luteinizing hormone-releasing hormone agonists offers a promising method to reduce adverse effects, and possibly increases the time to androgen independence. Initial studies indicate that prostate-specific antigen-based progression with intermittent ADT is similar to that seen with continuous ADT, but there is a reduction in side-effects, leading to an improvement in QoL.

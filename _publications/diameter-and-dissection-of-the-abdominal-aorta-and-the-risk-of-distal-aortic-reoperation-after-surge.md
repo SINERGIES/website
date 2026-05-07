@@ -1,0 +1,19 @@
+---
+title: "Diameter and dissection of the abdominal aorta and the risk of distal aortic reoperation after surgery for type A aortic dissection"
+authors: "Biancari, Fausto, Perrotti, Andrea, Juvonen, Tatu, Mariscalco, Giovanni, Pettinari, Matteo, Lega, Javier Rodriguez, Di Perna, Dario, Maekikallio, Timo, Onorati, Francesco, Wisniewki, Konrad, Demal, Till, Pol, Marek, Gatti, Giuseppe, Vendramin, Igor, Rinaldi, Mauro, Quintana, Eduard, Peterss, Sven, Field, Mark, Fiore, Antonio"
+journal: "INTERNATIONAL JOURNAL OF CARDIOLOGY"
+year: 2024
+volume: "404"
+month: "JUN 1"
+doi: "10.1016/j.ijcard.2024.131938"
+abstract: "Background: Surgery for Stanford type A aortic dissection (TAAD) is associated with an increased risk of late aortic reoperations due to degeneration of the dissected aorta. Methods: The subjects of this analysis were 990 TAAD patients who survived surgery for acute TAAD and had complete data on the diameter and dissection status of all aortic segments. Results: After a mean follow-up of 4.2 +/- 3.6 years, 60 patients underwent 85 distal aortic reoperations. Ten-year cumulative incidence of distal aortic reoperation was 9.6%. Multivariable competing risk analysis showed that the maximum preoperative diameter of the abdominal aorta (SHR 1.041, 95%CI 1.008-1.075), abdominal aorta dissection (SHR 2.133, 95%CI 1.156-3.937) and genetic syndromes (SHR 2.840, 95%CI 1.001-8.060) were independent predictors of distal aortic reoperation. Patients with a maximum diameter of the abdominal aorta >30 mm and/or abdominal aortic dissection had a cumulative incidence of 10-year distal aortic reoperation of 12.0% compared to 5.7% in those without these risk factors (adjusted SHR 2.076, 95%CI 1.062-4.060). Conclusion: TAAD patients with genetic syndromes, and increased size and dissection of the abdominal aorta have an increased the risk of distal aortic reoperations. A policy of extensive surgical or hybrid primary aortic repair, completion endovascular procedures for aortic remodeling and tight surveillance may be justified in these patients. Trial registration: ClinicalTrials.gov Identifier: NCT04831073."
+article_number: "131938"
+issn: "0167-5273"
+eissn: "1874-1754"
+unique_id: "WOS:001224461000001"
+bib_key: "WOS:001224461000001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Background: Surgery for Stanford type A aortic dissection (TAAD) is associated with an increased risk of late aortic reoperations due to degeneration of the dissected aorta. Methods: The subjects of this analysis were 990 TAAD patients who survived surgery for acute TAAD and had complete data on the diameter and dissection status of all aortic segments. Results: After a mean follow-up of 4.2 +/- 3.6 years, 60 patients underwent 85 distal aortic reoperations. Ten-year cumulative incidence of distal aortic reoperation was 9.6%. Multivariable competing risk analysis showed that the maximum preoperative diameter of the abdominal aorta (SHR 1.041, 95%CI 1.008-1.075), abdominal aorta dissection (SHR 2.133, 95%CI 1.156-3.937) and genetic syndromes (SHR 2.840, 95%CI 1.001-8.060) were independent predictors of distal aortic reoperation. Patients with a maximum diameter of the abdominal aorta >30 mm and/or abdominal aortic dissection had a cumulative incidence of 10-year distal aortic reoperation of 12.0% compared to 5.7% in those without these risk factors (adjusted SHR 2.076, 95%CI 1.062-4.060). Conclusion: TAAD patients with genetic syndromes, and increased size and dissection of the abdominal aorta have an increased the risk of distal aortic reoperations. A policy of extensive surgical or hybrid primary aortic repair, completion endovascular procedures for aortic remodeling and tight surveillance may be justified in these patients. Trial registration: ClinicalTrials.gov Identifier: NCT04831073.

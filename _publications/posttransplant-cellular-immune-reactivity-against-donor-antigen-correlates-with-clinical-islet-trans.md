@@ -1,0 +1,19 @@
+---
+title: "Posttransplant Cellular Immune Reactivity Against Donor Antigen Correlates With Clinical Islet Transplantation Outcome: Towards a Better Posttransplant Monitoring"
+authors: "Lacotte, Stephanie, Borot, Sophie, Ferrari-Lacraz, Sylvie, Villard, Jean, Demuylder-Mischler, Sandrine, Oldani, Graziano, Morel, Philippe, Mentha, Gilles, Berney, Thierry, Toso, Christian"
+journal: "CELL TRANSPLANTATION"
+year: 2012
+volume: "21"
+number: "11"
+pages: "2339-2350"
+doi: "10.3727/096368912X655000"
+abstract: "The aim of the present study was to assess the efficiency of cell-based immune assays in the detection of alloreactivity after islet transplantation and to correlate these results with clinical outcome. Mixed lymphocyte cultures were performed with peripheral blood mononuclear cells from recipients (n=14), donors, or third party. The immune reactivity was assessed by the release of IFN-gamma (ELISpot), cell proliferation (FACS analysis for Ki67), and cytokine quantification (Bioplex). Islet function correlated with the number of IFN-gamma-secreting cells following incubation with donor cells (p = 0.007, r=-0.50), but not with third party cells (p = 0.61). Similarly, a high number of donor-specific proliferating cells was associated with a low islet function (p=0.006, r=0.51). Proliferating cells were mainly CD3(+)CD4(+) lymphocytes and CD3(-)CD56(+) natural killer cells (with low levels of CD3(+)CD8(+) lymphocytes). Patients with low islet function had increased levels of CD4(+)Ki67(+)cells (p <= 0.0001), while no difference was observed in CD8(+)Ki67(+) and CD56(+)Ki67(+) cells. IFN-gamma, IL-5, and IL-17 levels were increased in patients with low islet function, but IL-10 levels tended to be lower. IFN-gamma-ELISpot, proliferation, and cytokines were similarly accurate in predicting clinical outcome (AUC = 0.77 +/- 0.088, 0.85 +/- 0.084, and 0.88 +/- 0.074, respectively). Cellular immune reactivity against donor cells correlates with posttransplant islet function. The tested assays have the potential to be of substantial help in the management of islet graft recipients and deserve prospective validation."
+issn: "0963-6897"
+eissn: "1555-3892"
+unique_id: "WOS:000313143600002"
+bib_key: "WOS:000313143600002"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+The aim of the present study was to assess the efficiency of cell-based immune assays in the detection of alloreactivity after islet transplantation and to correlate these results with clinical outcome. Mixed lymphocyte cultures were performed with peripheral blood mononuclear cells from recipients (n=14), donors, or third party. The immune reactivity was assessed by the release of IFN-gamma (ELISpot), cell proliferation (FACS analysis for Ki67), and cytokine quantification (Bioplex). Islet function correlated with the number of IFN-gamma-secreting cells following incubation with donor cells (p = 0.007, r=-0.50), but not with third party cells (p = 0.61). Similarly, a high number of donor-specific proliferating cells was associated with a low islet function (p=0.006, r=0.51). Proliferating cells were mainly CD3(+)CD4(+) lymphocytes and CD3(-)CD56(+) natural killer cells (with low levels of CD3(+)CD8(+) lymphocytes). Patients with low islet function had increased levels of CD4(+)Ki67(+)cells (p <= 0.0001), while no difference was observed in CD8(+)Ki67(+) and CD56(+)Ki67(+) cells. IFN-gamma, IL-5, and IL-17 levels were increased in patients with low islet function, but IL-10 levels tended to be lower. IFN-gamma-ELISpot, proliferation, and cytokines were similarly accurate in predicting clinical outcome (AUC = 0.77 +/- 0.088, 0.85 +/- 0.084, and 0.88 +/- 0.074, respectively). Cellular immune reactivity against donor cells correlates with posttransplant islet function. The tested assays have the potential to be of substantial help in the management of islet graft recipients and deserve prospective validation.

@@ -1,0 +1,20 @@
+---
+title: "Factors associated with refusal or acceptance of older patients (≥ 65 years) to provide consent to participate in clinical research in cardiology: a qualitative study"
+authors: "Ecarnot, Fiona, Meunier-Beillard, Nicolas, Quenot, Jean-Pierre, Meneveau, Nicolas"
+journal: "AGING CLINICAL AND EXPERIMENTAL RESEARCH"
+year: 2020
+volume: "32"
+number: "1"
+pages: "133-140"
+month: "JAN"
+doi: "10.1007/s40520-019-01172-z"
+abstract: "Background Clinical research is an essential step in the successful translation of knowledge from basic research into concrete clinical applications, yet many people are reluctant to provide consent when actually approached to actively participate in clinical trials. Aims We investigated the factors that influence older patient's (>= 65 years) decisions to accept or refuse to participate in a prospective randomized clinical trial in secondary prevention after acute coronary syndrome. Methods Qualitative approach based on individual semi-structured interviews with patients who were approached for consent to participate in a currently ongoing clinical trial was adopted. Patients were interviewed after the consent process (8 accepted; 8 refused the trial). Interviews were analysed using grounded theory methodology. Results Sixteen patients aged >= 65 years participated. The main concept to emerge from these interviews is that the actual trial itself does not appear to be the primary determinant in the decision to participate in clinical research. Rather, patients' decisions to participate (or not) in clinical research appear to be primarily determined by their capacity to deal with the current health event that has disrupted their life, and by their available mental and physical resources. Discussion and conclusion Older patients display varying levels of engagement in their own health, ranging from low engagement with high trust in the medical profession, to high engagement mirrored by distrust of the medical profession. Structural conditions, such as personal benefit from trial participation, or logistic barriers to participation, seem to affect both accepters and refusers in the same manner."
+issn: "1594-0667"
+eissn: "1720-8319"
+unique_id: "WOS:000511929400016"
+bib_key: "WOS:000511929400016"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Background Clinical research is an essential step in the successful translation of knowledge from basic research into concrete clinical applications, yet many people are reluctant to provide consent when actually approached to actively participate in clinical trials. Aims We investigated the factors that influence older patient's (>= 65 years) decisions to accept or refuse to participate in a prospective randomized clinical trial in secondary prevention after acute coronary syndrome. Methods Qualitative approach based on individual semi-structured interviews with patients who were approached for consent to participate in a currently ongoing clinical trial was adopted. Patients were interviewed after the consent process (8 accepted; 8 refused the trial). Interviews were analysed using grounded theory methodology. Results Sixteen patients aged >= 65 years participated. The main concept to emerge from these interviews is that the actual trial itself does not appear to be the primary determinant in the decision to participate in clinical research. Rather, patients' decisions to participate (or not) in clinical research appear to be primarily determined by their capacity to deal with the current health event that has disrupted their life, and by their available mental and physical resources. Discussion and conclusion Older patients display varying levels of engagement in their own health, ranging from low engagement with high trust in the medical profession, to high engagement mirrored by distrust of the medical profession. Structural conditions, such as personal benefit from trial participation, or logistic barriers to participation, seem to affect both accepters and refusers in the same manner.

@@ -1,0 +1,20 @@
+---
+title: "Novaprep® Vial Test is a suitable liquid-based cytology medium for high risk human papillomavirus testing by Hybrid Capture 2"
+authors: "Pretet, Jean-Luc, Vidal, Chrystelle, Carval, Karine Le Bail, Ramanah, Rajeev, Carcopino, Xavier, Cartier, Isabelle, Labouyrie, Eric, Kantelip, Bernadette, Coumes-Marquet, Sylviane, Riethmuller, Didier, Mougin, Christiane"
+journal: "JOURNAL OF CLINICAL VIROLOGY"
+year: 2010
+volume: "49"
+number: "4"
+pages: "286-289"
+month: "DEC"
+doi: "10.1016/j.jcv.2010.08.014"
+abstract: "Background: Liquid-based cytology (LBC) for cervical cancer screening presents the advantage that cytological and virological investigations can be undertaken from the same specimen. Nevertheless, the fixative may alter DNA integrity and the sample may be inadequate for HPV DNA detection. The Novaprep (R) Vial Test (NVT) (Novacyt, Velizy-Villacoublay, France) is a new device dedicated to LBC which permits an automated cell spreading over slides and an automated cell sampling for molecular analyses. Objective: To determine whether the NVT was suitable for high risk (HR) HPV DNA detection with the Hybrid Capture 2 (HC2) assay (Qiagen, Courtaboeuf, France). Study design: Two cervical specimens were harvested. The first sample was taken with a Rovers Cervex Brush (Therapak Corporation, Buford, USA) placed in the NVT and the second sample was taken with a DNAPAP cervical sampler placed in the Specimen Transport Medium (STM) (Qiagen). This last sample served as gold standard for HPV detection. NVT and STM samples were analyzed for HR HPV DNA with HC2 assay. Results: One hundred and thirty-one samples stored in NVT and STM were analyzed. The overall HC2 positivity determined from the 99 samples classified as satisfactory for cellularity (>5000 cells/slide) was 84% whatever the collection medium was. Agreement for HPV detection between NVT and STM was 94%, with a Kappa of 0.78. Moreover, we noted that HC2 values obtained from NVT samples were correlated to those obtained from STM samples. Conclusion: The Novaprep (R) Vial Test adequately preserves HPV DNA and is suitable for HPV testing with HC2 if cellularity is satisfactory. (C) 2010 Elsevier B.V. All rights reserved."
+issn: "1386-6532"
+eissn: "1873-5967"
+unique_id: "WOS:000284105300012"
+bib_key: "WOS:000284105300012"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+Background: Liquid-based cytology (LBC) for cervical cancer screening presents the advantage that cytological and virological investigations can be undertaken from the same specimen. Nevertheless, the fixative may alter DNA integrity and the sample may be inadequate for HPV DNA detection. The Novaprep (R) Vial Test (NVT) (Novacyt, Velizy-Villacoublay, France) is a new device dedicated to LBC which permits an automated cell spreading over slides and an automated cell sampling for molecular analyses. Objective: To determine whether the NVT was suitable for high risk (HR) HPV DNA detection with the Hybrid Capture 2 (HC2) assay (Qiagen, Courtaboeuf, France). Study design: Two cervical specimens were harvested. The first sample was taken with a Rovers Cervex Brush (Therapak Corporation, Buford, USA) placed in the NVT and the second sample was taken with a DNAPAP cervical sampler placed in the Specimen Transport Medium (STM) (Qiagen). This last sample served as gold standard for HPV detection. NVT and STM samples were analyzed for HR HPV DNA with HC2 assay. Results: One hundred and thirty-one samples stored in NVT and STM were analyzed. The overall HC2 positivity determined from the 99 samples classified as satisfactory for cellularity (>5000 cells/slide) was 84% whatever the collection medium was. Agreement for HPV detection between NVT and STM was 94%, with a Kappa of 0.78. Moreover, we noted that HC2 values obtained from NVT samples were correlated to those obtained from STM samples. Conclusion: The Novaprep (R) Vial Test adequately preserves HPV DNA and is suitable for HPV testing with HC2 if cellularity is satisfactory. (C) 2010 Elsevier B.V. All rights reserved.

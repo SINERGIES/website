@@ -1,0 +1,20 @@
+---
+title: "Detection of Residual Pulmonary Vascular Obstruction by Ventilation-Perfusion Lung Scan Late After a First Pulmonary Embolism"
+authors: "Chopard, Romain, Genet, Bruno, Ecarnot, Fiona, Chatot, Marion, Napporn, Gabriel, Hyvert, Agnes, Didier-Petit, Katy, Schiele, Francois, Meneveau, Nicolas"
+journal: "AMERICAN JOURNAL OF CARDIOLOGY"
+year: 2017
+volume: "119"
+number: "11"
+pages: "1883-1889"
+month: "JUN 1"
+doi: "10.1016/j.amjcard.2017.03.002"
+abstract: "The long-term impact of persistent pulmonary vascular obstruction after pulmonary embolism (PE) remains unknown. Based on ventilation-perfusion lung scan performed at discharge and 3 months after a first PE, we aimed to investigate the, prognostic value on 5-year adverse events of (1) residual pulmonary vascular obstruction (RPVO) at discharge (DIS-RPVO), (2) RPVO at 3 months (3M-RPVO), and (3) relative change in RPVO between the 2 scans (RC-RPVO). We performed a prospective, multicenter cohort study from January 2007 to December 2009 including patients who survived at least 3 months after a PE. RC-RPVO was defined as (DIS-RPVO 3M-RPVO)/DIS-RPVO. The primary end point was a combined end point at 5 years, composed of all-cause death, recurrent venous thromboembolism, chronic thromboembolic pulmonary hypertension, heart failure, and rehospitalization for cardiac causes. Receiver-operating characteristic curves were computed to define thresholds of-DIS-RPV0, 3M-RPVO, and RC-RPVO predictive of the primary combined end point at 5 years. Overall, 241 patients were included (high-risk PE: 11.2%, intermediate-risk PE: 51.8%, low-risk PE: 37%). Mean DIS-RPVO was 27.9 15.1%, mean 3M-RPVO was 10.3 10.8%, and mean RC-RPVO was 61.7 33.4%. At 5 years, 112 patients (46.5%) experienced the combined end point. Both 3M-RPVO 1.5% and RC-RPVO 537.5% were independently related to the occurrence of the combined end point at 5 years (p = 0.01 and p = 0.02, respectively). DIS-RPVO did not predict long-term adverse events. In conclusion, RC-RPVO 537.5% and 3M-RPVO 1.5% were independently related to the occurrence of adverse events 5 years after a first PE. (C) 2017 Elsevier Inc. All rights reserved."
+issn: "0002-9149"
+eissn: "1879-1913"
+unique_id: "WOS:000402949600029"
+bib_key: "WOS:000402949600029"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+The long-term impact of persistent pulmonary vascular obstruction after pulmonary embolism (PE) remains unknown. Based on ventilation-perfusion lung scan performed at discharge and 3 months after a first PE, we aimed to investigate the, prognostic value on 5-year adverse events of (1) residual pulmonary vascular obstruction (RPVO) at discharge (DIS-RPVO), (2) RPVO at 3 months (3M-RPVO), and (3) relative change in RPVO between the 2 scans (RC-RPVO). We performed a prospective, multicenter cohort study from January 2007 to December 2009 including patients who survived at least 3 months after a PE. RC-RPVO was defined as (DIS-RPVO 3M-RPVO)/DIS-RPVO. The primary end point was a combined end point at 5 years, composed of all-cause death, recurrent venous thromboembolism, chronic thromboembolic pulmonary hypertension, heart failure, and rehospitalization for cardiac causes. Receiver-operating characteristic curves were computed to define thresholds of-DIS-RPV0, 3M-RPVO, and RC-RPVO predictive of the primary combined end point at 5 years. Overall, 241 patients were included (high-risk PE: 11.2%, intermediate-risk PE: 51.8%, low-risk PE: 37%). Mean DIS-RPVO was 27.9 15.1%, mean 3M-RPVO was 10.3 10.8%, and mean RC-RPVO was 61.7 33.4%. At 5 years, 112 patients (46.5%) experienced the combined end point. Both 3M-RPVO 1.5% and RC-RPVO 537.5% were independently related to the occurrence of the combined end point at 5 years (p = 0.01 and p = 0.02, respectively). DIS-RPVO did not predict long-term adverse events. In conclusion, RC-RPVO 537.5% and 3M-RPVO 1.5% were independently related to the occurrence of adverse events 5 years after a first PE. (C) 2017 Elsevier Inc. All rights reserved.

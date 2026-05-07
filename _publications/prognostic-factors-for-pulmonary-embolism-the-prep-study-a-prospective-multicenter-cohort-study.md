@@ -1,0 +1,20 @@
+---
+title: "Prognostic Factors for Pulmonary Embolism The PREP Study, A Prospective Multicenter Cohort Study"
+authors: "Sanchez, Olivier, Trinquart, Ludovic, Caille, Vincent, Couturaud, Francis, Pacouret, Gerard, Meneveau, Nicolas, Verschuren, Franck, Roy, Pierre-Marie, Parent, Florence, Righini, Marc, Perrier, Arnaud, Lorut, Christine, Tardy, Bernard, Benoit, Marie-Odile, Chatellier, Gilles, Meyer, Guy"
+journal: "AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE"
+year: 2010
+volume: "181"
+number: "2"
+pages: "168-173"
+month: "JAN 15"
+doi: "10.1164/rccm.200906-0970OC"
+abstract: "Rationale: The short-term prognosis of pulmonary embolism (PE) depends on hemodynamic status and underlying disease. The prognostic value of right ventricular dysfunction and injury is less well established. Objectives: To evaluate prognostic factors of PE in a multicenter prospective cohort study. Methods: Echocardiography, brain natriuretic peptide (BNP), N-terminal-proBNP and cardiac troponin I measurements were done on admission of 570 consecutive patients with an acute PE. A predictive model was based on independent predictors of 30-day adverse events defined as death, secondary cardiogenic shock, or recurrent venous thromboembolism. Measurements and Main Results: At 30 days, 42 patients (7.4%; 95% confidence interval [CI], 5.5-9.8%) had adverse events. On multivariate analysis, altered mental state (odds ratio [OR] 6.8; 95% confidence interval [CI], 2.0-23.3), shock on admission (OR 2.8; 95% Cl, 1.1-7.5), cancer (OR 2.9; 95% Cl, 1.2-6.9), BNP (OR 1.3 for an increase of 250 ng/L; 95% Cl, 1.1-1.6) and right to left ventricle diameter ratio (OR 1.2 for an increase of 0.1; 95% Cl, 1.1-1.4) were associated with 30-days of adverse events. The predictive performance of the model was good (area under receiver operating characteristics curve 0.84 [95% Cl, 0.78-0.90]), making it possible to develop a bedside prognostic score. Conclusions: BNP and echocardiography may be useful determinants of the short-term outcome for patients with PE, together with clinical findings. Patients with PE can be stratified according to the initial risk of adverse outcome, using a simple score based on clinical, echocardiographic, and biochemical variables."
+issn: "1073-449X"
+eissn: "1535-4970"
+unique_id: "WOS:000273539800011"
+bib_key: "WOS:000273539800011"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+Rationale: The short-term prognosis of pulmonary embolism (PE) depends on hemodynamic status and underlying disease. The prognostic value of right ventricular dysfunction and injury is less well established. Objectives: To evaluate prognostic factors of PE in a multicenter prospective cohort study. Methods: Echocardiography, brain natriuretic peptide (BNP), N-terminal-proBNP and cardiac troponin I measurements were done on admission of 570 consecutive patients with an acute PE. A predictive model was based on independent predictors of 30-day adverse events defined as death, secondary cardiogenic shock, or recurrent venous thromboembolism. Measurements and Main Results: At 30 days, 42 patients (7.4%; 95% confidence interval [CI], 5.5-9.8%) had adverse events. On multivariate analysis, altered mental state (odds ratio [OR] 6.8; 95% confidence interval [CI], 2.0-23.3), shock on admission (OR 2.8; 95% Cl, 1.1-7.5), cancer (OR 2.9; 95% Cl, 1.2-6.9), BNP (OR 1.3 for an increase of 250 ng/L; 95% Cl, 1.1-1.6) and right to left ventricle diameter ratio (OR 1.2 for an increase of 0.1; 95% Cl, 1.1-1.4) were associated with 30-days of adverse events. The predictive performance of the model was good (area under receiver operating characteristics curve 0.84 [95% Cl, 0.78-0.90]), making it possible to develop a bedside prognostic score. Conclusions: BNP and echocardiography may be useful determinants of the short-term outcome for patients with PE, together with clinical findings. Patients with PE can be stratified according to the initial risk of adverse outcome, using a simple score based on clinical, echocardiographic, and biochemical variables.

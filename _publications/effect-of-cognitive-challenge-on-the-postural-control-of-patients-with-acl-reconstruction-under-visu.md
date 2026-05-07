@@ -1,0 +1,19 @@
+---
+title: "Effect of cognitive challenge on the postural control of patients with ACL reconstruction under visual and surface perturbations"
+authors: "Lion, Alexis, Gette, Paul, Meyer, Christophe, Seil, Romain, Theisen, Daniel"
+journal: "GAIT & POSTURE"
+year: 2018
+volume: "60"
+pages: "251-257"
+month: "FEB"
+doi: "10.1016/j.gaitpost.2017.12.013"
+abstract: "Our study aimed to evaluate the effect of cognitive challenge on double-leg postural control under visual and surface perturbations of patients with anterior cruciate ligament reconstruction (ACLR) cleared to return to sport. Double-leg stance postural control of 19 rehabilitated patients with ACLR (age: 24.8 +/- 6.7 years, time since surgery: 9.2 +/- 1.6 months) and 21 controls (age: 24.9 +/- 3.7 years) was evaluated in eight randomized situations combining two cognitive (with and without silent backward counting in steps of seven), two visual (eyes open, eyes closed) and two surface (stable support, foam support) conditions. Sway area and sway path of the centre of foot pressure were measured during three 20-s recordings for each situation. Higher values indicated poorer postural control. Generally, postural control of patients with ACLR and controls was similar for sway area and sway path (p > 0.05). The lack of visual anchorage and the disturbance of the plantar input by the foam support increased sway area and sway path (p < 0.001) similarly in both groups. The addition of the cognitive task decreased sway area and sway path (p < 0.001) similarly in both groups. Patients with ACLR who recently completed their rehabilitation have normalized postural control during double-leg stance tests. The use of a dual task paradigm under increased task complexity modified postural control, but in a similar way in patients with ACLR than in healthy controls. Double-leg stance tests, even under challenging conditions, are not sensitive enough to reveal postural control differences between rehabilitated patients with ACLR and controls."
+issn: "0966-6362"
+eissn: "1879-2219"
+unique_id: "WOS:000425129400042"
+bib_key: "WOS:000425129400042"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Our study aimed to evaluate the effect of cognitive challenge on double-leg postural control under visual and surface perturbations of patients with anterior cruciate ligament reconstruction (ACLR) cleared to return to sport. Double-leg stance postural control of 19 rehabilitated patients with ACLR (age: 24.8 +/- 6.7 years, time since surgery: 9.2 +/- 1.6 months) and 21 controls (age: 24.9 +/- 3.7 years) was evaluated in eight randomized situations combining two cognitive (with and without silent backward counting in steps of seven), two visual (eyes open, eyes closed) and two surface (stable support, foam support) conditions. Sway area and sway path of the centre of foot pressure were measured during three 20-s recordings for each situation. Higher values indicated poorer postural control. Generally, postural control of patients with ACLR and controls was similar for sway area and sway path (p > 0.05). The lack of visual anchorage and the disturbance of the plantar input by the foam support increased sway area and sway path (p < 0.001) similarly in both groups. The addition of the cognitive task decreased sway area and sway path (p < 0.001) similarly in both groups. Patients with ACLR who recently completed their rehabilitation have normalized postural control during double-leg stance tests. The use of a dual task paradigm under increased task complexity modified postural control, but in a similar way in patients with ACLR than in healthy controls. Double-leg stance tests, even under challenging conditions, are not sensitive enough to reveal postural control differences between rehabilitated patients with ACLR and controls.

@@ -1,0 +1,19 @@
+---
+title: "Representations of actions to promote physical activity among local stakeholders"
+authors: "Myotte, Corentin, Pazart, Lionel, Mourot, Laurent, Sagawa, Yoshimasa, Chassagne, Aline"
+journal: "SANTE PUBLIQUE"
+year: 2024
+volume: "36"
+number: "SI"
+month: "OCT"
+doi: "10.3917/spub.hs2.2024.0061"
+abstract: "Context: Scientific data show that physical activity has a strong impact on health and well-being. In order to develop actions to promote physical activity on a local scale, the representations of the various stakeholders need to be taken into account. The aim of this study was to gather the views of stakeholders in the area of the Haut-Doubs Forestier territorial professional health community (CPTS) in order to define the characteristics of a community-based promotion strategy. Methodology: Semi-structured interviews were carried out between March and June 2022 with a sample of fifteen stakeholders in the field (doctors, physical activity professionals, citizens, physical activity promotion stakeholders) living or working in this territory. The data were processed using ageneral inductive analysis. Results: The study enabled us to take stock of the situation, identifying the strengths and limitations of physical activity promotion in the CPTS area. A majority of participants identified children and teenagers as priority target groups. Rural areas appear to be less well served in terms of supply. Thus, territorial disparities but also inequalities in access and practice are highlighted. Conclusions: Promoting physical activity among children and teenagers is a major public health issue in France. The literature recommends a socioecological approach to encouraging and facilitating physical activity among young people. Promotional actions need to be adapted to existing local conditions and to the population's expectations. Before taking any action in this direction, we now need to carry out a quantitative study to validate the hypothesis of this priority group."
+issn: "0995-3914"
+eissn: "2104-3841"
+unique_id: "WOS:001676728100009"
+bib_key: "WOS:001676728100009"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Context: Scientific data show that physical activity has a strong impact on health and well-being. In order to develop actions to promote physical activity on a local scale, the representations of the various stakeholders need to be taken into account. The aim of this study was to gather the views of stakeholders in the area of the Haut-Doubs Forestier territorial professional health community (CPTS) in order to define the characteristics of a community-based promotion strategy. Methodology: Semi-structured interviews were carried out between March and June 2022 with a sample of fifteen stakeholders in the field (doctors, physical activity professionals, citizens, physical activity promotion stakeholders) living or working in this territory. The data were processed using ageneral inductive analysis. Results: The study enabled us to take stock of the situation, identifying the strengths and limitations of physical activity promotion in the CPTS area. A majority of participants identified children and teenagers as priority target groups. Rural areas appear to be less well served in terms of supply. Thus, territorial disparities but also inequalities in access and practice are highlighted. Conclusions: Promoting physical activity among children and teenagers is a major public health issue in France. The literature recommends a socioecological approach to encouraging and facilitating physical activity among young people. Promotional actions need to be adapted to existing local conditions and to the population's expectations. Before taking any action in this direction, we now need to carry out a quantitative study to validate the hypothesis of this priority group.

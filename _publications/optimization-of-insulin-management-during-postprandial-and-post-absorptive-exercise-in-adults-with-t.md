@@ -1,0 +1,19 @@
+---
+title: "Optimization of insulin management during postprandial and post-absorptive exercise in adults with type 1 diabetes: DiabraAlgo effectiveness in real life ?"
+authors: "Bensaid, Samir, Allix, Ingrid, Dubois, Severine, Schaepelynck, Pauline, Verier-Mine, Odile, Atlan, Catherine, Sonnet, Emmanuel, Vambergue, Anne, Navarranne-Roumec, Anne, Borot, Sophie, Clergeot, Annie, Vaduva, Patricia, Kessler, Laurence, Baillot-Rudoni, Sabine, Cosma, Valeria, Charpentier, Guillaume, Franc, Sylvia"
+journal: "DIABETES RESEARCH AND CLINICAL PRACTICE"
+year: 2025
+volume: "226"
+month: "AUG"
+doi: "10.1016/j.diabres.2025.112302"
+abstract: "Aims: Fear of hypoglycemia limits sports in type 1 diabetes (T1D). This study aimed to evaluate the efficacy of Diabrasport glycemic management algorithms over a week with three real-life exercise sessions. Methods: A multicenter non-inferiority study including 43 adults with T1D using insulin pumps, continuous glucose monitoring was conducted over three one-week periods: rest, exercise with personal insulin algorithms (PersonalAlgo), and exercise with Diabrasport insulin algorithms (DiabraAlgo). The exercise period consisted of three sessions of 45-60 min per week of physical activity. DiabraAlgo included: (i) 100% basal rate reduction for intense post-absorptive exercise, (ii) 80% basal rate reduction during moderate exercise in the post-absorptive period and for two hours afterwards, and (iii) 50% prandial bolus reduction for moderate postprandial exercise. Results: Hypoglycemia (<70 mg/dL) was not more frequent with DiabraAlgo (0.88 +/- 0.62) during exercise than during rest (1.03 +/- 0.61) (95 % CI - 0.04 to 0.33, non-inferiority margin 0.35, p < 0.001). No difference was found between PersonalAlgo and DiabraAlgo in post-absorptive exercise, but during moderate postprandial exercise, DiabraAlgo resulted in less time in hypoglycemia (6.1 +/- 9.8 % vs. 10.5 +/- 12.8 %, p < 0.05) and fewer hypoglycemic episodes (1.0 +/- 1.1 vs. 1.4 +/- 1.3, p < 0.05). Conclusion: DiabraAlgo enables an effective adaptation of insulin levels during exercise, promoting their immediate applicability for individuals with T1D."
+article_number: "112302"
+issn: "0168-8227"
+eissn: "1872-8227"
+unique_id: "WOS:001517296400001"
+bib_key: "WOS:001517296400001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Aims: Fear of hypoglycemia limits sports in type 1 diabetes (T1D). This study aimed to evaluate the efficacy of Diabrasport glycemic management algorithms over a week with three real-life exercise sessions. Methods: A multicenter non-inferiority study including 43 adults with T1D using insulin pumps, continuous glucose monitoring was conducted over three one-week periods: rest, exercise with personal insulin algorithms (PersonalAlgo), and exercise with Diabrasport insulin algorithms (DiabraAlgo). The exercise period consisted of three sessions of 45-60 min per week of physical activity. DiabraAlgo included: (i) 100% basal rate reduction for intense post-absorptive exercise, (ii) 80% basal rate reduction during moderate exercise in the post-absorptive period and for two hours afterwards, and (iii) 50% prandial bolus reduction for moderate postprandial exercise. Results: Hypoglycemia (<70 mg/dL) was not more frequent with DiabraAlgo (0.88 +/- 0.62) during exercise than during rest (1.03 +/- 0.61) (95 % CI - 0.04 to 0.33, non-inferiority margin 0.35, p < 0.001). No difference was found between PersonalAlgo and DiabraAlgo in post-absorptive exercise, but during moderate postprandial exercise, DiabraAlgo resulted in less time in hypoglycemia (6.1 +/- 9.8 % vs. 10.5 +/- 12.8 %, p < 0.05) and fewer hypoglycemic episodes (1.0 +/- 1.1 vs. 1.4 +/- 1.3, p < 0.05). Conclusion: DiabraAlgo enables an effective adaptation of insulin levels during exercise, promoting their immediate applicability for individuals with T1D.

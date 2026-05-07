@@ -1,0 +1,15 @@
+---
+title: "Elderly Fall Detection: A Lightweight Kinect Based Deep Learning Approach"
+authors: "Fayad, Moustafa, Hachani, Mohamed-yacine, Mostefaoui, Ahmed, Chouali, Samir, Yahiaoui, Reda"
+journal: ""
+year: 2022
+pages: "89-95"
+doi: "10.1145/3551660.3560911"
+abstract: "Fall detection is one of the main issues for the elder's health care systems because of its economic and social impact. Whereas the primary metric of such a system remains its accuracy in terms of good detection of falls and avoiding either false detection or missing detection, its deployment raises many issues in terms of the number of devices, their nature (scalar, multimedia, Lidar, etc.) and the technique used. Generally, techniques based on multimedia processing provide better results but at the expense of a high CPU processing and consequently need appropriate devices. This paper explores an approach that uses less-powerful affordable devices (i.e., Raspberry Pi like) with multimedia sensors (i.e., Kinect) and a Deep Learning-based processing mechanism. More precisely, we applied LSTM (Long Short-Term Memory) on features extracted from the time series data acquired from the Kinect. Experimental results we obtained from our lightweight LSTM model on the Raspberry pi show that geometric features are more relevant for fall event detection. Our model achieves advanced performance with metrics that are usually considered (accuracy, precision, sensitivity, and specificity). Furthermore, our lightweight model is very promising for deployment on machines considered ``low-cost.''"
+unique_id: "WOS:001146385500011"
+bib_key: "WOS:001146385500011"
+publication_type: "inproceedings"
+source_file: "savedrecs(1).bib"
+---
+
+Fall detection is one of the main issues for the elder's health care systems because of its economic and social impact. Whereas the primary metric of such a system remains its accuracy in terms of good detection of falls and avoiding either false detection or missing detection, its deployment raises many issues in terms of the number of devices, their nature (scalar, multimedia, Lidar, etc.) and the technique used. Generally, techniques based on multimedia processing provide better results but at the expense of a high CPU processing and consequently need appropriate devices. This paper explores an approach that uses less-powerful affordable devices (i.e., Raspberry Pi like) with multimedia sensors (i.e., Kinect) and a Deep Learning-based processing mechanism. More precisely, we applied LSTM (Long Short-Term Memory) on features extracted from the time series data acquired from the Kinect. Experimental results we obtained from our lightweight LSTM model on the Raspberry pi show that geometric features are more relevant for fall event detection. Our model achieves advanced performance with metrics that are usually considered (accuracy, precision, sensitivity, and specificity). Furthermore, our lightweight model is very promising for deployment on machines considered ``low-cost.''

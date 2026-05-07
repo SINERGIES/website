@@ -1,0 +1,20 @@
+---
+title: "Is cervical elongation associated with pelvic organ prolapse?"
+authors: "Berger, Mitchell B., Ramanah, Rajeev, Guire, Kenneth E., DeLancey, John O. L."
+journal: "INTERNATIONAL UROGYNECOLOGY JOURNAL"
+year: 2012
+volume: "23"
+number: "8"
+pages: "1095-1103"
+month: "AUG"
+doi: "10.1007/s00192-012-1747-6"
+abstract: "It is commonly believed that pelvic organ prolapse (POP) is associated with cervical elongation. However, cervical lengths have not been formally compared between women with prolapse and those with normal support. Cervix and uterine corpus lengths were measured on magnetic resonance images in a case-control study of 51 women with prolapse and 46 women with normal support determined by the Pelvic Organ Prolapse Quantification (POP-Q) examination. Group matching ensured similar demographics in both groups. Ranges for normal cervical lengths were determined from the values in the control group in order to evaluate for cervical elongation amongst women with prolapse. The cervix is 36.4 % (8.6 mm) longer in women with prolapse than in women with normal pelvic support (p < 0.001). Linear regression modeling suggests the feature most highly associated with cervical length is the degree of uterine descent (POP-Q point C). Approximately 40 % of women with prolapse have cervical elongation; 57 % of cervical elongation in prolapse can be explained by a logistic regression-based model including POP-Q point C, body mass index, and menopausal status. Cervical elongation is found in one third of women with POP, with the extent of elongation increasing with greater degrees of uterine descent."
+issn: "0937-3462"
+eissn: "1433-3023"
+unique_id: "WOS:000306431100019"
+bib_key: "WOS:000306431100019"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+It is commonly believed that pelvic organ prolapse (POP) is associated with cervical elongation. However, cervical lengths have not been formally compared between women with prolapse and those with normal support. Cervix and uterine corpus lengths were measured on magnetic resonance images in a case-control study of 51 women with prolapse and 46 women with normal support determined by the Pelvic Organ Prolapse Quantification (POP-Q) examination. Group matching ensured similar demographics in both groups. Ranges for normal cervical lengths were determined from the values in the control group in order to evaluate for cervical elongation amongst women with prolapse. The cervix is 36.4 % (8.6 mm) longer in women with prolapse than in women with normal pelvic support (p < 0.001). Linear regression modeling suggests the feature most highly associated with cervical length is the degree of uterine descent (POP-Q point C). Approximately 40 % of women with prolapse have cervical elongation; 57 % of cervical elongation in prolapse can be explained by a logistic regression-based model including POP-Q point C, body mass index, and menopausal status. Cervical elongation is found in one third of women with POP, with the extent of elongation increasing with greater degrees of uterine descent.

@@ -1,0 +1,20 @@
+---
+title: "Acutely decompensated heart failure with preserved and reduced ejection fraction present with comparable haemodynamic congestion"
+authors: "Van Aelst, Lucas N. L., Arrigo, Mattia, Placido, Rui, Akiyama, Eiichi, Girerd, Nicolas, Zannad, Faiez, Manivet, Philippe, Rossignol, Patrick, Badoz, Marc, Sadoune, Malha, Launay, Jean-Marie, Gayat, Etienne, Lam, Carolyn S. P., Cohen-Solal, Alain, Mebazaa, Alexandre, Seronde, Marie-France"
+journal: "EUROPEAN JOURNAL OF HEART FAILURE"
+year: 2018
+volume: "20"
+number: "4"
+pages: "738-747"
+month: "APR"
+doi: "10.1002/ejhf.1050"
+abstract: "Aims Congestion is a central feature of acute heart failure (HF) and its assessment is important for clinical decisions (e.g. tailoring decongestive treatments). It remains uncertain whether patients with acute HF with preserved ejection fraction (HFpEF) are comparably congested as in acute HF with reduced EF (HFrEF). This study assessed congestion, right ventricular (RV) and renal dysfunction in acute HFpEF, HFrEF and non-cardiac dyspnoea.& para;& para;Methods and results We compared echocardiographic and circulating biomarkers of congestion in 146 patients from the MEDIA-DHF study: 101 with acute HF (38 HFpEF, 41 HFrEF, 22 HF with mid-range ejection fraction) and 45 with non-cardiac dyspnoea. Compared with non-cardiac dyspnoea, patients with acute HF had larger left and right atria, higher Eye', pulmonary artery systolic pressure and inferior vena cava (IVC) diameter at rest, and lower IVC variability (all P < 0.05). Mid-regional pro-atrial natriuretic peptide (MR-proANP) and soluble CD146 (sCD146), but not B-type natriuretic peptide (BNP), correlated with echocardiographic markers of venous congestion. Despite a lower BNP level, patients with HFpEF had similar evidence of venous congestion (enlarged IVC, left and right atria), RV dysfunction (tricuspid annular plane systolic excursion), elevated MR-proANP and sCD146, and renal impairment (estimated glomerular filtration rate; all P > 0.05) compared with HFrEF.& para;& para;Conclusion In acute conditions, HFpEF and HFrEF presented in a comparable state of venous congestion, with similarly altered RV and kidney function, despite higher BNP in HFrEF."
+issn: "1388-9842"
+eissn: "1879-0844"
+unique_id: "WOS:000430105300019"
+bib_key: "WOS:000430105300019"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Aims Congestion is a central feature of acute heart failure (HF) and its assessment is important for clinical decisions (e.g. tailoring decongestive treatments). It remains uncertain whether patients with acute HF with preserved ejection fraction (HFpEF) are comparably congested as in acute HF with reduced EF (HFrEF). This study assessed congestion, right ventricular (RV) and renal dysfunction in acute HFpEF, HFrEF and non-cardiac dyspnoea.& para;& para;Methods and results We compared echocardiographic and circulating biomarkers of congestion in 146 patients from the MEDIA-DHF study: 101 with acute HF (38 HFpEF, 41 HFrEF, 22 HF with mid-range ejection fraction) and 45 with non-cardiac dyspnoea. Compared with non-cardiac dyspnoea, patients with acute HF had larger left and right atria, higher Eye', pulmonary artery systolic pressure and inferior vena cava (IVC) diameter at rest, and lower IVC variability (all P < 0.05). Mid-regional pro-atrial natriuretic peptide (MR-proANP) and soluble CD146 (sCD146), but not B-type natriuretic peptide (BNP), correlated with echocardiographic markers of venous congestion. Despite a lower BNP level, patients with HFpEF had similar evidence of venous congestion (enlarged IVC, left and right atria), RV dysfunction (tricuspid annular plane systolic excursion), elevated MR-proANP and sCD146, and renal impairment (estimated glomerular filtration rate; all P > 0.05) compared with HFrEF.& para;& para;Conclusion In acute conditions, HFpEF and HFrEF presented in a comparable state of venous congestion, with similarly altered RV and kidney function, despite higher BNP in HFrEF.

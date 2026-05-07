@@ -1,0 +1,20 @@
+---
+title: "Deleterious synergistic effects of acute heart failure and diabetes mellitus in patients with acute coronary syndrome: Data from the FAST-MI Registries"
+authors: "Dillinger, Jean-Guillaume, Achkouty, Guy, Albert, Franck, Muller, Gregoire, Labeque, Jean-Noel, Moisson, Louis, Morelle, Jean-Francois, Cottin, Yves, Pezel, Theo, Lim, Pascal, Aissaoui, Nadia, Schiele, Francois, Ferrieres, Jean, Angoulvant, Denis, Henry, Patrick, Puymirat, Etienne, Simon, Tabassome, Danchin, Nicolas"
+journal: "ARCHIVES OF CARDIOVASCULAR DISEASES"
+year: 2022
+volume: "115"
+number: "5"
+pages: "264-275"
+month: "MAY"
+doi: "10.1016/j.acvd.2022.02.004"
+abstract: "Background. - Diabetes mellitus (DM) predisposes patients to acute myocardial infarction (AMI) and acute heart failure (AHF). Aims. - To assess correlates of AHF occurring at the early stage of AMI and synergism between early AHF and DM on 5-year mortality.Methods. - FAST-MI 2005 and 2010 included 7839 consecutive patients admitted for AMI.Results. - Overall, 2151 patients (27.4%) had a history of diabetes mellitus (DM), of whom 629 (29.2%) were on insulin. Patients with versus without DM were older (mean age: 70.0 vs. 64.7 years; P < 0.001), with more comorbidities and more severe coronary artery disease. Early AHF (pulmonary oedema or cardiogenic shock) was the most frequent in-hospital complication (12.5%) and was twice as frequent in patients with versus without DM (20.2% vs. 9.6%; adjusted odds ratio: 1.66, 95% confidence interval [CI]: 1.43-1.94; P < 0.001). Among in-hospital survivors, patients with DM without AHF and those with AHF without DM had 50% increases in 5-year mortality (adjusted hazard ratio [aHR]: 1.50, 95% CI: 1.32-1.69 and aHR: 1.46, 95% CI: 1.23-1.74; both P < 0.001) versus patients without DM or AHF; with the risk among those with DM and AHF being doubled (aHR: 1.97, 95% CI: 1.66-2.34; P < 0.0001).Conclusion. - Early AHF is the most frequent complication of AMI and is twice as common in patients with versus without DM. After adjustment, early AHF and DM are associated with reduced 5-year survival with synergistic effects in patients with both conditions.Clinical Trial Registration. - https://clinicaltrials.gov (NCT00673036 and NCT01237418).(c) 2022 Elsevier Masson SAS. All rights reserved."
+issn: "1875-2136"
+eissn: "1875-2128"
+unique_id: "WOS:000809806400004"
+bib_key: "WOS:000809806400004"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Background. - Diabetes mellitus (DM) predisposes patients to acute myocardial infarction (AMI) and acute heart failure (AHF). Aims. - To assess correlates of AHF occurring at the early stage of AMI and synergism between early AHF and DM on 5-year mortality.Methods. - FAST-MI 2005 and 2010 included 7839 consecutive patients admitted for AMI.Results. - Overall, 2151 patients (27.4%) had a history of diabetes mellitus (DM), of whom 629 (29.2%) were on insulin. Patients with versus without DM were older (mean age: 70.0 vs. 64.7 years; P < 0.001), with more comorbidities and more severe coronary artery disease. Early AHF (pulmonary oedema or cardiogenic shock) was the most frequent in-hospital complication (12.5%) and was twice as frequent in patients with versus without DM (20.2% vs. 9.6%; adjusted odds ratio: 1.66, 95% confidence interval [CI]: 1.43-1.94; P < 0.001). Among in-hospital survivors, patients with DM without AHF and those with AHF without DM had 50% increases in 5-year mortality (adjusted hazard ratio [aHR]: 1.50, 95% CI: 1.32-1.69 and aHR: 1.46, 95% CI: 1.23-1.74; both P < 0.001) versus patients without DM or AHF; with the risk among those with DM and AHF being doubled (aHR: 1.97, 95% CI: 1.66-2.34; P < 0.0001).Conclusion. - Early AHF is the most frequent complication of AMI and is twice as common in patients with versus without DM. After adjustment, early AHF and DM are associated with reduced 5-year survival with synergistic effects in patients with both conditions.Clinical Trial Registration. - https://clinicaltrials.gov (NCT00673036 and NCT01237418).(c) 2022 Elsevier Masson SAS. All rights reserved.

@@ -1,0 +1,19 @@
+---
+title: "Circulating microRNAs and Outcome in Patients with Acute Heart Failure"
+authors: "Seronde, Marie-France, Vausort, Melanie, Gayat, Etienne, Goretti, Emeline, Ng, Leong L., Squire, Iain B., Vodovar, Nicolas, Sadoune, Malha, Samuel, Jane-Lise, Thum, Thomas, Solal, Alain Cohen, Laribi, Said, Plaisance, Patrick, Wagner, Daniel R., Mebazaa, Alexandre, Devaux, Yvan, GREAT Network"
+journal: "PLOS ONE"
+year: 2015
+volume: "10"
+number: "11"
+month: "NOV 18"
+doi: "10.1371/journal.pone.0142237"
+abstract: "Background The biomarker value of circulating microRNAs (miRNAs) has been extensively addressed in patients with acute coronary syndrome. However, prognostic performances of miRNAs in patients with acute heart failure (AHF) has received less attention. Methods A test cohort of 294 patients with acute dyspnea (236 AHF and 58 non-AHF) and 44 patients with stable chronic heart failure (CHF), and an independent validation cohort of 711 AHF patients, were used. Admission levels of miR-1/-21/-23/-126/-423-5p were assessed in plasma samples. Results In the test cohort, admission levels of miR-1 were lower in AHF and stable CHF patients compared to non-AHF patients (p = 0.0016). Levels of miR-126 and miR-423-5p were lower in AHF and in non-AHF patients compared to stable CHF patients (both p<0.001). Interestingly, admission levels of miR-423-5p were lower in patients who were re-admitted to the hospital in the year following the index hospitalization compared to patients who were not (p = 0.0001). Adjusted odds ratio [95% confidence interval] for one-year readmission was 0.70 [0.53-0.93] for miR-423-5p (p = 0.01). In the validation cohort, admission levels of miR-423-5p predicted 1-year mortality with an adjusted odds ratio [95% confidence interval] of 0.54 [0.36-0.82], p = 0.004. Patients within the lowest quartile of miR-423-5p were at high risk of long-term mortality (p = 0.02). Conclusions In AHF patients, low circulating levels of miR-423-5p at presentation are associated with a poor long-term outcome. This study supports the value of miR-423-5p as a prognostic biomarker of AHF."
+article_number: "e0142237"
+issn: "1932-6203"
+unique_id: "WOS:000365154600040"
+bib_key: "WOS:000365154600040"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+Background The biomarker value of circulating microRNAs (miRNAs) has been extensively addressed in patients with acute coronary syndrome. However, prognostic performances of miRNAs in patients with acute heart failure (AHF) has received less attention. Methods A test cohort of 294 patients with acute dyspnea (236 AHF and 58 non-AHF) and 44 patients with stable chronic heart failure (CHF), and an independent validation cohort of 711 AHF patients, were used. Admission levels of miR-1/-21/-23/-126/-423-5p were assessed in plasma samples. Results In the test cohort, admission levels of miR-1 were lower in AHF and stable CHF patients compared to non-AHF patients (p = 0.0016). Levels of miR-126 and miR-423-5p were lower in AHF and in non-AHF patients compared to stable CHF patients (both p<0.001). Interestingly, admission levels of miR-423-5p were lower in patients who were re-admitted to the hospital in the year following the index hospitalization compared to patients who were not (p = 0.0001). Adjusted odds ratio [95% confidence interval] for one-year readmission was 0.70 [0.53-0.93] for miR-423-5p (p = 0.01). In the validation cohort, admission levels of miR-423-5p predicted 1-year mortality with an adjusted odds ratio [95% confidence interval] of 0.54 [0.36-0.82], p = 0.004. Patients within the lowest quartile of miR-423-5p were at high risk of long-term mortality (p = 0.02). Conclusions In AHF patients, low circulating levels of miR-423-5p at presentation are associated with a poor long-term outcome. This study supports the value of miR-423-5p as a prognostic biomarker of AHF.

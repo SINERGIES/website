@@ -1,0 +1,19 @@
+---
+title: "Atherosclerosis is associated with poorer outcome in non-occlusive mesenteric ischemia"
+authors: "Juif, Arnaud, Calame, Paul, Winiszewski, Hadrien, Turco, Celia, Verdot, Pierre, Pili-Floury, Sebastien, Piton, Gael, Delabrousse, Eric"
+journal: "EUROPEAN JOURNAL OF RADIOLOGY"
+year: 2021
+volume: "134"
+month: "JAN"
+doi: "10.1016/j.ejrad.2020.109453"
+abstract: "Purpose: To evaluate whether abdominal atherosclerosis was associated with poorer outcome in a single-centre cohort of patients suffering from nonocclusive mesenteric ischemia (NOMI). Methods: From January 2009 to December 2019, 121 consecutive patients from the critical care unit who underwent lapamtomy for suspected NOMI and with available unenhanced and contrast-enhanced CT were included. Clinical and biological data at the time of the CT scan were retrospectively extracted from medical charts and reviewed by a single radiologist. Unenhanced CT acquisitions were used to calculate calcium scores of the abdominal aorta, celiac trunk, superior mesenteric artery (SMA) and common iliac arteries according to the Agatston method. Univariate and multivariate analysis were performed. Results: Among the 121 patients with NOMI and calcium score calculation, only 4 patients had no aortic calcifications (3 %) and 32 had no superior mesenteric artery calcification (26 %). 35 patients (29 %) died within 24 h after the abdominal CT scan. Univariate analysis showed that a total abdominal calcium score greater than 15 000 (last quartile) was significantly associated with death within 24 h (14 (40 %) vs 17 (20 %) patients, p = 0.035). By multivariate analysis, a total abdominal calcium score greater than 15 000 was an independent risk factor for death (HR = 1.94, 95 %CI [1.02-3.73], p = 0.044). Regarding separate calcium scores, only a SMA calcium score greater than 50 was a risk factor for death (HR 2.46, 95 %CI [1.14-3.93], p = 0.019). Conclusion: Our results show that abdominal atherosclerosis, especially in the SMA, is associated with poorer outcome in NOMI."
+article_number: "109453"
+issn: "0720-048X"
+eissn: "1872-7727"
+unique_id: "WOS:000607504800006"
+bib_key: "WOS:000607504800006"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Purpose: To evaluate whether abdominal atherosclerosis was associated with poorer outcome in a single-centre cohort of patients suffering from nonocclusive mesenteric ischemia (NOMI). Methods: From January 2009 to December 2019, 121 consecutive patients from the critical care unit who underwent lapamtomy for suspected NOMI and with available unenhanced and contrast-enhanced CT were included. Clinical and biological data at the time of the CT scan were retrospectively extracted from medical charts and reviewed by a single radiologist. Unenhanced CT acquisitions were used to calculate calcium scores of the abdominal aorta, celiac trunk, superior mesenteric artery (SMA) and common iliac arteries according to the Agatston method. Univariate and multivariate analysis were performed. Results: Among the 121 patients with NOMI and calcium score calculation, only 4 patients had no aortic calcifications (3 %) and 32 had no superior mesenteric artery calcification (26 %). 35 patients (29 %) died within 24 h after the abdominal CT scan. Univariate analysis showed that a total abdominal calcium score greater than 15 000 (last quartile) was significantly associated with death within 24 h (14 (40 %) vs 17 (20 %) patients, p = 0.035). By multivariate analysis, a total abdominal calcium score greater than 15 000 was an independent risk factor for death (HR = 1.94, 95 %CI [1.02-3.73], p = 0.044). Regarding separate calcium scores, only a SMA calcium score greater than 50 was a risk factor for death (HR 2.46, 95 %CI [1.14-3.93], p = 0.019). Conclusion: Our results show that abdominal atherosclerosis, especially in the SMA, is associated with poorer outcome in NOMI.

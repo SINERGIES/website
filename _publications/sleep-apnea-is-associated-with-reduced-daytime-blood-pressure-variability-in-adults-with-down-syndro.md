@@ -1,0 +1,19 @@
+---
+title: "Sleep apnea is associated with reduced daytime blood pressure variability in adults with Down syndrome"
+authors: "Covain, Sandro, Baillieul, Sebastien, Doutreleau, Stephane, Guinot, Michel, Pepin, Jean-Louis, Tamisier, Renaud, Bricout, Veronique-Aurelie"
+journal: "SCIENTIFIC REPORTS"
+year: 2025
+volume: "15"
+number: "1"
+month: "APR 3"
+doi: "10.1038/s41598-025-90455-9"
+abstract: "Sleep apnea (SA) is common in Down syndrome (DS), but its impact on daytime autonomic control is poorly described. The aim of this study was to assess the impact of SA on autonomic control of heart rate (HR) and blood pressure (BP) during a Head-Up Tilt test (HUTT) in adults with DS. Ancillary cross-sectional analysis of an observational study conducted on 28 adults with DS (31.7 +/- 7.4 years; 32% female) free from congenital cardiopathy, thyroid disorders, or medication that impact autonomic control were included. Full-night polysomnography and HUTT were performed. Temporal and spectral analyses were performed on the signals of RR intervals, systolic and diastolic blood pressures (SBP and DBP). SBP and DBP min-max variations were specifically analyzed during the initial 3 min post-tilting (3minUp). 21 (75%) subjects presented moderate-severe SA (Apnea-Hypopnea Index >= 15/h). During the 3minUp, moderate-severe SA group showed reduced min-max variations in systolic and diastolic blood pressures (40.0 +/- 10.2 vs. 51.7 +/- 18.7 mmHg and 27.0 +/- 7.2 vs. 39.9 +/- 17.4 mmHg, all p < 0.05) with blunted vascular sympathetic activity during the entire orthostatic phase (LFSBP; 24.3 +/- 11.7 vs. 28.6 +/- 9.8 nu; p < 0.05). SA-related intermittent hypoxia, rather than sleep fragmentation was associated with changes in SBP during the 3minUp. The baroreflex sensitivity and heart rate variability parameters were similar in both groups. SA was associated with a blunted autonomic control of BP during HUTT, without changes in HR variability parameters. SA-related intermittent hypoxia, rather than sleep fragmentation seems to play a key role in these alterations."
+article_number: "11484"
+issn: "2045-2322"
+unique_id: "WOS:001459316300034"
+bib_key: "WOS:001459316300034"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Sleep apnea (SA) is common in Down syndrome (DS), but its impact on daytime autonomic control is poorly described. The aim of this study was to assess the impact of SA on autonomic control of heart rate (HR) and blood pressure (BP) during a Head-Up Tilt test (HUTT) in adults with DS. Ancillary cross-sectional analysis of an observational study conducted on 28 adults with DS (31.7 +/- 7.4 years; 32% female) free from congenital cardiopathy, thyroid disorders, or medication that impact autonomic control were included. Full-night polysomnography and HUTT were performed. Temporal and spectral analyses were performed on the signals of RR intervals, systolic and diastolic blood pressures (SBP and DBP). SBP and DBP min-max variations were specifically analyzed during the initial 3 min post-tilting (3minUp). 21 (75%) subjects presented moderate-severe SA (Apnea-Hypopnea Index >= 15/h). During the 3minUp, moderate-severe SA group showed reduced min-max variations in systolic and diastolic blood pressures (40.0 +/- 10.2 vs. 51.7 +/- 18.7 mmHg and 27.0 +/- 7.2 vs. 39.9 +/- 17.4 mmHg, all p < 0.05) with blunted vascular sympathetic activity during the entire orthostatic phase (LFSBP; 24.3 +/- 11.7 vs. 28.6 +/- 9.8 nu; p < 0.05). SA-related intermittent hypoxia, rather than sleep fragmentation was associated with changes in SBP during the 3minUp. The baroreflex sensitivity and heart rate variability parameters were similar in both groups. SA was associated with a blunted autonomic control of BP during HUTT, without changes in HR variability parameters. SA-related intermittent hypoxia, rather than sleep fragmentation seems to play a key role in these alterations.

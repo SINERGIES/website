@@ -1,0 +1,19 @@
+---
+title: "Role of the radiologist in the diagnosis and management of the two forms of hepatic echinococcosis"
+authors: "Calame, Paul, Weck, Mathieu, Busse-Cote, Andreas, Brumpt, Eleonore, Richou, Carine, Turco, Celia, Doussot, Alexandre, Bresson-Hadni, Solange, Delabrousse, Eric"
+journal: "INSIGHTS INTO IMAGING"
+year: 2022
+volume: "13"
+number: "1"
+month: "APR 8"
+doi: "10.1186/s13244-022-01190-y"
+abstract: "Echinococcosis is a parasitic disease caused by two zoonotic tapeworms (cestodes) of the Echinocococcus genus. It can be classified as either alveolar or cystic echinococcosis. Although the two forms differ significantly in terms of imaging findings, they share similarities in terms of management and treatment. In parallel to medical treatment with albendazole (ABZ), and surgery, historically used in these diseases, various imaging-guided interventional procedures have recently emerged (drainage, stenting, or Puncture, aspiration, injection, and reaspiration (PAIR)). These options open up a new range of therapeutic options. As in oncology, multidisciplinary consultation meetings now play a major role in adapted management and patient care in hepatic echinococcosis. Consequently, diagnostic imaging and interventional expertise have brought radiologists to the fore as important members of these multidisciplinary team. The radiologist will need to evaluate parasite activity in both forms of the disease, to guide the choice of the appropriate therapy from among medical treatment, interventional radiology procedures and/or surgical treatment. Knowledge of the specific complications of the two forms of echinococcosis will also help radiologists to discuss the appropriate treatment and management. The aim of this review is to describe the core knowledge that what a radiologist should possess to actively participate in multidisciplinary meetings about hepatic echinococcosis. We discuss the role of imaging, from diagnosis to treatment, in alveolar (AE) and cystic echinococcosis (CE), respectively."
+article_number: "68"
+issn: "1869-4101"
+unique_id: "WOS:000780306400002"
+bib_key: "WOS:000780306400002"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Echinococcosis is a parasitic disease caused by two zoonotic tapeworms (cestodes) of the Echinocococcus genus. It can be classified as either alveolar or cystic echinococcosis. Although the two forms differ significantly in terms of imaging findings, they share similarities in terms of management and treatment. In parallel to medical treatment with albendazole (ABZ), and surgery, historically used in these diseases, various imaging-guided interventional procedures have recently emerged (drainage, stenting, or Puncture, aspiration, injection, and reaspiration (PAIR)). These options open up a new range of therapeutic options. As in oncology, multidisciplinary consultation meetings now play a major role in adapted management and patient care in hepatic echinococcosis. Consequently, diagnostic imaging and interventional expertise have brought radiologists to the fore as important members of these multidisciplinary team. The radiologist will need to evaluate parasite activity in both forms of the disease, to guide the choice of the appropriate therapy from among medical treatment, interventional radiology procedures and/or surgical treatment. Knowledge of the specific complications of the two forms of echinococcosis will also help radiologists to discuss the appropriate treatment and management. The aim of this review is to describe the core knowledge that what a radiologist should possess to actively participate in multidisciplinary meetings about hepatic echinococcosis. We discuss the role of imaging, from diagnosis to treatment, in alveolar (AE) and cystic echinococcosis (CE), respectively.

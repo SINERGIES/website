@@ -1,0 +1,20 @@
+---
+title: "Similar Running Economy With Different Running Patterns Along the Aerial-Terrestrial Continuum"
+authors: "Lussiana, Thibault, Gindre, Cyrille, Hebert-Losier, Kim, Sagawa, Yoshimasa, Gimenez, Philippe, Mourot, Laurent"
+journal: "INTERNATIONAL JOURNAL OF SPORTS PHYSIOLOGY AND PERFORMANCE"
+year: 2017
+volume: "12"
+number: "4"
+pages: "481-489"
+month: "APR"
+doi: "10.1123/ijspp.2016-0107"
+abstract: "Purpose: No unique or ideal running pattern is the most economical for all runners. Classifying the global running patterns of individuals into 2 categories (aerial and terrestrial) using the Volodalen method could permit a better understanding of the relationship between running economy (RE) and biomechanics. The main purpose was to compare the RE of aerial and terrestrial runners. Methods: Two coaches classified 58 runners into aerial (n = 29) or terrestrial (n = 29) running patterns on the basis of visual observations. RE, muscle activity, kinematics, and spatiotemporal parameters of both groups were measured during a 5-min run at 12 km/h on a treadmill. Maximal oxygen uptake (VO(2)max) and peak treadmill speed (PTS) were assessed during an incremental running test. Results: No differences were observed between aerial and terrestrial patterns for RE, VO(2)max, and PTS. However, at 12 km/h, aerial runners exhibited earlier gastrocnemius lateralis activation in preparation for contact, less dorsiflexion at ground contact, higher coactivation indexes, and greater leg stiffness during stance phase than terrestrial runners. Terrestrial runners had more pronounced semitendinosus activation at the start and end of the running cycle, shorter flight time, greater leg compression, and a more rear-foot strike. Conclusions: Different running patterns were associated with similar RE. Aerial runners appear to rely more on elastic energy utilization with a rapid eccentric-concentric coupling time, whereas terrestrial runners appear to propel the body more forward rather than upward to limit work against gravity. Excluding runners with a mixed running pattern from analyses did not affect study interpretation."
+issn: "1555-0265"
+eissn: "1555-0273"
+unique_id: "WOS:000403745600009"
+bib_key: "WOS:000403745600009"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Purpose: No unique or ideal running pattern is the most economical for all runners. Classifying the global running patterns of individuals into 2 categories (aerial and terrestrial) using the Volodalen method could permit a better understanding of the relationship between running economy (RE) and biomechanics. The main purpose was to compare the RE of aerial and terrestrial runners. Methods: Two coaches classified 58 runners into aerial (n = 29) or terrestrial (n = 29) running patterns on the basis of visual observations. RE, muscle activity, kinematics, and spatiotemporal parameters of both groups were measured during a 5-min run at 12 km/h on a treadmill. Maximal oxygen uptake (VO(2)max) and peak treadmill speed (PTS) were assessed during an incremental running test. Results: No differences were observed between aerial and terrestrial patterns for RE, VO(2)max, and PTS. However, at 12 km/h, aerial runners exhibited earlier gastrocnemius lateralis activation in preparation for contact, less dorsiflexion at ground contact, higher coactivation indexes, and greater leg stiffness during stance phase than terrestrial runners. Terrestrial runners had more pronounced semitendinosus activation at the start and end of the running cycle, shorter flight time, greater leg compression, and a more rear-foot strike. Conclusions: Different running patterns were associated with similar RE. Aerial runners appear to rely more on elastic energy utilization with a rapid eccentric-concentric coupling time, whereas terrestrial runners appear to propel the body more forward rather than upward to limit work against gravity. Excluding runners with a mixed running pattern from analyses did not affect study interpretation.

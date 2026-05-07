@@ -1,0 +1,20 @@
+---
+title: "Comparative evaluation of the impact of the COVID-19 lockdown on perinatal experience: A prospective multicentre study"
+authors: "Bertholdt, Charline, Epstein, Jonathan, Alleyrat, Camille, Grandjean, Gaelle Ambroise, Claudel, Lysa, Olieric, Marie-France, Dahlhoff, Sandra, Mottet, Nicolas, Banasiak, Claire, Morel, Olivier"
+journal: "BJOG-AN INTERNATIONAL JOURNAL OF OBSTETRICS AND GYNAECOLOGY"
+year: 2022
+volume: "129"
+number: "8"
+pages: "1333-1341"
+month: "JUL"
+doi: "10.1111/1471-0528.17082"
+abstract: "Objectives To compare in the early postpartum the perinatal experience during a COVID-19 related lockdown ('lockdown' group) and a pandemic control group subject to looser restrictions. Design and setting This national multicentre prospective cohort study took place in four French maternity units. Population Women were recruited during the postpartum stay for the lockdown and pandemic control groups, according to their enrolment period. Both faced the same labour and delivery restrictions but only the pandemic control group could have a postpartum visitor. Main outcome measures The primary outcome was the perinatal experience during childbirth, assessed by the Labour Agentry Scale (LAS) self-administered questionnaire, completed before discharge. Results The study included 596 women and analysed 571 of them: 260 in the lockdown group and 311 in the pandemic control group. The mean LAS score was lower in the lockdown group (161.1 +/- 26.8, 95% confidence interval [CI] 157.8-164.3 versus 163.3 +/- 24.0, 95% CI 160.6-166.0; P = 0.289). In multivariable analysis, the LAS score was lower in the lockdown group (-6.2 points, P = 0.009), in women with caesarean (-21.6 points, P < 0.001) versus spontaneous deliveries, and among women financially impacted by the lockdown (-6.4 points, P = 0.007) or who experienced restrictions during childbirth (-8.1 points, P < 0.001). The LAS score rose with the prenatal care quality score (P < 0.001). Conclusions The perinatal experience was more negatively affected by lockdown restrictions than by the looser pandemic restrictions for controls, but mode of delivery remained the main factor influencing this experience."
+issn: "1470-0328"
+eissn: "1471-0528"
+unique_id: "WOS:000765148900001"
+bib_key: "WOS:000765148900001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Objectives To compare in the early postpartum the perinatal experience during a COVID-19 related lockdown ('lockdown' group) and a pandemic control group subject to looser restrictions. Design and setting This national multicentre prospective cohort study took place in four French maternity units. Population Women were recruited during the postpartum stay for the lockdown and pandemic control groups, according to their enrolment period. Both faced the same labour and delivery restrictions but only the pandemic control group could have a postpartum visitor. Main outcome measures The primary outcome was the perinatal experience during childbirth, assessed by the Labour Agentry Scale (LAS) self-administered questionnaire, completed before discharge. Results The study included 596 women and analysed 571 of them: 260 in the lockdown group and 311 in the pandemic control group. The mean LAS score was lower in the lockdown group (161.1 +/- 26.8, 95% confidence interval [CI] 157.8-164.3 versus 163.3 +/- 24.0, 95% CI 160.6-166.0; P = 0.289). In multivariable analysis, the LAS score was lower in the lockdown group (-6.2 points, P = 0.009), in women with caesarean (-21.6 points, P < 0.001) versus spontaneous deliveries, and among women financially impacted by the lockdown (-6.4 points, P = 0.007) or who experienced restrictions during childbirth (-8.1 points, P < 0.001). The LAS score rose with the prenatal care quality score (P < 0.001). Conclusions The perinatal experience was more negatively affected by lockdown restrictions than by the looser pandemic restrictions for controls, but mode of delivery remained the main factor influencing this experience.

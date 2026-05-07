@@ -1,0 +1,19 @@
+---
+title: "Comparison of analgesic efficacy between a virtual reality headset and MEOPA (nitrous oxide and oxygen) during transvaginal oocyte retrieval"
+authors: "Decaigny, Pauline, Frontczak, Sophie, Caroff, Alicia, Placet, Elise, Berdin, Aurelie, Nallet, Camille, Mottet, Nicolas, Scheffler, Florence"
+journal: "EUROPEAN JOURNAL OF OBSTETRICS & GYNECOLOGY AND REPRODUCTIVE BIOLOGY"
+year: 2025
+volume: "312"
+month: "AUG"
+doi: "10.1016/j.ejogrb.2025.114528"
+abstract: "Introduction: Oocyte retrieval is a short procedure but is considered painful for patients. Nowadays, various methods of analgesia are used during this procedure. Materials and methods: This was an observational, prospective and comparative study which took place from October 16, 2023 to April 30, 2024. The main objective was to compare the analgesic effect of virtual reality with that of MEOPA (nitrous oxide and oxygen) during an oocyte retrieval procedure. Inclusion criteria were patients aged between 18 and 43 who underwent oocyte retrieval in the reproductive medicine department of the Besan & ccedil;on University Hospital, all indications combined. Each patient had the choice between a virtual reality headset and MEOPA. The primary endpoint was the overall level of pain experienced during oocyte puncture, assessed using the visual analog scale. Results: 386 patients were included: 279 chose MEOPA (72 %) and 107 chose virtual reality (28 %). The global intraoperative pain score was significantly lower in the MEOPA group compared to the virtual reality group (3.2 vs. 4.5, p < 0.001). The peak acute intraoperative pain score was also significantly lower in the MEOPA group (4.8 vs. 6.5, p < 0.001). Overall, the satisfaction score for analgesia among all patients was high (4.5/5). Conclusion: In this study, pain intensity during oocyte retrieval was better controlled with MEOPA compared to virtual reality. However, virtual reality appears to be a promising option for anxious patients, as a non-invasive alternative with no pharmacological side effects."
+article_number: "114528"
+issn: "0301-2115"
+eissn: "1872-7654"
+unique_id: "WOS:001517099800001"
+bib_key: "WOS:001517099800001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Introduction: Oocyte retrieval is a short procedure but is considered painful for patients. Nowadays, various methods of analgesia are used during this procedure. Materials and methods: This was an observational, prospective and comparative study which took place from October 16, 2023 to April 30, 2024. The main objective was to compare the analgesic effect of virtual reality with that of MEOPA (nitrous oxide and oxygen) during an oocyte retrieval procedure. Inclusion criteria were patients aged between 18 and 43 who underwent oocyte retrieval in the reproductive medicine department of the Besan & ccedil;on University Hospital, all indications combined. Each patient had the choice between a virtual reality headset and MEOPA. The primary endpoint was the overall level of pain experienced during oocyte puncture, assessed using the visual analog scale. Results: 386 patients were included: 279 chose MEOPA (72 %) and 107 chose virtual reality (28 %). The global intraoperative pain score was significantly lower in the MEOPA group compared to the virtual reality group (3.2 vs. 4.5, p < 0.001). The peak acute intraoperative pain score was also significantly lower in the MEOPA group (4.8 vs. 6.5, p < 0.001). Overall, the satisfaction score for analgesia among all patients was high (4.5/5). Conclusion: In this study, pain intensity during oocyte retrieval was better controlled with MEOPA compared to virtual reality. However, virtual reality appears to be a promising option for anxious patients, as a non-invasive alternative with no pharmacological side effects.

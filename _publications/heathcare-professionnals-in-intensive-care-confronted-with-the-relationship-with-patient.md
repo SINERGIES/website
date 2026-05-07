@@ -1,0 +1,20 @@
+---
+title: "Heathcare professionnals in intensive care confronted with the relationship with patient"
+authors: "Laurent, Alexandra, Magalie, Bonnet, Ansel, Dominique, Aubert, Laurence, Mellier, Denis, Quenot, Jean-Pierre, Capellier, Gilles"
+journal: "EVOLUTION PSYCHIATRIQUE"
+year: 2015
+volume: "80"
+number: "4"
+pages: "809-820"
+month: "OCT-DEC"
+doi: "10.1016/j.evopsy.2014.12.007"
+abstract: "Objectives. In intensive care, the severity of health patient makes communication difficult between the patient and the professional. Our aim is to identify and better understand the experiences of the relationship of care among intensive care professionals. Method. Thirty professionals of intensive care answered a socio-demographic questionnaire and a clinical interview. Interviews were the subject of a thematic analysis according to the Interpretative phenomenological analysis. Results. The technical dimension of care, which is the basis of enhancement in intensive care, determines the reason for working in ICUs for the majority of professionals. The majority of professionals therefore observe the patient through the seriousness of their illness. This perception will have an impact on the relationship between professional and patient for example, keeping at a distance, lack of communication and understanding. In contrast, seven professionals in the study consider the patient as aware of their environment and suffering. This allows the professional to develop a unique relationship with the patient. Discussion. The difficulty of professionals to take into account the individual needs of the patient is not only inherent in their desire to work in ICUs, the strength of the emotions during intensive care, and to lose their points of reference in the modalities of communications. The families of the patients play a role in the achievement of the patient-carer bond and contribute towards interpersonal relationships. Conclusion. Such care should offer the opportunity of ethical and epistemological reflections for professionals, as well as a place for moral considerations focused on their individual experience. (C) 2015 Elsevier Masson SAS. All rights reserved."
+issn: "0014-3855"
+eissn: "1769-6674"
+unique_id: "WOS:000365553900013"
+bib_key: "WOS:000365553900013"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+Objectives. In intensive care, the severity of health patient makes communication difficult between the patient and the professional. Our aim is to identify and better understand the experiences of the relationship of care among intensive care professionals. Method. Thirty professionals of intensive care answered a socio-demographic questionnaire and a clinical interview. Interviews were the subject of a thematic analysis according to the Interpretative phenomenological analysis. Results. The technical dimension of care, which is the basis of enhancement in intensive care, determines the reason for working in ICUs for the majority of professionals. The majority of professionals therefore observe the patient through the seriousness of their illness. This perception will have an impact on the relationship between professional and patient for example, keeping at a distance, lack of communication and understanding. In contrast, seven professionals in the study consider the patient as aware of their environment and suffering. This allows the professional to develop a unique relationship with the patient. Discussion. The difficulty of professionals to take into account the individual needs of the patient is not only inherent in their desire to work in ICUs, the strength of the emotions during intensive care, and to lose their points of reference in the modalities of communications. The families of the patients play a role in the achievement of the patient-carer bond and contribute towards interpersonal relationships. Conclusion. Such care should offer the opportunity of ethical and epistemological reflections for professionals, as well as a place for moral considerations focused on their individual experience. (C) 2015 Elsevier Masson SAS. All rights reserved.

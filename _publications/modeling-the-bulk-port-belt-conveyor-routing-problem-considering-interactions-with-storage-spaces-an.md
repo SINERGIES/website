@@ -1,0 +1,17 @@
+---
+title: "Modeling the Bulk Port Belt-Conveyor Routing Problem Considering Interactions With Storage Spaces and Loading Operations"
+authors: "Mallah, Sara, Aloullal, Afaf, Kamach, Oulaid, Masmoudi, Malek, Kouiss, Khalid, Chebak, Ahmed"
+journal: "IEEE ACCESS"
+year: 2023
+volume: "11"
+pages: "87709-87731"
+doi: "10.1109/ACCESS.2023.3305572"
+abstract: "In bulk port supply chains, products move from several source points (storage sheds) to various destination points (other storage sheds or vessels and trucks' loading stations). The concern in such ports is increasing the value of delivering customer-specific products on time by choosing the best transportation routes among a complex real-world belt-conveyor routes network. This routing problem plays a crucial role in reducing charges related to waiting and tardiness in loading and stocking operations. In this paper, we propose a mixed integer linear program that considers jointly: routing constraints and interactions with stocking and loading operations. We propose a second model with pre-processing and reduction techniques to enhance computational performance. The two models are tested on 126 generated instances with up to 1590 routes (the real matrix of routes of a real industrial application). The results reveal a striking difference between the first and the second models in terms of $(i)$ the number of instances that could be handled (6 versus 111 out of 126); $(ii)$ the number of instances solved to optimality (5% versus 71%). The models are promising and respond to the needs regarding integration between the routing, which is the main operation in the fertilizer and phosphate port supply chain, and other operations, such as stocking and loading. The integration of the proposed models toward a real-time planning/control integrated system is discussed."
+issn: "2169-3536"
+unique_id: "WOS:001053758600001"
+bib_key: "WOS:001053758600001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+In bulk port supply chains, products move from several source points (storage sheds) to various destination points (other storage sheds or vessels and trucks' loading stations). The concern in such ports is increasing the value of delivering customer-specific products on time by choosing the best transportation routes among a complex real-world belt-conveyor routes network. This routing problem plays a crucial role in reducing charges related to waiting and tardiness in loading and stocking operations. In this paper, we propose a mixed integer linear program that considers jointly: routing constraints and interactions with stocking and loading operations. We propose a second model with pre-processing and reduction techniques to enhance computational performance. The two models are tested on 126 generated instances with up to 1590 routes (the real matrix of routes of a real industrial application). The results reveal a striking difference between the first and the second models in terms of $(i)$ the number of instances that could be handled (6 versus 111 out of 126); $(ii)$ the number of instances solved to optimality (5% versus 71%). The models are promising and respond to the needs regarding integration between the routing, which is the main operation in the fertilizer and phosphate port supply chain, and other operations, such as stocking and loading. The integration of the proposed models toward a real-time planning/control integrated system is discussed.

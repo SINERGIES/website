@@ -1,0 +1,20 @@
+---
+title: "Economic burden of hospital admissions for adverse drug reactions in France: The IATROSTAT-ECO study"
+authors: "Laroche, Marie-Laure, Tarbouriech, Noemie, Jai, Taha, Valnet-Rabier, Marie-Blanche, Nerich, Virginie"
+journal: "BRITISH JOURNAL OF CLINICAL PHARMACOLOGY"
+year: 2025
+volume: "91"
+number: "2"
+pages: "439-450"
+month: "FEB"
+doi: "10.1111/bcp.16266"
+abstract: "AimsHospitalizations for adverse drug reactions (ADR-HA) have increased over the last decade, but the impact of ADR-HA has rarely been evaluated. The aim of this study was to estimate the economic burden of ADR-HA in France.MethodsA partial economic evaluation from the viewpoint of French public health insurance was performed, based on a previous pharmacovigilance study (IATROSTAT) performed in 2018 in public hospital medical units. The cost included direct medical costs, collected retrospectively, from the French hospital discharge database. The economic burden was estimated by calculating the total cost per ADR-HA patient (cost of hospital stays, additional daily cost of specific stays, such as in a resuscitation, intensive care or continuous surveillance unit, drug products and medical devices in addition to Healthcare Resource Group-based tariffs, and specific outpatient consultations and other clinical and technical medical procedures, over 3 months as from the first day of ADR-HA). The robustness of the results was assessed using a one-way deterministic sensitivity analysis of cost factors applying tariffs from 2023 instead of 2018.ResultsAccording to the 2018 tariffs (vs. 2023), the mean total cost per patient with ADR-HA was estimated at <euro>5208 +/- <euro>3719 (vs. <euro>5974 +/- <euro>4232) ranging from <euro>514 to <euro>23 355 (vs. <euro>618 to <euro>27 380). The total cost for 196 patients with ADR-HA admitted to a sample of French public hospitals was estimated at <euro>1 020 549 (vs. <euro>1 170 960). It could be estimated at <euro>1.3 billion at the national level.ConclusionsIn addition to the increase in the number of expensive drugs, the ageing population and polypharmacy, the economic impact of serious ADR-HA weighs heavily on healthcare spending."
+issn: "0306-5251"
+eissn: "1365-2125"
+unique_id: "WOS:001325665800001"
+bib_key: "WOS:001325665800001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+AimsHospitalizations for adverse drug reactions (ADR-HA) have increased over the last decade, but the impact of ADR-HA has rarely been evaluated. The aim of this study was to estimate the economic burden of ADR-HA in France.MethodsA partial economic evaluation from the viewpoint of French public health insurance was performed, based on a previous pharmacovigilance study (IATROSTAT) performed in 2018 in public hospital medical units. The cost included direct medical costs, collected retrospectively, from the French hospital discharge database. The economic burden was estimated by calculating the total cost per ADR-HA patient (cost of hospital stays, additional daily cost of specific stays, such as in a resuscitation, intensive care or continuous surveillance unit, drug products and medical devices in addition to Healthcare Resource Group-based tariffs, and specific outpatient consultations and other clinical and technical medical procedures, over 3 months as from the first day of ADR-HA). The robustness of the results was assessed using a one-way deterministic sensitivity analysis of cost factors applying tariffs from 2023 instead of 2018.ResultsAccording to the 2018 tariffs (vs. 2023), the mean total cost per patient with ADR-HA was estimated at <euro>5208 +/- <euro>3719 (vs. <euro>5974 +/- <euro>4232) ranging from <euro>514 to <euro>23 355 (vs. <euro>618 to <euro>27 380). The total cost for 196 patients with ADR-HA admitted to a sample of French public hospitals was estimated at <euro>1 020 549 (vs. <euro>1 170 960). It could be estimated at <euro>1.3 billion at the national level.ConclusionsIn addition to the increase in the number of expensive drugs, the ageing population and polypharmacy, the economic impact of serious ADR-HA weighs heavily on healthcare spending.

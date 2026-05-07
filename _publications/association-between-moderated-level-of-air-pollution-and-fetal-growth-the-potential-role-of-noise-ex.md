@@ -1,0 +1,19 @@
+---
+title: "Association between moderated level of air pollution and fetal growth: the potential role of noise exposure"
+authors: "Mariet, Anne-Sophie, Bernard, Nadine, Pujol, Sophie, Sagot, Paul, Thiriez, Gerard, Riethmuller, Didier, Boilleaut, Mathieu, Defrance, Jerome, Houot, Helene, Parmentier, Anne-Laure, Benzenine, Eric, Mauny, Frederic, Quantin, Catherine"
+journal: "SCIENTIFIC REPORTS"
+year: 2021
+volume: "11"
+number: "1"
+month: "MAY 27"
+doi: "10.1038/s41598-021-90788-1"
+abstract: "This study aims to analyze, in a population of singletons, the potential confounding or modifying effect of noise on the relationship between fetal growth restriction (FGR) or small for gestational age (SGA) and environmental exposure to air pollution. All women with single pregnancies living in one of two medium-sized cities (Besancon, Dijon) and who delivered at a university hospital between 2005 and 2009 were included. FGR and SGA were obtained from medical records. Outdoor residential exposure to nitrogen dioxide (NO2) and particulate matter (PM10) was quantified at the mother's address at delivery over defined pregnancy periods; outdoor noise exposure was considered to be the annual average daily noise levels in the facade of building (L-Aeq,L-24 h). Adjusted odds ratios (ORa) were estimated by multivariable logistic regressions. Among the 8994 included pregnancies, 587 presented FGR and 918 presented SGA. In the two-exposure models, for SGA, the ORa for a 10-mu g/m(3) increase of PM10 during the two last months before delivery was 1.18, 95%CI 1.00-1.41 and for FGR, these ORa were for the first and the third trimesters, and the two last months before delivery: 0.77 (0.61-0.97), 1.38 (1.12-1.70), and 1.35 (1.11-1.66), respectively. Noise was not associated with SGA or FGR and did not confound the relationship between air pollution and SGA or FGR. These results are in favor of an association between PM10 exposure and fetal growth, independent of noise, particularly towards the end of pregnancy, and of a lack of association between noise and fetal growth."
+article_number: "11238"
+issn: "2045-2322"
+unique_id: "WOS:000658391200068"
+bib_key: "WOS:000658391200068"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+This study aims to analyze, in a population of singletons, the potential confounding or modifying effect of noise on the relationship between fetal growth restriction (FGR) or small for gestational age (SGA) and environmental exposure to air pollution. All women with single pregnancies living in one of two medium-sized cities (Besancon, Dijon) and who delivered at a university hospital between 2005 and 2009 were included. FGR and SGA were obtained from medical records. Outdoor residential exposure to nitrogen dioxide (NO2) and particulate matter (PM10) was quantified at the mother's address at delivery over defined pregnancy periods; outdoor noise exposure was considered to be the annual average daily noise levels in the facade of building (L-Aeq,L-24 h). Adjusted odds ratios (ORa) were estimated by multivariable logistic regressions. Among the 8994 included pregnancies, 587 presented FGR and 918 presented SGA. In the two-exposure models, for SGA, the ORa for a 10-mu g/m(3) increase of PM10 during the two last months before delivery was 1.18, 95%CI 1.00-1.41 and for FGR, these ORa were for the first and the third trimesters, and the two last months before delivery: 0.77 (0.61-0.97), 1.38 (1.12-1.70), and 1.35 (1.11-1.66), respectively. Noise was not associated with SGA or FGR and did not confound the relationship between air pollution and SGA or FGR. These results are in favor of an association between PM10 exposure and fetal growth, independent of noise, particularly towards the end of pregnancy, and of a lack of association between noise and fetal growth.

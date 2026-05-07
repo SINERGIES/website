@@ -1,0 +1,19 @@
+---
+title: "Evolution of Devices in Diabetes Management"
+authors: "Penfornis, Alfred, Personeni, Estelle, Borot, Sophie"
+journal: "DIABETES TECHNOLOGY & THERAPEUTICS"
+year: 2011
+volume: "13"
+number: "1"
+month: "JUN"
+doi: "10.1089/dia.2011.0058"
+abstract: "Recent technological advancements in insulin administration and glucose monitoring have allowed patients with diabetes to become increasingly involved in their own care. Devices replacing the traditional vial and syringe, such as insulin pens, are gaining popularity and offer simple and convenient insulin administration. Pen devices are associated with improved dose accuracy, reducing the risk of hypo- or hyperglycemia, and are continually being updated with new safety features in order to optimize their performance. In patients for whom glucose variability remains a problem, continuous subcutaneous insulin infusion via an implanted canula or continuous intraperitoneal insulin infusion via an implanted pump is safe and effective when used correctly, although cost can be a limitation. More accurate retrospective and real-time continuous monitoring devices, which can better detect blood glucose excursions, have become standard components of modern-day diabetes management. The most recent devices have sensor-signaling capabilities with wireless data transmission, leading to reduced time delay and more accurate alerts. Ultimately, though, while self-management remains a critical factor in improving glycemic control at present, human error may undermine even the most accurate treatment interventions. A key long-term goal in diabetes management is, therefore, to develop an automated and accurate closed-loop system for blood glucose monitoring and insulin delivery to better reflect the physiological mechanisms of glucose homeostasis and remove the ``human'' element. This ``artificial pancreas'' would offer the most innovative intervention for diabetes management and has the potential to considerably reduce the patient's burden of self-care."
+issn: "1520-9156"
+eissn: "1557-8593"
+unique_id: "WOS:000291797000011"
+bib_key: "WOS:000291797000011"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+Recent technological advancements in insulin administration and glucose monitoring have allowed patients with diabetes to become increasingly involved in their own care. Devices replacing the traditional vial and syringe, such as insulin pens, are gaining popularity and offer simple and convenient insulin administration. Pen devices are associated with improved dose accuracy, reducing the risk of hypo- or hyperglycemia, and are continually being updated with new safety features in order to optimize their performance. In patients for whom glucose variability remains a problem, continuous subcutaneous insulin infusion via an implanted canula or continuous intraperitoneal insulin infusion via an implanted pump is safe and effective when used correctly, although cost can be a limitation. More accurate retrospective and real-time continuous monitoring devices, which can better detect blood glucose excursions, have become standard components of modern-day diabetes management. The most recent devices have sensor-signaling capabilities with wireless data transmission, leading to reduced time delay and more accurate alerts. Ultimately, though, while self-management remains a critical factor in improving glycemic control at present, human error may undermine even the most accurate treatment interventions. A key long-term goal in diabetes management is, therefore, to develop an automated and accurate closed-loop system for blood glucose monitoring and insulin delivery to better reflect the physiological mechanisms of glucose homeostasis and remove the ``human'' element. This ``artificial pancreas'' would offer the most innovative intervention for diabetes management and has the potential to considerably reduce the patient's burden of self-care.

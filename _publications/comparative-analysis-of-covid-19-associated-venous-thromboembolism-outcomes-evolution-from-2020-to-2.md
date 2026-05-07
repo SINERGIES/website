@@ -1,0 +1,20 @@
+---
+title: "Comparative analysis of COVID-19-associated venous thromboembolism outcomes: evolution from 2020 to 2021-2022"
+authors: "Galeano-Valle, Francisco, Demelo-Rodriguez, Pablo, Alonso-Beato, Ruben, Pedrajas, Jose Maria, Fernandez-Reyes, Jose Luis, Chopard, Romain, Sadeghipour, Parham, Hirmerova, Jana, Bikdeli, Behnood, Monreal, Manuel, RIETE Investigators"
+journal: "JOURNAL OF THROMBOSIS AND THROMBOLYSIS"
+year: 2024
+volume: "57"
+number: "7"
+pages: "1239-1248"
+month: "OCT"
+doi: "10.1007/s11239-024-03026-6"
+abstract: "Patients with COVID-19 are at an increased risk for venous thromboembolism (VTE). With the advent of vaccinations and novel treatments from 2020 through 2022, the landscape of COVID-19 has evolved. Notably, the effects of such interventions on the outcomes of COVID-19-associated VTE have not been thoroughly examined. Data from the RIETE registry were analyzed to evaluate 90-day VTE-related outcomes (all-cause mortality, major bleeding, and VTE recurrences) in patients with COVID-19-associated VTE. We compared the periods before and after the widespread introduction of COVID-19 vaccines: March to December 2020 (pre-vaccine period) and March 2021 to December 2022 (post-vaccine period). Statistical analysis included mixed-effects parametric survival-time models. Among 1,620 patients with COVID-19-associated VTE, most (74.1%) were identified during 2020 period. The analysis revealed a more than two-fold increase in the risk of death within 90 days (adjusted hazard ratio [HR]: 2.27; 95% confidence interval, CI: 1.18-4.38) and major bleeding (adjusted HR: 2.91; 95%CI: 1.08-7.84) for patients from the 2020 period compared to those from the 2021-2022 period. Inpatient subgroup analysis confirmed the observed mortality differences. The frequency of recurrent VTE was low (1.1 vs. 0.7%, respectively), and did not show significant variation between the two periods. Our research provides a comparative perspective on the clinical outcomes of COVID-19-associated VTE before and after the introduction of vaccines. Our findings reveal a significant decrease in the incidence of 90-day mortality and major bleeding in patients with COVID-19-associated VTE in the 2021-2022 period."
+issn: "0929-5305"
+eissn: "1573-742X"
+unique_id: "WOS:001281002400001"
+bib_key: "WOS:001281002400001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Patients with COVID-19 are at an increased risk for venous thromboembolism (VTE). With the advent of vaccinations and novel treatments from 2020 through 2022, the landscape of COVID-19 has evolved. Notably, the effects of such interventions on the outcomes of COVID-19-associated VTE have not been thoroughly examined. Data from the RIETE registry were analyzed to evaluate 90-day VTE-related outcomes (all-cause mortality, major bleeding, and VTE recurrences) in patients with COVID-19-associated VTE. We compared the periods before and after the widespread introduction of COVID-19 vaccines: March to December 2020 (pre-vaccine period) and March 2021 to December 2022 (post-vaccine period). Statistical analysis included mixed-effects parametric survival-time models. Among 1,620 patients with COVID-19-associated VTE, most (74.1%) were identified during 2020 period. The analysis revealed a more than two-fold increase in the risk of death within 90 days (adjusted hazard ratio [HR]: 2.27; 95% confidence interval, CI: 1.18-4.38) and major bleeding (adjusted HR: 2.91; 95%CI: 1.08-7.84) for patients from the 2020 period compared to those from the 2021-2022 period. Inpatient subgroup analysis confirmed the observed mortality differences. The frequency of recurrent VTE was low (1.1 vs. 0.7%, respectively), and did not show significant variation between the two periods. Our research provides a comparative perspective on the clinical outcomes of COVID-19-associated VTE before and after the introduction of vaccines. Our findings reveal a significant decrease in the incidence of 90-day mortality and major bleeding in patients with COVID-19-associated VTE in the 2021-2022 period.

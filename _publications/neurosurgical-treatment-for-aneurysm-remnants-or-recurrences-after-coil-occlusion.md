@@ -1,0 +1,19 @@
+---
+title: "NEUROSURGICAL TREATMENT FOR ANEURYSM REMNANTS OR RECURRENCES AFTER COIL OCCLUSION"
+authors: "Lejeune, Jean-Paul, Thines, Laurent, Taschner, Christian, Bourgeois, Philippe, Henon, Hilde, Leclerc, Xavier"
+journal: "NEUROSURGERY"
+year: 2008
+volume: "63"
+number: "4"
+pages: "684-691"
+month: "OCT"
+doi: "10.1227/01.NEU.0000325499.82876.6D"
+abstract: "OBJECTIVE: Neurosurgical management of residual aneurysms (RA) after coiling remains a challenging issue. We present a consecutive series of 21 patients who underwent microsurgical treatment of a previously coiled aneurysm. METHODS: We retrospectively reviewed a consecutive series of 21 patients who underwent operations for an RA after coiling between 1997 and 2007. Postcoiling follow-up imaging included brain magnetic resonance angiography and digital subtraction angiography. The decision for surgical treatment was made when an RA was significant and unsuitable for re-embolization. Data related to the RA and to the surgical technique were analyzed. Postoperative outcome was evaluated with the Glasgow Outcome Scale. RESULTS: Twenty aneurysms were initially ruptured. Twelve had undergone complete coil occlusion, whereas 6 had a residual neck, 2 had a residual lobule, and 1 had a residual sac. The aneurysms were in the anterior circulation in 18 cases and in the posterior circulation in 3 cases. Twenty RAs were excluded with the apposition of 1 clip beneath the coils, 2 required a temporary occlusion, 2 required extraction of the coils, and 1 presented with an operative rupture. All aneurysms, except 2 that had their residual neck wrapped, were completely occluded. The postoperative Glasgow Outcome Scale score was unchanged in 90% of patients, and 2 patients sustained a moderate disability. CONCLUSION: Microsurgical treatment of RA after endovascular treatment is effective, provided that patients are selected appropriately. The surgical treatment of recanalized aneurysms after coiling is challenging but can result in a good outcome with low morbidity and no mortality."
+issn: "0148-396X"
+unique_id: "WOS:000260578600023"
+bib_key: "WOS:000260578600023"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+OBJECTIVE: Neurosurgical management of residual aneurysms (RA) after coiling remains a challenging issue. We present a consecutive series of 21 patients who underwent microsurgical treatment of a previously coiled aneurysm. METHODS: We retrospectively reviewed a consecutive series of 21 patients who underwent operations for an RA after coiling between 1997 and 2007. Postcoiling follow-up imaging included brain magnetic resonance angiography and digital subtraction angiography. The decision for surgical treatment was made when an RA was significant and unsuitable for re-embolization. Data related to the RA and to the surgical technique were analyzed. Postoperative outcome was evaluated with the Glasgow Outcome Scale. RESULTS: Twenty aneurysms were initially ruptured. Twelve had undergone complete coil occlusion, whereas 6 had a residual neck, 2 had a residual lobule, and 1 had a residual sac. The aneurysms were in the anterior circulation in 18 cases and in the posterior circulation in 3 cases. Twenty RAs were excluded with the apposition of 1 clip beneath the coils, 2 required a temporary occlusion, 2 required extraction of the coils, and 1 presented with an operative rupture. All aneurysms, except 2 that had their residual neck wrapped, were completely occluded. The postoperative Glasgow Outcome Scale score was unchanged in 90% of patients, and 2 patients sustained a moderate disability. CONCLUSION: Microsurgical treatment of RA after endovascular treatment is effective, provided that patients are selected appropriately. The surgical treatment of recanalized aneurysms after coiling is challenging but can result in a good outcome with low morbidity and no mortality.

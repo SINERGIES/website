@@ -1,0 +1,20 @@
+---
+title: "Dietary Patterns and Prevalence of Post-bronchodilator Airway Obstruction in Dairy Farmers Exposed to Organic Dusts"
+authors: "Saussereau, Julien, Guillien, Alicia, Soumagne, Thibaud, Laplante, Jean-Jacques, Laurent, Lucie, Bouhaddi, Malika, Rocchi, Steffi, Annesi-Maesano, Isabella, Roche, Nicolas, Dalphin, Jean-Charles, Degano, Bruno"
+journal: "COPD-JOURNAL OF CHRONIC OBSTRUCTIVE PULMONARY DISEASE"
+year: 2019
+volume: "16"
+number: "2"
+pages: "118-125"
+month: "MAR 4"
+doi: "10.1080/15412555.2019.1631775"
+abstract: "Exposure to organic dusts is an independent causative factor of chronic obstructive pulmonary disease (COPD). Unhealthy dietary patterns have been associated with poor lung function in smokers. This study investigated whether dietary patterns were associated with post-bronchodilator airway obstruction, a hallmark of COPD, in dairy farmers exposed to organic dusts. All subjects were identified by screening programs and patients with airflow obstruction were matched with subjects with normal spirometry. Six groups were compared, defined by their exposures (non-smoking dairy farmers, smokers >= 10 pack-years with no occupational exposure, and smoking dairy farmers) and the presence or absence of post-bronchodilator airflow obstruction, resulting in 321 study subjects. The Alternative Healthy Eating Index (AHEI) score was calculated based on an adapted food frequency questionnaire. Mean total AHEI scores were similar in all groups. Comparison between smokers with post-bronchodilator airway obstruction and subjects with post-bronchodilator airway obstruction related to occupational exposure found minimal differences in dietary patterns: dairy farmers had lower scores for the ratio of white to red meat and higher scores for cereal fiber consumption. As in previous studies, smokers with post-bronchodilator airway obstruction exhibited higher lipid intakes and lower carbohydrate intakes than their counterparts with normal spirometry. No evidence of any meaningful difference in dietary patterns was found between subjects with post-bronchodilator airway obstruction detected by screening and healthy controls, either in dairy farmers or in smokers with no occupational exposure."
+issn: "1541-2555"
+eissn: "1541-2563"
+unique_id: "WOS:000476343500001"
+bib_key: "WOS:000476343500001"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Exposure to organic dusts is an independent causative factor of chronic obstructive pulmonary disease (COPD). Unhealthy dietary patterns have been associated with poor lung function in smokers. This study investigated whether dietary patterns were associated with post-bronchodilator airway obstruction, a hallmark of COPD, in dairy farmers exposed to organic dusts. All subjects were identified by screening programs and patients with airflow obstruction were matched with subjects with normal spirometry. Six groups were compared, defined by their exposures (non-smoking dairy farmers, smokers >= 10 pack-years with no occupational exposure, and smoking dairy farmers) and the presence or absence of post-bronchodilator airflow obstruction, resulting in 321 study subjects. The Alternative Healthy Eating Index (AHEI) score was calculated based on an adapted food frequency questionnaire. Mean total AHEI scores were similar in all groups. Comparison between smokers with post-bronchodilator airway obstruction and subjects with post-bronchodilator airway obstruction related to occupational exposure found minimal differences in dietary patterns: dairy farmers had lower scores for the ratio of white to red meat and higher scores for cereal fiber consumption. As in previous studies, smokers with post-bronchodilator airway obstruction exhibited higher lipid intakes and lower carbohydrate intakes than their counterparts with normal spirometry. No evidence of any meaningful difference in dietary patterns was found between subjects with post-bronchodilator airway obstruction detected by screening and healthy controls, either in dairy farmers or in smokers with no occupational exposure.

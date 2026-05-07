@@ -1,0 +1,19 @@
+---
+title: "Neonatal factors associated with alteration of palatal morphology in very preterm children The EPIPAGE cohort study"
+authors: "Germa, Alice, Marret, Stephane, Thiriez, Gerard, Rousseau, Sylvaine, Hascoet, Jean-Michel, Paulsson-Bjoernsson, Liselotte, Soederfeldt, Bjoern, Ancel, Pierre-Yves, Larroque, Beatrice, Kaminski, Monique, Nabet, Cathy"
+journal: "EARLY HUMAN DEVELOPMENT"
+year: 2012
+volume: "88"
+number: "6"
+pages: "413-420"
+month: "JUN"
+doi: "10.1016/j.earlhumdev.2011.10.006"
+abstract: "Background: Altered palatal morphology has been observed among some preterm children, with possible consequences on chewing, speaking and esthetics, but determinants remain unknown. Aim: To explore the role of neonatal characteristics and neuromotor dysfunction in alteration of palatal morphology at 5 years of age in very preterm children. Study design: Prospective population-based cohort study. Subjects: 1711 children born between 22 and 32 weeks of gestation in 1997 or born between 22 and 26 weeks of gestation in 1998 were included in the study. They all had a medical examination at 5 years of age. Outcome measures: Alteration of palatal morphology. Results: The prevalence of altered palatal morphology was 3.7% in the overall sample, 5.1% among boys and 2.2% among girls (adj OR: 2.52; 95%Cl: 1.44-4.42). The risk for altered palatal morphology was higher for lower gestational age (adj OR: 0.85; 95%Cl: 0.74-0.97 per week), small-for-gestational age children (adj OR: 2.11; 95%Cl: 1.20-3.72) or children intubated for more than 28 days (adj OR: 3.16; 95%Cl: 1.11-8.98). Altered palatal morphology was more common in case of cerebral palsy or moderate neuromotor dysfunction assessed at 5 years. Results were basically the same when neuromotor dysfunction was taken into account, except for intubation. Conclusion: Male sex, low gestational age, small-for-gestational age and long intubation have been identified as probable neonatal risk factors for alteration of palatal morphology at 5 years of age in very preterm children. Further studies are needed to confirm these results. (C) 2011 Elsevier Ireland Ltd. All rights reserved."
+issn: "0378-3782"
+unique_id: "WOS:000304510300016"
+bib_key: "WOS:000304510300016"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+Background: Altered palatal morphology has been observed among some preterm children, with possible consequences on chewing, speaking and esthetics, but determinants remain unknown. Aim: To explore the role of neonatal characteristics and neuromotor dysfunction in alteration of palatal morphology at 5 years of age in very preterm children. Study design: Prospective population-based cohort study. Subjects: 1711 children born between 22 and 32 weeks of gestation in 1997 or born between 22 and 26 weeks of gestation in 1998 were included in the study. They all had a medical examination at 5 years of age. Outcome measures: Alteration of palatal morphology. Results: The prevalence of altered palatal morphology was 3.7% in the overall sample, 5.1% among boys and 2.2% among girls (adj OR: 2.52; 95%Cl: 1.44-4.42). The risk for altered palatal morphology was higher for lower gestational age (adj OR: 0.85; 95%Cl: 0.74-0.97 per week), small-for-gestational age children (adj OR: 2.11; 95%Cl: 1.20-3.72) or children intubated for more than 28 days (adj OR: 3.16; 95%Cl: 1.11-8.98). Altered palatal morphology was more common in case of cerebral palsy or moderate neuromotor dysfunction assessed at 5 years. Results were basically the same when neuromotor dysfunction was taken into account, except for intubation. Conclusion: Male sex, low gestational age, small-for-gestational age and long intubation have been identified as probable neonatal risk factors for alteration of palatal morphology at 5 years of age in very preterm children. Further studies are needed to confirm these results. (C) 2011 Elsevier Ireland Ltd. All rights reserved.

@@ -1,0 +1,16 @@
+---
+title: "Original Detection Methods for Tephra Layers and Cryptotephras"
+authors: "Jouannic, Gwwnole, Walter-Simonnet, Anne-Veronique, Bossuet, Gilles, Develle, Anne-Lise, Delabrousse, Eric, Loup, Christophe"
+journal: ""
+year: 2014
+pages: "1237-1241"
+doi: "10.1007/978-3-319-04364-7_237"
+abstract: "The building of independent and accurate chronologies is crucial to correlate environmental and climatic changes as reflected in biotic as well as abiotic signals from continental lacustrine sediments. The use of tephras, which are instantaneous and synchronous atmospheric deposits, as time-parallel markers, allows independent, high-precision regional and inter-regional correlations to be established. The development of effective, rapid methods to detect tephra layers in sedimentary records of various compositions is a challenge. Many traditional methods for the detection of tephra layers, such as regular sampling or magnetic susceptibility measurements, have shown their limits. Regular sampling takes a long time, and finding tephra layers is an uncertain process. Moreover, magnetic susceptibility is ineffective when tephra layers are composed of volcanic glass shards of differentiated magma composition. This study proposes three original methods to detect tephra layers: XRF, CT imaging, and quantitative sulphur analysis. XRF enables tephra layer composition elements and sediment to be differentiated. CT imaging may be used to observe 3D sedimentary structures. Sulphur analysis allows the environmental impact of degassing in volcanic eruptions to be examined. These methods can be used successfully to detect tephra layers of various chemical compositions in both peaty and carbonated deposits."
+issn: "2197-9545"
+unique_id: "WOS:000359019400237"
+bib_key: "WOS:000359019400237"
+publication_type: "inproceedings"
+source_file: "savedrecs(3).bib"
+---
+
+The building of independent and accurate chronologies is crucial to correlate environmental and climatic changes as reflected in biotic as well as abiotic signals from continental lacustrine sediments. The use of tephras, which are instantaneous and synchronous atmospheric deposits, as time-parallel markers, allows independent, high-precision regional and inter-regional correlations to be established. The development of effective, rapid methods to detect tephra layers in sedimentary records of various compositions is a challenge. Many traditional methods for the detection of tephra layers, such as regular sampling or magnetic susceptibility measurements, have shown their limits. Regular sampling takes a long time, and finding tephra layers is an uncertain process. Moreover, magnetic susceptibility is ineffective when tephra layers are composed of volcanic glass shards of differentiated magma composition. This study proposes three original methods to detect tephra layers: XRF, CT imaging, and quantitative sulphur analysis. XRF enables tephra layer composition elements and sediment to be differentiated. CT imaging may be used to observe 3D sedimentary structures. Sulphur analysis allows the environmental impact of degassing in volcanic eruptions to be examined. These methods can be used successfully to detect tephra layers of various chemical compositions in both peaty and carbonated deposits.

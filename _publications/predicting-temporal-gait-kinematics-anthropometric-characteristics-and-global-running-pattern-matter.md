@@ -1,0 +1,18 @@
+---
+title: "Predicting Temporal Gait Kinematics: Anthropometric Characteristics and Global Running Pattern Matter"
+authors: "Patoz, Aurelien, Lussiana, Thibault, Gindre, Cyrille, Mourot, Laurent"
+journal: "FRONTIERS IN PHYSIOLOGY"
+year: 2021
+volume: "11"
+month: "JAN 8"
+doi: "10.3389/fphys.2020.625557"
+abstract: "Equations predicting stride frequency (SF) and duty factor (DF) solely based on running speed have been proposed. However, for a given speed, kinematics vary depending on the global running pattern (GRP), i.e., the overall individual movement while running, which depends on the vertical oscillation of the head, antero-posterior motion of the elbows, vertical pelvis position at ground contact, antero-posterior foot position at ground contact, and strike pattern. Hence, we first verified the validity of the aforementioned equations while accounting for GRP. Kinematics during three 50-m runs on a track (n = 20) were used with curve fitting and linear mixed effects models. The percentage of explained variance was increased by >= 133% for DF when taking into account GRP. GRP was negatively related to DF (p = 0.004) but not to SF (p = 0.08), invalidating DF equation. Second, we assessed which parameters among anthropometric characteristics, sex, training volume, and GRP could relate to SF and DF in addition to speed, using kinematic data during five 30-s runs on a treadmill (n = 54). SF and DF linearly increased and quadratically decreased with speed (p < 0.001), respectively. However, on an individual level, SF was best described using a second-order polynomial equation. SF and DF showed a non-negligible percentage of variance explained by random effects (>= 28%). Age and height were positively and negatively related to SF (p <= 0.05), respectively, while GRP was negatively related to DF (p < 0.001), making them key parameters to estimate SF and DF, respectively, in addition to speed."
+article_number: "625557"
+eissn: "1664-042X"
+unique_id: "WOS:000609410300001"
+bib_key: "WOS:000609410300001"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Equations predicting stride frequency (SF) and duty factor (DF) solely based on running speed have been proposed. However, for a given speed, kinematics vary depending on the global running pattern (GRP), i.e., the overall individual movement while running, which depends on the vertical oscillation of the head, antero-posterior motion of the elbows, vertical pelvis position at ground contact, antero-posterior foot position at ground contact, and strike pattern. Hence, we first verified the validity of the aforementioned equations while accounting for GRP. Kinematics during three 50-m runs on a track (n = 20) were used with curve fitting and linear mixed effects models. The percentage of explained variance was increased by >= 133% for DF when taking into account GRP. GRP was negatively related to DF (p = 0.004) but not to SF (p = 0.08), invalidating DF equation. Second, we assessed which parameters among anthropometric characteristics, sex, training volume, and GRP could relate to SF and DF in addition to speed, using kinematic data during five 30-s runs on a treadmill (n = 54). SF and DF linearly increased and quadratically decreased with speed (p < 0.001), respectively. However, on an individual level, SF was best described using a second-order polynomial equation. SF and DF showed a non-negligible percentage of variance explained by random effects (>= 28%). Age and height were positively and negatively related to SF (p <= 0.05), respectively, while GRP was negatively related to DF (p < 0.001), making them key parameters to estimate SF and DF, respectively, in addition to speed.

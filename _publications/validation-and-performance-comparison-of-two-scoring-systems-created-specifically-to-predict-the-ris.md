@@ -1,0 +1,20 @@
+---
+title: "Validation and Performance Comparison of Two Scoring Systems Created Specifically to Predict the Risk of Deep Sternal Wound Infection after Bilateral Internal Thoracic Artery Grafting"
+authors: "Gatti, Giuseppe, Pappalardo, Aniello, Chocron, Sidney, Biondi, Federico, Porcari, Aldostefano, Ceschia, Alessandro, Luzzati, Roberto, Ecarnot, Fiona, Perrotti, Andrea"
+journal: "SURGICAL INFECTIONS"
+year: 2020
+volume: "21"
+number: "5"
+pages: "433-439"
+month: "JUN 1"
+doi: "10.1089/sur.2019.252"
+abstract: "Background: The Gatti and the bilateral internal mammary artery (BIMA) scores were created to predict the risk of deep sternal wound infection (DSWI) after bilateral internal thoracic artery (BITA) grafting. Methods: Both scores were evaluated retrospectively in two consecutive series of patients undergoing isolated multi-vessel coronary surgical procedures-i.e., the Trieste (n = 1,122; BITA use, 52.1%; rate of DSWI, 5.7%) and the Besancon cohort (n = 721; BITA use, 100%; rate of DSWI, 2.5%). Baseline patient characteristics were compared between the two validation samples. For each score, the accuracy of prediction and predictive power were assessed by the area under the receiver-operating characteristic curve (AUC) and the Goodman-Kruskal gamma coefficient, respectively. Results: There were significant differences between the two series in terms of age, gender, New York Heart Association functional class, chronic lung disease, left ventricular function, surgical priority, and the surgical techniques used. In the Trieste series, accuracy of prediction of the Gatti score for DSWI was higher than that of the BIMA score (AUC, 0.729 vs. 0.620, p = 0.0033). The difference was not significant, however, in the Besancon series (AUC, 0.845 vs. 0.853, p = 0.880) and when only BITA patients of the Trieste series were considered for analysis (AUC, 0.738 vs. 0.665, p = 0.157). In both series, predictive power was at least moderate for the Gatti score and low for the BIMA score. Conclusions: The Gatti and the BIMA scores seem to be useful for pre-operative evaluation of the risk of DSWI after BITA grafting. Further validation studies should be performed."
+issn: "1096-2964"
+eissn: "1557-8674"
+unique_id: "WOS:000504693500002"
+bib_key: "WOS:000504693500002"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Background: The Gatti and the bilateral internal mammary artery (BIMA) scores were created to predict the risk of deep sternal wound infection (DSWI) after bilateral internal thoracic artery (BITA) grafting. Methods: Both scores were evaluated retrospectively in two consecutive series of patients undergoing isolated multi-vessel coronary surgical procedures-i.e., the Trieste (n = 1,122; BITA use, 52.1%; rate of DSWI, 5.7%) and the Besancon cohort (n = 721; BITA use, 100%; rate of DSWI, 2.5%). Baseline patient characteristics were compared between the two validation samples. For each score, the accuracy of prediction and predictive power were assessed by the area under the receiver-operating characteristic curve (AUC) and the Goodman-Kruskal gamma coefficient, respectively. Results: There were significant differences between the two series in terms of age, gender, New York Heart Association functional class, chronic lung disease, left ventricular function, surgical priority, and the surgical techniques used. In the Trieste series, accuracy of prediction of the Gatti score for DSWI was higher than that of the BIMA score (AUC, 0.729 vs. 0.620, p = 0.0033). The difference was not significant, however, in the Besancon series (AUC, 0.845 vs. 0.853, p = 0.880) and when only BITA patients of the Trieste series were considered for analysis (AUC, 0.738 vs. 0.665, p = 0.157). In both series, predictive power was at least moderate for the Gatti score and low for the BIMA score. Conclusions: The Gatti and the BIMA scores seem to be useful for pre-operative evaluation of the risk of DSWI after BITA grafting. Further validation studies should be performed.

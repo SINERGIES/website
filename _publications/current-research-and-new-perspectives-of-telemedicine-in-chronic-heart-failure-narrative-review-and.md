@@ -1,0 +1,19 @@
+---
+title: "Current Research and New Perspectives of Telemedicine in Chronic Heart Failure: Narrative Review and Points of Interest for the Clinician"
+authors: "Andres, Emmanuel, Talha, Samy, Zulfiqar, Abrar-Ahmad, Hajjam, Mohamed, Erve, Sylvie, Hajjam, Jawad, Geny, Bernard, El Hassani, Amir Hajjam"
+journal: "JOURNAL OF CLINICAL MEDICINE"
+year: 2018
+volume: "7"
+number: "12"
+month: "DEC"
+doi: "10.3390/jcm7120544"
+abstract: "Background: This is a narrative review of both the literature and Internet pertaining to telemedicine projects within the field of heart failure, with special attention placed on remote monitoring of second-generation projects and trials, particularly in France. Results: Since the beginning of the 2000's, several telemedicine projects and trials focused on chronic heart failure have been developed. The first telemedicine projects (e.g., TEN-HMS, BEAT-HF, Tele-HF, and TIM-HF) primarily investigated telemonitoring or for the older ones, telephone follow-up. Numerous second-generation telemedicine projects have emerged in Europe over the last ten years or are still under development for computer science heart failure, especially in Europe, such as SCAD, OSICAT, E-care, PRADO-INCADO, and TIM-HF2. The E-care telemonitoring project fits within the telemedicine 2.0 framework, based on connected objects, new information and communication technologies (ICT) and Web 2.0 technologies. E-care is the first telemedicine project including artificial intelligence (AI). TIM-HF2 is the first positive prospective randomized study with regards to EBM with positive significant clinical benefit, in terms of unplanned cardiovascular hospital admissions and all-cause deaths. The potential contribution of second-generation telemedicine projects in terms of mortality, morbidity, and number of hospitalizations avoided is currently under study. Their impact in terms of health economics is likewise being investigated, taking into account that the economic and social benefits brought up by telemedicine solutions were previously validated by the original telemedicine projects."
+article_number: "544"
+eissn: "2077-0383"
+unique_id: "WOS:000455409100081"
+bib_key: "WOS:000455409100081"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Background: This is a narrative review of both the literature and Internet pertaining to telemedicine projects within the field of heart failure, with special attention placed on remote monitoring of second-generation projects and trials, particularly in France. Results: Since the beginning of the 2000's, several telemedicine projects and trials focused on chronic heart failure have been developed. The first telemedicine projects (e.g., TEN-HMS, BEAT-HF, Tele-HF, and TIM-HF) primarily investigated telemonitoring or for the older ones, telephone follow-up. Numerous second-generation telemedicine projects have emerged in Europe over the last ten years or are still under development for computer science heart failure, especially in Europe, such as SCAD, OSICAT, E-care, PRADO-INCADO, and TIM-HF2. The E-care telemonitoring project fits within the telemedicine 2.0 framework, based on connected objects, new information and communication technologies (ICT) and Web 2.0 technologies. E-care is the first telemedicine project including artificial intelligence (AI). TIM-HF2 is the first positive prospective randomized study with regards to EBM with positive significant clinical benefit, in terms of unplanned cardiovascular hospital admissions and all-cause deaths. The potential contribution of second-generation telemedicine projects in terms of mortality, morbidity, and number of hospitalizations avoided is currently under study. Their impact in terms of health economics is likewise being investigated, taking into account that the economic and social benefits brought up by telemedicine solutions were previously validated by the original telemedicine projects.

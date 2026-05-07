@@ -1,0 +1,20 @@
+---
+title: "Glycemia Risk Index (GRI) and international glucose targets before and 6 months after initiation of hybrid closed loop system in the CIRDIA, a French multisite out-of-hospital center"
+authors: "Picard, Sylvie, Courbebaisse, Blandine, Dupont, Joelle, Amiot-Chapoutot, Fabienne, Lecornet-Sokol, Emmanuelle, Personeni, Estelle, Mougel, Francois, Bouche, Clara, Giroud, Francoise, Lablanche, Sandrine, Borot, Sophie"
+journal: "DIABETES & METABOLISM"
+year: 2025
+volume: "51"
+number: "2"
+month: "MAR"
+doi: "10.1016/j.diabet.2025.101617"
+abstract: "Aims: To analyze in a population of persons with type 1 diabetes (PwT1D) ambulatory glucose profile (AGP) parameters - including glycemia risk index (GRI) - for six months after hybrid closed loop (HCL) initiation in a multisite out-of-hospital French center (CIRDIA). We calculated the percentage of people reaching glucose targets and determined a GRI threshold that could identify patients reaching targets. Methods: This was a retrospective study conducted in the CIRDIA, a multisite (n=7) out-of-hospital HCL initiation center. AGP metrics for the 14 previous days were manually extracted from HCL platforms at initiation (M0), 3 f 1 months (M3) and 6 f 1 months (M6). PwT1D were considered as reaching efficacy and safety targets (EST) if time-in-range was > 70 %, GMI was <7 %, time-below-range (TBR)<70 was <4 % and TBR<54 was < 1 %. GRI was calculated and ROC analyses were performed to set a GRI threshold that could identify patients reaching EST. Results: Six-month data were available for 136 persons. The percentage of PwT1D reaching glucose targets at respectively M0, M3 and M6 were for EST: 6.6 %, 40.4 % and 39.7 %. GRI decreased from 56.0 f 20.9 to 30.1 f 14.1 and 30.6 f 13.8. ROC analyses showed that the best GRI value to detect patients who reached EST was GRI <26. A threshold set at this level had very good specificity (92 %) and negative predictive value (93 %) to identify those who do need further intensive support with HCL. Conclusion: Setting a GRI threshold at 26 could be helpful to detect with a single number, potentially automatically calculated by CGM platforms, PwT1D who require further support."
+article_number: "101617"
+issn: "1262-3636"
+eissn: "1878-1780"
+unique_id: "WOS:001425466200001"
+bib_key: "WOS:001425466200001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Aims: To analyze in a population of persons with type 1 diabetes (PwT1D) ambulatory glucose profile (AGP) parameters - including glycemia risk index (GRI) - for six months after hybrid closed loop (HCL) initiation in a multisite out-of-hospital French center (CIRDIA). We calculated the percentage of people reaching glucose targets and determined a GRI threshold that could identify patients reaching targets. Methods: This was a retrospective study conducted in the CIRDIA, a multisite (n=7) out-of-hospital HCL initiation center. AGP metrics for the 14 previous days were manually extracted from HCL platforms at initiation (M0), 3 f 1 months (M3) and 6 f 1 months (M6). PwT1D were considered as reaching efficacy and safety targets (EST) if time-in-range was > 70 %, GMI was <7 %, time-below-range (TBR)<70 was <4 % and TBR<54 was < 1 %. GRI was calculated and ROC analyses were performed to set a GRI threshold that could identify patients reaching EST. Results: Six-month data were available for 136 persons. The percentage of PwT1D reaching glucose targets at respectively M0, M3 and M6 were for EST: 6.6 %, 40.4 % and 39.7 %. GRI decreased from 56.0 f 20.9 to 30.1 f 14.1 and 30.6 f 13.8. ROC analyses showed that the best GRI value to detect patients who reached EST was GRI <26. A threshold set at this level had very good specificity (92 %) and negative predictive value (93 %) to identify those who do need further intensive support with HCL. Conclusion: Setting a GRI threshold at 26 could be helpful to detect with a single number, potentially automatically calculated by CGM platforms, PwT1D who require further support.

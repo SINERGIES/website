@@ -1,0 +1,19 @@
+---
+title: "Time course of fluid responsiveness in sepsis: the fluid challenge revisiting (FCREV) study"
+authors: "Roger, Claire, Zieleskiewicz, Laurent, Demattei, Christophe, Lakhal, Karim, Piton, Gael, Louart, Benjamin, Constantin, Jean-Michel, Chabanne, Russell, Faure, Jean-Sebastien, Mahjoub, Yazine, Desmeulles, Isabelle, Quintard, Herve, Lefrant, Jean-Yves, Muller, Laurent, AzuRea Grp"
+journal: "CRITICAL CARE"
+year: 2019
+volume: "23"
+month: "MAY 16"
+doi: "10.1186/s13054-019-2448-z"
+abstract: "BackgroundFluid challenge (FC) is one of the most common practices in Intensive Care Unit (ICU). The present study aimed to evaluate whether echocardiographic assessment of the response to FC at the end of the infusion or 20min later could affect the results of the FC.MethodsThis is a prospective, observational, multicenter study including all ICU patients in septic shock requiring a FC of 500mL crystalloids over 10min. Fluid responsiveness was defined as a >15% increase in stroke volume (SV) assessed by velocity-time integral (VTI) measurements at baseline (T-0), at the end of FC (T-10), then 10 (T-20) and 20min (T-30) after the end of FC.ResultsFrom May 20, 2014, to January 7, 2016, a total of 143 patients were enrolled in 11 French ICUs (mean age 6414years, median IGS II 53 [43-63], median SOFA score 10 [8-12]). Among the 76/143 (53%) patient responders to FC at T-10, 37 patients were transient responders (TR), i.e., became non-responders (NR) at T-30 (49%, 95%CI=[37-60]), and 39 (51%, 95%CI=[38-62]) patients were persistent responders (PR), i.e., remained responders at T-30. Among the 67 NR at T-10, 4 became responders at T30, (6%, 95%CI=[1.9-15.3]). In the subgroup analysis, no statistical difference in hemodynamic and echocardiographic parameters was found between groups.ConclusionsThis study shows that 51.3% of initial responders have a persistent response to fluid 30min after the beginning of fluid infusion and only 41.3% have a transient response highlighting that fluid responsiveness is time dependent.Trial registration p id=Par5 ClinicalTrials.gov, NCT02116413. Registered on April 16, 2014"
+article_number: "179"
+issn: "1364-8535"
+eissn: "1466-609X"
+unique_id: "WOS:000468464200006"
+bib_key: "WOS:000468464200006"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+BackgroundFluid challenge (FC) is one of the most common practices in Intensive Care Unit (ICU). The present study aimed to evaluate whether echocardiographic assessment of the response to FC at the end of the infusion or 20min later could affect the results of the FC.MethodsThis is a prospective, observational, multicenter study including all ICU patients in septic shock requiring a FC of 500mL crystalloids over 10min. Fluid responsiveness was defined as a >15% increase in stroke volume (SV) assessed by velocity-time integral (VTI) measurements at baseline (T-0), at the end of FC (T-10), then 10 (T-20) and 20min (T-30) after the end of FC.ResultsFrom May 20, 2014, to January 7, 2016, a total of 143 patients were enrolled in 11 French ICUs (mean age 6414years, median IGS II 53 [43-63], median SOFA score 10 [8-12]). Among the 76/143 (53%) patient responders to FC at T-10, 37 patients were transient responders (TR), i.e., became non-responders (NR) at T-30 (49%, 95%CI=[37-60]), and 39 (51%, 95%CI=[38-62]) patients were persistent responders (PR), i.e., remained responders at T-30. Among the 67 NR at T-10, 4 became responders at T30, (6%, 95%CI=[1.9-15.3]). In the subgroup analysis, no statistical difference in hemodynamic and echocardiographic parameters was found between groups.ConclusionsThis study shows that 51.3% of initial responders have a persistent response to fluid 30min after the beginning of fluid infusion and only 41.3% have a transient response highlighting that fluid responsiveness is time dependent.Trial registration p id=Par5 ClinicalTrials.gov, NCT02116413. Registered on April 16, 2014

@@ -1,0 +1,19 @@
+---
+title: "Emergency reversal of anticoagulation: The real use of prothrombin complex concentrates A prospective multicenter two year French study from 2006 to 2008"
+authors: "Desmettre, Thibaut, Dubart, Alain-Eric, Capellier, Gilles, Fanara, Benoit, Puyraveau, Marc, Kepka, Sabrina, Coquart, Jeremy, Sheppard, Frances, Tazarourte, Karim"
+journal: "THROMBOSIS RESEARCH"
+year: 2012
+volume: "130"
+number: "3"
+pages: "E178-E183"
+month: "SEP"
+doi: "10.1016/j.thromres.2012.05.029"
+abstract: "Introduction: Prothrombin complex concentrate (PCC) for reversal of vitamin K antagonist (VKA) is the main therapeutic option in cases of life-threatening bleeding. Clinical use of PCC is poorly documented. Methods: We prospectively assessed PCC use in four French emergency departments during a two year period 2006-2008 before publication of French Guidelines. An appropriate treatment was defined when PCC was recommended, with a dose of PCC above or equal to 20 UI/kg, with vitamin K and with an assessment of international normalized ratio (INR) after PCC. Time of diagnosis and PCC administration were collected, as INR values, thromboembolic events within seven days, hospital mortality. Results: 256 patients received PCC for reversal of OAT. PCC was mainly prescribed for major intracerebral (ICH) or gastrointestinal hemorrhage. An appropriate treatment was observed in 26% of patients. Intra-hospital mortality for major bleeding was 33% for ICH and 26% for non-ICH major bleeding. A PCC dose>20 UI/kg was able to reach an INR<1.5 in 65% of patients. For major hemorrhages (70%), time between patient arrival and treatment delivery exceeded three hours in half of cases. Control of INR was omitted in 20% of patients. No patients presented a thromboembolic event. Conclusion: A suitable treatment was administered in 26% of patients. A PCC dose of 20-30 IU/kg seems adequate in most cases to reverse VKA activity, but both higher and lower doses achieve similar effects. Considerable progress is required to improve PCC administration and control of treatment efficacy, and to shorten time to diagnosis. (C) 2012 Elsevier Ltd. All rights reserved."
+issn: "0049-3848"
+unique_id: "WOS:000308078800028"
+bib_key: "WOS:000308078800028"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+Introduction: Prothrombin complex concentrate (PCC) for reversal of vitamin K antagonist (VKA) is the main therapeutic option in cases of life-threatening bleeding. Clinical use of PCC is poorly documented. Methods: We prospectively assessed PCC use in four French emergency departments during a two year period 2006-2008 before publication of French Guidelines. An appropriate treatment was defined when PCC was recommended, with a dose of PCC above or equal to 20 UI/kg, with vitamin K and with an assessment of international normalized ratio (INR) after PCC. Time of diagnosis and PCC administration were collected, as INR values, thromboembolic events within seven days, hospital mortality. Results: 256 patients received PCC for reversal of OAT. PCC was mainly prescribed for major intracerebral (ICH) or gastrointestinal hemorrhage. An appropriate treatment was observed in 26% of patients. Intra-hospital mortality for major bleeding was 33% for ICH and 26% for non-ICH major bleeding. A PCC dose>20 UI/kg was able to reach an INR<1.5 in 65% of patients. For major hemorrhages (70%), time between patient arrival and treatment delivery exceeded three hours in half of cases. Control of INR was omitted in 20% of patients. No patients presented a thromboembolic event. Conclusion: A suitable treatment was administered in 26% of patients. A PCC dose of 20-30 IU/kg seems adequate in most cases to reverse VKA activity, but both higher and lower doses achieve similar effects. Considerable progress is required to improve PCC administration and control of treatment efficacy, and to shorten time to diagnosis. (C) 2012 Elsevier Ltd. All rights reserved.

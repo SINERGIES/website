@@ -1,0 +1,19 @@
+---
+title: "Assessing the Impact of Recreational Activities on Streams: A Colorado Case Study"
+authors: "Hamdan, Noor, Villaruel, Carmen, Newmeyer, Matthew N., Wallace, Veronica, Spear, John R., Ranville, James F., Prasse, Carsten"
+journal: "ACS ES&T WATER"
+year: 2024
+volume: "4"
+number: "9"
+pages: "4028-4040"
+month: "AUG 29"
+doi: "10.1021/acsestwater.4c00327"
+abstract: "Water-based recreational activities can impact freshwater systems, but the resulting anthropogenic alterations to the chemical and microbial composition of natural streams remain poorly understood. Utilizing state-of-the-art analytical approaches, including liquid chromatography-high-resolution mass spectrometry (LC-HRMS), inductively coupled plasma mass spectrometry (ICP-MS), and 16S rRNA gene sequencing, we investigated changes in stream chemistry and microbiology resulting from recreational activities in Clear Creek (Golden, Colorado). Spatial and temporal sampling was conducted for 3 days over a summer holiday weekend when a large influx of recreational float tubing activity occurred. Nontarget LC-HRMS analysis demonstrated substantial differences in the organic fingerprint on days and locations with high recreational use compared to that of low use. Similarly, increases in the total suspended solids were correlated with suspended particulate metal concentrations (Al, Cu, Ti, Pb, and Zn). Element ratios suggest recreation-induced resuspension of streambed sediments as the metal source rather than other anthropogenic inputs (e.g., Ti/Zn-containing sunscreens). Gene sequencing revealed significant shifts in the stream microbial community, supporting an input of human-associated enteric microbiota during high recreation periods. However, the overall results indicate that recreational activities have a short-lived effect on the stream. In this work, we established a first-of-its-kind holistic assessment of the impact of anthropogenic activity on a natural stream by simultaneously considering changes in the organic, inorganic, and microbial fingerprints."
+eissn: "2690-0637"
+unique_id: "WOS:001308500200001"
+bib_key: "WOS:001308500200001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Water-based recreational activities can impact freshwater systems, but the resulting anthropogenic alterations to the chemical and microbial composition of natural streams remain poorly understood. Utilizing state-of-the-art analytical approaches, including liquid chromatography-high-resolution mass spectrometry (LC-HRMS), inductively coupled plasma mass spectrometry (ICP-MS), and 16S rRNA gene sequencing, we investigated changes in stream chemistry and microbiology resulting from recreational activities in Clear Creek (Golden, Colorado). Spatial and temporal sampling was conducted for 3 days over a summer holiday weekend when a large influx of recreational float tubing activity occurred. Nontarget LC-HRMS analysis demonstrated substantial differences in the organic fingerprint on days and locations with high recreational use compared to that of low use. Similarly, increases in the total suspended solids were correlated with suspended particulate metal concentrations (Al, Cu, Ti, Pb, and Zn). Element ratios suggest recreation-induced resuspension of streambed sediments as the metal source rather than other anthropogenic inputs (e.g., Ti/Zn-containing sunscreens). Gene sequencing revealed significant shifts in the stream microbial community, supporting an input of human-associated enteric microbiota during high recreation periods. However, the overall results indicate that recreational activities have a short-lived effect on the stream. In this work, we established a first-of-its-kind holistic assessment of the impact of anthropogenic activity on a natural stream by simultaneously considering changes in the organic, inorganic, and microbial fingerprints.

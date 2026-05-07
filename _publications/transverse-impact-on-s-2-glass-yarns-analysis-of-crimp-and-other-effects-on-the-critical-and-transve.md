@@ -1,0 +1,14 @@
+---
+title: "TRANSVERSE IMPACT ON S-2 GLASS YARNS: ANALYSIS OF CRIMP AND OTHER EFFECTS ON THE CRITICAL AND TRANSVERSE WAVE VELOCITIES"
+authors: "Chocron, Sidney, Walker, James D., Bigger, Rory P., Anderson, Charles E."
+journal: ""
+year: 2016
+pages: "2323-2331"
+abstract: "S-2 glass yarns were tested under transverse ballistic impact. A comparison of the glass-fiber properties with other typical ballistic fibers (like Kevlar (R), Dyneema (R), and PBO) is very interesting. On one side they have ``similar'' properties, i.e. glass fibers have high modulus and high strength. But glass-fibers are isotropic and, apparently, more brittle than polymer fibers: glass-fibers fail in bending at much lower angles. It is shown in this paper that state of the art yarn impact theories like the ones by Smith et al. and Walker and Chocron, which predict very accurately the transverse wave velocity on polymeric yarns, are missing two important components of the impact physics: first, both underestimate the velocity for glass yarns, and second, both overestimate greatly the critical velocity. In an effort to find the missing physics yarn crimp was incorporated to Walker's theory and finite element simulations were performed. It is shown that the bending stiffness that comes with the isotropy of the glass-fibers is central in properly describing the transverse wave propagation. It is also shown that failure is still not completely understood but a mechanism is speculated in the paper."
+unique_id: "WOS:000389021400253"
+bib_key: "WOS:000389021400253"
+publication_type: "inproceedings"
+source_file: "savedrecs(2).bib"
+---
+
+S-2 glass yarns were tested under transverse ballistic impact. A comparison of the glass-fiber properties with other typical ballistic fibers (like Kevlar (R), Dyneema (R), and PBO) is very interesting. On one side they have ``similar'' properties, i.e. glass fibers have high modulus and high strength. But glass-fibers are isotropic and, apparently, more brittle than polymer fibers: glass-fibers fail in bending at much lower angles. It is shown in this paper that state of the art yarn impact theories like the ones by Smith et al. and Walker and Chocron, which predict very accurately the transverse wave velocity on polymeric yarns, are missing two important components of the impact physics: first, both underestimate the velocity for glass yarns, and second, both overestimate greatly the critical velocity. In an effort to find the missing physics yarn crimp was incorporated to Walker's theory and finite element simulations were performed. It is shown that the bending stiffness that comes with the isotropy of the glass-fibers is central in properly describing the transverse wave propagation. It is also shown that failure is still not completely understood but a mechanism is speculated in the paper.

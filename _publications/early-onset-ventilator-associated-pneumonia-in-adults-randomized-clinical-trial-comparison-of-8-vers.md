@@ -1,0 +1,19 @@
+---
+title: "Early-Onset Ventilator-Associated Pneumonia in Adults Randomized Clinical Trial: Comparison of 8 versus 15 Days of Antibiotic Treatment"
+authors: "Capellier, Gilles, Mockly, Helene, Charpentier, Claire, Annane, Djillali, Blasco, Gilles, Desmettre, Thibault, Roch, Antoine, Faisy, Christophe, Cousson, Joel, Limat, Samuel, Mercier, Mariette, Papazian, Laurent"
+journal: "PLOS ONE"
+year: 2012
+volume: "7"
+number: "8"
+month: "AUG 31"
+doi: "10.1371/journal.pone.0041290"
+abstract: "Purpose: The optimal treatment duration for ventilator-associated pneumonia is based on one study dealing with late-onset of the condition. Shortening the length of antibiotic treatment remains a major prevention factor for the emergence of multiresistant bacteria. Objective: To demonstrate that 2 different antibiotic treatment durations (8 versus 15 days) are equivalent in terms of clinical cure for early-onset ventilator-associated pneumonia. Methods: Randomized, prospective, open, multicenter trial carried out from 1998 to 2002. Measurements: The primary endpoint was the clinical cure rate at day 21. The mortality rate was evaluated on days 21 and 90. Results: 225 patients were included in 13 centers. 191 (84.9%) patients were cured: 92 out of 109 (84.4%) in the 15 day cohort and 99 out of 116 (85.3%) in the 8 day cohort (difference = 0.9%, odds ratio = 0.929). 95% two-sided confidence intervals for difference and odds ratio were [28.4% to 10.3%] and [0.448 to 1.928] respectively. Taking into account the limits of equivalence (10% for difference and 2.25 for odds ratio), the objective of demonstrative equivalence between the 2 treatment durations was fulfilled. Although the rate of secondary infection was greater in the 8 day than the 15 day cohort, the number of days of antibiotic treatment remained lower in the 8 day cohort. There was no difference in mortality rate between the 2 groups on days 21 and 90. Conclusion: Our results suggest that an 8-day course of antibiotic therapy is safe for early-onset ventilator-associated pneumonia in intubated patients."
+article_number: "e41290"
+issn: "1932-6203"
+unique_id: "WOS:000308221300003"
+bib_key: "WOS:000308221300003"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+Purpose: The optimal treatment duration for ventilator-associated pneumonia is based on one study dealing with late-onset of the condition. Shortening the length of antibiotic treatment remains a major prevention factor for the emergence of multiresistant bacteria. Objective: To demonstrate that 2 different antibiotic treatment durations (8 versus 15 days) are equivalent in terms of clinical cure for early-onset ventilator-associated pneumonia. Methods: Randomized, prospective, open, multicenter trial carried out from 1998 to 2002. Measurements: The primary endpoint was the clinical cure rate at day 21. The mortality rate was evaluated on days 21 and 90. Results: 225 patients were included in 13 centers. 191 (84.9%) patients were cured: 92 out of 109 (84.4%) in the 15 day cohort and 99 out of 116 (85.3%) in the 8 day cohort (difference = 0.9%, odds ratio = 0.929). 95% two-sided confidence intervals for difference and odds ratio were [28.4% to 10.3%] and [0.448 to 1.928] respectively. Taking into account the limits of equivalence (10% for difference and 2.25 for odds ratio), the objective of demonstrative equivalence between the 2 treatment durations was fulfilled. Although the rate of secondary infection was greater in the 8 day than the 15 day cohort, the number of days of antibiotic treatment remained lower in the 8 day cohort. There was no difference in mortality rate between the 2 groups on days 21 and 90. Conclusion: Our results suggest that an 8-day course of antibiotic therapy is safe for early-onset ventilator-associated pneumonia in intubated patients.

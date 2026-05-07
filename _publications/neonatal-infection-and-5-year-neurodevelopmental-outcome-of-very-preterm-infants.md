@@ -1,0 +1,19 @@
+---
+title: "Neonatal Infection and 5-year Neurodevelopmental Outcome of Very Preterm Infants"
+authors: "Mitha, Ayoub, Foix-L'Helias, Laurence, Arnaud, Catherine, Marret, Stephane, Vieux, Rachel, Aujard, Yannick, Thiriez, Gerard, Larroque, Beatrice, Cambonie, Gilles, Burguet, Antoine, Boileau, Pascal, Roze, Jean Christophe, Kaminski, Monique, Truffert, Patrick, Ancel, Pierre-Yves, EPIPAGE Study Grp"
+journal: "PEDIATRICS"
+year: 2013
+volume: "132"
+number: "2"
+pages: "E372-E380"
+month: "AUG"
+doi: "10.1542/peds.2012-3979"
+abstract: "OBJECTIVE: To determine whether neonatal infections are associated with a higher risk of adverse neurodevelopment at 5 years of age in a population-based cohort of very preterm children. METHODS: We included all live births between 22 and 32 weeks of gestation, from 9 regions in France, in 1997 (EPIPAGE study). Of the 2665 live births, 2277 were eligible for a follow-up evaluation at 5 years of age: 1769 had a medical examination and 1495 underwent cognitive assessment. Cerebral palsy and cognitive impairment were studied as a function of early-onset sepsis (EOS) and late-onset sepsis (LOS), after adjustment for potential confounding factors, in multivariate logistic regression models. RESULTS: A total of 139 (5%) of the 2665 live births included in the study presented with EOS alone (without associated LOS), 752 (28%) had LOS alone (without associated EOS), and 64 (2%) displayed both EOS and LOS. At 5 years of age, the frequency of cerebral palsy was 9% (157 of 1769) and that of cognitive impairment was 12% (177 of 1495). The frequency of cerebral palsy was higher in infants with isolated EOS (odds ratio [OR]: 1.70 [95% confidence interval (CI): 0.84-3.45]) or isolated LOS (OR: 1.71 [95% CI: 1.14-2.56]) than in uninfected infants, and this risk was even higher in cases of combined EOS and LOS (OR: 2.33 [95% CI: 1.02-5.33]). There was no association between neonatal infection and cognitive impairment. CONCLUSIONS: Neonatal infections in these very preterm infants were associated with a higher risk of cerebral palsy at the age of 5 years, particularly in infants presenting with both EOS and LOS."
+issn: "0031-4005"
+unique_id: "WOS:000322957300008"
+bib_key: "WOS:000322957300008"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+OBJECTIVE: To determine whether neonatal infections are associated with a higher risk of adverse neurodevelopment at 5 years of age in a population-based cohort of very preterm children. METHODS: We included all live births between 22 and 32 weeks of gestation, from 9 regions in France, in 1997 (EPIPAGE study). Of the 2665 live births, 2277 were eligible for a follow-up evaluation at 5 years of age: 1769 had a medical examination and 1495 underwent cognitive assessment. Cerebral palsy and cognitive impairment were studied as a function of early-onset sepsis (EOS) and late-onset sepsis (LOS), after adjustment for potential confounding factors, in multivariate logistic regression models. RESULTS: A total of 139 (5%) of the 2665 live births included in the study presented with EOS alone (without associated LOS), 752 (28%) had LOS alone (without associated EOS), and 64 (2%) displayed both EOS and LOS. At 5 years of age, the frequency of cerebral palsy was 9% (157 of 1769) and that of cognitive impairment was 12% (177 of 1495). The frequency of cerebral palsy was higher in infants with isolated EOS (odds ratio [OR]: 1.70 [95% confidence interval (CI): 0.84-3.45]) or isolated LOS (OR: 1.71 [95% CI: 1.14-2.56]) than in uninfected infants, and this risk was even higher in cases of combined EOS and LOS (OR: 2.33 [95% CI: 1.02-5.33]). There was no association between neonatal infection and cognitive impairment. CONCLUSIONS: Neonatal infections in these very preterm infants were associated with a higher risk of cerebral palsy at the age of 5 years, particularly in infants presenting with both EOS and LOS.

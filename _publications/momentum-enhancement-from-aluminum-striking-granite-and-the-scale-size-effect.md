@@ -1,0 +1,19 @@
+---
+title: "Momentum enhancement from aluminum striking granite and the scale size effect"
+authors: "Walker, James D., Chocron, Sidney, Durda, Daniel D., Grosch, Donald J., Movshovitz, Naor, Richardson, Derek C., Asphaug, Erik"
+journal: "INTERNATIONAL JOURNAL OF IMPACT ENGINEERING"
+year: 2013
+volume: "56"
+number: "SI"
+pages: "12-18"
+month: "JUN"
+doi: "10.1016/j.ijimpeng.2012.08.003"
+abstract: "An unknown in deflecting an asteroid on a collision course with Earth is the quantitative effectiveness of various deflection techniques. For example, when an impactor strikes a body at hypervelocities the momentum transferred to the impacted body is greater than the initial impactor momentum due to the crater ejecta. When the impacted body's mass provides some of the momentum change, the effect is referred to as momentum enhancement. The small amount of data on this question implies that there is a scale effect that is, as the projectile size increases there is an increase in the imparted momentum beyond that anticipated due to the increase in projectile size. Recently, experimental data was gathered on the increase in momentum caused by crater ejecta when 4.45-cm diameter aluminum spheres struck granite targets. The amount of momentum enhancement (characterized by the ratio beta) was greater than 2 for 2 km/s impacts. Compared with other data at much smaller scale, these tests imply an impactor scale and an impactor density effect for hypervelocity strikes into rock. The implied impactor size scale effect is surprisingly large to a 0.4 power and extrapolation indicates that a 1-m aluminum sphere striking a consolidated rock surface at 10 km/s could have a beta exceeding 40, though the scale size saturation may be just larger than the tests we performed, which would reduce this value. Such a potentially large momentum enhancement shows that kinetic impactors can be very efficient at deflecting asteroids. Also, the failure strain is shown to depend on the scale size to the -2/3 power. (C) 2012 Elsevier Ltd. All rights reserved."
+issn: "0734-743X"
+unique_id: "WOS:000317994600004"
+bib_key: "WOS:000317994600004"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+An unknown in deflecting an asteroid on a collision course with Earth is the quantitative effectiveness of various deflection techniques. For example, when an impactor strikes a body at hypervelocities the momentum transferred to the impacted body is greater than the initial impactor momentum due to the crater ejecta. When the impacted body's mass provides some of the momentum change, the effect is referred to as momentum enhancement. The small amount of data on this question implies that there is a scale effect that is, as the projectile size increases there is an increase in the imparted momentum beyond that anticipated due to the increase in projectile size. Recently, experimental data was gathered on the increase in momentum caused by crater ejecta when 4.45-cm diameter aluminum spheres struck granite targets. The amount of momentum enhancement (characterized by the ratio beta) was greater than 2 for 2 km/s impacts. Compared with other data at much smaller scale, these tests imply an impactor scale and an impactor density effect for hypervelocity strikes into rock. The implied impactor size scale effect is surprisingly large to a 0.4 power and extrapolation indicates that a 1-m aluminum sphere striking a consolidated rock surface at 10 km/s could have a beta exceeding 40, though the scale size saturation may be just larger than the tests we performed, which would reduce this value. Such a potentially large momentum enhancement shows that kinetic impactors can be very efficient at deflecting asteroids. Also, the failure strain is shown to depend on the scale size to the -2/3 power. (C) 2012 Elsevier Ltd. All rights reserved.

@@ -1,0 +1,20 @@
+---
+title: "Constitutional thinness might be characterized by physiologically adapted and not impaired muscle function and architecture: new results from the NUTRILEAN study"
+authors: "Bailly, Melina, Beraud, Duane, Lambert, Celine, Garnier, Yoann M., Pereira, Bruno, Duclos, Martine, Boirie, Yves, Isacco, Laurie, Thivel, David, Verney, Julien"
+journal: "EUROPEAN JOURNAL OF APPLIED PHYSIOLOGY"
+year: 2024
+volume: "124"
+number: "11"
+pages: "3303-3315"
+month: "NOV"
+doi: "10.1007/s00421-024-05539-7"
+abstract: "Purpose While muscle mass and skeletal muscle fibers phenotype have been shown atypical in constitutional thinness (CT), force production capacities and its architectural determinants have never been explored. The present study compared muscle functionality and architecture between participants with CT and their normal-weight (NW) counterparts. Methods Anthropometry, body composition (Dual-X-ray Absorptiometry), physical activity/sedentary behavior (ActiGraph wGT3X-BT), ultrasound recording of the Vastus Lateralis (2D-ultrasound system), and functional capacities at maximal isometric and isokinetic voluntary contractions (MVCISO and MVCCON) during knee extension (isokinetic dynamometer chair Biodex) have been measured in 18 women with CT (body mass index < 17.5 kg/m2) and 17 NW women. Results A lower fat-free mass (ES: -1.94, 95%CI: -2.76 to -1.11, p < 0.001), a higher sedentary time, and a trend for a lower time spent at low-intensity physical activity, were observed in CT vs NW participants. While absolute MVCISO, MVCCON, rate of torque development (RTD), and torque work were all markedly lower in CT, these differences disappeared when normalized to body or muscle mass. Muscle thickness and fascicle length were found lower in CT (ES: -1.29, 95%CI: -2.03 to -0.52, p < 0.001; and ES: -0.87, 95%CI: -1.58 to -0.15, p = 0.02, respectively), while pennation angle was found similar. Conclusion Despite lower absolute strength capacities observed in CT, present findings support the hypothesis of physiological adaptations to the low body and muscle mass than to some intrinsic contractile impairments. These results call for further studies exploring hypertrophy-targeted strategies in the management of CT."
+issn: "1439-6319"
+eissn: "1439-6327"
+unique_id: "WOS:001252117900002"
+bib_key: "WOS:001252117900002"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Purpose While muscle mass and skeletal muscle fibers phenotype have been shown atypical in constitutional thinness (CT), force production capacities and its architectural determinants have never been explored. The present study compared muscle functionality and architecture between participants with CT and their normal-weight (NW) counterparts. Methods Anthropometry, body composition (Dual-X-ray Absorptiometry), physical activity/sedentary behavior (ActiGraph wGT3X-BT), ultrasound recording of the Vastus Lateralis (2D-ultrasound system), and functional capacities at maximal isometric and isokinetic voluntary contractions (MVCISO and MVCCON) during knee extension (isokinetic dynamometer chair Biodex) have been measured in 18 women with CT (body mass index < 17.5 kg/m2) and 17 NW women. Results A lower fat-free mass (ES: -1.94, 95%CI: -2.76 to -1.11, p < 0.001), a higher sedentary time, and a trend for a lower time spent at low-intensity physical activity, were observed in CT vs NW participants. While absolute MVCISO, MVCCON, rate of torque development (RTD), and torque work were all markedly lower in CT, these differences disappeared when normalized to body or muscle mass. Muscle thickness and fascicle length were found lower in CT (ES: -1.29, 95%CI: -2.03 to -0.52, p < 0.001; and ES: -0.87, 95%CI: -1.58 to -0.15, p = 0.02, respectively), while pennation angle was found similar. Conclusion Despite lower absolute strength capacities observed in CT, present findings support the hypothesis of physiological adaptations to the low body and muscle mass than to some intrinsic contractile impairments. These results call for further studies exploring hypertrophy-targeted strategies in the management of CT.

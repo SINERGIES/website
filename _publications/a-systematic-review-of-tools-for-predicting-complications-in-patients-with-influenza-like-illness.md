@@ -1,0 +1,19 @@
+---
+title: "A systematic review of tools for predicting complications in patients with influenza-like illness"
+authors: "Marx, Tania, Khelifi, Nada, Xu, Isabelle, Ouellet, Laurie, Poirier, Annie, Huard, Benoit, Mallet, Myriam, Bergeron, Frederic, Boissinot, Maurice, Bergeron, Michel G., Berthelot, Simon"
+journal: "HELIYON"
+year: 2024
+volume: "10"
+number: "1"
+month: "JAN 15"
+doi: "10.1016/j.heliyon.2023.e23227"
+abstract: "Objective: To identify tools that predict the risk of complications for patients presenting to an outpatient clinic or an emergency department (ED) with influenza-like illness. Methods: We searched Medline, Embase, Cochrane Library and CINAHL from inception to July 2023. We included articles reporting on the derivation or validation of a score or algorithm used to stratify the risk of hospitalization or mortality among patients with influenza-like illness in the ED or outpatient clinic. Results: Twelve articles reporting on eight scores and six predictive models were identified. For predicting the need for hospitalization, the area under the curve (AUC) of the PMEWS and the CURB-65 ranged respectively from 0.76 to 0.94, and 0.65 to 0.88. The Community Assessment Tool had an AUC of 0.62. For predicting inpatient mortality, AUC was 0.66 for PMEWS and 0.79 for CURB-65, 0.79 for the SIRS criteria and 0.86 for the qSOFA score. Two scores were developed without external validation during the Covid-19 pandemic. The CovHos score and the Canadian Covid discharge score had an AUC ranged from 0.70 to 0.91. The predictive models performed adequately (AUC from 0.76 to 0.92) but will require external validation for clinical use. Tool diversity and study population heterogeneity precluded meta-analysis. Conclusion: Although the CURB, PMEWS and qSOFA scores appear to predict accurately the risk of complications of influenza-like illness, none were reliable enough to justify their widespread ED use. Refinement of an existing tool or development of a new tool to optimize the management of these patients is needed."
+article_number: "e23227"
+eissn: "2405-8440"
+unique_id: "WOS:001140005600001"
+bib_key: "WOS:001140005600001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Objective: To identify tools that predict the risk of complications for patients presenting to an outpatient clinic or an emergency department (ED) with influenza-like illness. Methods: We searched Medline, Embase, Cochrane Library and CINAHL from inception to July 2023. We included articles reporting on the derivation or validation of a score or algorithm used to stratify the risk of hospitalization or mortality among patients with influenza-like illness in the ED or outpatient clinic. Results: Twelve articles reporting on eight scores and six predictive models were identified. For predicting the need for hospitalization, the area under the curve (AUC) of the PMEWS and the CURB-65 ranged respectively from 0.76 to 0.94, and 0.65 to 0.88. The Community Assessment Tool had an AUC of 0.62. For predicting inpatient mortality, AUC was 0.66 for PMEWS and 0.79 for CURB-65, 0.79 for the SIRS criteria and 0.86 for the qSOFA score. Two scores were developed without external validation during the Covid-19 pandemic. The CovHos score and the Canadian Covid discharge score had an AUC ranged from 0.70 to 0.91. The predictive models performed adequately (AUC from 0.76 to 0.92) but will require external validation for clinical use. Tool diversity and study population heterogeneity precluded meta-analysis. Conclusion: Although the CURB, PMEWS and qSOFA scores appear to predict accurately the risk of complications of influenza-like illness, none were reliable enough to justify their widespread ED use. Refinement of an existing tool or development of a new tool to optimize the management of these patients is needed.

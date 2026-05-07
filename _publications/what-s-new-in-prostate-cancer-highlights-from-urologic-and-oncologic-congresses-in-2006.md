@@ -1,0 +1,20 @@
+---
+title: "What's new in prostate cancer:: Highlights from Urologic and Oncologic Congresses in 2006"
+authors: "Soulie, Michel, Mottet, Nicolas, Salomon, Laurent, Irani, Jacques, Staerman, Frederic, Schulman, Claude C."
+journal: "EUROPEAN UROLOGY SUPPLEMENTS"
+year: 2007
+volume: "6"
+number: "4, SI"
+pages: "404-412"
+month: "MAR"
+doi: "10.1016/j.eursup.2007.01.005"
+abstract: "Objectives: This report summarises major new findings in the field of prostate cancer (PCa) presented during the 2006 annual meetings of the European Association of Urology (EAU), American Urological Association (AUA), American Society of Clinical Oncology (ASCO), and the American Society for Therapeutic Radiology and Oncology (ASTRO). Methods: Urologic experts in the field of PCa selected relevant new findings that were discussed during a closed meeting in September 2006. The key points are communicated in this paper. Results: There was much discussion about the relevance of Prostate-Specific Antigen (PSA) screening. There seems to be no specific threshold for early detection of clinically relevant PCa. PSA doubling time and PSA velocity may be more reliable to predict the risk of disease progression in patients with PCa. The first randomised controlled trial showed a comparable survival rate and risk of disease progression for external-beam radiation therapy and radical prostatectomy in patients with clinically localised PCa. In patients with advanced PCa, intermittent hormone therapy does not increase the risk of disease progression compared to continuous hormone therapy, while it has less impact on patient's quality of life. Patients receiving hormone therapy may benefit from an annual single-dose injection of zoledronic acid for the prevention of bone complications. Besides PSA, testosterone levels should be monitored in patients on androgen-deprivation treatment. Conclusions: Many interesting data in the field of PCa have been presented at this year's uro-oncologic meetings, which will improve the management of patients with PCa. (c) 2007 European Association of Urology. Published by Elsevier B.V. All rights reserved."
+issn: "1569-9056"
+eissn: "1878-1500"
+unique_id: "WOS:000245013500004"
+bib_key: "WOS:000245013500004"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+Objectives: This report summarises major new findings in the field of prostate cancer (PCa) presented during the 2006 annual meetings of the European Association of Urology (EAU), American Urological Association (AUA), American Society of Clinical Oncology (ASCO), and the American Society for Therapeutic Radiology and Oncology (ASTRO). Methods: Urologic experts in the field of PCa selected relevant new findings that were discussed during a closed meeting in September 2006. The key points are communicated in this paper. Results: There was much discussion about the relevance of Prostate-Specific Antigen (PSA) screening. There seems to be no specific threshold for early detection of clinically relevant PCa. PSA doubling time and PSA velocity may be more reliable to predict the risk of disease progression in patients with PCa. The first randomised controlled trial showed a comparable survival rate and risk of disease progression for external-beam radiation therapy and radical prostatectomy in patients with clinically localised PCa. In patients with advanced PCa, intermittent hormone therapy does not increase the risk of disease progression compared to continuous hormone therapy, while it has less impact on patient's quality of life. Patients receiving hormone therapy may benefit from an annual single-dose injection of zoledronic acid for the prevention of bone complications. Besides PSA, testosterone levels should be monitored in patients on androgen-deprivation treatment. Conclusions: Many interesting data in the field of PCa have been presented at this year's uro-oncologic meetings, which will improve the management of patients with PCa. (c) 2007 European Association of Urology. Published by Elsevier B.V. All rights reserved.

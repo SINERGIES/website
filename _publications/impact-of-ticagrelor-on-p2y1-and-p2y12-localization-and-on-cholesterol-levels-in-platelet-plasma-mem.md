@@ -1,0 +1,19 @@
+---
+title: "Impact of ticagrelor on P2Y1 and P2Y12 localization and on cholesterol levels in platelet plasma membrane"
+authors: "Rabani, Vahideh, Montange, Damien, Meneveau, Nicolas, Davani, Siamak"
+journal: "PLATELETS"
+year: 2018
+volume: "29"
+number: "7"
+pages: "709-715"
+doi: "10.1080/09537104.2017.1356453"
+abstract: "Ticagrelor is an antiplatelet agent that inhibits platelet activation via P2Y12 antagonism. There are several studies showing that P2Y12 needs lipid rafts to be activated, but there are few data about how ticagrelor impacts lipid raft organization. Therefore, we aimed to investigate how ticagrelor could impact the distribution of cholesterol and consequently alter the organization of lipid rafts on platelet plasma membranes. We identified cholesterol-enriched raft fractions in platelet membranes by quantification of their cholesterol levels. Modifications in cholesterol and protein profiles (Flotillin 1, Flotillin 2, CD36, P2Y1, and P2Y12) were studied in platelets stimulated by ADP, treated by ticagrelor, or both. In ADP-stimulated and ticagrelor-treated groups, we found a decreased level of cholesterol in raft fractions of platelet plasma membrane compared to the control group. In addition, the peak of cholesterol in different experimental groups changed its localization on membrane fractions. In the control group, it was situated on fraction 2, while in ADP-stimulated platelets, it was located in fractions 3 to 5, and in fraction 4 in ticagrelor-treated group. The proteins studied also showed changes in their level of expression and localization in fractions of plasma membrane. Cholesterol levels of plasma membranes have a direct role in the organization of platelet membranes and could be modified by stimulation or drug treatment. Since ticagrelor and ADP both changed lipid composition and protein profile, investigating the lipid and protein composition of platelet membranes is of considerable importance as a focus for further research in anti-platelet management."
+issn: "0953-7104"
+eissn: "1369-1635"
+unique_id: "WOS:000446357300013"
+bib_key: "WOS:000446357300013"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Ticagrelor is an antiplatelet agent that inhibits platelet activation via P2Y12 antagonism. There are several studies showing that P2Y12 needs lipid rafts to be activated, but there are few data about how ticagrelor impacts lipid raft organization. Therefore, we aimed to investigate how ticagrelor could impact the distribution of cholesterol and consequently alter the organization of lipid rafts on platelet plasma membranes. We identified cholesterol-enriched raft fractions in platelet membranes by quantification of their cholesterol levels. Modifications in cholesterol and protein profiles (Flotillin 1, Flotillin 2, CD36, P2Y1, and P2Y12) were studied in platelets stimulated by ADP, treated by ticagrelor, or both. In ADP-stimulated and ticagrelor-treated groups, we found a decreased level of cholesterol in raft fractions of platelet plasma membrane compared to the control group. In addition, the peak of cholesterol in different experimental groups changed its localization on membrane fractions. In the control group, it was situated on fraction 2, while in ADP-stimulated platelets, it was located in fractions 3 to 5, and in fraction 4 in ticagrelor-treated group. The proteins studied also showed changes in their level of expression and localization in fractions of plasma membrane. Cholesterol levels of plasma membranes have a direct role in the organization of platelet membranes and could be modified by stimulation or drug treatment. Since ticagrelor and ADP both changed lipid composition and protein profile, investigating the lipid and protein composition of platelet membranes is of considerable importance as a focus for further research in anti-platelet management.

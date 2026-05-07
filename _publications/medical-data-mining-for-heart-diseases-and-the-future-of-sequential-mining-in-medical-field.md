@@ -1,0 +1,18 @@
+---
+title: "Medical Data Mining for Heart Diseases and the Future of Sequential Mining in Medical Field"
+authors: "Rjeily, Carine Bou, Badr, Georges, El Hassani, Amir Hajjarm, Andres, Emmanuel"
+journal: ""
+year: 2019
+volume: "149"
+pages: "71-99"
+doi: "10.1007/978-3-319-94030-4_4"
+abstract: "Data Mining in general is the act of extracting interesting patterns and discovering non-trivial knowledge from a large amount of data. Medical data mining can be used to understand the events happened in the past, i. e. studying a patients vital signs to understand his complications and discover why he has died, or to predict the future by analyzing the events that had happened. In this chapter we are presenting an overview on studies that use data mining to predict heart failure and heart diseases classes. We will also focus on one of the trendiest data-mining field, namely the Sequential Mining, which is a very promising paradigm. Due to its important results in many fields, this chapter will also cover all its extensions from Sequential Pattern Mining, to Sequential Rule Mining and Sequence Prediction. Pattern Mining is the discovery of important and unexpected patterns or information andwas introduced in 1990 with thewell-known Apriori. Sequential PatternsMining aims to extract and analyze frequent subsequences from sequences of events or items with time constraint. The importance of a sequence can be measured based on different factors such as the frequency of their occurrence, their length and their profit. In 1995, Agrawal et al. introduced a new Apriori algorithm supporting time constraints named AprioriAll. The algorithm studied the transactions through time, in order to extract frequent patterns from the sequences of products related to a customer. Time dimension is a very important factor in analyzing medical data, making it necessary to present a positioning of Sequential Mining in the medical domain."
+issn: "1868-4394"
+eissn: "1868-4408"
+unique_id: "WOS:000462222800006"
+bib_key: "WOS:000462222800006"
+publication_type: "incollection"
+source_file: "savedrecs(2).bib"
+---
+
+Data Mining in general is the act of extracting interesting patterns and discovering non-trivial knowledge from a large amount of data. Medical data mining can be used to understand the events happened in the past, i. e. studying a patients vital signs to understand his complications and discover why he has died, or to predict the future by analyzing the events that had happened. In this chapter we are presenting an overview on studies that use data mining to predict heart failure and heart diseases classes. We will also focus on one of the trendiest data-mining field, namely the Sequential Mining, which is a very promising paradigm. Due to its important results in many fields, this chapter will also cover all its extensions from Sequential Pattern Mining, to Sequential Rule Mining and Sequence Prediction. Pattern Mining is the discovery of important and unexpected patterns or information andwas introduced in 1990 with thewell-known Apriori. Sequential PatternsMining aims to extract and analyze frequent subsequences from sequences of events or items with time constraint. The importance of a sequence can be measured based on different factors such as the frequency of their occurrence, their length and their profit. In 1995, Agrawal et al. introduced a new Apriori algorithm supporting time constraints named AprioriAll. The algorithm studied the transactions through time, in order to extract frequent patterns from the sequences of products related to a customer. Time dimension is a very important factor in analyzing medical data, making it necessary to present a positioning of Sequential Mining in the medical domain.

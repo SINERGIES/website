@@ -1,0 +1,20 @@
+---
+title: "Multi-stage appointment scheduling for outpatient chemotherapy unit: a case study"
+authors: "Bouras, Asma, Masmoudi, Malek, Saadani, Nour El Houda, Bahroun, Zied, Abdeljaouad, Mohamed Amine"
+journal: "RAIRO-OPERATIONS RESEARCH"
+year: 2021
+volume: "55"
+number: "2"
+pages: "589-610"
+month: "APR 9"
+doi: "10.1051/ro/2021025"
+abstract: "This paper deals with a multi stage hybrid flow-shop problem (HFSP) that arises in a privately Chemotherapy clinic. It aims to optimize the makespan of the daily chemotherapy activity. Each patient must respect the cyclic nature of chemotherapy treatment plans made by his referent on- cologist while taking into account the high variability in resource requirements (treatment time, nurse time, pharmacy time). The problem requires the assignment of chemotherapy patients to oncologists, pharmacists, chemotherapy beds or chairs and nurses over a 1-day period. We provided a Mixed Integer Program (MIP) to model this issue, which can be considered as a five-stage hybrid flow-shop scheduling problem with additional resources, dedicated machines, and no-wait constraints. Since this problem is known to be NP-hard, we provided a lower bound expression and developed an approximated solving algorithm: a tabu search inspired metaheuristic based on a constructive heuristic that can quickly reach satisfying results. To assess the empirical performance of the proposed approach, we conducted experi- ments on randomly generated instances based on real-world data of a Tunisian private clinic: Clinique Ennasr. Computational experiments show the efficiency of the proposed procedures: The mathematical model provided optimal solutions in reasonable computational time only for small instances (up to 10 patients). Meta-heuristic's results demonstrate, also, that the proposed approach offers good results in terms of solution quality and computational times with an average relative gap to the MIP solution equal to 3.13% and to the lower bound equal to 5.37% for small instances (up to 15 patients). The same gap to the lower bound increases to 25% for medium and large size instances (20-50 patients)."
+issn: "0399-0559"
+eissn: "2804-7303"
+unique_id: "WOS:000638300300002"
+bib_key: "WOS:000638300300002"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+This paper deals with a multi stage hybrid flow-shop problem (HFSP) that arises in a privately Chemotherapy clinic. It aims to optimize the makespan of the daily chemotherapy activity. Each patient must respect the cyclic nature of chemotherapy treatment plans made by his referent on- cologist while taking into account the high variability in resource requirements (treatment time, nurse time, pharmacy time). The problem requires the assignment of chemotherapy patients to oncologists, pharmacists, chemotherapy beds or chairs and nurses over a 1-day period. We provided a Mixed Integer Program (MIP) to model this issue, which can be considered as a five-stage hybrid flow-shop scheduling problem with additional resources, dedicated machines, and no-wait constraints. Since this problem is known to be NP-hard, we provided a lower bound expression and developed an approximated solving algorithm: a tabu search inspired metaheuristic based on a constructive heuristic that can quickly reach satisfying results. To assess the empirical performance of the proposed approach, we conducted experi- ments on randomly generated instances based on real-world data of a Tunisian private clinic: Clinique Ennasr. Computational experiments show the efficiency of the proposed procedures: The mathematical model provided optimal solutions in reasonable computational time only for small instances (up to 10 patients). Meta-heuristic's results demonstrate, also, that the proposed approach offers good results in terms of solution quality and computational times with an average relative gap to the MIP solution equal to 3.13% and to the lower bound equal to 5.37% for small instances (up to 15 patients). The same gap to the lower bound increases to 25% for medium and large size instances (20-50 patients).

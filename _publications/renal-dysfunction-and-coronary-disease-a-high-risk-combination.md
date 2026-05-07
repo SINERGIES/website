@@ -1,0 +1,19 @@
+---
+title: "Renal dysfunction and coronary disease: a high-risk combination"
+authors: "Schiele, Francois"
+journal: "JOURNAL OF NEPHROLOGY"
+year: 2009
+volume: "22"
+number: "1"
+pages: "39-45"
+month: "JAN-FEB"
+abstract: "Chronic kidney dysfunction is recognized as a risk factor for atherosclerosis and complicates strategies and treatment. Therefore, it is important for cardiologists not only to detect and measure potential kidney dysfunction, but also to know the mechanisms by which the heart and kidney interact, and recognize that in cases of acute coronary syndrome, the presence of renal dysfunction increases the risk of death. The detection and classification of kidney dysfunction into 5 stages is based on the estimated glomerular filtration rate (GFR). The presence of hypertension, endothelial dysfunction, dyslipidemia, inflammation, activation of the renin-angiotensin system and specific calcifications are the main mechanisms by which renal dysfunction can induce or compound cardiovascular disease. The magnitude of renal dysfunction is related to the cardiovascular risk; a linear relation links the extent of GFR decrease and the risk of cardiovascular events. Renal dysfunction and acute coronary syndromes are a dangerous combination: more common comorbidities, more frequent contraindications for effective drugs and higher numbers of drug-related adverse events such as bleeding partially explain the higher mortality in patients with renal dysfunction. In addition, despite higher risk, patients with renal dysfunction often receive fewer guideline-recommended treatments even in the absence of contraindications. Renal dysfunction induces and promotes atherosclerosis by various pathophysiologic pathways and is associated with other cardiovascular risk factors and underuse of appropriate therapy. Therefore, the assessment of renal function is an important step in the risk evaluation of patients with coronary artery disease."
+issn: "1121-8428"
+eissn: "1724-6059"
+unique_id: "WOS:000269100400005"
+bib_key: "WOS:000269100400005"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+Chronic kidney dysfunction is recognized as a risk factor for atherosclerosis and complicates strategies and treatment. Therefore, it is important for cardiologists not only to detect and measure potential kidney dysfunction, but also to know the mechanisms by which the heart and kidney interact, and recognize that in cases of acute coronary syndrome, the presence of renal dysfunction increases the risk of death. The detection and classification of kidney dysfunction into 5 stages is based on the estimated glomerular filtration rate (GFR). The presence of hypertension, endothelial dysfunction, dyslipidemia, inflammation, activation of the renin-angiotensin system and specific calcifications are the main mechanisms by which renal dysfunction can induce or compound cardiovascular disease. The magnitude of renal dysfunction is related to the cardiovascular risk; a linear relation links the extent of GFR decrease and the risk of cardiovascular events. Renal dysfunction and acute coronary syndromes are a dangerous combination: more common comorbidities, more frequent contraindications for effective drugs and higher numbers of drug-related adverse events such as bleeding partially explain the higher mortality in patients with renal dysfunction. In addition, despite higher risk, patients with renal dysfunction often receive fewer guideline-recommended treatments even in the absence of contraindications. Renal dysfunction induces and promotes atherosclerosis by various pathophysiologic pathways and is associated with other cardiovascular risk factors and underuse of appropriate therapy. Therefore, the assessment of renal function is an important step in the risk evaluation of patients with coronary artery disease.

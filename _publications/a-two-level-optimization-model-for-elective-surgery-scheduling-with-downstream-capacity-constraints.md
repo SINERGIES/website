@@ -1,0 +1,20 @@
+---
+title: "A two-level optimization model for elective surgery scheduling with downstream capacity constraints"
+authors: "Zhang, Jian, Dridi, Mahjoub, El Moudni, Abdellah"
+journal: "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH"
+year: 2019
+volume: "276"
+number: "2"
+pages: "602-613"
+month: "JUL 16"
+doi: "10.1016/j.ejor.2019.01.036"
+abstract: "This paper addresses an elective surgery scheduling problem involving capacity constraints for operating rooms and downstream surgical intensive care units (SICU). Considering the uncertainties in surgery durations, lengths of stay, and new arrivals of patients, we seek to provide stochastically optimized surgery schedules for surgical managers. Conventional formulations (e.g. stochastic programming) for the studied problem mainly optimize the schedule of one single decision period, without consideration of the correlations between the present and successive periods. To overcome this short-sightedness, a novel two-level optimization model is proposed in this paper: at the first level, the high-priority patients that will be scheduled are selected from the waiting list; at the second level, every selected patient is assigned to a specific surgical block. The sub-problem of the first level is modeled as a Markov decision process to reduce the expected total cost on a long-term basis; the second level is formulated as a stochastic programming problem, which optimizes the schedule over a short-term planning horizon. Intensive structural analyses are conducted for the proposed model to simplify the solution procedure. An approximate dynamic programming approach based on recursive least-squares temporal difference learning is then proposed to solve the problem. Numerical experiments are carried out to compare the proposed model with a pure stochastic programming model. The results indicate that the policy obtained from the proposed model possesses considerable advantages in reducing the total cost, shortening waiting time for patients, and improving the utilization rate of hospital facilities. (C) 2019 Elsevier B.V. All rights reserved."
+issn: "0377-2217"
+eissn: "1872-6860"
+unique_id: "WOS:000463296300015"
+bib_key: "WOS:000463296300015"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+This paper addresses an elective surgery scheduling problem involving capacity constraints for operating rooms and downstream surgical intensive care units (SICU). Considering the uncertainties in surgery durations, lengths of stay, and new arrivals of patients, we seek to provide stochastically optimized surgery schedules for surgical managers. Conventional formulations (e.g. stochastic programming) for the studied problem mainly optimize the schedule of one single decision period, without consideration of the correlations between the present and successive periods. To overcome this short-sightedness, a novel two-level optimization model is proposed in this paper: at the first level, the high-priority patients that will be scheduled are selected from the waiting list; at the second level, every selected patient is assigned to a specific surgical block. The sub-problem of the first level is modeled as a Markov decision process to reduce the expected total cost on a long-term basis; the second level is formulated as a stochastic programming problem, which optimizes the schedule over a short-term planning horizon. Intensive structural analyses are conducted for the proposed model to simplify the solution procedure. An approximate dynamic programming approach based on recursive least-squares temporal difference learning is then proposed to solve the problem. Numerical experiments are carried out to compare the proposed model with a pure stochastic programming model. The results indicate that the policy obtained from the proposed model possesses considerable advantages in reducing the total cost, shortening waiting time for patients, and improving the utilization rate of hospital facilities. (C) 2019 Elsevier B.V. All rights reserved.

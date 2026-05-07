@@ -1,0 +1,18 @@
+---
+title: "High Pressure Balloon Dilatation o Primary Obstructive Megaureter in Children: A Multicenter Study"
+authors: "Kassite, Ibtissam, Petel, Mariette Renaux, Chaussy, Yann, Eyssartier, Emilie, Alzahrani, Khalid, Sczwarc, Caroline, Villemagne, Thierry, Lardy, Hubert, Braik, Karim, Binet, Aurelien"
+journal: "FRONTIERS IN PEDIATRICS"
+year: 2018
+volume: "6"
+month: "OCT 31"
+doi: "10.3389/fped.2018.00329"
+abstract: "Aim of the Study: We described the initial experience of four referral centers in the treatment of primary obstructive megaureter (POM) in children, by high-pressure balloon dilatation (HPBD) of the ureterovesical junction with double JJ stenting. We managed a retrospective multicenter study to assess its effectiveness in long-term. Methods: We reviewed the medical records of all children who underwent HPBD for POM that require surgical treatment from May 2012 to December 2017 in four different institutions. The primary outcome measured was ureterohydronephrosis (UHN) and its degree of improvement after the procedure. Secondary outcomes were postoperative complications and resolution of preoperative symptomatology. Main Results: Forty-two ureters underwent HPBD for POM in 33 children, with a median age of 14.7 months - (range: 3 months -15 years). Ureterohydronephrosis improves in 86% of ureters after one endoscopic treatment. Three cases required a second HPBD. Four patients required surgical treatment for worsening of UHN after endoscopic treatment. The post-operative complication rate was 50% (21 ureters). In 13 cases (61%), they were related to double J stent. The median follow-up was 24 months (2 months -5 years) and all patients were symptom-free. Conclusion: We reported the first multicenter study and the largest series of children treated with HPBD, with an overall success rate of 92%. Endoscopic treatment can be a definitive treatment of POM since it avoided reimplantation in 90% of cases. Complications are mainly due to double J stent."
+article_number: "329"
+issn: "2296-2360"
+unique_id: "WOS:000448905700001"
+bib_key: "WOS:000448905700001"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Aim of the Study: We described the initial experience of four referral centers in the treatment of primary obstructive megaureter (POM) in children, by high-pressure balloon dilatation (HPBD) of the ureterovesical junction with double JJ stenting. We managed a retrospective multicenter study to assess its effectiveness in long-term. Methods: We reviewed the medical records of all children who underwent HPBD for POM that require surgical treatment from May 2012 to December 2017 in four different institutions. The primary outcome measured was ureterohydronephrosis (UHN) and its degree of improvement after the procedure. Secondary outcomes were postoperative complications and resolution of preoperative symptomatology. Main Results: Forty-two ureters underwent HPBD for POM in 33 children, with a median age of 14.7 months - (range: 3 months -15 years). Ureterohydronephrosis improves in 86% of ureters after one endoscopic treatment. Three cases required a second HPBD. Four patients required surgical treatment for worsening of UHN after endoscopic treatment. The post-operative complication rate was 50% (21 ureters). In 13 cases (61%), they were related to double J stent. The median follow-up was 24 months (2 months -5 years) and all patients were symptom-free. Conclusion: We reported the first multicenter study and the largest series of children treated with HPBD, with an overall success rate of 92%. Endoscopic treatment can be a definitive treatment of POM since it avoided reimplantation in 90% of cases. Complications are mainly due to double J stent.

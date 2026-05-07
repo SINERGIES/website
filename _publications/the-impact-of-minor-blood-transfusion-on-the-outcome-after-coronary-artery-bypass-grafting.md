@@ -1,0 +1,19 @@
+---
+title: "The impact of minor blood transfusion on the outcome after coronary artery bypass grafting"
+authors: "Kinnunen, Eeva-Maija, Zanobini, Marco, Onorati, Francesco, Brascia, Debora, Mariscalco, Giovanni, Franzese, Ilaria, Ruggieri, Vito G., Bounader, Karl, Perrotti, Andrea, Musumeci, Francesco, Santarpino, Giuseppe, Maselli, Daniele, Nardella, Saverio, Gulbins, Helmut, Gherli, Riccardo, Rubino, Antonino S., Mignosa, Carmelo, De Feo, Marisa, Gatti, Giuseppe, Santini, Francesco, Salsano, Antonio, Dalen, Magnus, Saccocci, Matteo, Reichart, Daniel, Faggian, Giuseppe, Gherli, Tiziano, Nicolini, Francesco, Biancari, Fausto"
+journal: "JOURNAL OF CRITICAL CARE"
+year: 2017
+volume: "40"
+pages: "207-212"
+month: "AUG"
+doi: "10.1016/j.jcrc.2017.04.025"
+abstract: "Purpose: To investigate the impact of minor perioperative bleeding requiring transfusion of 1-2 red blood cell (RBC) units on the outcome after coronary artery bypass grafting (CABG). Methods: Sixteen cardiac surgical centers contributed to the prospective European CABG registry (E-CABG). 1014 patients receiving 1-2 RBC units during or after isolated CABG were compared to 2264 patients not receiving RBCs. Results: In 827 propensity score matched pairs, transfusion of 1-2 RBC units did not affect the risk of in-hospital/30-day death (p = 0.523) or stroke (p = 0.804). However, RBC transfusion was associated with an increased risk of acute kidney injury (p = 0.008), sternal wound infection (p = 0.001), postoperative use of antibiotics (p = 0.001), prolonged use of inotropes (p < 0.0001), use of intra-aortic balloon pump (p = 0.012), length of intensive care unit stay (p < 0.0001) and length of in-hospital stay (p < 0.0001). Matched paired analysis excluding pre- and postoperative critical hemodynamic conditions showed that RBC transfusion was associated with an increased risk of major complications except in-hospital/30-day death. Conclusion: Minor perioperative bleeding and subsequent transfusion of 1-2 RBC units did not affect the risk of early death, but increased the risk of other major adverse events. Minimizing perioperative bleeding and prevention of even low-volume RBC transfusion may improve the outcome after CABG. (C) 2017 Elsevier Inc. All rights reserved."
+issn: "0883-9441"
+eissn: "1557-8615"
+unique_id: "WOS:000415204800036"
+bib_key: "WOS:000415204800036"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Purpose: To investigate the impact of minor perioperative bleeding requiring transfusion of 1-2 red blood cell (RBC) units on the outcome after coronary artery bypass grafting (CABG). Methods: Sixteen cardiac surgical centers contributed to the prospective European CABG registry (E-CABG). 1014 patients receiving 1-2 RBC units during or after isolated CABG were compared to 2264 patients not receiving RBCs. Results: In 827 propensity score matched pairs, transfusion of 1-2 RBC units did not affect the risk of in-hospital/30-day death (p = 0.523) or stroke (p = 0.804). However, RBC transfusion was associated with an increased risk of acute kidney injury (p = 0.008), sternal wound infection (p = 0.001), postoperative use of antibiotics (p = 0.001), prolonged use of inotropes (p < 0.0001), use of intra-aortic balloon pump (p = 0.012), length of intensive care unit stay (p < 0.0001) and length of in-hospital stay (p < 0.0001). Matched paired analysis excluding pre- and postoperative critical hemodynamic conditions showed that RBC transfusion was associated with an increased risk of major complications except in-hospital/30-day death. Conclusion: Minor perioperative bleeding and subsequent transfusion of 1-2 RBC units did not affect the risk of early death, but increased the risk of other major adverse events. Minimizing perioperative bleeding and prevention of even low-volume RBC transfusion may improve the outcome after CABG. (C) 2017 Elsevier Inc. All rights reserved.

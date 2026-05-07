@@ -1,0 +1,20 @@
+---
+title: "Is Endocan a Diagnostic Marker for Pneumonia After Cardiac Surgery? The ENDOLUNG Study"
+authors: "Perrotti, Andrea, Chenevier-Gobeaux, Camille, Ecarnot, Fiona, Bardonnet, Karine, Barrucand, Benoit, Flicoteaux, Guillaume, Lassalle, Philippe, Chocron, Sidney"
+journal: "ANNALS OF THORACIC SURGERY"
+year: 2018
+volume: "105"
+number: "2"
+pages: "535-541"
+month: "FEB"
+doi: "10.1016/j.athoracsur.2017.07.031"
+abstract: "Background. Postoperative pneumonia is frequent after cardiac surgery and is associated with increased morbidity and mortality. We tested the hypothesis that endocan is an early biomarker for the detection of pneumonia after cardiac surgery. Methods. Between January and May 2016, 155 patients scheduled to undergo elective cardiac surgery with cardiopulmonary bypass were prospectively included in the study. Serum level of endocan was measured at five timepoints (preoperative, and at 6, 24, 48, and 72 hours after the end of surgery). Procalcitonin and C-reactive protein were measured at 24 and 72 hours. The preoperative and postoperative characteristics of the patients were recorded. Independent predictors of postoperative pneumonia were identified by logistic regression. Threshold values of endocan predictive of postoperative pneumonia were determined using receiver-operating characteristics curve analysis. Results. Seventeen patients (11%) had pneumonia after surgery. Endocan greater than 3.7 ng/mL before induction of anesthesia, or greater than 12.1 ng/mL at 6 hours after surgery, as well body mass index higher than 27 kg/m(2) and duration of surgery were independent predictors of postoperative pneumonia. At induction of anesthesia, an endocan cutoff value of 3.7 ng/mL had 65% sensitivity and 72% specificity for the prediction of postoperative pneumonia; whereas at 6 hours, with a cutoff value of 12.1 ng/mL, these values were 71% and 75%, respectively. The time saved by endocan dosage compared with clinical diagnosis of postoperative pneumonia was 96 hours. Conclusions. This study shows that endocan is an early marker of postoperative pneumonia in patients after cardiac surgery. (C) 2018 by The Society of Thoracic Surgeons"
+issn: "0003-4975"
+eissn: "1552-6259"
+unique_id: "WOS:000423081400046"
+bib_key: "WOS:000423081400046"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Background. Postoperative pneumonia is frequent after cardiac surgery and is associated with increased morbidity and mortality. We tested the hypothesis that endocan is an early biomarker for the detection of pneumonia after cardiac surgery. Methods. Between January and May 2016, 155 patients scheduled to undergo elective cardiac surgery with cardiopulmonary bypass were prospectively included in the study. Serum level of endocan was measured at five timepoints (preoperative, and at 6, 24, 48, and 72 hours after the end of surgery). Procalcitonin and C-reactive protein were measured at 24 and 72 hours. The preoperative and postoperative characteristics of the patients were recorded. Independent predictors of postoperative pneumonia were identified by logistic regression. Threshold values of endocan predictive of postoperative pneumonia were determined using receiver-operating characteristics curve analysis. Results. Seventeen patients (11%) had pneumonia after surgery. Endocan greater than 3.7 ng/mL before induction of anesthesia, or greater than 12.1 ng/mL at 6 hours after surgery, as well body mass index higher than 27 kg/m(2) and duration of surgery were independent predictors of postoperative pneumonia. At induction of anesthesia, an endocan cutoff value of 3.7 ng/mL had 65% sensitivity and 72% specificity for the prediction of postoperative pneumonia; whereas at 6 hours, with a cutoff value of 12.1 ng/mL, these values were 71% and 75%, respectively. The time saved by endocan dosage compared with clinical diagnosis of postoperative pneumonia was 96 hours. Conclusions. This study shows that endocan is an early marker of postoperative pneumonia in patients after cardiac surgery. (C) 2018 by The Society of Thoracic Surgeons

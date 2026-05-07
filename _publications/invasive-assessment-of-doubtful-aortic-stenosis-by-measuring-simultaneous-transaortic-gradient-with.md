@@ -1,0 +1,20 @@
+---
+title: "Invasive Assessment of Doubtful Aortic Stenosis by Measuring Simultaneous Transaortic Gradient With a Pressure Wire"
+authors: "Chopard, Romain, Meneveau, Nicolas, Plastaras, Philoktimon, Janin, Sebastien, Seronde, Marie-France, Ecarnot, Fiona, Schiele, Francois"
+journal: "AMERICAN JOURNAL OF CARDIOLOGY"
+year: 2013
+volume: "111"
+number: "12"
+pages: "1772-1777"
+month: "JUN 15"
+doi: "10.1016/j.amjcard.2013.02.033"
+abstract: "Two-dimensional transthoracic echocardiography (2D-TTE) is the reference technique for evaluating aortic stenosis (AS) but may be unreliable in some cases. We aimed to assess whether the use of a pressure wire to measure simultaneous transaortic gradient and aortic valve area (AVA) could be helpful in patients in whom initial noninvasive evaluations were considered doubtful for AS. Fifty-seven patients (mean age 76 years; 39 men) underwent cardiac catheterization with single arterial access for assessment of AVA with the Gorlin and Gorlin formula. Transaortic pressure was obtained by 2 invasive methods: (1) conventional pullback method (PM) from the left ventricle toward the aorta and (2) simultaneous method (SM) with transaortic pressure simultaneously recorded with a 0.014-inch pressure wire introduced into the left ventricle and with a diagnostic catheter placed in the ascending aorta. Reasons for inaccurate assessment by 2D-TTE were low flow states (88%) and/or atrial fibrillation (79%). Agreement for severe AS defined by AVA <0.6 cm(2)/m(2) between SM and 2D-TTE and between SM and PM was fair, with kappa coefficients of 0.38 (95% confidence interval [CI] 0.14-0.75) and 0.36 (95% CI 0.22-0.7) respectively; agreement was poor between 2D-TTE and PM (kappa: 0.23; 95% CI 0.002-0.36). SM led to a reclassification of the severity of AS in 9 patients (15.8%) compared with 2D-TTE and in 11 patients (19.3%) compared with PM. In conclusion, invasive evaluation of doubtful AS by measuring simultaneous transaortic gradient using a pressure wire may provide an attractive method that can lead to a change in therapeutic strategy in a substantial proportion of patients. (C) 2013 Elsevier Inc. All rights reserved."
+issn: "0002-9149"
+eissn: "1879-1913"
+unique_id: "WOS:000320678100017"
+bib_key: "WOS:000320678100017"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+Two-dimensional transthoracic echocardiography (2D-TTE) is the reference technique for evaluating aortic stenosis (AS) but may be unreliable in some cases. We aimed to assess whether the use of a pressure wire to measure simultaneous transaortic gradient and aortic valve area (AVA) could be helpful in patients in whom initial noninvasive evaluations were considered doubtful for AS. Fifty-seven patients (mean age 76 years; 39 men) underwent cardiac catheterization with single arterial access for assessment of AVA with the Gorlin and Gorlin formula. Transaortic pressure was obtained by 2 invasive methods: (1) conventional pullback method (PM) from the left ventricle toward the aorta and (2) simultaneous method (SM) with transaortic pressure simultaneously recorded with a 0.014-inch pressure wire introduced into the left ventricle and with a diagnostic catheter placed in the ascending aorta. Reasons for inaccurate assessment by 2D-TTE were low flow states (88%) and/or atrial fibrillation (79%). Agreement for severe AS defined by AVA <0.6 cm(2)/m(2) between SM and 2D-TTE and between SM and PM was fair, with kappa coefficients of 0.38 (95% confidence interval [CI] 0.14-0.75) and 0.36 (95% CI 0.22-0.7) respectively; agreement was poor between 2D-TTE and PM (kappa: 0.23; 95% CI 0.002-0.36). SM led to a reclassification of the severity of AS in 9 patients (15.8%) compared with 2D-TTE and in 11 patients (19.3%) compared with PM. In conclusion, invasive evaluation of doubtful AS by measuring simultaneous transaortic gradient using a pressure wire may provide an attractive method that can lead to a change in therapeutic strategy in a substantial proportion of patients. (C) 2013 Elsevier Inc. All rights reserved.

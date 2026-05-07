@@ -1,0 +1,19 @@
+---
+title: "Diagnostic yield of referring patients for invasive coronary angiography primarily based on high CAC scores: Positive predictive value for obstructive coronary artery disease in a consecutive real-life cohort"
+authors: "Besutti, Matthieu, Guillon, Benoit, Barthod, Camille, Ecarnot, Fiona, Lagrange, Simon, Meneveau, Nicolas, Chopard, Romain"
+journal: "INTERNATIONAL JOURNAL OF CARDIOLOGY"
+year: 2026
+volume: "444"
+month: "FEB 1"
+doi: "10.1016/j.ijcard.2025.133979"
+abstract: "Background: The predictive value of very high coronary artery calcium (CAC) scores for guiding invasive angiography in suspected obstructive coronary artery disease (oCAD) remains uncertain. Aim: To assess the positive predictive value (PPV) of high CAC thresholds (>1000 and > 2000 Agatston Units [AU]) for oCAD in real-life patients. Methods: We prospectively included 300 consecutive adults referred for coronary angiography primarily because of high or very high CAC scores (January 2020-December 2022). Obstructive CAD was defined according to European guideline criteria, combining anatomical and functional assessment. Results: The cohort was 81 % male, mean age 68.9 +/- 8.2 years; 24 % were symptomatic. The average clinical pretest probability, calculated using the Risk Factor-Clinical Likelihood (RF-CL) model, was 0.20 +/- 0.07. oCAD was found in 42 % of patients (38 % revascularized). The mean Synergy Between Percutaneous Coronary Intervention with Taxus and Cardiac Surgery (SYNTAX) score was 12. For CAC >1000 AU, specificity and PPV were 40 % and 50 % (95 % CI 44-57); for CAC >2000 AU, they increased to 86 % and 66 % (95 % CI 54-75) respectively. No threshold achieved the 85 % benchmark to justify angiography as a stand-alone strategy. Multivariate analysis confirmed very high CAC scores as strong modulators of oCAD risk (OR 2.7 for >1000 AU; OR 3.6 for >2000 AU). Conclusion: Even at extreme thresholds (>2000 AU), CAC alone did not reliably identify oCAD in patients with low to moderate RF-CL. CAC remains valuable for refining pre-test probability and guiding the selection of appropriate non-invasive testing."
+article_number: "133979"
+issn: "0167-5273"
+eissn: "1874-1754"
+unique_id: "WOS:001615122800001"
+bib_key: "WOS:001615122800001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Background: The predictive value of very high coronary artery calcium (CAC) scores for guiding invasive angiography in suspected obstructive coronary artery disease (oCAD) remains uncertain. Aim: To assess the positive predictive value (PPV) of high CAC thresholds (>1000 and > 2000 Agatston Units [AU]) for oCAD in real-life patients. Methods: We prospectively included 300 consecutive adults referred for coronary angiography primarily because of high or very high CAC scores (January 2020-December 2022). Obstructive CAD was defined according to European guideline criteria, combining anatomical and functional assessment. Results: The cohort was 81 % male, mean age 68.9 +/- 8.2 years; 24 % were symptomatic. The average clinical pretest probability, calculated using the Risk Factor-Clinical Likelihood (RF-CL) model, was 0.20 +/- 0.07. oCAD was found in 42 % of patients (38 % revascularized). The mean Synergy Between Percutaneous Coronary Intervention with Taxus and Cardiac Surgery (SYNTAX) score was 12. For CAC >1000 AU, specificity and PPV were 40 % and 50 % (95 % CI 44-57); for CAC >2000 AU, they increased to 86 % and 66 % (95 % CI 54-75) respectively. No threshold achieved the 85 % benchmark to justify angiography as a stand-alone strategy. Multivariate analysis confirmed very high CAC scores as strong modulators of oCAD risk (OR 2.7 for >1000 AU; OR 3.6 for >2000 AU). Conclusion: Even at extreme thresholds (>2000 AU), CAC alone did not reliably identify oCAD in patients with low to moderate RF-CL. CAC remains valuable for refining pre-test probability and guiding the selection of appropriate non-invasive testing.

@@ -1,0 +1,15 @@
+---
+title: "Smart Environments in Support of Fragile and Isolated Older Adults: Protocol for the City of Cote Saint-Luc's Living Lab"
+authors: "Bier, Nathalie, Couture, Melanie, Tannou, Thomas, Bottari, Carolina, Lihoreau, Thomas, Pigot, Helene, Pelayo, Sylvia, Ferrer, Xavier, Wang, Rosalie, Gouin-Vallerand, Charles, Pare, Guy, Gaboury, Sebastien, Bouchard, Kevin, Smele, Sandra, Giroux, Sylvain"
+journal: ""
+year: 2021
+pages: "883-891"
+doi: "10.5220/0010970900003123"
+abstract: "In the context of an aging population, 5.6 million people in Canada are suffering from social isolation and this is a key factor contributing to frailty because it promotes the onset of cognitive impainnent, depression, and dependency in older adults. The COVID-19 pandemic and the demands of social distancing have particularly affected older adults by increasing their exposure to social isolation and medical complications. In addition, the pandemic has highlighted the vulnerability of the health and social services system and the importance of exploring community involvement and telehealth solutions - such as telemonitoring activities of daily living (ADLs). This paper presents the protocol of a living lab project that aims to co-develop a support model around the telemonitoring of ADLs at the scale of a city, Cote Saint-Luc. In particular, the project seeks to optimize older adults' identification and use of resources available in the community. These resources include services from the city, the health and social services system, and community organizations, and support from families and community volunteers. With the support of telemonitoring, this ecosystem could enable seniors to live at home for longer."
+unique_id: "WOS:000778794900098"
+bib_key: "WOS:000778794900098"
+publication_type: "inproceedings"
+source_file: "savedrecs(2).bib"
+---
+
+In the context of an aging population, 5.6 million people in Canada are suffering from social isolation and this is a key factor contributing to frailty because it promotes the onset of cognitive impainnent, depression, and dependency in older adults. The COVID-19 pandemic and the demands of social distancing have particularly affected older adults by increasing their exposure to social isolation and medical complications. In addition, the pandemic has highlighted the vulnerability of the health and social services system and the importance of exploring community involvement and telehealth solutions - such as telemonitoring activities of daily living (ADLs). This paper presents the protocol of a living lab project that aims to co-develop a support model around the telemonitoring of ADLs at the scale of a city, Cote Saint-Luc. In particular, the project seeks to optimize older adults' identification and use of resources available in the community. These resources include services from the city, the health and social services system, and community organizations, and support from families and community volunteers. With the support of telemonitoring, this ecosystem could enable seniors to live at home for longer.

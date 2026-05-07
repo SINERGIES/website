@@ -1,0 +1,20 @@
+---
+title: "Advancing the management of acute intermediate-high-risk pulmonary embolism: The enduring legacy of Professor Guy Meyer"
+authors: "Konstantinides, Stavros V., Sanchez, Olivier, Goldhaber, Samuel Z., Meneveau, Nicolas"
+journal: "PRESSE MEDICALE"
+year: 2024
+volume: "53"
+number: "3"
+month: "SEP"
+doi: "10.1016/j.lpm.2024.104248"
+abstract: "Only few years after the first report on diagnosing acute pulmonary embolism (PE) with pulmonary angiography, studies began to investigate the effectiveness and safety of thrombolytic therapy for achieving early reperfusion. In 1992, Guy Meyer demonstrated the fast improvement of pulmonary haemodynamics after alteplase administration; this drug has remained the mainstay of thrombolysis for PE over almost 35 years. In the meantime, algorithms for PE risk stratification continued to evolve. The landmark Pulmonary Embolism International Thrombolysis (PEITHO) trial, led by Guy Meyer, demonstrated the clinical efficacy of thrombolysis for intermediate-risk PE, albeit at a relatively high risk of major, particularly intracranial bleeding. Today, systemic thrombolysis plays an only minor role in the real-world treatment of acute PE in the United States and Europe, but major trials are underway to test safer reperfusion regimens. Of those, the PEITHO-3 study, conceived by Guy Meyer and other European and North American experts, is an ongoing randomised, placebo-controlled, double-blind, multinational academic trial. The primary objective is to assess the efficacy of reduced-dose intravenous thrombolytic therapy against the background of heparin anticoagulation in patients with intermediate-high-risk PE. In parallel, trials with similar design are testing the efficacy and safety of catheter-directed local thrombolysis or mechanical thrombectomy. Increasingly, focus is being placed on long-term functional and patient-reported outcomes, including quality of life indicators, as well as on the utilization of health care resources. The pioneering work of Guy Meyer will thus continue to have a major impact on the management of PE for years to come."
+article_number: "104248"
+issn: "0755-4982"
+eissn: "2213-0276"
+unique_id: "WOS:001322316700001"
+bib_key: "WOS:001322316700001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Only few years after the first report on diagnosing acute pulmonary embolism (PE) with pulmonary angiography, studies began to investigate the effectiveness and safety of thrombolytic therapy for achieving early reperfusion. In 1992, Guy Meyer demonstrated the fast improvement of pulmonary haemodynamics after alteplase administration; this drug has remained the mainstay of thrombolysis for PE over almost 35 years. In the meantime, algorithms for PE risk stratification continued to evolve. The landmark Pulmonary Embolism International Thrombolysis (PEITHO) trial, led by Guy Meyer, demonstrated the clinical efficacy of thrombolysis for intermediate-risk PE, albeit at a relatively high risk of major, particularly intracranial bleeding. Today, systemic thrombolysis plays an only minor role in the real-world treatment of acute PE in the United States and Europe, but major trials are underway to test safer reperfusion regimens. Of those, the PEITHO-3 study, conceived by Guy Meyer and other European and North American experts, is an ongoing randomised, placebo-controlled, double-blind, multinational academic trial. The primary objective is to assess the efficacy of reduced-dose intravenous thrombolytic therapy against the background of heparin anticoagulation in patients with intermediate-high-risk PE. In parallel, trials with similar design are testing the efficacy and safety of catheter-directed local thrombolysis or mechanical thrombectomy. Increasingly, focus is being placed on long-term functional and patient-reported outcomes, including quality of life indicators, as well as on the utilization of health care resources. The pioneering work of Guy Meyer will thus continue to have a major impact on the management of PE for years to come.

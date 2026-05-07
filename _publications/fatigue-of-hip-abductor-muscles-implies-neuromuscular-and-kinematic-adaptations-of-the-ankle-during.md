@@ -1,0 +1,20 @@
+---
+title: "Fatigue of hip abductor muscles implies neuromuscular and kinematic adaptations of the ankle during dynamic balance"
+authors: "Dury, Jeanne, Michel, Fabrice, Ravier, Gilles"
+journal: "SCANDINAVIAN JOURNAL OF MEDICINE & SCIENCE IN SPORTS"
+year: 2022
+volume: "32"
+number: "9"
+pages: "1324-1334"
+month: "SEP"
+doi: "10.1111/sms.14198"
+abstract: "Objective Determine whether hip abductor muscle fatigue influenced ankle kinematic and muscle activity during ankle-destabilized tasks. Design Cross-sectional study. Methods Twenty-six healthy, active participants performed two tests (Star Excursion Balance Test, SEBT; Weight Bearing Inversion Test, WBIT) for assessment of dynamic balance and ability to control inversion. Participants were equipped with an ankle-destabilizing sandal in inversion and eversion to perform both tests, which were completed before and after a fatiguing exercise of hip abductor muscles (up to 50% reduction in strength). Electromyographic activity of peroneus longus (PL) and brevis (PB), tibialis anterior, gastrocnemius lateralis (GastL) and gluteus medius (GlutM) muscles were recorded. In addition, ankle kinematics were recorded using an inertial measurement unit. Results Hip abductor fatigue induced a significant decrease in SEBT scores in three directions (p < 0.01). During SEBT, ankle supination decreased by 3.2 degrees in the anterior and posteromedial directions (p < 0.01). Muscle activity of GastL increased during achievement of three directions (p < 0.05) in response to hip abductor fatigue. In posteromedial direction, PL (p < 0.001) and GlutM (p < 0.01) activity increased with fatigue. During WBIT, inversion angular velocity was not impacted by fatigue while, PB and GastL activity increased after fatiguing exercise (p < 0.005). Conclusion A decrease in SEBT performance and EMG adaptations with proximal fatigue attest to the importance of the hip abductor muscle in dynamic postural control. This could have important implications in building injury prevention programs. Changes in ankle supination may reflect a protective strategy of the joint in response to hip fatigue."
+issn: "0905-7188"
+eissn: "1600-0838"
+unique_id: "WOS:000806104600001"
+bib_key: "WOS:000806104600001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Objective Determine whether hip abductor muscle fatigue influenced ankle kinematic and muscle activity during ankle-destabilized tasks. Design Cross-sectional study. Methods Twenty-six healthy, active participants performed two tests (Star Excursion Balance Test, SEBT; Weight Bearing Inversion Test, WBIT) for assessment of dynamic balance and ability to control inversion. Participants were equipped with an ankle-destabilizing sandal in inversion and eversion to perform both tests, which were completed before and after a fatiguing exercise of hip abductor muscles (up to 50% reduction in strength). Electromyographic activity of peroneus longus (PL) and brevis (PB), tibialis anterior, gastrocnemius lateralis (GastL) and gluteus medius (GlutM) muscles were recorded. In addition, ankle kinematics were recorded using an inertial measurement unit. Results Hip abductor fatigue induced a significant decrease in SEBT scores in three directions (p < 0.01). During SEBT, ankle supination decreased by 3.2 degrees in the anterior and posteromedial directions (p < 0.01). Muscle activity of GastL increased during achievement of three directions (p < 0.05) in response to hip abductor fatigue. In posteromedial direction, PL (p < 0.001) and GlutM (p < 0.01) activity increased with fatigue. During WBIT, inversion angular velocity was not impacted by fatigue while, PB and GastL activity increased after fatiguing exercise (p < 0.005). Conclusion A decrease in SEBT performance and EMG adaptations with proximal fatigue attest to the importance of the hip abductor muscle in dynamic postural control. This could have important implications in building injury prevention programs. Changes in ankle supination may reflect a protective strategy of the joint in response to hip fatigue.

@@ -1,0 +1,19 @@
+---
+title: "Whole body immersion and hydromineral homeostasis: effect of water temperature"
+authors: "Jimenez, Chantal, Regnard, Jacques, Robinet, Claude, Mourot, Laurent, Gomez-Merino, Danielle, Chennaoui, Mounir, Jammes, Yves, Dumoulin, Gilles, Desruelle, Anne-Virginie, Melin, Bruno"
+journal: "EUROPEAN JOURNAL OF APPLIED PHYSIOLOGY"
+year: 2010
+volume: "108"
+number: "1"
+pages: "49-58"
+month: "JAN"
+doi: "10.1007/s00421-009-1187-2"
+abstract: "This experiment was designed to assess the effects of prolonged whole body immersion (WBI) in thermoneutral and cold conditions on plasma volume and hydromineral homeostasis.10 navy ``combat swimmers'' performed three static 6-h immersions at 34A degrees C (T34), 18A degrees C (T18) and 10A degrees C (T10). Rectal temperature, plasma volume (PV) changes, plasma proteins, plasma and urine ions, plasma osmolality, renin, aldosterone and antidiuretic hormone (ADH) were measured. Results show that compared to pre-immersion levels, PV decreased throughout WBI sessions, the changes being markedly accentuated in cold conditions. At the end of WBI, maximal PV variations were -6.9% at T34, -14.3% at T18, and -16.3% at T10. Plasma osmolality did not change during and after T34 immersion, while hyperosmolality was present at the end of T18 immersion and began after only 1 h of T10 immersion. In the three temperature conditions, significant losses of water (1.6-1.7 l) and salt (6-8 g) occurred and were associated with similar increases in osmolar and free water clearances. Furthermore, T18 and T10 immersions increased the glomerular filtration rate. There was little or no change in plasma renin and ADH, while the plasma level of aldosterone decreased equally in the three temperature conditions. In conclusion, our data indicate that cold water hastened PV changes induced by immersion, and increased the glomerular filtration rate, causing larger accumulated water losses. The iso-osmotic hypovolemia may impede the resumption of baseline fluid balance. Results are very similar to those repeatedly described by various authors during head-out water immersion."
+issn: "1439-6319"
+unique_id: "WOS:000272783500005"
+bib_key: "WOS:000272783500005"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+This experiment was designed to assess the effects of prolonged whole body immersion (WBI) in thermoneutral and cold conditions on plasma volume and hydromineral homeostasis.10 navy ``combat swimmers'' performed three static 6-h immersions at 34A degrees C (T34), 18A degrees C (T18) and 10A degrees C (T10). Rectal temperature, plasma volume (PV) changes, plasma proteins, plasma and urine ions, plasma osmolality, renin, aldosterone and antidiuretic hormone (ADH) were measured. Results show that compared to pre-immersion levels, PV decreased throughout WBI sessions, the changes being markedly accentuated in cold conditions. At the end of WBI, maximal PV variations were -6.9% at T34, -14.3% at T18, and -16.3% at T10. Plasma osmolality did not change during and after T34 immersion, while hyperosmolality was present at the end of T18 immersion and began after only 1 h of T10 immersion. In the three temperature conditions, significant losses of water (1.6-1.7 l) and salt (6-8 g) occurred and were associated with similar increases in osmolar and free water clearances. Furthermore, T18 and T10 immersions increased the glomerular filtration rate. There was little or no change in plasma renin and ADH, while the plasma level of aldosterone decreased equally in the three temperature conditions. In conclusion, our data indicate that cold water hastened PV changes induced by immersion, and increased the glomerular filtration rate, causing larger accumulated water losses. The iso-osmotic hypovolemia may impede the resumption of baseline fluid balance. Results are very similar to those repeatedly described by various authors during head-out water immersion.

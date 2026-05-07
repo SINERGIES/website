@@ -1,0 +1,14 @@
+---
+title: "Verification of Temporal Requirements of Complex Systems Using UML Patterns, Application to a Railway Control Example"
+authors: "Ghazel, Mohamed, Masmoudi, Malek, Toguyeni, Armand"
+journal: ""
+year: 2009
+pages: "7+"
+abstract: "Temporal aspects have a vital importance while dealing with the verification of critical systems. Time constraints may reflect both security and performance requirements. Thereby, verifying the temporal requirements is a major task in the validation of critical systems. In this paper, we discuss a new approach for the specification of the temporal requirements within complex systems. We also sketch a global verification method integrating the specification process proposed. The specification is made in a systematic way on the basis of some generic patterns we developed. These patterns are designed starting from a classification of temporal requirements that we have established while trying to cover at best all the usual requirements one may encounter while dealing with the verification of complex systems. The verification process of a given system is performed using observers instantiated from the proper patterns of the requirements identified. Unlike several existing approaches, our approach proposes means to assist the analyst in the requirements' specification step. Moreover, it allows for the verification of various requirements at once. A use case study from the railway operation field allows the illustration of the various concepts discussed."
+unique_id: "WOS:000289709900002"
+bib_key: "WOS:000289709900002"
+publication_type: "inproceedings"
+source_file: "savedrecs(3).bib"
+---
+
+Temporal aspects have a vital importance while dealing with the verification of critical systems. Time constraints may reflect both security and performance requirements. Thereby, verifying the temporal requirements is a major task in the validation of critical systems. In this paper, we discuss a new approach for the specification of the temporal requirements within complex systems. We also sketch a global verification method integrating the specification process proposed. The specification is made in a systematic way on the basis of some generic patterns we developed. These patterns are designed starting from a classification of temporal requirements that we have established while trying to cover at best all the usual requirements one may encounter while dealing with the verification of complex systems. The verification process of a given system is performed using observers instantiated from the proper patterns of the requirements identified. Unlike several existing approaches, our approach proposes means to assist the analyst in the requirements' specification step. Moreover, it allows for the verification of various requirements at once. A use case study from the railway operation field allows the illustration of the various concepts discussed.

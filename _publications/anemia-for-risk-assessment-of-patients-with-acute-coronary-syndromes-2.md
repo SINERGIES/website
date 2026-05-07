@@ -1,0 +1,19 @@
+---
+title: "Anemia for Risk Assessment of Patients With Acute Coronary Syndromes"
+authors: "Meneveau, Nicolas, Schiele, Francois, Seronde, Marie-France, Descotes-Genon, Vincent, Oettinger, Joanna, Chopard, Romain, Ecarnot, Fiona, Bassand, Jean-Pierre, Reseau Cardiologie Franche Comte"
+journal: "AMERICAN JOURNAL OF CARDIOLOGY"
+year: 2009
+volume: "103"
+number: "4"
+pages: "442-447"
+month: "FEB 15"
+doi: "10.1016/j.amjcard.2008.10.023"
+abstract: "In patients admitted with acute coronary syndromes, those with anemia are at higher risk. However, current risk score systems do not take into account the presence of anemia. The impact of anemia on mortality was studied, and its incremental predictive value was evaluated. Demographic, clinical, and biologic characteristics at admission, as well as treatments and mortality, were recorded for 1,410 consecutive patients with acute coronary syndromes. The incremental value of adding anemia information to risk score evaluation was determined using changes in the appropriateness of Cox models when anemia was added. Anemia was detected in 381 patients (27%). They were older, had more comorbidities, had higher Global Registry of Acute Coronary Events (GRACE) risk scores, received fewer guideline-recommended treatments, and, as a result, had 4-fold higher mortality. When included in a prediction model based on the GRACE risk score, anemia remained an independent predictor of mortality. The addition of anemia improved both the discriminatory capacity and calibration of the models. According to the GRACE risk score, the population was divided into 4 groups of different risk levels of <1%, 1% to <5%, 5% to < 10%, and >= 10%. The addition of anemia to the model made it possible to reclassify 9%, 43%, 47%, and 23% of patients into the different risk categories, respectively. In conclusion, our data confirmed that anemia was an independent predictive factor of mortality and had incremental predictive value to the GRACE score system for early clinical outcomes. (c) 2009 Elsevier Inc. All rights reserved. (Am J Cardiol 2009;103:442-447)"
+issn: "0002-9149"
+unique_id: "WOS:000263579300002"
+bib_key: "WOS:000263579300002"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+In patients admitted with acute coronary syndromes, those with anemia are at higher risk. However, current risk score systems do not take into account the presence of anemia. The impact of anemia on mortality was studied, and its incremental predictive value was evaluated. Demographic, clinical, and biologic characteristics at admission, as well as treatments and mortality, were recorded for 1,410 consecutive patients with acute coronary syndromes. The incremental value of adding anemia information to risk score evaluation was determined using changes in the appropriateness of Cox models when anemia was added. Anemia was detected in 381 patients (27%). They were older, had more comorbidities, had higher Global Registry of Acute Coronary Events (GRACE) risk scores, received fewer guideline-recommended treatments, and, as a result, had 4-fold higher mortality. When included in a prediction model based on the GRACE risk score, anemia remained an independent predictor of mortality. The addition of anemia improved both the discriminatory capacity and calibration of the models. According to the GRACE risk score, the population was divided into 4 groups of different risk levels of <1%, 1% to <5%, 5% to < 10%, and >= 10%. The addition of anemia to the model made it possible to reclassify 9%, 43%, 47%, and 23% of patients into the different risk categories, respectively. In conclusion, our data confirmed that anemia was an independent predictive factor of mortality and had incremental predictive value to the GRACE score system for early clinical outcomes. (c) 2009 Elsevier Inc. All rights reserved. (Am J Cardiol 2009;103:442-447)

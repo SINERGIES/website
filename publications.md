@@ -14,18 +14,14 @@ permalink: /publications/
   {% assign publications = site.publications | sort: "year" | reverse %}
   {% for publication in publications %}
     <article>
-      <p class="meta">{{ publication.year }}{% if publication.journal %} · {{ publication.journal }}{% endif %}</p>
-      <h2><a href="{{ publication.url | relative_url }}">{{ publication.title }}</a></h2>
+      <p class="meta">{{ publication.journal }}{% if publication.year %} · {{ publication.year }}{% endif %}</p>
+      <h2><a class="publication-title-link" href="{{ publication.url | relative_url }}">{{ publication.title }}</a></h2>
       {% if publication.authors %}
         <p>{{ publication.authors }}</p>
       {% endif %}
-      <p class="publication-abstract">
-        {% if publication.abstract %}
-          {{ publication.abstract }}
-        {% else %}
-          Abstract non disponible dans le fichier BibTeX fourni.
-        {% endif %}
-      </p>
+      {% if publication.doi %}
+        <a class="doi-link" href="https://doi.org/{{ publication.doi }}" target="_blank" rel="noopener">DOI {{ publication.doi }}</a>
+      {% endif %}
     </article>
   {% endfor %}
 </section>

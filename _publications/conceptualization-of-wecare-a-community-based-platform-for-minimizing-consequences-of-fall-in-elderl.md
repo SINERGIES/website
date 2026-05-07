@@ -1,0 +1,15 @@
+---
+title: "Conceptualization of WECARE: A Community-based Platform for Minimizing Consequences of Fall in Elderly People"
+authors: "Chansophonkul, Tanawat, Dusenge, Jean, Pichler, Daniel, Samusevich, Volha, Jimenez, Anatole, Koeberle, Severine, Aubry, Regis, Lihoreau, Thomas, Tannou, Thomas"
+journal: ""
+year: 2019
+pages: "587-594"
+doi: "10.5220/0007685505870594"
+abstract: "The number of aged population is growing consistently, and is expected to triple by few next decades. One of the most threatening risk aged population have to face in their daily life is falling. Falling can pose serious injuries and consequences to elderly people, especially when they live alone or have cognitive dysfunction. If the elderly lives alone when an accident happens, it is more likely to take a long time until someone notices and provides rescue. Moreover, if the elderly has cognitive disorder such as Alzheimer's disease, it is possible that he or she will not try to seek help. In this paper, an online platform called WECARE is proposed. WECARE aims to minimize the consequence of delayed rescue after a fall accident. The main advantage of the platform is the integration of community volunteers into the already widespread technologies such as fall detection systems and automatic doors. The benefits of volunteers could be a faster response after a fall accident and social connection provided to elderly people, especially the ones who live alone. This paper also describes how the idea was originated, modified, and improved through methodology. It also discusses advantages of the platform, limitations, as well as its future."
+unique_id: "WOS:000700363100069"
+bib_key: "WOS:000700363100069"
+publication_type: "inproceedings"
+source_file: "savedrecs(2).bib"
+---
+
+The number of aged population is growing consistently, and is expected to triple by few next decades. One of the most threatening risk aged population have to face in their daily life is falling. Falling can pose serious injuries and consequences to elderly people, especially when they live alone or have cognitive dysfunction. If the elderly lives alone when an accident happens, it is more likely to take a long time until someone notices and provides rescue. Moreover, if the elderly has cognitive disorder such as Alzheimer's disease, it is possible that he or she will not try to seek help. In this paper, an online platform called WECARE is proposed. WECARE aims to minimize the consequence of delayed rescue after a fall accident. The main advantage of the platform is the integration of community volunteers into the already widespread technologies such as fall detection systems and automatic doors. The benefits of volunteers could be a faster response after a fall accident and social connection provided to elderly people, especially the ones who live alone. This paper also describes how the idea was originated, modified, and improved through methodology. It also discusses advantages of the platform, limitations, as well as its future.

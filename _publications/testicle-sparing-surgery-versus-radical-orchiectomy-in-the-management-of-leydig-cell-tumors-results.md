@@ -1,0 +1,20 @@
+---
+title: "Testicle-sparing surgery versus radical orchiectomy in the management of Leydig cell tumors: results from a multicenter study"
+authors: "Laclergerie, Florian, Mouillet, Guillaume, Frontczak, Alexandre, Balssa, Loic, Eschwege, Pascal, Saussine, Christian, Larre, Stephane, Cormier, Luc, Vuillemin, Antoine Thiery, Kleinclauss, Francois"
+journal: "WORLD JOURNAL OF UROLOGY"
+year: 2018
+volume: "36"
+number: "3"
+pages: "427-433"
+month: "MAR"
+doi: "10.1007/s00345-017-2151-0"
+abstract: "To compare the oncological outcomes of testicle-sparing surgery (TSS) and radical orchiectomy (RO) in patients with Leydig cell tumor (LCT) of the testis. A multicenter retrospective clinical study was conducted in 12 centers in France. All the patients with histologically proven LCT were included and analyzed according to treatment (organ-sparing surgery or radical orchiectomy). Patients underwent preoperative clinical, biological and imaging assessment. Demographic, clinical, and pathological variables were collected at baseline and compared between groups according to surgical treatment. Follow-up was calculated using the reverse Kaplan-Meier estimation and was updated at the end of 2015. Between 1986 and 2014, 56 patients presented with LCT were identified and included in the study. Twenty-one patients (37.5%) underwent TSS and 35 (62.5%) RO. Demographics and tumor characteristics were not significantly different between the groups. Median follow-up was 62 months after TSS, but only 35 months after RO. Two patients (9.5%) developed local recurrence 15 and 34 months after TSS and underwent secondary RO. No local recurrence or metastasis was observed after complementary treatment. No recurrence was observed after RO. Disease-free survival did not differ between the groups (95.2% in TSS versus 77.1% in the RO group, p = 0.23). No patient died in the TSS group, but three patients (8.6%) in the RO group died from other diseases without evidence of relapse. One patient (4.8%) in the TSS group versus five (14.3%) in the RO group were lost to follow-up. Long-term follow-up suggests that testicle-sparing surgery does not compromise relapse-free survival in the treatment of Leydig cell tumor of the testis."
+issn: "0724-4983"
+eissn: "1433-8726"
+unique_id: "WOS:000426554800013"
+bib_key: "WOS:000426554800013"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+To compare the oncological outcomes of testicle-sparing surgery (TSS) and radical orchiectomy (RO) in patients with Leydig cell tumor (LCT) of the testis. A multicenter retrospective clinical study was conducted in 12 centers in France. All the patients with histologically proven LCT were included and analyzed according to treatment (organ-sparing surgery or radical orchiectomy). Patients underwent preoperative clinical, biological and imaging assessment. Demographic, clinical, and pathological variables were collected at baseline and compared between groups according to surgical treatment. Follow-up was calculated using the reverse Kaplan-Meier estimation and was updated at the end of 2015. Between 1986 and 2014, 56 patients presented with LCT were identified and included in the study. Twenty-one patients (37.5%) underwent TSS and 35 (62.5%) RO. Demographics and tumor characteristics were not significantly different between the groups. Median follow-up was 62 months after TSS, but only 35 months after RO. Two patients (9.5%) developed local recurrence 15 and 34 months after TSS and underwent secondary RO. No local recurrence or metastasis was observed after complementary treatment. No recurrence was observed after RO. Disease-free survival did not differ between the groups (95.2% in TSS versus 77.1% in the RO group, p = 0.23). No patient died in the TSS group, but three patients (8.6%) in the RO group died from other diseases without evidence of relapse. One patient (4.8%) in the TSS group versus five (14.3%) in the RO group were lost to follow-up. Long-term follow-up suggests that testicle-sparing surgery does not compromise relapse-free survival in the treatment of Leydig cell tumor of the testis.

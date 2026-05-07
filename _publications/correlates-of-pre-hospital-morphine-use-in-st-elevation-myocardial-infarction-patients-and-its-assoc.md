@@ -1,0 +1,20 @@
+---
+title: "Correlates of pre-hospital morphine use in ST-elevation myocardial infarction patients and its association with in-hospital outcomes and long-term mortality: the FAST-MI (French Registry of Acute ST-elevation and non-STelevation Myocardial Infarction) programme"
+authors: "Puymirat, Etienne, Lamhaut, Lionel, Bonnet, Nicolas, Aissaoui, Nadia, Henry, Patrick, Cayla, Guillaume, Cattan, Simon, Steg, Gabriel, Mock, Laurent, Ducrocq, Gregory, Goldstein, Patrick, Schiele, Francois, Bonnefoy-Cudraz, Eric, Simon, Tabassome, Danchin, Nicolas"
+journal: "EUROPEAN HEART JOURNAL"
+year: 2016
+volume: "37"
+number: "13"
+pages: "1063-1071"
+month: "APR 1"
+doi: "10.1093/eurheartj/ehv567"
+abstract: "Aims The use of opioids is recommended for pain relief in patients with myocardial infarction (MI) but may delay antiplatelet agent absorption, potentially leading to decreased treatment efficacy. Methods and results In-hospital complications (death, non-fatal re-MI, stroke, stentthrombosis, and bleeding) and 1-year survival according to pre-hospital morphine use were assessed in 2438 ST-elevation MI (STEMI) patients from the French Registry of Acute ST-elevation and non-ST-elevation Myocardial Infarction (FAST-MI) 2010. The analyses were replicated in the 1726 STEMI patients of the FAST-MI 2005 cohort, in which polymorphisms of CYP2C19 and ABCB1 had been assessed. Specific subgroup analyses taking into account these genetic polymorphisms were performed in patients pre-treated with thienopyridines. The 453 patients (19%) receiving morphine pre-hospital were younger, more often male, with a lower GRACE score and higher chest pain levels. After adjustment for baseline differences, in-hospital complications and 1-year survival (hazard ratio = 0.69; 95% confidence interval: 0.35-1.37) were not increased according to pre-hospital morphine use. After propensity score matching, 1-year survival according to pre-hospital morphine was also similar. Consistent results were found in the replication cohort, including in those receiving pre-hospital thienopyridines and whatever the genetic polymorphisms of CYP2C19 and ABCB1. Conclusion In two independent everyday-life cohorts, pre-hospital morphine use in STEMI patients was not associated with worse in-hospital complications and 1-year mortality."
+issn: "0195-668X"
+eissn: "1522-9645"
+unique_id: "WOS:000373188100015"
+bib_key: "WOS:000373188100015"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Aims The use of opioids is recommended for pain relief in patients with myocardial infarction (MI) but may delay antiplatelet agent absorption, potentially leading to decreased treatment efficacy. Methods and results In-hospital complications (death, non-fatal re-MI, stroke, stentthrombosis, and bleeding) and 1-year survival according to pre-hospital morphine use were assessed in 2438 ST-elevation MI (STEMI) patients from the French Registry of Acute ST-elevation and non-ST-elevation Myocardial Infarction (FAST-MI) 2010. The analyses were replicated in the 1726 STEMI patients of the FAST-MI 2005 cohort, in which polymorphisms of CYP2C19 and ABCB1 had been assessed. Specific subgroup analyses taking into account these genetic polymorphisms were performed in patients pre-treated with thienopyridines. The 453 patients (19%) receiving morphine pre-hospital were younger, more often male, with a lower GRACE score and higher chest pain levels. After adjustment for baseline differences, in-hospital complications and 1-year survival (hazard ratio = 0.69; 95% confidence interval: 0.35-1.37) were not increased according to pre-hospital morphine use. After propensity score matching, 1-year survival according to pre-hospital morphine was also similar. Consistent results were found in the replication cohort, including in those receiving pre-hospital thienopyridines and whatever the genetic polymorphisms of CYP2C19 and ABCB1. Conclusion In two independent everyday-life cohorts, pre-hospital morphine use in STEMI patients was not associated with worse in-hospital complications and 1-year mortality.

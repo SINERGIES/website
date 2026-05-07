@@ -11,6 +11,56 @@ layout: default
 </article>
 
 <section class="page-content">
+  <dl class="publication-details">
+    {% if page.journal %}
+      <div>
+        <dt>Journal</dt>
+        <dd>{{ page.journal }}</dd>
+      </div>
+    {% endif %}
+    {% if page.year %}
+      <div>
+        <dt>Année</dt>
+        <dd>{{ page.year }}</dd>
+      </div>
+    {% endif %}
+    {% if page.volume %}
+      <div>
+        <dt>Volume</dt>
+        <dd>{{ page.volume }}</dd>
+      </div>
+    {% endif %}
+    {% if page.number %}
+      <div>
+        <dt>Numéro</dt>
+        <dd>{{ page.number }}</dd>
+      </div>
+    {% endif %}
+    {% if page.pages %}
+      <div>
+        <dt>Pages</dt>
+        <dd>{{ page.pages }}</dd>
+      </div>
+    {% endif %}
+    {% if page.article_number %}
+      <div>
+        <dt>Article</dt>
+        <dd>{{ page.article_number }}</dd>
+      </div>
+    {% endif %}
+    {% if page.month %}
+      <div>
+        <dt>Mois</dt>
+        <dd>{{ page.month }}</dd>
+      </div>
+    {% endif %}
+    {% if page.doi %}
+      <div>
+        <dt>DOI</dt>
+        <dd>{{ page.doi }}</dd>
+      </div>
+    {% endif %}
+  </dl>
   <h2>Abstract</h2>
   {% if page.abstract %}
     <p>{{ page.abstract }}</p>

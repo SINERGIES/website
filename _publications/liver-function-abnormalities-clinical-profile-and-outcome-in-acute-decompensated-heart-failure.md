@@ -1,0 +1,20 @@
+---
+title: "Liver function abnormalities, clinical profile, and outcome in acute decompensated heart failure"
+authors: "Nikolaou, Maria, Parissis, John, Yilmaz, M. Birhan, Seronde, Marie-France, Kivikko, Matti, Laribi, Said, Paugam-Burtz, Catherine, Cai, Danlin, Pohjanjousi, Pasi, Laterre, Pierre-Francois, Deye, Nicolas, Poder, Pentti, Cohen-Solal, Alain, Mebazaa, Alexandre"
+journal: "EUROPEAN HEART JOURNAL"
+year: 2013
+volume: "34"
+number: "10"
+pages: "742-749"
+month: "MAR"
+doi: "10.1093/eurheartj/ehs332"
+abstract: "The aim of this study was to assess the prevalence of abnormal liver function tests (LFTs) and the associated clinical profile and outcome(s) in acute decompensated heart failure (ADHF) patients. Alteration in LFTs is a recognized feature of ADHF, but prevalence and outcomes data from a broad contemporary cohort of ADHF are scarce and the mechanism(s) of ADHF-induced cholestasis is unknown. We conducted a post hoc analysis of SURVIVE, a large clinical trial including ADHF patients treated with levosimendan or dobutamine. All LFTs were available in 1134 patients at baseline. Abnormal LFTs were seen in 46 of ADHF patients: isolated abnormal alkaline phosphatase (AP) was noted in 11, isolated abnormal transaminases in 26, and a combination of abnormal AP and transaminases in 9. Abnormal AP was associated with marked signs of systemic congestion and elevated right-sided filling pressure. Abnormal AP had no relationship with 31-day mortality but was associated with worse 180-day mortality (23.5 vs. 34.9, P 0.001 vs. patients with normal AP). Abnormal transaminases were associated with clinical signs of hypoperfusion and with greater 31-day and 180-day mortality compared with normal transaminase profiles (17.6 vs. 8.4 and 31.6 vs. 22.4, respectively; both P 0.001). There was no additive value of abnormal AP plus abnormal transaminase on a long-term outcome. Abnormal LFTs were present in about a half of patients presenting with ADHF treated with inotropes. Abnormal AP and abnormal transaminases were associated with specific clinical, biological, and prognostic features, including a short-term overmortality with increased transaminases but not with biological signs of cholestasis, in ADHF patients."
+issn: "0195-668X"
+eissn: "1522-9645"
+unique_id: "WOS:000316128800011"
+bib_key: "WOS:000316128800011"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+The aim of this study was to assess the prevalence of abnormal liver function tests (LFTs) and the associated clinical profile and outcome(s) in acute decompensated heart failure (ADHF) patients. Alteration in LFTs is a recognized feature of ADHF, but prevalence and outcomes data from a broad contemporary cohort of ADHF are scarce and the mechanism(s) of ADHF-induced cholestasis is unknown. We conducted a post hoc analysis of SURVIVE, a large clinical trial including ADHF patients treated with levosimendan or dobutamine. All LFTs were available in 1134 patients at baseline. Abnormal LFTs were seen in 46 of ADHF patients: isolated abnormal alkaline phosphatase (AP) was noted in 11, isolated abnormal transaminases in 26, and a combination of abnormal AP and transaminases in 9. Abnormal AP was associated with marked signs of systemic congestion and elevated right-sided filling pressure. Abnormal AP had no relationship with 31-day mortality but was associated with worse 180-day mortality (23.5 vs. 34.9, P 0.001 vs. patients with normal AP). Abnormal transaminases were associated with clinical signs of hypoperfusion and with greater 31-day and 180-day mortality compared with normal transaminase profiles (17.6 vs. 8.4 and 31.6 vs. 22.4, respectively; both P 0.001). There was no additive value of abnormal AP plus abnormal transaminase on a long-term outcome. Abnormal LFTs were present in about a half of patients presenting with ADHF treated with inotropes. Abnormal AP and abnormal transaminases were associated with specific clinical, biological, and prognostic features, including a short-term overmortality with increased transaminases but not with biological signs of cholestasis, in ADHF patients.

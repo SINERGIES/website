@@ -1,0 +1,20 @@
+---
+title: "Elements of morphology: Standard terminology for the teeth and classifying genetic dental disorders"
+authors: "de La Dure-Molla, Muriel, Fournier, Benjamin Philippe, Cristina Manzanares, Maria, Acevedo, Ana Carolina, Hennekann, Raoul C., Friedlander, Lisa, Boy-Lefevre, Marie-Laure, Kerner, Stephane, Toupenay, Steve, Garrec, Pascal, Vi-Fane, Brigite, Felizardo, Rufino, Berteretche, Marie-Violaine, Jordan, Laurence, Ferre, Francois, Clauss, Francois, Jung, Sophie, de Chalendar, Myriam, Troester, Sebastien, Kawczynski, Marzena, Chaloyard, Jessica, Maniere, Marie Cecile, Berdal, Ariane, Bloch-Zupan, Agnes, Sixou, Jean-Louis, Foray, Herve, Bonin-Goga, Beatrice, Sury, Florent, Vaysse, Frederic, Ferri, Joel, Tardieu, Corinne, Alliot-Licht, Brigitte, Morrier, Jean-Jacques, Droz, Dominique, Muller-Bolla, Michele, Lopez-Cazaux, Serena, Bailleul-Forestier, Isabelle, Davit-Beal, Tiphaine, Gelle, Marie Paule, Jacquelin, Louis Frederic, Euvrard, Edouard, Ahossi, Victorin, Int Grp Dent Nomenclature"
+journal: "AMERICAN JOURNAL OF MEDICAL GENETICS PART A"
+year: 2019
+volume: "179"
+number: "10"
+pages: "1913-1981"
+month: "OCT"
+doi: "10.1002/ajmg.a.61316"
+abstract: "Dental anomalies occur frequently in a number of genetic disorders and act as major signs in diagnosing these disorders. We present definitions of the most common dental signs and propose a classification usable as a diagnostic tool by dentists, clinical geneticists, and other health care providers. The definitions are part of the series Elements of Morphology and have been established after careful discussions within an international group of experienced dentists and geneticists. The classification system was elaborated in the French collaborative network ``TETECOU'' and the affiliated O-Rares reference/competence centers. The classification includes isolated and syndromic disorders with oral and dental anomalies, to which causative genes and main extraoral signs and symptoms are added. A systematic literature analysis yielded 408 entities of which a causal gene has been identified in 79%. We classified dental disorders in eight groups: dental agenesis, supernumerary teeth, dental size and/or shape, enamel, dentin, dental eruption, periodontal and gingival, and tumor-like anomalies. We aim the classification to act as a shared reference for clinical and epidemiological studies. We welcome critical evaluations of the definitions and classification and will regularly update the classification for newly recognized conditions."
+issn: "1552-4825"
+eissn: "1552-4833"
+unique_id: "WOS:000484226600001"
+bib_key: "WOS:000484226600001"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Dental anomalies occur frequently in a number of genetic disorders and act as major signs in diagnosing these disorders. We present definitions of the most common dental signs and propose a classification usable as a diagnostic tool by dentists, clinical geneticists, and other health care providers. The definitions are part of the series Elements of Morphology and have been established after careful discussions within an international group of experienced dentists and geneticists. The classification system was elaborated in the French collaborative network ``TETECOU'' and the affiliated O-Rares reference/competence centers. The classification includes isolated and syndromic disorders with oral and dental anomalies, to which causative genes and main extraoral signs and symptoms are added. A systematic literature analysis yielded 408 entities of which a causal gene has been identified in 79%. We classified dental disorders in eight groups: dental agenesis, supernumerary teeth, dental size and/or shape, enamel, dentin, dental eruption, periodontal and gingival, and tumor-like anomalies. We aim the classification to act as a shared reference for clinical and epidemiological studies. We welcome critical evaluations of the definitions and classification and will regularly update the classification for newly recognized conditions.

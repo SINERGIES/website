@@ -1,0 +1,20 @@
+---
+title: "Repair of distal biceps brachii tendon assessed with 3-T magnetic resonance imaging and correlation with functional outcome"
+authors: "Alemann, Guillaume, Dietsch, Emmanuel, Gallinet, David, Obert, Laurent, Kastler, Bruno, Aubry, Sebastien"
+journal: "SKELETAL RADIOLOGY"
+year: 2015
+volume: "44"
+number: "5"
+pages: "629-639"
+month: "MAY"
+doi: "10.1007/s00256-014-2079-z"
+abstract: "Objectives were to study the MRI appearance of the repaired distal biceps tendon (DBT), anatomically reinserted, and to search for a correlation between tendon measurements and functional results. Twenty-five patients (mean age, 49 +/- 4.9 years old) who benefited from 3-T MRI follow-up of the elbow after surgical reinsertion of the DBT were retrospectively included and compared to a control group (n = 25; mean age, 48 +/- 10 years old). MRI was performed during the month of clinical follow-up and on average 22 months after surgery. Delayed complications (secondary avulsion, new rupture), intratendinous osteoma, tendinous signal on T1-weighted (T1(w)) and fat-suppressed proton density-weighted (FS-PDw) images as well as DBT measurements were recorded. The maximum isometric elbow flexion strength (MEFS) and range of motion of the elbow were assessed. Repaired DBT demonstrated a heterogeneous but normally fibrillar structure. Its low T1(w) signal was less pronounced than that of normal tendons, and the FS-PDW image signal was similar to that of T1(w) images. MRI detected seven osteomas (Se = 53 % vs. plain radiography), one textiloma and one secondary avulsion. Repaired DBT measurements were significantly correlated with MEFS (dominant arm R2: 0.38; nondominant arm R2: 0.54); this correlation involved the insertion surface (Delta = -75.7 mm(2), p = 0.046), transverse diameter (Delta = -2.6 mm, p = 0.018), anteroposterior diameter at the level of the radial head (Delta = -3.9 mm, p = 0.001) and DBT cross-sectional area (Delta = -50.2 mm(2), p = 0.003). The quality of functional outcome after anatomical elbow rehabilitation of DBT correlates with the extent of tendinous hypertrophy during the healing process."
+issn: "0364-2348"
+eissn: "1432-2161"
+unique_id: "WOS:000351463800002"
+bib_key: "WOS:000351463800002"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+Objectives were to study the MRI appearance of the repaired distal biceps tendon (DBT), anatomically reinserted, and to search for a correlation between tendon measurements and functional results. Twenty-five patients (mean age, 49 +/- 4.9 years old) who benefited from 3-T MRI follow-up of the elbow after surgical reinsertion of the DBT were retrospectively included and compared to a control group (n = 25; mean age, 48 +/- 10 years old). MRI was performed during the month of clinical follow-up and on average 22 months after surgery. Delayed complications (secondary avulsion, new rupture), intratendinous osteoma, tendinous signal on T1-weighted (T1(w)) and fat-suppressed proton density-weighted (FS-PDw) images as well as DBT measurements were recorded. The maximum isometric elbow flexion strength (MEFS) and range of motion of the elbow were assessed. Repaired DBT demonstrated a heterogeneous but normally fibrillar structure. Its low T1(w) signal was less pronounced than that of normal tendons, and the FS-PDW image signal was similar to that of T1(w) images. MRI detected seven osteomas (Se = 53 % vs. plain radiography), one textiloma and one secondary avulsion. Repaired DBT measurements were significantly correlated with MEFS (dominant arm R2: 0.38; nondominant arm R2: 0.54); this correlation involved the insertion surface (Delta = -75.7 mm(2), p = 0.046), transverse diameter (Delta = -2.6 mm, p = 0.018), anteroposterior diameter at the level of the radial head (Delta = -3.9 mm, p = 0.001) and DBT cross-sectional area (Delta = -50.2 mm(2), p = 0.003). The quality of functional outcome after anatomical elbow rehabilitation of DBT correlates with the extent of tendinous hypertrophy during the healing process.

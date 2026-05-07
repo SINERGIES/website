@@ -1,0 +1,20 @@
+---
+title: "CT evaluation of bowel wall enhancement in pneumatosis intestinalis: preventing non-therapeutic laparotomies"
+authors: "Fleck, Martin, Zein, Lisa, Doussot, Alexandre, Turco, Celia, Lakkis, Zaher, Simon, Gabriel, Busse-cote, Andreas, Piton, Gael, Delabrousse, Eric, Calame, Paul"
+journal: "ABDOMINAL RADIOLOGY"
+year: 2024
+volume: "49"
+number: "12"
+pages: "4227-4238"
+month: "DEC"
+doi: "10.1007/s00261-024-04450-1"
+abstract: "Purpose To evaluate the diagnostic performance of bowel wall enhancement for diagnosing concomitant bowel ischemia in patients with parietal pneumatosis (PI) diagnosed at abdominal CT. Materials and methods From January 1, 2012 to December 31, 2021, 226 consecutive patients who presented with PI on abdominal CT from any bowel segment were included. Variables at the time of the CT were retrospectively extracted from medical charts. CT examinations were blindly analyzed by two independent radiologists. The third reader classified all disagreement of bowel enhancement in three categories: (1) normal bowel enhancement; (2) doubtful bowel wall enhancement; (3) absent bowel wall enhancement. Multivariable logistic regression analysis was performed. Concomitant bowel ischemia was defined as requirement of bowel resection specifically due to ischemic lesion in operated patients and death from bowel ischemia in non-operated patients. Results Overall, 78/226 (35%) patients had PI associated with concomitant bowel ischemia. At multivariate analysis, Only absence or doubtful bowel wall enhancement was associated with concomitant bowel ischemia (OR = 167.73 95%CI [23.39-4349.81], P < 0,001) and acute mesenteric ischemia associated with PP (OR = 67.94; 95%CI [5.18-3262.36], P < 0.009). Among the 82 patients who underwent a laparotomy for suspected bowel ischemia, rate of non-therapeutic laparotomy increased from 15/59 (25%), 2/6 (50%) and 16/17 (94%) when bowel wall enhancement was absent, doubtful and normal respectively. Conclusion Absence of enhancement of the bowel wall is the primary feature associated with concomitant bowel ischemia. It should be carefully assessed when PI is detected to avoid non-therapeutic laparotomy."
+issn: "2366-004X"
+eissn: "2366-0058"
+unique_id: "WOS:001261201600002"
+bib_key: "WOS:001261201600002"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Purpose To evaluate the diagnostic performance of bowel wall enhancement for diagnosing concomitant bowel ischemia in patients with parietal pneumatosis (PI) diagnosed at abdominal CT. Materials and methods From January 1, 2012 to December 31, 2021, 226 consecutive patients who presented with PI on abdominal CT from any bowel segment were included. Variables at the time of the CT were retrospectively extracted from medical charts. CT examinations were blindly analyzed by two independent radiologists. The third reader classified all disagreement of bowel enhancement in three categories: (1) normal bowel enhancement; (2) doubtful bowel wall enhancement; (3) absent bowel wall enhancement. Multivariable logistic regression analysis was performed. Concomitant bowel ischemia was defined as requirement of bowel resection specifically due to ischemic lesion in operated patients and death from bowel ischemia in non-operated patients. Results Overall, 78/226 (35%) patients had PI associated with concomitant bowel ischemia. At multivariate analysis, Only absence or doubtful bowel wall enhancement was associated with concomitant bowel ischemia (OR = 167.73 95%CI [23.39-4349.81], P < 0,001) and acute mesenteric ischemia associated with PP (OR = 67.94; 95%CI [5.18-3262.36], P < 0.009). Among the 82 patients who underwent a laparotomy for suspected bowel ischemia, rate of non-therapeutic laparotomy increased from 15/59 (25%), 2/6 (50%) and 16/17 (94%) when bowel wall enhancement was absent, doubtful and normal respectively. Conclusion Absence of enhancement of the bowel wall is the primary feature associated with concomitant bowel ischemia. It should be carefully assessed when PI is detected to avoid non-therapeutic laparotomy.

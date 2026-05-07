@@ -1,0 +1,20 @@
+---
+title: "Early Prediction of Coma Recovery after Cardiac Arrest with Blinded Pupillometry"
+authors: "Solari, Daria, Rossetti, Andrea O., Carteron, Laurent, Miroz, John-Paul, Novy, Jan, Eckert, Philippe, Oddo, Mauro"
+journal: "ANNALS OF NEUROLOGY"
+year: 2017
+volume: "81"
+number: "6"
+pages: "804-810"
+month: "JUN"
+doi: "10.1002/ana.24943"
+abstract: "Objective: Prognostication studies on comatose cardiac arrest (CA) patients are limited by lack of blinding, potentially causing overestimation of outcome predictors and self-fulfilling prophecy. Using a blinded approach, we analyzed the value of quantitative automated pupillometry to predict neurological recovery after CA. Methods: We examined a prospective cohort of 103 comatose adult patients who were unconscious 48 hours after CA and underwent repeated measurements of quantitative pupillary light reflex (PLR) using the Neurolight-Algiscan device. Clinical examination, electroencephalography (EEG), somatosensory evoked potentials (SSEP), and serum neuron-specific enolase were performed in parallel, as part of standard multimodal assessment. Automated pupillometry results were blinded to clinicians involved in patient care. Cerebral Performance Categories (CPC) at 1 year was the outcome endpoint. Results: Survivors (n = 50 patients; 32 CPC 1, 16 CPC 2, 2 CPC 3) had higher quantitative PLR (median = 20 [range = 13-41] vs 11 [0-55] %, p < 0.0001) and constriction velocity (1.46 [0.85-4.63] vs 0.94 [0.16-4.97] mm/s, p < 0.0001) than nonsurvivors. At 48 hours, a quantitative PLR < 13% had 100% specificity and positive predictive value to predict poor recovery (0% false-positive rate), and provided equal performance to that of EEG and SSEP. Reduced quantitative PLR correlated with higher serum neuron-specific enolase (Spearman r = 20.52, p < 0.0001). Interpretation: Reduced quantitative PLR correlates with postanoxic brain injury and, when compared to standard multimodal assessment, is highly accurate in predicting long-term prognosis after CA. This is the first prognostication study to show the value of automated pupillometry using a blinded approach to minimize self-fulfilling prophecy."
+issn: "0364-5134"
+eissn: "1531-8249"
+unique_id: "WOS:000403795200006"
+bib_key: "WOS:000403795200006"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Objective: Prognostication studies on comatose cardiac arrest (CA) patients are limited by lack of blinding, potentially causing overestimation of outcome predictors and self-fulfilling prophecy. Using a blinded approach, we analyzed the value of quantitative automated pupillometry to predict neurological recovery after CA. Methods: We examined a prospective cohort of 103 comatose adult patients who were unconscious 48 hours after CA and underwent repeated measurements of quantitative pupillary light reflex (PLR) using the Neurolight-Algiscan device. Clinical examination, electroencephalography (EEG), somatosensory evoked potentials (SSEP), and serum neuron-specific enolase were performed in parallel, as part of standard multimodal assessment. Automated pupillometry results were blinded to clinicians involved in patient care. Cerebral Performance Categories (CPC) at 1 year was the outcome endpoint. Results: Survivors (n = 50 patients; 32 CPC 1, 16 CPC 2, 2 CPC 3) had higher quantitative PLR (median = 20 [range = 13-41] vs 11 [0-55] %, p < 0.0001) and constriction velocity (1.46 [0.85-4.63] vs 0.94 [0.16-4.97] mm/s, p < 0.0001) than nonsurvivors. At 48 hours, a quantitative PLR < 13% had 100% specificity and positive predictive value to predict poor recovery (0% false-positive rate), and provided equal performance to that of EEG and SSEP. Reduced quantitative PLR correlated with higher serum neuron-specific enolase (Spearman r = 20.52, p < 0.0001). Interpretation: Reduced quantitative PLR correlates with postanoxic brain injury and, when compared to standard multimodal assessment, is highly accurate in predicting long-term prognosis after CA. This is the first prognostication study to show the value of automated pupillometry using a blinded approach to minimize self-fulfilling prophecy.

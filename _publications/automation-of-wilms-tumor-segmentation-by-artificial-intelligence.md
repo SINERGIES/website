@@ -1,0 +1,20 @@
+---
+title: "Automation of Wilms' tumor segmentation by artificial intelligence"
+authors: "Hild, Olivier, Berriet, Pierre, Nallet, Jeremie, Salvi, Loredane, Lenoir, Marion, Henriet, Julien, Thiran, Jean-Philippe, Auber, Frederic, Chaussy, Yann"
+journal: "CANCER IMAGING"
+year: 2024
+volume: "24"
+number: "1"
+month: "JUL 2"
+doi: "10.1186/s40644-024-00729-0"
+abstract: "Background3D reconstruction of Wilms' tumor provides several advantages but are not systematically performed because manual segmentation is extremely time-consuming. The objective of our study was to develop an artificial intelligence tool to automate the segmentation of tumors and kidneys in children.MethodsA manual segmentation was carried out by two experts on 14 CT scans. Then, the segmentation of Wilms' tumor and neoplastic kidney was automatically performed using the CNN U-Net and the same CNN U-Net trained according to the OV2ASSION method. The time saving for the expert was estimated depending on the number of sections automatically segmented.ResultsWhen segmentations were performed manually by two experts, the inter-individual variability resulted in a Dice index of 0.95 for tumor and 0.87 for kidney. Fully automatic segmentation with the CNN U-Net yielded a poor Dice index of 0.69 for Wilms' tumor and 0.27 for kidney. With the OV2ASSION method, the Dice index varied depending on the number of manually segmented sections. For the segmentation of the Wilms' tumor and neoplastic kidney, it varied respectively from 0.97 to 0.94 for a gap of 1 (2 out of 3 sections performed manually) to 0.94 and 0.86 for a gap of 10 (1 section out of 6 performed manually).ConclusionFully automated segmentation remains a challenge in the field of medical image processing. Although it is possible to use already developed neural networks, such as U-Net, we found that the results obtained were not satisfactory for segmentation of neoplastic kidneys or Wilms' tumors in children. We developed an innovative CNN U-Net training method that makes it possible to segment the kidney and its tumor with the same precision as an expert while reducing their intervention time by 80%."
+article_number: "83"
+issn: "1740-5025"
+eissn: "1470-7330"
+unique_id: "WOS:001260739200001"
+bib_key: "WOS:001260739200001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Background3D reconstruction of Wilms' tumor provides several advantages but are not systematically performed because manual segmentation is extremely time-consuming. The objective of our study was to develop an artificial intelligence tool to automate the segmentation of tumors and kidneys in children.MethodsA manual segmentation was carried out by two experts on 14 CT scans. Then, the segmentation of Wilms' tumor and neoplastic kidney was automatically performed using the CNN U-Net and the same CNN U-Net trained according to the OV2ASSION method. The time saving for the expert was estimated depending on the number of sections automatically segmented.ResultsWhen segmentations were performed manually by two experts, the inter-individual variability resulted in a Dice index of 0.95 for tumor and 0.87 for kidney. Fully automatic segmentation with the CNN U-Net yielded a poor Dice index of 0.69 for Wilms' tumor and 0.27 for kidney. With the OV2ASSION method, the Dice index varied depending on the number of manually segmented sections. For the segmentation of the Wilms' tumor and neoplastic kidney, it varied respectively from 0.97 to 0.94 for a gap of 1 (2 out of 3 sections performed manually) to 0.94 and 0.86 for a gap of 10 (1 section out of 6 performed manually).ConclusionFully automated segmentation remains a challenge in the field of medical image processing. Although it is possible to use already developed neural networks, such as U-Net, we found that the results obtained were not satisfactory for segmentation of neoplastic kidneys or Wilms' tumors in children. We developed an innovative CNN U-Net training method that makes it possible to segment the kidney and its tumor with the same precision as an expert while reducing their intervention time by 80%.

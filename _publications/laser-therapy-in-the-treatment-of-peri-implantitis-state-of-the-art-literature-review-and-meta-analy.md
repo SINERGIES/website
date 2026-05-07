@@ -1,0 +1,19 @@
+---
+title: "Laser Therapy in the Treatment of Peri-Implantitis: State-of-the-Art, Literature Review and Meta-Analysis"
+authors: "Pisano, Massimo, Amato, Alessandra, Sammartino, Pasquale, Iandolo, Alfredo, Martina, Stefano, Caggiano, Mario"
+journal: "APPLIED SCIENCES-BASEL"
+year: 2021
+volume: "11"
+number: "11"
+month: "JUN"
+doi: "10.3390/app11115290"
+abstract: "Featured Application The treatment of the peri-implantitis is still challenging, and no consensus was found in the literature on which is the best treatment protocol. Following the results of our meta-analysis, the use of dental laser does not offer statistically significant improvements in terms of PPD reduction and CAL gain if compared to conventional mechanical therapy. (1) Background: The treatment of the peri-implantitis is still challenging, and no consensus was found in the literature on which is the best treatment protocol. In recent years, numerous authors have proposed the use of the dental laser as an alternative and effective method for decontaminating the surface of infected implants. Therefore, the aim of this work was to examine the state-of-the-art on the use of lasers in the treatment of peri-implantitis through the literature. (2) Methods: An electronic search was conducted through the PubMed database; we selected and reviewed articles that evaluated the effects of laser irradiation in the treatment of peri-implantitis. (3) Results: The use of lasers seems to provide similar results if compared with conventional mechanical therapy. The included studies were divided into three groups based on the active medium of the laser used for the treatments being tested (Erbium: Yttrium Aluminum Garnet, CO2 and diode laser). (4) Conclusions: The lasers showed positive results, on average, after 6 months of follow-up. Comparative clinical trials conducted with the aim to test the efficiency of laser irradiation, in addition to conventional therapy, indicate that this technique can induce similar results if compared to conventional therapy alone."
+article_number: "5290"
+eissn: "2076-3417"
+unique_id: "WOS:000659646300001"
+bib_key: "WOS:000659646300001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Featured Application The treatment of the peri-implantitis is still challenging, and no consensus was found in the literature on which is the best treatment protocol. Following the results of our meta-analysis, the use of dental laser does not offer statistically significant improvements in terms of PPD reduction and CAL gain if compared to conventional mechanical therapy. (1) Background: The treatment of the peri-implantitis is still challenging, and no consensus was found in the literature on which is the best treatment protocol. In recent years, numerous authors have proposed the use of the dental laser as an alternative and effective method for decontaminating the surface of infected implants. Therefore, the aim of this work was to examine the state-of-the-art on the use of lasers in the treatment of peri-implantitis through the literature. (2) Methods: An electronic search was conducted through the PubMed database; we selected and reviewed articles that evaluated the effects of laser irradiation in the treatment of peri-implantitis. (3) Results: The use of lasers seems to provide similar results if compared with conventional mechanical therapy. The included studies were divided into three groups based on the active medium of the laser used for the treatments being tested (Erbium: Yttrium Aluminum Garnet, CO2 and diode laser). (4) Conclusions: The lasers showed positive results, on average, after 6 months of follow-up. Comparative clinical trials conducted with the aim to test the efficiency of laser irradiation, in addition to conventional therapy, indicate that this technique can induce similar results if compared to conventional therapy alone.

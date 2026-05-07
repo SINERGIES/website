@@ -1,0 +1,20 @@
+---
+title: "Postoperative Assessment of Clipped Aneurysms With 64-Slice Computerized Tomography Angiography"
+authors: "Thines, Laurent, Dehdashti, Amir R., Howard, Peter, Da Costa, Leodante, Wallace, M. Christopher, Willinsky, Robert A., Tymianski, Michael, Lejeune, Jean-Paul, Agid, Ronit"
+journal: "NEUROSURGERY"
+year: 2010
+volume: "67"
+number: "3"
+pages: "844-854"
+month: "SEP"
+doi: "10.1227/01.NEU.0000374684.10920.A2"
+abstract: "BACKGROUND: Multidetector computerized tomography angiography (MDCTA) is now a widely accepted technique for the management of intracranial aneurysms. OBJECTIVE: To evaluate its accuracy for the postoperative assessment of clipped intracranial aneurysms. METHODS: We analyzed a consecutive series of 31 patients that underwent direct surgical clipping procedures of 38 aneurysms. A 64 slice MDCT scanner (Aquilion 64, Toshiba) was used and results were compared with digital subtraction angiographies (DSA). Two independent neuroradiologists analyzed the following data: examination quality, artifacts, aneurysm remnant, and patency of collateral branches. Interobserver agreement, sensitivity, and specificity were calculated. RESULTS: Seventy-nine percent of the aneurysms were located in the anterior circulation. Significant artifacts were found with multiple and cobalt-alloy clips. According to DSA, remnants >2 mm were found in 21% of the cases, and 2 patients had one collateral branch occluded. Sensitivity and specificity of 64-MDCTA for the detection of aneurysm remnants were 50% and 100%, respectively. Sensitivity and specificity of 64-MDCTA for the detection of a significant remnant (>2 mm) and the detection of the occlusion of a collateral branch were, respectively, 67% and 100% and 50% and 100%. No relationship was found with the location, type, shape, size, or number of clips, but missed remnants tended to be larger with cobalt-alloy clips. CONCLUSIONS: 64-MDCTA is a valuable technique to assess the presence of a significant postoperative remnant in single titanium clip application cases and might be useful for long-term follow-up. DSA remains the most accurate postoperative radiological examination."
+issn: "0148-396X"
+eissn: "1524-4040"
+unique_id: "WOS:000281153200036"
+bib_key: "WOS:000281153200036"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+BACKGROUND: Multidetector computerized tomography angiography (MDCTA) is now a widely accepted technique for the management of intracranial aneurysms. OBJECTIVE: To evaluate its accuracy for the postoperative assessment of clipped intracranial aneurysms. METHODS: We analyzed a consecutive series of 31 patients that underwent direct surgical clipping procedures of 38 aneurysms. A 64 slice MDCT scanner (Aquilion 64, Toshiba) was used and results were compared with digital subtraction angiographies (DSA). Two independent neuroradiologists analyzed the following data: examination quality, artifacts, aneurysm remnant, and patency of collateral branches. Interobserver agreement, sensitivity, and specificity were calculated. RESULTS: Seventy-nine percent of the aneurysms were located in the anterior circulation. Significant artifacts were found with multiple and cobalt-alloy clips. According to DSA, remnants >2 mm were found in 21% of the cases, and 2 patients had one collateral branch occluded. Sensitivity and specificity of 64-MDCTA for the detection of aneurysm remnants were 50% and 100%, respectively. Sensitivity and specificity of 64-MDCTA for the detection of a significant remnant (>2 mm) and the detection of the occlusion of a collateral branch were, respectively, 67% and 100% and 50% and 100%. No relationship was found with the location, type, shape, size, or number of clips, but missed remnants tended to be larger with cobalt-alloy clips. CONCLUSIONS: 64-MDCTA is a valuable technique to assess the presence of a significant postoperative remnant in single titanium clip application cases and might be useful for long-term follow-up. DSA remains the most accurate postoperative radiological examination.

@@ -1,0 +1,20 @@
+---
+title: "Soft Adsorption of Densely Packed Layers of DNA-Plasmid 1,3-Diaminopropane Complexes onto Highly Oriented Pyrolitic Graphite Designed To Erode in Water"
+authors: "Boulanouar, Omar, Khatyr, Abderrahim, Herlem, Guillaume, Palmino, Frank, Sanche, Leon, Fromm, Michel"
+journal: "JOURNAL OF PHYSICAL CHEMISTRY C"
+year: 2011
+volume: "115"
+number: "43"
+pages: "21291-21298"
+month: "NOV 3"
+doi: "10.1021/jp207083r"
+abstract: "In this Article, we report a simple and effective method to build up self-assembled and well-calibrated layers of plasmid DNA 1,3-diaminopropane complexes onto highly oriented pyrolitic graphite (HOPG). The method is based on the self-assembly of the poly electrolytes onto HOPG in an excess of positively charged protonated diamines (Dap(2+)) in comparison to the negatively charged phosphate moieties of the DNA backbone in solution. Although short distortions in the helical parameters of DNA (maximum 12% hypochromicity) are revealed by UV-vis absorption spectrometry, the native B form of the plasmids is conserved. By fixing the excess of positive charges arising from Dap(2+) cations, it is possible to construct assemblies of a well-defined thickness ranging typically from 1 monolayer (ML) of DNA to 10 ML; 1 ML has a thickness of 2.2 +/- 0.5 nm. Adding TRIS-EDTA (TE) buffer lowers considerably the damage rate observed when plasmids are mixed with Dap(2+) in pure water. The thickness of the first dense monolayer matches well the DNA cross-sectional dimensions, indicating that this layer is strongly anchored to the surface; it is insoluble in water. Conversely, thicker layers can be released in aqueous media, and the plasmids do not undergo dramatic damage. In the presence of TE buffer, condensation of the plasmids on the HOPG surface and a further release of the deposits in water yields a loss of supercoiling that ranges typically from 10% to 20% when the layer thickness varies from 22 to 12 nm. Such densely packed and releasable DNA plasmid layers with a very well-characterized and constant thickness constitute a substantial progress for biochemical and radiochemical experiments."
+issn: "1932-7447"
+eissn: "1932-7455"
+unique_id: "WOS:000296172800061"
+bib_key: "WOS:000296172800061"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+In this Article, we report a simple and effective method to build up self-assembled and well-calibrated layers of plasmid DNA 1,3-diaminopropane complexes onto highly oriented pyrolitic graphite (HOPG). The method is based on the self-assembly of the poly electrolytes onto HOPG in an excess of positively charged protonated diamines (Dap(2+)) in comparison to the negatively charged phosphate moieties of the DNA backbone in solution. Although short distortions in the helical parameters of DNA (maximum 12% hypochromicity) are revealed by UV-vis absorption spectrometry, the native B form of the plasmids is conserved. By fixing the excess of positive charges arising from Dap(2+) cations, it is possible to construct assemblies of a well-defined thickness ranging typically from 1 monolayer (ML) of DNA to 10 ML; 1 ML has a thickness of 2.2 +/- 0.5 nm. Adding TRIS-EDTA (TE) buffer lowers considerably the damage rate observed when plasmids are mixed with Dap(2+) in pure water. The thickness of the first dense monolayer matches well the DNA cross-sectional dimensions, indicating that this layer is strongly anchored to the surface; it is insoluble in water. Conversely, thicker layers can be released in aqueous media, and the plasmids do not undergo dramatic damage. In the presence of TE buffer, condensation of the plasmids on the HOPG surface and a further release of the deposits in water yields a loss of supercoiling that ranges typically from 10% to 20% when the layer thickness varies from 22 to 12 nm. Such densely packed and releasable DNA plasmid layers with a very well-characterized and constant thickness constitute a substantial progress for biochemical and radiochemical experiments.

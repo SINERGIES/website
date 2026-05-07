@@ -1,0 +1,20 @@
+---
+title: "Ovarian mature teratomas: Differences in management and outcomes in adolescents cared for by gynecologic and pediatric surgeons"
+authors: "Baatti, Iliasse, Delehaye, Fanny, Sarnacki, Sabine, Ziad, Christine Denoual, Hameury, Frederic, Aubry, Estelle, Habonimana, Edouard, Joseph, Solene, Scalabre, Aurelien, Chaussy, Yann, Podevin, Guillaume, Ballouhey, Quentin, Lavrand, Frederic, Peycelon, Matthieu, Irtan, Sabine, Guerin, Florent, Dariel, Anne, Borrione, Claude, Galmiche, Louise, Haraux, Elodie, Gaichies, Leopold, Fauvet, Raffaele, Rod, Julien"
+journal: "BULLETIN DU CANCER"
+year: 2025
+volume: "112"
+number: "10"
+pages: "1103-1112"
+month: "OCT"
+doi: "10.1016/j.bulcan.2025.04.016"
+abstract: "Background > Ovarian mature teratomas (OMTs) are the most common benign ovarian tumors in pediatric patients. Management in adolescents can be performed by pediatric (PSs) or gynecologic surgeons (GSs). The aim of this study was to assess the differences in OMT management and the repercussions according to the risk of secondary events. Design > Based on a multicentric study, we compared patients aged 14 to 18 who underwent surgery for OMT between 2009 and 2022 from the French national pediatric database of OMTs with patients managed by GSs. Results > In total, 119 patients were included (80 by PSs, 39 by GSs). Differences between teams were noted: (i) tumor marker analysis is systematic by PSs (80%, n = 72) but rare by GSs (18%, n = 7) (P < 0.001), (ii) PSs mostly carried out a laparotomy (78%, n = 62), whereas GSs preferred laparoscopy (90%, n = 35) (P < 0.001), (iii) peroperative rupture was more frequent by GSs (56%, n = 22) than PSs (10%, n = 8) (P < 0.001), (iv) median duration of follow-up increased by PSs (20 months) versus 1 month by GSs (P = 0.001). Ten second events (13% by GSs [n = 5], 6% by PSs [n = 5]) occurred in nine patients, without significant differences (P = 0.151). Conclusion > A notable difference exists in the management of OMTs between PSs and GSs in our study, GSs may overlook a malignant component in germ cell tumors in adolescents and the risk of metachronous recurrence, reported up to 10-20%. We recommend a compliance to SIOPE 2020 guidelines (Sessa et al., 2020) to avoid rupture of potential malignant tumor and to preserve fertility."
+issn: "0007-4551"
+eissn: "1769-6917"
+unique_id: "WOS:001579302200018"
+bib_key: "WOS:001579302200018"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Background > Ovarian mature teratomas (OMTs) are the most common benign ovarian tumors in pediatric patients. Management in adolescents can be performed by pediatric (PSs) or gynecologic surgeons (GSs). The aim of this study was to assess the differences in OMT management and the repercussions according to the risk of secondary events. Design > Based on a multicentric study, we compared patients aged 14 to 18 who underwent surgery for OMT between 2009 and 2022 from the French national pediatric database of OMTs with patients managed by GSs. Results > In total, 119 patients were included (80 by PSs, 39 by GSs). Differences between teams were noted: (i) tumor marker analysis is systematic by PSs (80%, n = 72) but rare by GSs (18%, n = 7) (P < 0.001), (ii) PSs mostly carried out a laparotomy (78%, n = 62), whereas GSs preferred laparoscopy (90%, n = 35) (P < 0.001), (iii) peroperative rupture was more frequent by GSs (56%, n = 22) than PSs (10%, n = 8) (P < 0.001), (iv) median duration of follow-up increased by PSs (20 months) versus 1 month by GSs (P = 0.001). Ten second events (13% by GSs [n = 5], 6% by PSs [n = 5]) occurred in nine patients, without significant differences (P = 0.151). Conclusion > A notable difference exists in the management of OMTs between PSs and GSs in our study, GSs may overlook a malignant component in germ cell tumors in adolescents and the risk of metachronous recurrence, reported up to 10-20%. We recommend a compliance to SIOPE 2020 guidelines (Sessa et al., 2020) to avoid rupture of potential malignant tumor and to preserve fertility.

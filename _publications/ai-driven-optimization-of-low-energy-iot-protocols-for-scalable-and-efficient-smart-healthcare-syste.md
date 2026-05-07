@@ -1,0 +1,17 @@
+---
+title: "AI-Driven Optimization of Low-Energy IoT Protocols for Scalable and Efficient Smart Healthcare Systems"
+authors: "Rattal, Salma, Badri, Abdelmajid, Moughit, Mohamed, Miloud Ar-Reyouchi, El, Ghoumid, Kamal"
+journal: "IEEE ACCESS"
+year: 2025
+volume: "13"
+pages: "48401-48415"
+doi: "10.1109/ACCESS.2025.3551224"
+abstract: "The Internet of Things (IoT) promises a hyperconnected world, integrating billions of devices across various domains, including smart healthcare systems. Central to this connectivity are low-energy communication protocols, essential for prolonging the battery life of resource-constrained IoT devices and ensuring efficient data exchange. This paper introduces a novel AI-driven optimization framework to enhance these protocols' energy efficiency, scalability, and adaptability, specifically for smart healthcare applications. Unlike previous works that focus on protocol optimization in isolation, this study provides a comprehensive analysis of protocols, including Bluetooth Low Energy (BLE), Zigbee, Thread, Long Range (LoRa), Sigfox, Narrowband Internet of Things (NB-IoT), Wireless Smart Utility Network (Wi-SUN), and Weightless, highlighting their strengths and limitations. The framework utilizes advanced AI techniques, such as machine learning (ML), reinforcement learning (RL), and deep learning (DL), to optimize key metrics like range, data rate, and power consumption. Quantitative evaluations show significant improvements in performance and trade-offs, particularly for healthcare scenarios such as wearable devices and remote monitoring. This research bridges the gap between theoretical advancements and practical deployments, aligning optimizations with real-world constraints and healthcare needs and paving the way for scalable IoT solutions."
+issn: "2169-3536"
+unique_id: "WOS:001449680800025"
+bib_key: "WOS:001449680800025"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+The Internet of Things (IoT) promises a hyperconnected world, integrating billions of devices across various domains, including smart healthcare systems. Central to this connectivity are low-energy communication protocols, essential for prolonging the battery life of resource-constrained IoT devices and ensuring efficient data exchange. This paper introduces a novel AI-driven optimization framework to enhance these protocols' energy efficiency, scalability, and adaptability, specifically for smart healthcare applications. Unlike previous works that focus on protocol optimization in isolation, this study provides a comprehensive analysis of protocols, including Bluetooth Low Energy (BLE), Zigbee, Thread, Long Range (LoRa), Sigfox, Narrowband Internet of Things (NB-IoT), Wireless Smart Utility Network (Wi-SUN), and Weightless, highlighting their strengths and limitations. The framework utilizes advanced AI techniques, such as machine learning (ML), reinforcement learning (RL), and deep learning (DL), to optimize key metrics like range, data rate, and power consumption. Quantitative evaluations show significant improvements in performance and trade-offs, particularly for healthcare scenarios such as wearable devices and remote monitoring. This research bridges the gap between theoretical advancements and practical deployments, aligning optimizations with real-world constraints and healthcare needs and paving the way for scalable IoT solutions.

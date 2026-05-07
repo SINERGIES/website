@@ -1,0 +1,20 @@
+---
+title: "FDG-PET scan shows increased cerebral blood flow in rat after sublingual glycine application"
+authors: "Blagosklonov, Oleg, Podoprigora, Guennady I., Davani, Siamak, Nartsissov, Yaroslav R., Comas, Laurent, Boulahdour, Hatem, Cardot, Jean-Claude"
+journal: "NUCLEAR INSTRUMENTS & METHODS IN PHYSICS RESEARCH SECTION A-ACCELERATORS SPECTROMETERS DETECTORS AND ASSOCIATED EQUIPMENT"
+year: 2007
+volume: "571"
+number: "1-2"
+pages: "30-32"
+month: "FEB 1"
+doi: "10.1016/j.nima.2006.10.022"
+abstract: "Positron emission tomography (PET) with [18F]-2-fluoro-deoxy-D-glucose (FDG) is being increasingly used in research. Isotope studies may be of help in an assessment of vasoactive potential of newly developed therapeutic preparations, including natural metabolites, like glycine. As a medicine, glycine was recently shown to have a positive therapeutic effect in the treatment of patients with neurological disorders based on vascular disturbances. By previous direct biornicroscopic investigations of pial microvessels in laboratory rats, an expressed vasodilatory effect of topically applied glycine was proved. The aim of this study was to evaluate the influence of glycine on the rat cerebral blood flow (CBF) using FDG-PET scan. A baseline study was started immediately after intravenous injection of 19 MBq of FDG in anesthetized rat. The PET images were acquired twice, one by one during 20 min. Two hours later, after sublingual application of glycine and the second FDG injection, the pair of PET scan was performed during 20 min as well. Finally, 4 days after the first studies, we repeated the PET scans in the same conditions after sublingual application of glycine. The quantitative analysis of FDG volume concentration (Bq/ml) in the rat brain demonstrated that in both studies after glycine administration, the FDG uptake increased at least 1.5 times in comparison with the baseline data. Moreover, the peak of the concentration was coming in more rapidly. These results confirm the enhancing effect of glycine on the rat CBF possibly because of its vasodilatory effect on brain microvessels. Therefore, FDG-PET technique contributes to better understanding of glycine pharmacokinetics. (c) 2006 Elsevier B.V. All rights reserved."
+issn: "0168-9002"
+eissn: "1872-9576"
+unique_id: "WOS:000244599100009"
+bib_key: "WOS:000244599100009"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+Positron emission tomography (PET) with [18F]-2-fluoro-deoxy-D-glucose (FDG) is being increasingly used in research. Isotope studies may be of help in an assessment of vasoactive potential of newly developed therapeutic preparations, including natural metabolites, like glycine. As a medicine, glycine was recently shown to have a positive therapeutic effect in the treatment of patients with neurological disorders based on vascular disturbances. By previous direct biornicroscopic investigations of pial microvessels in laboratory rats, an expressed vasodilatory effect of topically applied glycine was proved. The aim of this study was to evaluate the influence of glycine on the rat cerebral blood flow (CBF) using FDG-PET scan. A baseline study was started immediately after intravenous injection of 19 MBq of FDG in anesthetized rat. The PET images were acquired twice, one by one during 20 min. Two hours later, after sublingual application of glycine and the second FDG injection, the pair of PET scan was performed during 20 min as well. Finally, 4 days after the first studies, we repeated the PET scans in the same conditions after sublingual application of glycine. The quantitative analysis of FDG volume concentration (Bq/ml) in the rat brain demonstrated that in both studies after glycine administration, the FDG uptake increased at least 1.5 times in comparison with the baseline data. Moreover, the peak of the concentration was coming in more rapidly. These results confirm the enhancing effect of glycine on the rat CBF possibly because of its vasodilatory effect on brain microvessels. Therefore, FDG-PET technique contributes to better understanding of glycine pharmacokinetics. (c) 2006 Elsevier B.V. All rights reserved.

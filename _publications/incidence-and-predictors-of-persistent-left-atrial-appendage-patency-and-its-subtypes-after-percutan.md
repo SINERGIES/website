@@ -1,0 +1,20 @@
+---
+title: "Incidence and predictors of persistent left atrial appendage patency and its subtypes after percutaneous closure: a pre-specified analysis of the SWISS-APERO trial"
+authors: "Galea, Roberto, Perich Krsnik, Juan, Peters, Alan Arthur, De Marco, Federico, Aminian, Adel, Meneveau, Nicolas, Heg, Dierik, Grani, Christoph, Anselme, Frederic, Franzone, Anna, Vranckx, Pascal, Fischer, Urs, Bedogni, Francesco, Raber, Lorenz, Valgimigli, Marco"
+journal: "EUROPEAN HEART JOURNAL-CARDIOVASCULAR IMAGING"
+year: 2025
+volume: "26"
+number: "11"
+pages: "1795-1803"
+month: "NOV"
+doi: "10.1093/ehjci/jeaf232"
+abstract: "Aims Left atrial appendage (LAA) patency after percutaneous closure is associated with higher thromboembolic risk, especially when detected at later time points after procedure. We aim to investigate the incidence and predictors of persistent LAA patency and its different subtypes at cardiac computed tomography angiography (CCTA) during the first year after LAA closure (LAAC). Methods and results In the SWISS APERO trial, patients undergoing LAAC were randomly assigned (1:1) to Amulet or Watchman/FLX across eight European centers and received CCTA follow-up at 45 days and 13 months. The presence, the type and predictors of persistent or new-onset LAA patency at 13 months were investigated by matching 45-day and 13-month CCTAs in an imaging core-lab. Of the 221 randomized patients, 158 (71.5%) were included in the matched 45-day and 13-month CCTA analysis. Residual LAA patency decreased from 66.4 to 50.6% with approximately one-third (30.5%) of 45-day patent appendages (PA) resolved at 13 months. Side-gap leaks at 45 days were the PA subtypes associated with the highest likelihood (86%) of persistence. At 45-day CCTA, the presence of at least two factors among side-gap leak proximal area >37.7 mm2, radial diameter >3 mm or LAA-device angle >39.4 degrees ('ARA LAAO' score >= 2) predicted leak persistence at 13-month CCTA with 94.1% sensitivity and 70% specificity. Conclusion In a prospective multi-centre cohort of clinically indicated LAAC, approximately two-thirds of 45-day PAs, especially those related to large side-gap leaks with bigger LAA-device off-axis angle, persisted at 13 months, whereas new-onset PA occurred in roughly 1 in every 10 patients."
+issn: "2047-2404"
+eissn: "2047-2412"
+unique_id: "WOS:001559109200001"
+bib_key: "WOS:001559109200001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Aims Left atrial appendage (LAA) patency after percutaneous closure is associated with higher thromboembolic risk, especially when detected at later time points after procedure. We aim to investigate the incidence and predictors of persistent LAA patency and its different subtypes at cardiac computed tomography angiography (CCTA) during the first year after LAA closure (LAAC). Methods and results In the SWISS APERO trial, patients undergoing LAAC were randomly assigned (1:1) to Amulet or Watchman/FLX across eight European centers and received CCTA follow-up at 45 days and 13 months. The presence, the type and predictors of persistent or new-onset LAA patency at 13 months were investigated by matching 45-day and 13-month CCTAs in an imaging core-lab. Of the 221 randomized patients, 158 (71.5%) were included in the matched 45-day and 13-month CCTA analysis. Residual LAA patency decreased from 66.4 to 50.6% with approximately one-third (30.5%) of 45-day patent appendages (PA) resolved at 13 months. Side-gap leaks at 45 days were the PA subtypes associated with the highest likelihood (86%) of persistence. At 45-day CCTA, the presence of at least two factors among side-gap leak proximal area >37.7 mm2, radial diameter >3 mm or LAA-device angle >39.4 degrees ('ARA LAAO' score >= 2) predicted leak persistence at 13-month CCTA with 94.1% sensitivity and 70% specificity. Conclusion In a prospective multi-centre cohort of clinically indicated LAAC, approximately two-thirds of 45-day PAs, especially those related to large side-gap leaks with bigger LAA-device off-axis angle, persisted at 13 months, whereas new-onset PA occurred in roughly 1 in every 10 patients.

@@ -97,11 +97,8 @@ layout: default
     {% for publication in recent_publications limit:3 %}
       <article class="publication-item">
         <p class="publication-meta">{{ publication.journal }}{% if publication.year %} · {{ publication.year }}{% endif %}</p>
-        <h3>{{ publication.title }}</h3>
-        <p>{{ publication.authors }}</p>
-        {% if publication.doi %}
-          <a href="https://doi.org/{{ publication.doi }}">DOI {{ publication.doi }}</a>
-        {% endif %}
+        <h3><a class="publication-title-link" href="{{ publication.url | relative_url }}">{{ publication.title }}</a></h3>
+        <a href="{{ publication.url | relative_url }}">Lire l'article</a>
       </article>
     {% endfor %}
   </div>

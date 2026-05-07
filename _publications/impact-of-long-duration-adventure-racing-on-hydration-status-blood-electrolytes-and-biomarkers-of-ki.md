@@ -1,0 +1,20 @@
+---
+title: "Impact of long-duration adventure racing on hydration status, blood electrolytes and biomarkers of kidney function in trained adolescent athletes"
+authors: "Birat, Anthony, Garnier, Yoann M., Bourdier, Pierre, Dupuy, Alexis, Dodu, Alexandre, Grossoeuvre, Claire, Dupont, Anne-Charlotte, Rance, Melanie, Morel, Claire, Nottin, Stephane, Ratel, Sebastien"
+journal: "JOURNAL OF SPORTS MEDICINE AND PHYSICAL FITNESS"
+year: 2022
+volume: "62"
+number: "11"
+pages: "1552-1559"
+month: "NOV"
+doi: "10.23736/S0022-4707.22.13372-4"
+abstract: "BACKGROUND: Little is known about the biochemical consequences of endurance activities in adolescents. The present study aimed to exam-ine the impact of a long-duration adventure race (>5 h) on hydration status, blood electrolytes and biomarkers of kidney function in adolescent athletes.METHODS: Twenty male adolescents aged 14 to 17 y (mean +/- SD; body mass: 59.7 +/- 9.1 kg and maximal O2 uptake: 56.2 +/- 4.6 mL center dot kg-1 center dot min-1) volunteered to participate in a competitive adventure race of 68.5 km. Volunteers could drink ad libitum and fluid intake was monitored through-out the race. Blood samples were collected before, within 15 minutes after, and 24 hours after the race to monitor blood electrolytes (sodium, potassium, chloride), creatinine and blood urea nitrogen (BUN). Body mass and urine specific gravity (USG) were also measured across the same time points.RESULTS: The race was completed on average in 05:38 +/- 00:20 h:min under cold and rainy conditions (10-15 degrees C and 83-93% of relative humid-ity). Fluid intake was 1.45 +/- 0.66 L and body mass decreased by 1.2% compared to before the race (P<0.001). Blood sodium concentrations re-mained stable after the race (140.4 +/- 2.1 mmol center dot L-1) despite an expansion in the plasma volume of 8.9 +/- 15.6%. No significant variations in BUN or BUN-to-creatinine ratio occurred. A significant increase in creatinine (+13.5%, P=0.003) was observed immediately after the race but remained within the reference range. CONCLUSIONS: The long-duration race completed under cold and humid conditions seems not to have exposed adolescents to hypohydration, hyponatremia or clinically significant alterations in kidney function."
+issn: "0022-4707"
+eissn: "1827-1928"
+unique_id: "WOS:000883786900018"
+bib_key: "WOS:000883786900018"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+BACKGROUND: Little is known about the biochemical consequences of endurance activities in adolescents. The present study aimed to exam-ine the impact of a long-duration adventure race (>5 h) on hydration status, blood electrolytes and biomarkers of kidney function in adolescent athletes.METHODS: Twenty male adolescents aged 14 to 17 y (mean +/- SD; body mass: 59.7 +/- 9.1 kg and maximal O2 uptake: 56.2 +/- 4.6 mL center dot kg-1 center dot min-1) volunteered to participate in a competitive adventure race of 68.5 km. Volunteers could drink ad libitum and fluid intake was monitored through-out the race. Blood samples were collected before, within 15 minutes after, and 24 hours after the race to monitor blood electrolytes (sodium, potassium, chloride), creatinine and blood urea nitrogen (BUN). Body mass and urine specific gravity (USG) were also measured across the same time points.RESULTS: The race was completed on average in 05:38 +/- 00:20 h:min under cold and rainy conditions (10-15 degrees C and 83-93% of relative humid-ity). Fluid intake was 1.45 +/- 0.66 L and body mass decreased by 1.2% compared to before the race (P<0.001). Blood sodium concentrations re-mained stable after the race (140.4 +/- 2.1 mmol center dot L-1) despite an expansion in the plasma volume of 8.9 +/- 15.6%. No significant variations in BUN or BUN-to-creatinine ratio occurred. A significant increase in creatinine (+13.5%, P=0.003) was observed immediately after the race but remained within the reference range. CONCLUSIONS: The long-duration race completed under cold and humid conditions seems not to have exposed adolescents to hypohydration, hyponatremia or clinically significant alterations in kidney function.

@@ -1,0 +1,19 @@
+---
+title: "Hospital-acquired pneumonia in ICU"
+authors: "Leone, Marc, Bouadma, Lila, Bouhemad, Belaid, Brissaud, Olivier, Dauger, Stephane, Gibot, Sebastien, Hraiech, Sami, Jung, Boris, Kipnis, Eric, Launey, Yoann, Luyt, Charles-Edouard, Margetis, Dimitri, Michel, Fabrice, Mokart, Djamel, Montravers, Philippe, Monsel, Antoine, Nseir, Saad, Pugin, Jerome, Roquilly, Antoine, Velly, Lionel, Zahar, Jean-Ralph, Bruyere, Remi, Chanques, Gerald"
+journal: "ANAESTHESIA CRITICAL CARE & PAIN MEDICINE"
+year: 2018
+volume: "37"
+number: "1"
+pages: "83-98"
+month: "FEB"
+doi: "10.1016/j.accpm.2017.11.006"
+abstract: "The French Society of Anesthesia and Intensive Care Medicine and the French Society of Intensive Care edited guidelines focused on hospital-acquired pneumonia (HAP) in intensive care unit (ICU). The goal of 16 French-speaking experts was to produce a framework enabling an easier decision-making process for intensivists. The guidelines were related to 3 specific areas related to HAP (prevention, diagnosis and treatment) in 4 identified patient populations (COPD, neutropenia, postoperative and pediatric). The literature analysis and the formulation of the guidelines were conducted according to the Grade of Recommendation Assessment, Development and Evaluation methodology. An extensive literature research over the last 10 years was conducted based on publications indexed in PubMed (TM) and CochraneTM databases. HAP should be prevented by a standardized multimodal approach and the use of selective digestive decontamination in units where multidrug-resistant bacteria prevalence was below 20%. Diagnosis relies on clinical assessment and microbiological findings. Monotherapy, in the absence of risk factors for multidrug-resistant bacteria, non-fermenting Gram negative bacilli and/or increased mortality (septic shock, organ failure), is strongly recommended. After microbiological documentation, it is recommended to reduce the spectrum and to prefer monotherapy for the antibiotic therapy of HAP, including for non-fermenting Gram-negative bacilli. (C) 2017 Societe francaise d'anesthesie et de reanimation (Sfar). Published by Elsevier Masson SAS. All rights reserved."
+issn: "2352-5568"
+unique_id: "WOS:000423872100020"
+bib_key: "WOS:000423872100020"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+The French Society of Anesthesia and Intensive Care Medicine and the French Society of Intensive Care edited guidelines focused on hospital-acquired pneumonia (HAP) in intensive care unit (ICU). The goal of 16 French-speaking experts was to produce a framework enabling an easier decision-making process for intensivists. The guidelines were related to 3 specific areas related to HAP (prevention, diagnosis and treatment) in 4 identified patient populations (COPD, neutropenia, postoperative and pediatric). The literature analysis and the formulation of the guidelines were conducted according to the Grade of Recommendation Assessment, Development and Evaluation methodology. An extensive literature research over the last 10 years was conducted based on publications indexed in PubMed (TM) and CochraneTM databases. HAP should be prevented by a standardized multimodal approach and the use of selective digestive decontamination in units where multidrug-resistant bacteria prevalence was below 20%. Diagnosis relies on clinical assessment and microbiological findings. Monotherapy, in the absence of risk factors for multidrug-resistant bacteria, non-fermenting Gram negative bacilli and/or increased mortality (septic shock, organ failure), is strongly recommended. After microbiological documentation, it is recommended to reduce the spectrum and to prefer monotherapy for the antibiotic therapy of HAP, including for non-fermenting Gram-negative bacilli. (C) 2017 Societe francaise d'anesthesie et de reanimation (Sfar). Published by Elsevier Masson SAS. All rights reserved.

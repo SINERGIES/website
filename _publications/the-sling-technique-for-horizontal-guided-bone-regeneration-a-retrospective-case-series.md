@@ -1,0 +1,19 @@
+---
+title: "The ``Sling'' Technique for Horizontal Guided Bone Regeneration: A Retrospective Case Series"
+authors: "Caggiano, Mario, D'Ambrosio, Francesco, Giordano, Francesco, Acerra, Alfonso, Sammartino, Pasquale, Iandolo, Alfredo"
+journal: "APPLIED SCIENCES-BASEL"
+year: 2022
+volume: "12"
+number: "12"
+month: "JUN"
+doi: "10.3390/app12125889"
+abstract: "The aim of this retrospective case series was to present a new technique, called the ``sling technique'', for massive horizontal alveolar ridge augmentation through the innovative use of an expanded polytetrafluoroethylene (e-PTFE) membrane to reduce the risk of biological complications related to membrane exposure. Materials and Methods: Eligible patients for implant rehabilitation with a horizontal bone defect were enrolled in our study. All patients were treated with our new GBR approach, called the ``sling technique'' (ST), which consisted of covering the vestibular side of the bone defect with a stretched e-PTFE membrane. This technique allowed the amplification of the membrane surface as long as the compression and the immobilization of the underlying graft material remained (1:1 autologous bone and bovine xenograft). The membrane was placed far from the surgical incision of the mucosa to avoid infective complications. Pre- and post-regenerative surgery CBCT scans were used to assess the tissue gain amount after the GBR. Results: A total of 10 patients (4 females, 6 males; age range: 45-60 years old) were enrolled in our study and 33 implants were placed in regenerated bone. An average of 4 mm bone gain was achieved using the ST. No membrane exposures or biological complications were registered during the post-operative healing period. After a 24-month follow-up, a 100% implant survival rate was observed without hard or soft tissue dehiscence. Conclusion: The e-PTFE membrane positioned with the ``sling technique'' gave satisfactory results in horizontal bone augmentation. Considering the small sample, further confirmations with larger studies are needed."
+article_number: "5889"
+eissn: "2076-3417"
+unique_id: "WOS:000817394000001"
+bib_key: "WOS:000817394000001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+The aim of this retrospective case series was to present a new technique, called the ``sling technique'', for massive horizontal alveolar ridge augmentation through the innovative use of an expanded polytetrafluoroethylene (e-PTFE) membrane to reduce the risk of biological complications related to membrane exposure. Materials and Methods: Eligible patients for implant rehabilitation with a horizontal bone defect were enrolled in our study. All patients were treated with our new GBR approach, called the ``sling technique'' (ST), which consisted of covering the vestibular side of the bone defect with a stretched e-PTFE membrane. This technique allowed the amplification of the membrane surface as long as the compression and the immobilization of the underlying graft material remained (1:1 autologous bone and bovine xenograft). The membrane was placed far from the surgical incision of the mucosa to avoid infective complications. Pre- and post-regenerative surgery CBCT scans were used to assess the tissue gain amount after the GBR. Results: A total of 10 patients (4 females, 6 males; age range: 45-60 years old) were enrolled in our study and 33 implants were placed in regenerated bone. An average of 4 mm bone gain was achieved using the ST. No membrane exposures or biological complications were registered during the post-operative healing period. After a 24-month follow-up, a 100% implant survival rate was observed without hard or soft tissue dehiscence. Conclusion: The e-PTFE membrane positioned with the ``sling technique'' gave satisfactory results in horizontal bone augmentation. Considering the small sample, further confirmations with larger studies are needed.

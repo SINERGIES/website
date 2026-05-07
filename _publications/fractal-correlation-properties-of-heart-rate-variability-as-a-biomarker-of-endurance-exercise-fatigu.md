@@ -1,0 +1,19 @@
+---
+title: "Fractal correlation properties of heart rate variability as a biomarker of endurance exercise fatigue in ultramarathon runners"
+authors: "Rogers, Bruce, Mourot, Laurent, Doucende, Gregory, Gronwald, Thomas"
+journal: "PHYSIOLOGICAL REPORTS"
+year: 2021
+volume: "9"
+number: "14"
+month: "JUL"
+doi: "10.14814/phy2.14956"
+abstract: "Although heart rate variability (HRV) indexes have been helpful for monitoring the fatigued state while resting, little data indicate that there is comparable potential during exercise. Since an index of HRV based on fractal correlation properties, alpha 1 of detrended fluctuation analysis (DFA a1) displays overall organismic demands, alteration during exertion may provide insight into physiologic changes accompanying fatigue. Two weeks after collecting baseline demographic and gas exchange data, 11 experienced ultramarathon runners were divided into two groups. Seven runners performed a simulated ultramarathon for 6 h (Fatigue group, FG) and four runners performed daily activity over a similar period (Control group, CG). Before (Pre) and after (Post) the ultramarathon or daily activity, DFA a1, heart rate (HR), running economy (RE) and countermovement jumps (CMJ) were measured while running on a treadmill at 3 m/s. In Pre versus Post comparisons, data showed a decline with large effect size in DFA a1 post intervention only for FG (Pre: 0.71, Post: 0.32; d = 1.34), with minor differences and small effect sizes in HR (d = 0.02) and RE (d = 0.21). CG showed only minor differences with small effect sizes in DFA a1 (d = 0.19), HR (d = 0.15), and RE (d = 0.31). CMJ vertical peak force showed fatigue-induced decreases with large effect size in FG (d = 0.82) compared to CG (d = 0.02). At the completion of an ultramarathon, DFA a1 decreased with large effect size while running at low intensity compared to pre-race values. DFA a1 may offer an opportunity for real-time tracking of physiologic status in terms of monitoring for fatigue and possibly as an early warning signal of systemic perturbation."
+article_number: "e14956"
+issn: "2051-817X"
+unique_id: "WOS:000678925100012"
+bib_key: "WOS:000678925100012"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Although heart rate variability (HRV) indexes have been helpful for monitoring the fatigued state while resting, little data indicate that there is comparable potential during exercise. Since an index of HRV based on fractal correlation properties, alpha 1 of detrended fluctuation analysis (DFA a1) displays overall organismic demands, alteration during exertion may provide insight into physiologic changes accompanying fatigue. Two weeks after collecting baseline demographic and gas exchange data, 11 experienced ultramarathon runners were divided into two groups. Seven runners performed a simulated ultramarathon for 6 h (Fatigue group, FG) and four runners performed daily activity over a similar period (Control group, CG). Before (Pre) and after (Post) the ultramarathon or daily activity, DFA a1, heart rate (HR), running economy (RE) and countermovement jumps (CMJ) were measured while running on a treadmill at 3 m/s. In Pre versus Post comparisons, data showed a decline with large effect size in DFA a1 post intervention only for FG (Pre: 0.71, Post: 0.32; d = 1.34), with minor differences and small effect sizes in HR (d = 0.02) and RE (d = 0.21). CG showed only minor differences with small effect sizes in DFA a1 (d = 0.19), HR (d = 0.15), and RE (d = 0.31). CMJ vertical peak force showed fatigue-induced decreases with large effect size in FG (d = 0.82) compared to CG (d = 0.02). At the completion of an ultramarathon, DFA a1 decreased with large effect size while running at low intensity compared to pre-race values. DFA a1 may offer an opportunity for real-time tracking of physiologic status in terms of monitoring for fatigue and possibly as an early warning signal of systemic perturbation.

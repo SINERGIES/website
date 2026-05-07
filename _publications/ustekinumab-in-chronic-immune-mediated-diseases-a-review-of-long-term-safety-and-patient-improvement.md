@@ -1,0 +1,17 @@
+---
+title: "Ustekinumab in chronic immune-mediated diseases: a review of long term safety and patient improvement"
+authors: "Toussirot, Eric, Michel, Fabrice, Bereau, Matthieu, Binda, Delphine"
+journal: "PATIENT PREFERENCE AND ADHERENCE"
+year: 2013
+volume: "7"
+pages: "369-377"
+doi: "10.2147/PPA.S33162"
+abstract: "Ustekinumab is a fully human monoclonal antibody targeting the common p40 subunit shared by interleukin (IL)-12 and IL-23. Ustekinumab prevents the interaction of IL-12 and IL-23 with their cell surface receptors, and thus blocks T helper (Th)-1 IL-12 and Th-17 IL-23 inflammatory pathways. Ustekinumab has been evaluated in the treatment of various chronic immune-mediated diseases including, psoriasis, psoriatic arthritis, Crohn's disease, and multiple sclerosis. It led to a rapid and durable improvement in psoriasis area and severity index in patients with moderate to severe psoriasis. Ustekinumab also improved joint symptoms of psoriatic arthritis. Results in Crohn's disease were more mitigated, albeit with a symptomatic improvement in patients refractory to tumor necrosis factor-a inhibitors. Ustekinumab did not reduce the number of magnetic resonance imaging brain lesions in multiple sclerosis. The most common adverse events to have been observed during clinical trials are mild in intensity, and include respiratory tract infections, nasopharyngitis, headaches, and injection site reactions. A pooled analysis of clinical trial data indicated no specific patterns of infection or malignancy under long-term ustekinumab administration. Ustekinumab is easy to use, has a comfortable therapeutic regimen, improves quality of life in patients, and thus appears to be an attractive biological treatment that is adapted and accepted by patients with moderate to severe psoriasis."
+issn: "1177-889X"
+unique_id: "WOS:000318148100001"
+bib_key: "WOS:000318148100001"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+Ustekinumab is a fully human monoclonal antibody targeting the common p40 subunit shared by interleukin (IL)-12 and IL-23. Ustekinumab prevents the interaction of IL-12 and IL-23 with their cell surface receptors, and thus blocks T helper (Th)-1 IL-12 and Th-17 IL-23 inflammatory pathways. Ustekinumab has been evaluated in the treatment of various chronic immune-mediated diseases including, psoriasis, psoriatic arthritis, Crohn's disease, and multiple sclerosis. It led to a rapid and durable improvement in psoriasis area and severity index in patients with moderate to severe psoriasis. Ustekinumab also improved joint symptoms of psoriatic arthritis. Results in Crohn's disease were more mitigated, albeit with a symptomatic improvement in patients refractory to tumor necrosis factor-a inhibitors. Ustekinumab did not reduce the number of magnetic resonance imaging brain lesions in multiple sclerosis. The most common adverse events to have been observed during clinical trials are mild in intensity, and include respiratory tract infections, nasopharyngitis, headaches, and injection site reactions. A pooled analysis of clinical trial data indicated no specific patterns of infection or malignancy under long-term ustekinumab administration. Ustekinumab is easy to use, has a comfortable therapeutic regimen, improves quality of life in patients, and thus appears to be an attractive biological treatment that is adapted and accepted by patients with moderate to severe psoriasis.

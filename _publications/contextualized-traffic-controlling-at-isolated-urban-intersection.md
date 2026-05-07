@@ -1,0 +1,14 @@
+---
+title: "Contextualized Traffic Controlling At Isolated Urban Intersection"
+authors: "Wu, Jia, Abbas-Turki, Abdeljalil, El Moudni, Abdellah"
+journal: ""
+year: 2010
+pages: "83-88"
+abstract: "This paper proposes a novel traffic control concept: contextualized traffic controlling at an isolated intersection. In this traffic control system, the traffic control command is sent to each vehicle individually based on its corresponding information that is provided by new information and wireless communication systems embedded in vehicles. In other word, traffic command is contextualized on the measurement of vehicles' state. Vehicle is allowed to pass through an intersection while the right-of-way is received. Hence, there is no traditional traffic light planned by the city. The intersection traffic control becomes to determine the best access order to the intersection (the passing sequence) for vehicles based on their information. In this paper, the objective of traffic control is to increase the throughput (or to evacuate all vehicles as soon as possible). Two scenarios are proposed for this traffic control system, i.e. in first scenario where vehicles' passing sequence is decided by a center controller and in the second scenario where vehicles negotiate with each other according to a predefined protocol to define the access sequence. The proposed control system is compared to an adaptive traffic controller and a traffic control system that is based on completely autonomous vehicles."
+unique_id: "WOS:000391420000017"
+bib_key: "WOS:000391420000017"
+publication_type: "inproceedings"
+source_file: "savedrecs(3).bib"
+---
+
+This paper proposes a novel traffic control concept: contextualized traffic controlling at an isolated intersection. In this traffic control system, the traffic control command is sent to each vehicle individually based on its corresponding information that is provided by new information and wireless communication systems embedded in vehicles. In other word, traffic command is contextualized on the measurement of vehicles' state. Vehicle is allowed to pass through an intersection while the right-of-way is received. Hence, there is no traditional traffic light planned by the city. The intersection traffic control becomes to determine the best access order to the intersection (the passing sequence) for vehicles based on their information. In this paper, the objective of traffic control is to increase the throughput (or to evacuate all vehicles as soon as possible). Two scenarios are proposed for this traffic control system, i.e. in first scenario where vehicles' passing sequence is decided by a center controller and in the second scenario where vehicles negotiate with each other according to a predefined protocol to define the access sequence. The proposed control system is compared to an adaptive traffic controller and a traffic control system that is based on completely autonomous vehicles.

@@ -1,0 +1,20 @@
+---
+title: "12-Month Real-Life Efficacy of the MiniMed 780G Advanced Closed-Loop System in Patients Living with Type 1 Diabetes: A French Observational, Retrospective, Multicentric Study"
+authors: "Lablanche, Sandrine, Delageniere, Johanna, Jalbert, Manon, Sonnet, Emmanuel, Benichou, Muriel, Arnold, Nathalie, Spiteri, Anne, Le Berre, Jean-Philippe, Renard, Eric, Chevalier, Nicolas, Borot, Sophie, Bonnemaison, Elisabeth, Coffin, Christine, Teissier, Marie-Pierre, Benhamou, Pierre Yves, Borel, Jean-Christian, Penfornis, Alfred, Joubert, Michael, Kessler, Laurence, 780G Real-Life Study Grp"
+journal: "DIABETES TECHNOLOGY & THERAPEUTICS"
+year: 2024
+volume: "26"
+number: "6"
+pages: "426-432"
+month: "JUN 1"
+doi: "10.1089/dia.2023.0414"
+abstract: "Aim: To evaluate the evolution of glycemic outcomes in patients living with type 1 diabetes (T1D) after 1 year of use of the MiniMed 780G advanced hybrid closed-loop (AHCL) system. Methods: We conducted an observational, retrospective, multicentric study in 20 centers in France. The primary objective was to evaluate the improvement in glycemic control after 1-year use of AHCL. The primary endpoint was the variation of time in range (TIR) between pre-AHCL and after 1-year use of AHCL. Secondary objectives were to analyze the glycemic outcomes after 3, 6, and 12 months of AHCL use, the safety, and the long-term observance of AHCL.<br /> Results: Two hundred twenty patients were included, and 200 were analyzed for the primary endpoint. 92.7% of patients continued to use AHCL. After 1 year of use of AHCL, TIR was 72.5% +/- 10.6% (+9.1%; 95% confidence interval [CI] [7.6-10.5] compared to pre-AHCL initiation, P < 0.001), HbA1c 7.1% +/- 0.7% (-0.5%; 95% CI [-0.6 to -0.4]; P < 0.001), time below range 2.0% [1.0; 3.0] (0.0% [-2.0; 0.0], P < 0.001), and time above range 24.8% +/- 10.9% (-7.3%; 95% CI [-8.8 to -5.7]; P < 0.001). More patients achieved the glycemic treatment goals of HbA1c <7.0% (45.1% vs. 18.1%, P < 0.001) and TIR >70% (59.0% vs. 29.5% P < 0.001) when compared with pre-AHCL. Five patients experienced severe hypoglycemia events and two patients experienced ketoacidosis.<br /> Conclusion: After 1 year of use of AHCL, people living with T1D safely improved their glucose control and a higher proportion of them achieved optimal glycemic control."
+issn: "1520-9156"
+eissn: "1557-8593"
+unique_id: "WOS:001158966400001"
+bib_key: "WOS:001158966400001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Aim: To evaluate the evolution of glycemic outcomes in patients living with type 1 diabetes (T1D) after 1 year of use of the MiniMed 780G advanced hybrid closed-loop (AHCL) system. Methods: We conducted an observational, retrospective, multicentric study in 20 centers in France. The primary objective was to evaluate the improvement in glycemic control after 1-year use of AHCL. The primary endpoint was the variation of time in range (TIR) between pre-AHCL and after 1-year use of AHCL. Secondary objectives were to analyze the glycemic outcomes after 3, 6, and 12 months of AHCL use, the safety, and the long-term observance of AHCL.<br /> Results: Two hundred twenty patients were included, and 200 were analyzed for the primary endpoint. 92.7% of patients continued to use AHCL. After 1 year of use of AHCL, TIR was 72.5% +/- 10.6% (+9.1%; 95% confidence interval [CI] [7.6-10.5] compared to pre-AHCL initiation, P < 0.001), HbA1c 7.1% +/- 0.7% (-0.5%; 95% CI [-0.6 to -0.4]; P < 0.001), time below range 2.0% [1.0; 3.0] (0.0% [-2.0; 0.0], P < 0.001), and time above range 24.8% +/- 10.9% (-7.3%; 95% CI [-8.8 to -5.7]; P < 0.001). More patients achieved the glycemic treatment goals of HbA1c <7.0% (45.1% vs. 18.1%, P < 0.001) and TIR >70% (59.0% vs. 29.5% P < 0.001) when compared with pre-AHCL. Five patients experienced severe hypoglycemia events and two patients experienced ketoacidosis.<br /> Conclusion: After 1 year of use of AHCL, people living with T1D safely improved their glucose control and a higher proportion of them achieved optimal glycemic control.

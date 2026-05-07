@@ -1,0 +1,18 @@
+---
+title: "Post-exercise Endothelium-Dependent Vasodilation Is Dependent on Training Status"
+authors: "Kapilevich, V, L., Kologrivova, V. V., Zakharova, A. N., Mourot, Laurent"
+journal: "FRONTIERS IN PHYSIOLOGY"
+year: 2020
+volume: "11"
+month: "MAY 8"
+doi: "10.3389/fphys.2020.00348"
+abstract: "The effect of training status on post-exercise flow-mediated dilation (FMD) is not well characterized. We tested the hypothesis that the more trained the subjects, the lower the reduction in FMD after an acute bout of aerobic exercise. Forty-seven men (mean +/- SD, age: 20.1 +/- 1.2 years, body mass: 75.5 +/- 5.1 kg, height 178.1 +/- 5.4 cm) were divided into five groups with different training characteristics (sedentary, two different groups of active subjects, two different groups of well-trained subjects - runners and weightlifters). Brachial artery FMD (blood pressure cuff placed around the arm distal to the probe with the proximal border adjacent to the medial epicondyle; 5 min at a pressure of 220 mmHg) was assessed before and during 3 min immediately after a bout of cycling exercise at a relative intensity of 170 bpm [(physical work capacity (PWC170)]. At baseline, a progressive increase in FMD was observed in the participants with the higher training status, if the training remained moderate. Indeed, FMD was reduced in runners and weightlifters compared to those who were moderately trained. After PWC170, FMD did not significantly change in sedentary and highly trained runners, significantly increased in the two groups of active subjects but significantly decreased in highly trained weightlifters. These results showed that endothelium-dependent vasodilation evaluated using brachial FMD is maintained or improved following acute aerobic exercise in moderately trained participants, but not in well-trained participants, especially if they are engaged in resistance training."
+article_number: "348"
+issn: "1664-042X"
+unique_id: "WOS:000536828300001"
+bib_key: "WOS:000536828300001"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+The effect of training status on post-exercise flow-mediated dilation (FMD) is not well characterized. We tested the hypothesis that the more trained the subjects, the lower the reduction in FMD after an acute bout of aerobic exercise. Forty-seven men (mean +/- SD, age: 20.1 +/- 1.2 years, body mass: 75.5 +/- 5.1 kg, height 178.1 +/- 5.4 cm) were divided into five groups with different training characteristics (sedentary, two different groups of active subjects, two different groups of well-trained subjects - runners and weightlifters). Brachial artery FMD (blood pressure cuff placed around the arm distal to the probe with the proximal border adjacent to the medial epicondyle; 5 min at a pressure of 220 mmHg) was assessed before and during 3 min immediately after a bout of cycling exercise at a relative intensity of 170 bpm [(physical work capacity (PWC170)]. At baseline, a progressive increase in FMD was observed in the participants with the higher training status, if the training remained moderate. Indeed, FMD was reduced in runners and weightlifters compared to those who were moderately trained. After PWC170, FMD did not significantly change in sedentary and highly trained runners, significantly increased in the two groups of active subjects but significantly decreased in highly trained weightlifters. These results showed that endothelium-dependent vasodilation evaluated using brachial FMD is maintained or improved following acute aerobic exercise in moderately trained participants, but not in well-trained participants, especially if they are engaged in resistance training.

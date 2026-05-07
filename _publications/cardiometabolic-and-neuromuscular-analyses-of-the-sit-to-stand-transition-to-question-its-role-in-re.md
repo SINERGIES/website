@@ -1,0 +1,20 @@
+---
+title: "Cardiometabolic and neuromuscular analyses of the sit-to-stand transition to question its role in reducing sedentary patterns"
+authors: "Isacco, Laurie, Gimenez, Philippe, Ennequin, Gael, Mourot, Laurent, Grospretre, Sidney"
+journal: "EUROPEAN JOURNAL OF APPLIED PHYSIOLOGY"
+year: 2022
+volume: "122"
+number: "7"
+pages: "1727-1739"
+month: "JUL"
+doi: "10.1007/s00421-022-04954-y"
+abstract: "To counteract the detrimental health effect of sitting all day long, it has been suggested to regularly break sitting time by standing. However, while the difference in energy expenditure, neuromuscular and/or cardiovascular demand of various postures from lying, sitting, and standing is well documented, little is known regarding the dynamic changes occurring during the sit-to-stand transition itself. The aim of the present study was then to describe the cardiometabolic and neuromuscular responses from sitting to standing and specifically during the time-course of this transition. Twelve healthy young participants were asked to perform standardized raises from sitting posture, while cardiometabolic (cardiorespiratory and hemodynamic variables) and neuromuscular (calf muscles' myoelectrical activity, spinal and supraspinal excitabilities) parameters were monitored. As a result, while there was a rapid adaptation for all the systems after rising, the neuromuscular system displayed the faster adaptation (similar to 10 s), then hemodynamic (similar to 10 to 20 s) and finally the metabolic variables (similar to 30 to 40 s). Oxygen uptake, energy expenditure, ventilation, and heart rate were significantly higher and stroke volume significantly lower during standing period compared to sitting one. In calf muscles, spinal excitability (H-reflexes), was lowered by the sit-to-stand condition, while supraspinal drive (V-wave) was similar, indicating different cortico-spinal balance from sitting to standing. Although very heterogenous among participants in terms of magnitude, the present results showed a rapid adaptation for all the systems after rising and the health benefit, notably in terms of energy expenditure, appears rather modest, even if non negligeable."
+issn: "1439-6319"
+eissn: "1439-6327"
+unique_id: "WOS:000788333000001"
+bib_key: "WOS:000788333000001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+To counteract the detrimental health effect of sitting all day long, it has been suggested to regularly break sitting time by standing. However, while the difference in energy expenditure, neuromuscular and/or cardiovascular demand of various postures from lying, sitting, and standing is well documented, little is known regarding the dynamic changes occurring during the sit-to-stand transition itself. The aim of the present study was then to describe the cardiometabolic and neuromuscular responses from sitting to standing and specifically during the time-course of this transition. Twelve healthy young participants were asked to perform standardized raises from sitting posture, while cardiometabolic (cardiorespiratory and hemodynamic variables) and neuromuscular (calf muscles' myoelectrical activity, spinal and supraspinal excitabilities) parameters were monitored. As a result, while there was a rapid adaptation for all the systems after rising, the neuromuscular system displayed the faster adaptation (similar to 10 s), then hemodynamic (similar to 10 to 20 s) and finally the metabolic variables (similar to 30 to 40 s). Oxygen uptake, energy expenditure, ventilation, and heart rate were significantly higher and stroke volume significantly lower during standing period compared to sitting one. In calf muscles, spinal excitability (H-reflexes), was lowered by the sit-to-stand condition, while supraspinal drive (V-wave) was similar, indicating different cortico-spinal balance from sitting to standing. Although very heterogenous among participants in terms of magnitude, the present results showed a rapid adaptation for all the systems after rising and the health benefit, notably in terms of energy expenditure, appears rather modest, even if non negligeable.

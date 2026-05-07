@@ -1,0 +1,20 @@
+---
+title: "Stage pT0 After Radical Prostatectomy With Previous Positive Biopsy Sets: A Multicenter Study"
+authors: "Bessede, Thomas, Soulie, Michel, Mottet, Nicolas, Rebillard, Xavier, Peyromaure, Michael, Ravery, Vincent, Salomon, Laurent, Cancerology Comm French Urological"
+journal: "JOURNAL OF UROLOGY"
+year: 2010
+volume: "183"
+number: "3"
+pages: "958-962"
+month: "MAR"
+doi: "10.1016/j.juro.2009.11.016"
+abstract: "Purpose: We analyzed preoperative data, pathological results and followup of pT0 tumors after radical prostatectomy for prostate cancer diagnosed on previous positive biopsy. Materials and Methods: At 6 centers a total of 30 of 7,693 radical prostatectomy specimens were classified as pT0 despite prior biopsy proven prostate cancer. No patients were diagnosed after transurethral prostate resection or received neoadjuvant hormonal treatment. All biopsy cores and radical prostatectomy specimens were reanalyzed by a second pathologist. Followup comprised clinical examination and postoperative prostate specific antigen assay at 1 and 3 months, and every 6 months thereafter. Results: Median patient age was 63 years (range 46 to 73). Median preoperative prostate specific antigen was 7.4 ng/ml (range 1.3 to 23). Of the cases 24 were T1c and 6 were T2a. The median number of biopsy cores was 10 (range 6 to 21) with 1 positive (range 1 to 4). On biopsies median tumor length was 1 mm (range 0.3 to 18) and there was tumor in 11.1% (range 3.4% to 64%). In 25 cases (83.3%) there was only 1 positive biopsy. Gleason score was 3 + 3 in 23 cases and less than 6 in 5 with grade 4 in 2. Only 9 cases filled all nonsignificant tumor criteria. Median specimen weight was 61 gm (range 40 to 160). At a median 82-month followup (range 14 to 226) there was no biochemical progression. Conclusions: After biopsy proven cancer pT0 prostate cancer is an unpredictable pathological finding. Despite its excellent prognosis it has medicolegal repercussions that justify DNA based tissue analysis. There is no evidence that finding focal cancer after extensive prostate resection changes patient prognosis and postoperative treatment."
+issn: "0022-5347"
+eissn: "1527-3792"
+unique_id: "WOS:000274750100043"
+bib_key: "WOS:000274750100043"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+Purpose: We analyzed preoperative data, pathological results and followup of pT0 tumors after radical prostatectomy for prostate cancer diagnosed on previous positive biopsy. Materials and Methods: At 6 centers a total of 30 of 7,693 radical prostatectomy specimens were classified as pT0 despite prior biopsy proven prostate cancer. No patients were diagnosed after transurethral prostate resection or received neoadjuvant hormonal treatment. All biopsy cores and radical prostatectomy specimens were reanalyzed by a second pathologist. Followup comprised clinical examination and postoperative prostate specific antigen assay at 1 and 3 months, and every 6 months thereafter. Results: Median patient age was 63 years (range 46 to 73). Median preoperative prostate specific antigen was 7.4 ng/ml (range 1.3 to 23). Of the cases 24 were T1c and 6 were T2a. The median number of biopsy cores was 10 (range 6 to 21) with 1 positive (range 1 to 4). On biopsies median tumor length was 1 mm (range 0.3 to 18) and there was tumor in 11.1% (range 3.4% to 64%). In 25 cases (83.3%) there was only 1 positive biopsy. Gleason score was 3 + 3 in 23 cases and less than 6 in 5 with grade 4 in 2. Only 9 cases filled all nonsignificant tumor criteria. Median specimen weight was 61 gm (range 40 to 160). At a median 82-month followup (range 14 to 226) there was no biochemical progression. Conclusions: After biopsy proven cancer pT0 prostate cancer is an unpredictable pathological finding. Despite its excellent prognosis it has medicolegal repercussions that justify DNA based tissue analysis. There is no evidence that finding focal cancer after extensive prostate resection changes patient prognosis and postoperative treatment.

@@ -1,0 +1,20 @@
+---
+title: "Patient education after acute myocardial infarction: cardiologists should adapt their message - French registry of acute ST-elevation or non-ST-elevation myocardial infarction 2010 registry"
+authors: "Puymirat, Etienne, Teixeira, Nelson, Simon, Tabassome, Steg, Philippe G., Schiele, Francois, Lamblin, Nicolas, Probst, Vincent, Juilliere, Yves, Ferrieres, Jean, Danchin, Nicolas, FAST-MI Investigators"
+journal: "JOURNAL OF CARDIOVASCULAR MEDICINE"
+year: 2015
+volume: "16"
+number: "11"
+pages: "761-767"
+month: "NOV"
+doi: "10.2459/JCM.0000000000000092"
+abstract: "Aims A shorter time delay between onset of symptoms and first call for medical attention would be expected in patients with a history of ischemic heart disease (IHD). We aimed to determine whether time to first call for an ST-elevation myocardial infarction (STEMI) differed between patients with or without history of coronary artery disease from the French registry of acute ST-elevation or non-ST-elevation myocardial infarction (FAST-MI) 2010 registry. Methods FAST-MI 2010 is a nationwide French registry that included 4169 patients with acute myocardial infarction (AMI, 2193 STEMI) at the end of 2010 in 213 centers. Factors correlated with time to first call were assessed, with a specific emphasis on previous history of IHD (IHD+; n = 402), compared with patients without history of IHD (IHD-; n = 1791). Results Time from onset to first call was 222 +/- 420 min (median time 68 min) in IHD+ patients versus 240 +/- 4423 min (median time 75 min) in IHD- patients (P=0.28). In multivariate analysis, only a few factors were significantly related to a shorter time from onset to first call (<= 75min); time of onset during the day (7: 00 a.m. to 11: 00 p.m.), upper socioeconomic class, anterior MI, cardiac arrest as the initial symptom, whereas history of IHD was not associated with a shorter time delay (odds ratio 0.86; 95% confidence interval 0.70-1.05). Similar results were found between patients with previous AMI and IHD- patients. Conclusion Patients with a history of IHD do not call earlier than IHD-naive patients when they are confronted with symptoms of AMI. Cardiologists should spend more time educating their coronary patients to recognize symptoms of AMI."
+issn: "1558-2027"
+eissn: "1558-2035"
+unique_id: "WOS:000369709600005"
+bib_key: "WOS:000369709600005"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+Aims A shorter time delay between onset of symptoms and first call for medical attention would be expected in patients with a history of ischemic heart disease (IHD). We aimed to determine whether time to first call for an ST-elevation myocardial infarction (STEMI) differed between patients with or without history of coronary artery disease from the French registry of acute ST-elevation or non-ST-elevation myocardial infarction (FAST-MI) 2010 registry. Methods FAST-MI 2010 is a nationwide French registry that included 4169 patients with acute myocardial infarction (AMI, 2193 STEMI) at the end of 2010 in 213 centers. Factors correlated with time to first call were assessed, with a specific emphasis on previous history of IHD (IHD+; n = 402), compared with patients without history of IHD (IHD-; n = 1791). Results Time from onset to first call was 222 +/- 420 min (median time 68 min) in IHD+ patients versus 240 +/- 4423 min (median time 75 min) in IHD- patients (P=0.28). In multivariate analysis, only a few factors were significantly related to a shorter time from onset to first call (<= 75min); time of onset during the day (7: 00 a.m. to 11: 00 p.m.), upper socioeconomic class, anterior MI, cardiac arrest as the initial symptom, whereas history of IHD was not associated with a shorter time delay (odds ratio 0.86; 95% confidence interval 0.70-1.05). Similar results were found between patients with previous AMI and IHD- patients. Conclusion Patients with a history of IHD do not call earlier than IHD-naive patients when they are confronted with symptoms of AMI. Cardiologists should spend more time educating their coronary patients to recognize symptoms of AMI.

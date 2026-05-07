@@ -1,0 +1,20 @@
+---
+title: "Ipsilateral vs controlateral approach in tuberculum sellae meningiomas surgery: a retrospective comparative study"
+authors: "Troude, Lucas, Boucekine, Mohamed, Baucher, Guillaume, Farah, Kaissar, Boissonneau, Sebastien, Fuentes, Stephane, Graillon, Thomas, Dufour, Henry"
+journal: "NEUROSURGICAL REVIEW"
+year: 2021
+volume: "44"
+number: "6"
+pages: "3581-3591"
+month: "DEC"
+doi: "10.1007/s10143-021-01536-y"
+abstract: "Most of tuberculum sellae meningiomas (TSM) show asymmetric growth. They are usually resected through ipsilateral approaches. The access of the inferior-medial side of the ipsilateral optic nerve might be challenging, which result in increased manipulation of the compromised optic nerve. The contralateral approach has been described to avoid these technical difficulties. Assessing the long-term visual and olfactory outcome, as well as recurrence rate in patients operated for TSM through ipsilateral or contralateral approaches. Single center retrospective cohort study about 94 patients operated on between March 2000 and April 2018. Seventy percent of the preoperative visual acuity loss totally resolved (44%) or showed varying degrees of improvement (26%) after surgery. Seventy-two percent of the preoperative visual field defects evolved favorably (44% recovery, 28% improvement). Eight patients showed aggravated visual disturbances (9%). A contralateral approach seemed to be predictive of visual field defects improvement after surgery (OR = 0.4), with borderline significant results (p = .08). There was a higher rate of postoperative olfactory nerve impairment after a contralateral approach (37% vs 17%, p = .03). Total removal of the tumor fragment entering the optic canal was accomplished in 96% in the contralateral vs 75% in the ipsilateral group (p = .04). The 2-, 5-, and 7-year tumor progression-free survival were 100% in the Simpson grade 2 group, and 85% (n = 17), 74% (n = 11), and 67% (n = 5) in the Simpson grade 4 group, respectively (p = .00). Resection of tuberculum sellae meningiomas through a contralateral approach seems to provide better visual outcome and tumor control at the cost of increased olfactory nerve disorders."
+issn: "0344-5607"
+eissn: "1437-2320"
+unique_id: "WOS:000642353000002"
+bib_key: "WOS:000642353000002"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Most of tuberculum sellae meningiomas (TSM) show asymmetric growth. They are usually resected through ipsilateral approaches. The access of the inferior-medial side of the ipsilateral optic nerve might be challenging, which result in increased manipulation of the compromised optic nerve. The contralateral approach has been described to avoid these technical difficulties. Assessing the long-term visual and olfactory outcome, as well as recurrence rate in patients operated for TSM through ipsilateral or contralateral approaches. Single center retrospective cohort study about 94 patients operated on between March 2000 and April 2018. Seventy percent of the preoperative visual acuity loss totally resolved (44%) or showed varying degrees of improvement (26%) after surgery. Seventy-two percent of the preoperative visual field defects evolved favorably (44% recovery, 28% improvement). Eight patients showed aggravated visual disturbances (9%). A contralateral approach seemed to be predictive of visual field defects improvement after surgery (OR = 0.4), with borderline significant results (p = .08). There was a higher rate of postoperative olfactory nerve impairment after a contralateral approach (37% vs 17%, p = .03). Total removal of the tumor fragment entering the optic canal was accomplished in 96% in the contralateral vs 75% in the ipsilateral group (p = .04). The 2-, 5-, and 7-year tumor progression-free survival were 100% in the Simpson grade 2 group, and 85% (n = 17), 74% (n = 11), and 67% (n = 5) in the Simpson grade 4 group, respectively (p = .00). Resection of tuberculum sellae meningiomas through a contralateral approach seems to provide better visual outcome and tumor control at the cost of increased olfactory nerve disorders.

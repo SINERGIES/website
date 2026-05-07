@@ -1,0 +1,19 @@
+---
+title: "Exercise Rehabilitation Restores Physiological Cardiovascular Responses to Short-term Head-Out Water Immersion in Patients With Chronic Heart Failure"
+authors: "Mourot, Laurent, Teffaha, D., Bouhaddi, M., Ounissi, F., Vernochet, P., Dugue, B., Regnard, J., Monpere, C."
+journal: "JOURNAL OF CARDIOPULMONARY REHABILITATION AND PREVENTION"
+year: 2010
+volume: "30"
+number: "1"
+pages: "22-27"
+month: "JAN-FEB"
+abstract: "PURPOSE: Rehabilitation programs increasingly involve immersed exercising, including inpatients suffering from severe cardiovascular diseases such as coronary artery disease (CAD) or chronic heart failure (CHF). The hemodynamic responses to short-term head-out water immersion are riot well defined in these diseases. This study was aimed at evaluating (1) the cardiac and peripheral hemodynamic responses to short-term head-out water immersion in patients with CHF (n = 12) and CAD (n = 12) and (2) the effect of a rehabilitation program on these responses. METHODS: Wrist arterial tonometry was performed in the upright posture before and during immersion (1.30-m depth) once before and once after a 3-week rehabilitation program including gymnic water exercises. RESULTS: In patients with CAD, water immersion triggered a significant increase in stroke volume, cardiac output, and pulse pressure and a significant decrease in pulse rate, diastolic blood pressure, and systemic vascular resistances, both before and after the rehabilitation program. In patients with CHF, no significant immersion-linked changes in cardiovascular variables were observed before rehabilitation. However, after completion of the rehabilitation program, it was found that water immersion caused significant increases in stroke volume, cardiac output, and pulse pressure. CONCLUSION: In patients with CHF, this 3-week rehabilitation program restored the usual central responses to head-out water immersion (increase in stroke volume and cardiac output). In both patients with CHF and CAD, acute water immersion did not change arterial compliance."
+issn: "1932-7501"
+eissn: "1932-751X"
+unique_id: "WOS:000273880400004"
+bib_key: "WOS:000273880400004"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+PURPOSE: Rehabilitation programs increasingly involve immersed exercising, including inpatients suffering from severe cardiovascular diseases such as coronary artery disease (CAD) or chronic heart failure (CHF). The hemodynamic responses to short-term head-out water immersion are riot well defined in these diseases. This study was aimed at evaluating (1) the cardiac and peripheral hemodynamic responses to short-term head-out water immersion in patients with CHF (n = 12) and CAD (n = 12) and (2) the effect of a rehabilitation program on these responses. METHODS: Wrist arterial tonometry was performed in the upright posture before and during immersion (1.30-m depth) once before and once after a 3-week rehabilitation program including gymnic water exercises. RESULTS: In patients with CAD, water immersion triggered a significant increase in stroke volume, cardiac output, and pulse pressure and a significant decrease in pulse rate, diastolic blood pressure, and systemic vascular resistances, both before and after the rehabilitation program. In patients with CHF, no significant immersion-linked changes in cardiovascular variables were observed before rehabilitation. However, after completion of the rehabilitation program, it was found that water immersion caused significant increases in stroke volume, cardiac output, and pulse pressure. CONCLUSION: In patients with CHF, this 3-week rehabilitation program restored the usual central responses to head-out water immersion (increase in stroke volume and cardiac output). In both patients with CHF and CAD, acute water immersion did not change arterial compliance.

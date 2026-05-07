@@ -1,0 +1,19 @@
+---
+title: "Continuous Transversus Abdominis Plane Infusion via Surgically Inserted Catheter for Postoperative Analgesia After Abdominal Aortic Surgery by Retroperitoneal Approach: TAPCACAO Study"
+authors: "du Mont, Lucie Salomon, Jazayeri, Aline, Besch, Guillaume, Guinot, Pierre-Gregoire, Steinmetz, Eric"
+journal: "ANNALS OF VASCULAR SURGERY"
+year: 2022
+volume: "86"
+pages: "104-110"
+month: "OCT"
+doi: "10.1016/j.avsg.2022.05.034"
+abstract: "Background: The purpose of our study was to evaluate the analgesic properties of continuous transversus abdominis plane (TAP) infusion with ropivacaine compared to placebo for postoperative analgesia in elective surgery of the abdominal aorta by retroperitoneal exposure. Methods: We conducted a prospective, single-center, randomized, double-blind study comparing a group of patients with a TAP catheter undoing ropivacaine infusion with a placebo group. Patients received a left retroperitoneal pararectal exposure for abdominal aortic surgery. A continuous infusion catheter was placed under visual control by the surgeon before closure and removed after 48 hr. All patients had postoperative patient-controlled analgesia with morphine. The primary endpoint was morphine consumption during the first 24 hr. Results: The analysis included 25 patients in the placebo group and 24 in the ropivacaine group. The average morphine consumption during the first 24 hr was significantly different, with 31 +/- 16 mg in the ropivacaine group and 41 +/- 17 mg in the placebo group (P = 0.019). At 48 hr, morphine consumption was still lower in the ropivacaine group (42 +/- 26 mg) than in the placebo group (64 +/- 25 mg) (P = 0.003). The opioid narcotic-related side effects of opioid infusion (postoperative nausea and vomiting, constipation) and length of hospital stay were similar in both populations. Conclusions: Our study showed that continuous TAP block with ropivacaine via surgically inserted catheter significantly decreased morphine consumption at 24 and 48 hr after elective abdominal aortic surgery by retroperitoneal exposure."
+issn: "0890-5096"
+eissn: "1615-5947"
+unique_id: "WOS:000897873500013"
+bib_key: "WOS:000897873500013"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Background: The purpose of our study was to evaluate the analgesic properties of continuous transversus abdominis plane (TAP) infusion with ropivacaine compared to placebo for postoperative analgesia in elective surgery of the abdominal aorta by retroperitoneal exposure. Methods: We conducted a prospective, single-center, randomized, double-blind study comparing a group of patients with a TAP catheter undoing ropivacaine infusion with a placebo group. Patients received a left retroperitoneal pararectal exposure for abdominal aortic surgery. A continuous infusion catheter was placed under visual control by the surgeon before closure and removed after 48 hr. All patients had postoperative patient-controlled analgesia with morphine. The primary endpoint was morphine consumption during the first 24 hr. Results: The analysis included 25 patients in the placebo group and 24 in the ropivacaine group. The average morphine consumption during the first 24 hr was significantly different, with 31 +/- 16 mg in the ropivacaine group and 41 +/- 17 mg in the placebo group (P = 0.019). At 48 hr, morphine consumption was still lower in the ropivacaine group (42 +/- 26 mg) than in the placebo group (64 +/- 25 mg) (P = 0.003). The opioid narcotic-related side effects of opioid infusion (postoperative nausea and vomiting, constipation) and length of hospital stay were similar in both populations. Conclusions: Our study showed that continuous TAP block with ropivacaine via surgically inserted catheter significantly decreased morphine consumption at 24 and 48 hr after elective abdominal aortic surgery by retroperitoneal exposure.

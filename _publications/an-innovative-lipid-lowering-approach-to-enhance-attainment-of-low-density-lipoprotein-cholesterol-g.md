@@ -1,0 +1,21 @@
+---
+title: "An innovative lipid-lowering approach to enhance attainment of low-density lipoprotein cholesterol goals"
+authors: "Buonvino, Camille, Chopard, Romain, Guillon, Benoit, Puymirat, Etienne, Farnier, Michel, Ferrieres, Jean, Krempf, Michel, Bruckert, Eric, Meneveau, Nicolas, Schiele, Francois"
+journal: "EUROPEAN HEART JOURNAL-ACUTE CARDIOVASCULAR CARE"
+year: 2020
+volume: "9"
+number: "8"
+pages: "879-887"
+month: "DEC"
+doi: "10.1177/2048872620912639"
+abstract: "Aims To improve attainment of LDL-cholesterol (LDL-c) targets, an expert group proposed an algorithm for lipid-lowering therapy during hospitalization for acute coronary syndrome and during follow-up. We aimed to assess adherence to this algorithm, and evaluate its impact on LDL-c levels and on attainment of therapeutic LDL-c targets in a population of post-acute coronary syndrome patients. Methods and results Prospective, observational study including patients admitted for acute coronary syndrome between February 2017 and September 2018. Patients admitted without statins or ezetimibe were considered `naive'. Baseline LDL-c was admission LDL-c in naive patients, and for those taking lipid-lowering therapy at admission, baseline LDL-c was back-calculated. In line with the most recent guidelines, the target was a >50% reduction in naive LDL-c and <55 mg/dL. In total, 270 patients were analysed, mean age 67 +/- 12 years, 78% men, 26% diabetic. At admission, 175 (65%) were naive, 95 (35%) had previous lipid-lowering therapy, of which 13 (5%) statin+ezetimibe. Average LDL-c at admission was 120 +/- 47 mg/dL (136 +/- 44 mg/dL in naive, 91 +/- 39 mg/dL in pretreated patients). Discharge prescription was in compliance with the algorithm in 204 (76%) patients. Average LDL-c at two months was 57 +/- 28 mg/dL; it was <55 mg/dL in 135 (50%), and 178 (66%) achieved a >50% reduction. Overall, 125/270 (46%) achieved the LDL-c goal. The reduction in LDL-c observed at two months persisted at five months. Conclusion Prescription of high-intensity statins, associated with ezetimibe where applicable, achieves LDL-c levels <55 mg/dL in 50% of patients at two months, and attains therapeutic goals defined by the European Society of Cardiology in 46% of cases."
+article_number: "2048872620912639"
+issn: "2048-8726"
+eissn: "2048-8734"
+unique_id: "WOS:000532945000001"
+bib_key: "WOS:000532945000001"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Aims To improve attainment of LDL-cholesterol (LDL-c) targets, an expert group proposed an algorithm for lipid-lowering therapy during hospitalization for acute coronary syndrome and during follow-up. We aimed to assess adherence to this algorithm, and evaluate its impact on LDL-c levels and on attainment of therapeutic LDL-c targets in a population of post-acute coronary syndrome patients. Methods and results Prospective, observational study including patients admitted for acute coronary syndrome between February 2017 and September 2018. Patients admitted without statins or ezetimibe were considered `naive'. Baseline LDL-c was admission LDL-c in naive patients, and for those taking lipid-lowering therapy at admission, baseline LDL-c was back-calculated. In line with the most recent guidelines, the target was a >50% reduction in naive LDL-c and <55 mg/dL. In total, 270 patients were analysed, mean age 67 +/- 12 years, 78% men, 26% diabetic. At admission, 175 (65%) were naive, 95 (35%) had previous lipid-lowering therapy, of which 13 (5%) statin+ezetimibe. Average LDL-c at admission was 120 +/- 47 mg/dL (136 +/- 44 mg/dL in naive, 91 +/- 39 mg/dL in pretreated patients). Discharge prescription was in compliance with the algorithm in 204 (76%) patients. Average LDL-c at two months was 57 +/- 28 mg/dL; it was <55 mg/dL in 135 (50%), and 178 (66%) achieved a >50% reduction. Overall, 125/270 (46%) achieved the LDL-c goal. The reduction in LDL-c observed at two months persisted at five months. Conclusion Prescription of high-intensity statins, associated with ezetimibe where applicable, achieves LDL-c levels <55 mg/dL in 50% of patients at two months, and attains therapeutic goals defined by the European Society of Cardiology in 46% of cases.

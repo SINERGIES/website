@@ -1,0 +1,19 @@
+---
+title: "Fusion of multiple segmentations of medical images using OV2ASSION and Deep Learning methods: Application to CT-Scans for tumoral kidney"
+authors: "Corbat, Lisa, Henriet, Julien, Chaussy, Yann, Lapayre, Jean-Christophe"
+journal: "COMPUTERS IN BIOLOGY AND MEDICINE"
+year: 2020
+volume: "124"
+month: "SEP"
+doi: "10.1016/j.compbiomed.2020.103928"
+abstract: "Nephroblastoma is the most common kidney tumour in children. Its diagnosis is based on imagery. In the SAIAD project, we have designed a platform for optimizing the segmentation of deformed kidney and tumour with a small dataset, using Artificial Intelligence methods. These patient's structures segmented by separate tools and processes must then be fused to obtain a unique numerical 3D representation. However, when aggregating these structures into a final segmentation, conflicting pixels may appear. These conflicts can be solved by IA techniques. This paper presents a synthesis of our segmentation contribution in the SAIAD project and a new fusion method. The segmentation method uses the FCN-8s network with the OV(2)ASSION training method, which allows segmentation by patient and overcomes the limited dataset. This new fusion method combines the segmentations of the previously performed structures, using a simple and efficient network combined with the OV(2)ASSION training method as well, in order to manage eventual conflicting pixels. These segmentation and fusion methods were evaluated on pathological kidney and tumour structures of 14 patients affected by nephroblastoma, included in the final dataset of the SAIAD project. They are compared with other methods adapted from the literature. The results demonstrate the effectiveness of our training method coupled with the FCN-8s network in the segmentation process with more patients, and in the case of the fusion process, its effectiveness coupled with a common network, in resolving the conflicting pixels and its ability to improve the resulting segmentations."
+article_number: "103928"
+issn: "0010-4825"
+eissn: "1879-0534"
+unique_id: "WOS:000571891000004"
+bib_key: "WOS:000571891000004"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Nephroblastoma is the most common kidney tumour in children. Its diagnosis is based on imagery. In the SAIAD project, we have designed a platform for optimizing the segmentation of deformed kidney and tumour with a small dataset, using Artificial Intelligence methods. These patient's structures segmented by separate tools and processes must then be fused to obtain a unique numerical 3D representation. However, when aggregating these structures into a final segmentation, conflicting pixels may appear. These conflicts can be solved by IA techniques. This paper presents a synthesis of our segmentation contribution in the SAIAD project and a new fusion method. The segmentation method uses the FCN-8s network with the OV(2)ASSION training method, which allows segmentation by patient and overcomes the limited dataset. This new fusion method combines the segmentations of the previously performed structures, using a simple and efficient network combined with the OV(2)ASSION training method as well, in order to manage eventual conflicting pixels. These segmentation and fusion methods were evaluated on pathological kidney and tumour structures of 14 patients affected by nephroblastoma, included in the final dataset of the SAIAD project. They are compared with other methods adapted from the literature. The results demonstrate the effectiveness of our training method coupled with the FCN-8s network in the segmentation process with more patients, and in the case of the fusion process, its effectiveness coupled with a common network, in resolving the conflicting pixels and its ability to improve the resulting segmentations.

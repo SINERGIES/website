@@ -1,0 +1,20 @@
+---
+title: "From pediatric emergency department to pediatric intensive care unit: a retrospective study in a French Tertiary University hospital"
+authors: "Riche, Elsa, Morand, Aurelie, Fruscione, Sophie, Michel, Fabrice, Boutin, Aurelie, Bremond, Valerie, Arnoux, Valerie, Minodier, Philippe"
+journal: "ARCHIVES DE PEDIATRIE"
+year: 2025
+volume: "32"
+number: "2"
+pages: "126-131"
+month: "FEB"
+doi: "10.1016/j.arcped.2024.12.005"
+abstract: "Objective: The management of a child presenting with a critical medical or surgical condition is a scarce event in the pediatric emergency department (PED). In this one year retrospective study, we have tried to better characterize the profile and care pathway of children who had been transferred to the neonatal or pediatric intensive care or critical care units (PICCU) after a visit to the PED, or died in PED. Methods: Retrospective study of children who has been transferred to PICCU from the two PED of Marseille's University Hospital from the 1st of January 2022 until the 31st of December 2022. Results: Among the 82,962 children who consulted the two PED of Marseille's University Hospital in 2022, 260 (0.3 %) were transferred to PICCU or died in PED. The mean age was 42 months. There were 17 % newborns and 12 % infants aged 1 to 3 months old. The main reasons for referral was respiratory troubles (bronchiolitis 27.3 %, asthma 21.9 %), and neurological impairment (14.6 %). Thirty percent of children were previously followed for a chronic illness. In 45 %, a critical intervention was required: non-invasive or controlled ventilation, extracorporeal membrane oxygenation, use of amines and/or blood transfusion, surgery, and/or external cardiac massage. Two children died in the PED and six during the hospitalization. The mean duration of hospitalization in PICCU was 4.2 days. Conclusion: In Marseille, during 2022, the occurrence of a critical child in PED was estimated at one every 300 children. These children were generally young and presented with respiratory or neurological pathologies. Care might require extensive resources or simple surveillance. Mortality was low (2.3 %)."
+issn: "0929-693X"
+eissn: "1769-664X"
+unique_id: "WOS:001428389600001"
+bib_key: "WOS:001428389600001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Objective: The management of a child presenting with a critical medical or surgical condition is a scarce event in the pediatric emergency department (PED). In this one year retrospective study, we have tried to better characterize the profile and care pathway of children who had been transferred to the neonatal or pediatric intensive care or critical care units (PICCU) after a visit to the PED, or died in PED. Methods: Retrospective study of children who has been transferred to PICCU from the two PED of Marseille's University Hospital from the 1st of January 2022 until the 31st of December 2022. Results: Among the 82,962 children who consulted the two PED of Marseille's University Hospital in 2022, 260 (0.3 %) were transferred to PICCU or died in PED. The mean age was 42 months. There were 17 % newborns and 12 % infants aged 1 to 3 months old. The main reasons for referral was respiratory troubles (bronchiolitis 27.3 %, asthma 21.9 %), and neurological impairment (14.6 %). Thirty percent of children were previously followed for a chronic illness. In 45 %, a critical intervention was required: non-invasive or controlled ventilation, extracorporeal membrane oxygenation, use of amines and/or blood transfusion, surgery, and/or external cardiac massage. Two children died in the PED and six during the hospitalization. The mean duration of hospitalization in PICCU was 4.2 days. Conclusion: In Marseille, during 2022, the occurrence of a critical child in PED was estimated at one every 300 children. These children were generally young and presented with respiratory or neurological pathologies. Care might require extensive resources or simple surveillance. Mortality was low (2.3 %).

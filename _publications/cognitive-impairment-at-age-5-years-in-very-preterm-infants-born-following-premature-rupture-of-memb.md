@@ -1,0 +1,20 @@
+---
+title: "Cognitive Impairment at Age 5 Years in Very Preterm Infants Born Following Premature Rupture of Membranes"
+authors: "Mura, Thibault, Picaud, Jean-Charles, Larroque, Beatrice, Galtier, Florence, Marret, Stephane, Roze, Jean-Christophe, Truffert, Patrick, Kuhn, Pierre, Fresson, Jeanne, Thiriez, Gerard, Arnaud, Catherine, Mercier, Gregoire, Picot, Marie-Christine, Ancel, Pierre-Yves, Ledesert, Bernard, Etud Epidemiologique Petits Ages"
+journal: "JOURNAL OF PEDIATRICS"
+year: 2013
+volume: "163"
+number: "2"
+pages: "435+"
+month: "AUG"
+doi: "10.1016/j.jpeds.2013.01.039"
+abstract: "Objective To evaluate the relationship between pretermpremature rupture of membranes (PPROM) and cognitive impairment in 5-year-old children born very preterm. Study design The Etude Epidemiologique sur les Petits Ages Gestationnels Study is a population-based cohort of children followed up from birth to age 5 years recruited in 9 French regions in 1997. We analyzed data from singletons born between 24 and 32 weeks gestation categorized into 4 groups according to etiology of prematurity: infants born after PPROM, after idiopathic preterm labor, in a vascular context (Vasc), and to women with other complications (Other). Cognitive development at age 5 years was assessed using the Mental Processing Composite score of the Kaufman-Assessment Battery for Children. Results Among the 1051 children followed up to age 5 years, the mean Mental Processing Composite score was 93.6 +/- 19.7, and 13.3% of the children (140 of 1051) had cognitive impairment. After adjustment for potential confounders, the risk of cognitive impairment among infants in the PPROM group was not significantly different than that in the idiopathic preterm labor group (OR, 1.09; 95% CI, 0.62-1.92) and the Other group (OR, 1.36; 95% CI, 0.75-2.47), but was lower than that in the Vasc group (OR, 1.86; 95% CI, 1.16-2.97). In the PPROM group, the risk of cognitive impairment was greater when the latency period (ie, time from rupture to delivery) was <3 days (OR, 2.32; 95% CI, 1.07-5.02). Conclusion Preterminfants born after PPROM are not at increased risk for cognitive impairment in childhood, but the time between PPROM and birth may influence that risk."
+issn: "0022-3476"
+eissn: "1097-6833"
+unique_id: "WOS:000322959500028"
+bib_key: "WOS:000322959500028"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+Objective To evaluate the relationship between pretermpremature rupture of membranes (PPROM) and cognitive impairment in 5-year-old children born very preterm. Study design The Etude Epidemiologique sur les Petits Ages Gestationnels Study is a population-based cohort of children followed up from birth to age 5 years recruited in 9 French regions in 1997. We analyzed data from singletons born between 24 and 32 weeks gestation categorized into 4 groups according to etiology of prematurity: infants born after PPROM, after idiopathic preterm labor, in a vascular context (Vasc), and to women with other complications (Other). Cognitive development at age 5 years was assessed using the Mental Processing Composite score of the Kaufman-Assessment Battery for Children. Results Among the 1051 children followed up to age 5 years, the mean Mental Processing Composite score was 93.6 +/- 19.7, and 13.3% of the children (140 of 1051) had cognitive impairment. After adjustment for potential confounders, the risk of cognitive impairment among infants in the PPROM group was not significantly different than that in the idiopathic preterm labor group (OR, 1.09; 95% CI, 0.62-1.92) and the Other group (OR, 1.36; 95% CI, 0.75-2.47), but was lower than that in the Vasc group (OR, 1.86; 95% CI, 1.16-2.97). In the PPROM group, the risk of cognitive impairment was greater when the latency period (ie, time from rupture to delivery) was <3 days (OR, 2.32; 95% CI, 1.07-5.02). Conclusion Preterminfants born after PPROM are not at increased risk for cognitive impairment in childhood, but the time between PPROM and birth may influence that risk.

@@ -1,0 +1,20 @@
+---
+title: "Quality control to improve LDL-cholesterol management in patients with acute coronary syndromes based on the ACS EuroPath IV project"
+authors: "Schiele, Francois, Catapano, Alberico L., De Caterina, Raffaele, Laufs, Ulrich, Jukema, J. Wouter, Zaman, Azfar, Sionis, Alessandro"
+journal: "EUROPEAN HEART JOURNAL-ACUTE CARDIOVASCULAR CARE"
+year: 2024
+volume: "13"
+number: "1"
+pages: "46-54"
+month: "FEB 9"
+doi: "10.1093/ehjacc/zuad119"
+abstract: "Aims We performed quality control of lipid-lowering therapy (LLT) in patients with acute coronary syndrome (ACS), with a view to proposing corrective actions.Methods and results Using a Define Measure Analysis Improve Control (DMAIC) approach applied to data from the ACS EuroPath IV survey, we measured attainment of two quality indicators (QIs) related to lipid-lowering treatment: (i) prescription of high-intensity statins (or equipotent treatment) before discharge, and (ii) proportion with LDL-cholesterol <55 mg/dL (1.4 mmol/L) during follow-up. A total of 530 European cardiologists responded and provided data for up to 5 patients from their centre, for acute and follow-up phases. Corrective measures are proposed to increase the rate of attainment of both QIs. Attainment of the first QI was measured in 929 acute-phase patients, 99% had LLT prescribed at discharge and 75% of patients fulfilled the first QI. Attainment of the second QI was assessed in 1721 patients with follow-up. The second QI was reached in 31% of patients. The DMAIC approach yielded 10 potential changes in prescription, 3 for the first and 7 for the second QI. The overall strategy is `Fire to Target', i.e. early intensification of the LLT using statins, ezetimibe, bempedoic acid, and proprotein convertase subtilisin/kexin type-9 inhibitors, and is presented as an algorithm for routine application.Conclusion Quality control for LLT, based on the ACS EuroPath IV survey, detected 10 potential changes in prescription that could enhance attainment of 2 QIs. Whether the Fire to Target strategy will be adopted and effective needs to be assessed in further steps of the EuroPath Quality programme.\\GRAPHIACAL ABSTRACT\\"
+issn: "2048-8726"
+eissn: "2048-8734"
+unique_id: "WOS:001097746700001"
+bib_key: "WOS:001097746700001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Aims We performed quality control of lipid-lowering therapy (LLT) in patients with acute coronary syndrome (ACS), with a view to proposing corrective actions.Methods and results Using a Define Measure Analysis Improve Control (DMAIC) approach applied to data from the ACS EuroPath IV survey, we measured attainment of two quality indicators (QIs) related to lipid-lowering treatment: (i) prescription of high-intensity statins (or equipotent treatment) before discharge, and (ii) proportion with LDL-cholesterol <55 mg/dL (1.4 mmol/L) during follow-up. A total of 530 European cardiologists responded and provided data for up to 5 patients from their centre, for acute and follow-up phases. Corrective measures are proposed to increase the rate of attainment of both QIs. Attainment of the first QI was measured in 929 acute-phase patients, 99% had LLT prescribed at discharge and 75% of patients fulfilled the first QI. Attainment of the second QI was assessed in 1721 patients with follow-up. The second QI was reached in 31% of patients. The DMAIC approach yielded 10 potential changes in prescription, 3 for the first and 7 for the second QI. The overall strategy is `Fire to Target', i.e. early intensification of the LLT using statins, ezetimibe, bempedoic acid, and proprotein convertase subtilisin/kexin type-9 inhibitors, and is presented as an algorithm for routine application.Conclusion Quality control for LLT, based on the ACS EuroPath IV survey, detected 10 potential changes in prescription that could enhance attainment of 2 QIs. Whether the Fire to Target strategy will be adopted and effective needs to be assessed in further steps of the EuroPath Quality programme.\GRAPHIACAL ABSTRACT\

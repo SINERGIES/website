@@ -1,0 +1,20 @@
+---
+title: "Validation and Reproducibility of the Updated French Causality Assessment Method: an Evaluation by Pharmacovigilance Centres & Pharmaceutical Companies"
+authors: "Theophile, Helene, Dutertre, Jean-Paul, Gerardin, Marie, Valnet-Rabier, Marie-Blanche, Bidault, Irene, Guy, Claire, Haramburu, Francoise, Hillaire-Buys, Dominique, Meglio, Carmine, Arimone, Yannick, Cercle Reflexion Imputabilite CRI"
+journal: "THERAPIE"
+year: 2015
+volume: "70"
+number: "5"
+pages: "465-476"
+month: "SEP-OCT"
+doi: "10.2515/therapie/2015028"
+abstract: "Objective. Assess the validity and reproducibility of the updated version of the French causality assessment method in conditions approaching real-life use. Methods. A random sample of 31 drug-event pairs from the French pharmacovigilance database was assessed by the consensual judgement of three experts (gold standard). Separately, a team from a pharmacovigilance centre (PhVC) and another from a pharmaceutical company assessed these pairs using the current method, then with the updated method. To test the inter- and intra-rater reproducibility, two seniors and two juniors from a PhVC and a pharmaceutical company assessed the pairs twice with the updated method. A weighted kappa coefficient was used to measure the agreement of the two causality assessment methods with the consensual expert judgement (validity) as well as the agreement of the updated causality assessment over time (intra-rater reproducibility) and between evaluators (inter-rater reproducibility). Results. Agreement between the current method and consensual expert judgement was fair for the PhVC team (weighted kappa [K-w] 0.33) and moderate for the pharmaceutical company team (K-w 0.41). For the updated method, agreement was better for both the PhVC (K-w 0.58) and the pharmaceutical company (K-w 0.52) teams. The inter- and intra-rater reproducibility of the updated method based on the intrinsic imputability was satisfactory overall (K-w 0.30-0.91). Discrepancies between evaluations from PhVC and pharmaceutical companies were observed with the updated method. Conclusion. The updated method performed better than the current one for drug causality assessment, suggesting that it should be used in routine pharmacovigilance."
+issn: "0040-5957"
+eissn: "1958-5578"
+unique_id: "WOS:000364110300008"
+bib_key: "WOS:000364110300008"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+Objective. Assess the validity and reproducibility of the updated version of the French causality assessment method in conditions approaching real-life use. Methods. A random sample of 31 drug-event pairs from the French pharmacovigilance database was assessed by the consensual judgement of three experts (gold standard). Separately, a team from a pharmacovigilance centre (PhVC) and another from a pharmaceutical company assessed these pairs using the current method, then with the updated method. To test the inter- and intra-rater reproducibility, two seniors and two juniors from a PhVC and a pharmaceutical company assessed the pairs twice with the updated method. A weighted kappa coefficient was used to measure the agreement of the two causality assessment methods with the consensual expert judgement (validity) as well as the agreement of the updated causality assessment over time (intra-rater reproducibility) and between evaluators (inter-rater reproducibility). Results. Agreement between the current method and consensual expert judgement was fair for the PhVC team (weighted kappa [K-w] 0.33) and moderate for the pharmaceutical company team (K-w 0.41). For the updated method, agreement was better for both the PhVC (K-w 0.58) and the pharmaceutical company (K-w 0.52) teams. The inter- and intra-rater reproducibility of the updated method based on the intrinsic imputability was satisfactory overall (K-w 0.30-0.91). Discrepancies between evaluations from PhVC and pharmaceutical companies were observed with the updated method. Conclusion. The updated method performed better than the current one for drug causality assessment, suggesting that it should be used in routine pharmacovigilance.

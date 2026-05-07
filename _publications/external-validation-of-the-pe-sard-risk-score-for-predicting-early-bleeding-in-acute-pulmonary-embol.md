@@ -1,0 +1,19 @@
+---
+title: "External validation of the PE-SARD risk score for predicting early bleeding in acute pulmonary embolism in the RIETE Registry"
+authors: "Chopard, Romain, Bertoletti, Laurent, Piazza, Gregory, Jimenez, David, Barillari, Giovanni, Llamas, Pilar, Rubio, Carmen M., Aujayeb, Avinash, Monreal, Manuel, Meneveau, Nicolas"
+journal: "THROMBOSIS RESEARCH"
+year: 2024
+volume: "235"
+pages: "22-31"
+month: "MAR"
+doi: "10.1016/j.thromres.2024.01.013"
+abstract: "Introduction: The PE-SARD score (syncope, anemia, renal dysfunction) was developed to predict the risk of major bleeding in the acute phase of pulmonary embolism (PE). Methods: We analyzed data from 50,686 patients with acute PE included in the RIETE registry to externally validate the PE-SARD score. We calculated the overall reliability of the PE-SARD score, as well as discrimination and calibration for predicting the risk of major bleeding at 30 days. The performance of PE-SARD was compared to the BACS and PE -CH models. Results: During the first 30 days, 640 patients (1.3 %) had a major bleeding event. The incidence of major bleeding within 30 days was 0.6 % in the PE-SARD-defined low -risk group, 1.5 % in the intermediate -risk group, and 2.5 % in the high -risk group, for an OR of 2.22 (95 % CI, 2.02-2.43) for the intermediate -risk group (vs lowrisk group), and 3.94 for the high -risk group (vs low -risk group). The corresponding sensitivity was 81.1 % (intermediate/high vs low risk), and specificity was 85.9 % (95 % CI, 85.8-86.1) (low/intermediate vs high risk). The applicability of PE-SARD was consistent across clinically relevant patient subgroups and over shorter time periods of follow-up (i.e., 3 and 7 days). The C -index was 0.654 and calibration was excellent. The PE-SARD bleeding score improved the major bleeding risk prediction compared with the BACS and PE -CH scores. Conclusions: The PE-SARD score identifies PE patients with a higher risk of bleeding, which could assist providers for potentially adjusting PE management, in a framework of shared decision -making with individual patients."
+issn: "0049-3848"
+eissn: "1879-2472"
+unique_id: "WOS:001172005800001"
+bib_key: "WOS:001172005800001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Introduction: The PE-SARD score (syncope, anemia, renal dysfunction) was developed to predict the risk of major bleeding in the acute phase of pulmonary embolism (PE). Methods: We analyzed data from 50,686 patients with acute PE included in the RIETE registry to externally validate the PE-SARD score. We calculated the overall reliability of the PE-SARD score, as well as discrimination and calibration for predicting the risk of major bleeding at 30 days. The performance of PE-SARD was compared to the BACS and PE -CH models. Results: During the first 30 days, 640 patients (1.3 %) had a major bleeding event. The incidence of major bleeding within 30 days was 0.6 % in the PE-SARD-defined low -risk group, 1.5 % in the intermediate -risk group, and 2.5 % in the high -risk group, for an OR of 2.22 (95 % CI, 2.02-2.43) for the intermediate -risk group (vs lowrisk group), and 3.94 for the high -risk group (vs low -risk group). The corresponding sensitivity was 81.1 % (intermediate/high vs low risk), and specificity was 85.9 % (95 % CI, 85.8-86.1) (low/intermediate vs high risk). The applicability of PE-SARD was consistent across clinically relevant patient subgroups and over shorter time periods of follow-up (i.e., 3 and 7 days). The C -index was 0.654 and calibration was excellent. The PE-SARD bleeding score improved the major bleeding risk prediction compared with the BACS and PE -CH scores. Conclusions: The PE-SARD score identifies PE patients with a higher risk of bleeding, which could assist providers for potentially adjusting PE management, in a framework of shared decision -making with individual patients.

@@ -1,0 +1,20 @@
+---
+title: "Score to Predict the Occurrence of Pneumothorax After Computed Tomography-guided Percutaneous Transthoracic Lung Biopsy"
+authors: "Lamfichekh, Yassine, Lafay, Valentin, Hamam, Joffrey, Guillien, Alicia, Puyraveau, Marc, Behr, Julien, Manzoni, Philippe, Calame, Paul, Dalphin, Jean-Charles, Eberst, Guillaume, Grillet, Franck, Westeel, Virginie"
+journal: "JOURNAL OF THORACIC IMAGING"
+year: 2023
+volume: "38"
+number: "5"
+pages: "315-324"
+month: "SEP"
+doi: "10.1097/RTI.0000000000000729"
+abstract: "Purpose:The main objective of this study was to identify risk factors for post-percutaneous transthoracic lung biopsy (PTLB) pneumothorax and to establish and validate a predictive score for pneumothorax occurrence to identify patients eligible for outpatient care. Material and Methods:Patients who underwent PTLB between November 1, 2012 and March 1, 2017 were retrospectively evaluated for clinical and radiologic factors potentially related to pneumothorax occurrence. Multivariate logistic regression was used to identify risk factors, and the model coefficient for each factor was used to compute a score. Then, a validation cohort was prospectively evaluated from March 2018 to October 2019. Results:Among the 498 eligible patients in the study cohort, pneumothorax occurred in 124 patients (24.9%) and required drainage in 34 patients (6.8%). Pneumothorax risk factors were chronic obstructive pulmonary disease (OR 95% CI 2.28[1.18-4.43]), several passages through the pleura (OR 95% CI 7.71[1.95-30.48]), an anterior biopsy approach (OR 95% CI 6.36 3.82-10.58]), skin-to-pleura distance & LE;30 mm (OR 95% CI 2.25[1.09-6.65]), and aerial effusion >10 mm (OR 95% CI 9.27 [5.16-16.65]). Among the 236 patients in the prospective validation cohort, pneumothorax occurred in 18% and 8% were drained. A negative score (<73 points) predicted a probability of pneumothorax occurrence of 7.4% and late evacuation of 2.5% (OR 95% CI respectively 0.18[0.08-0.39] and 0.15[0.04-0.55]) and suggested a reduced length of hospital stay (P=0.009). Conclusion:This predictive score for pneumothorax secondary to PTLB has high prognostic performance and accuracy to direct patients toward outpatient management."
+issn: "0883-5993"
+eissn: "1536-0237"
+unique_id: "WOS:001052265200010"
+bib_key: "WOS:001052265200010"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Purpose:The main objective of this study was to identify risk factors for post-percutaneous transthoracic lung biopsy (PTLB) pneumothorax and to establish and validate a predictive score for pneumothorax occurrence to identify patients eligible for outpatient care. Material and Methods:Patients who underwent PTLB between November 1, 2012 and March 1, 2017 were retrospectively evaluated for clinical and radiologic factors potentially related to pneumothorax occurrence. Multivariate logistic regression was used to identify risk factors, and the model coefficient for each factor was used to compute a score. Then, a validation cohort was prospectively evaluated from March 2018 to October 2019. Results:Among the 498 eligible patients in the study cohort, pneumothorax occurred in 124 patients (24.9%) and required drainage in 34 patients (6.8%). Pneumothorax risk factors were chronic obstructive pulmonary disease (OR 95% CI 2.28[1.18-4.43]), several passages through the pleura (OR 95% CI 7.71[1.95-30.48]), an anterior biopsy approach (OR 95% CI 6.36 3.82-10.58]), skin-to-pleura distance & LE;30 mm (OR 95% CI 2.25[1.09-6.65]), and aerial effusion >10 mm (OR 95% CI 9.27 [5.16-16.65]). Among the 236 patients in the prospective validation cohort, pneumothorax occurred in 18% and 8% were drained. A negative score (<73 points) predicted a probability of pneumothorax occurrence of 7.4% and late evacuation of 2.5% (OR 95% CI respectively 0.18[0.08-0.39] and 0.15[0.04-0.55]) and suggested a reduced length of hospital stay (P=0.009). Conclusion:This predictive score for pneumothorax secondary to PTLB has high prognostic performance and accuracy to direct patients toward outpatient management.

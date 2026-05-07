@@ -1,0 +1,20 @@
+---
+title: "Nephron-sparing surgery is superior to radical nephrectomy in preserving renal function benefit even when expanding indications beyond the traditional 4-cm cutoff"
+authors: "Pignot, Geraldine, Bigot, Pierre, Bernhard, Jean-Christophe, Bouliere, Fabien, Bessede, Thomas, Bensalah, Karim, Salomon, Laurent, Mottet, Nicolas, Bellec, Laurent, Soulie, Michel, Ferriere, Jean-Marie, Pfister, Christian, Drai, Julien, Colombel, Marc, Villers, Arnauld, Rigaud, Jerome, Bouchot, Olivier, Montorsi, Francesco, Bertini, Roberto, Belldegrun, Arie S., Pantuck, Allan J., Patard, Jean-Jacques"
+journal: "UROLOGIC ONCOLOGY-SEMINARS AND ORIGINAL INVESTIGATIONS"
+year: 2014
+volume: "32"
+number: "7"
+pages: "1024-1030"
+month: "OCT"
+doi: "10.1016/j.urolonc.2014.03.012"
+abstract: "Objectives: To analyze to what extent partial nephrectomy (PN) is superior to radical nephrectomy (RN) in preserving renal function outcome in relation to tumor size indication. Methods and materials: Clinical data from 973 patients operated at 9 academic institutions were retrospectively analyzed. Glomerular filtration rate (GFR) before and after surgery was calculated with the abbreviated Modification of the Diet in Renal Disease equation. For a fair comparison between the 2 techniques, all imperative indications for PN were excluded. A shift to a less favorable GFR group following surgery was considered clinically significant. Results: Median age at diagnosis was 60 years (19-91). Tumor size was smaller than 4 cm in 665 (68.3%) cases and larger than 4 cm in 308 (31.7%) cases. PN and RN were performed in 663 (68.1%) and 310 (31.9%) patients, respectively. In univariate analysis, patients undergoing PN had a smaller risk for developing significant GFR change following surgery than those undergoing RN did. This was true for tumors <= 4 cm (P = 0.0001) and for tumors > 4 cm (P = 0.0001). In multivariate analysis, the following criteria were independent predictive factors for developing significant postoperative GFR loss: the use of RN (P = 0.0001), preoperative GFR < 60 ml/min (P = 0.0001), tumor size >= 4 cm (P = 0.0001), and older age at diagnosis (P = 0.0001). Conclusions: The renal function benefit carried out by elective PN over RN persists even when expanding nephron-sparing surgery indications beyond the traditional 4-cm cutoff. (C) 2014 Elsevier Inc. All rights reserved."
+issn: "1078-1439"
+eissn: "1873-2496"
+unique_id: "WOS:000343968900012"
+bib_key: "WOS:000343968900012"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+Objectives: To analyze to what extent partial nephrectomy (PN) is superior to radical nephrectomy (RN) in preserving renal function outcome in relation to tumor size indication. Methods and materials: Clinical data from 973 patients operated at 9 academic institutions were retrospectively analyzed. Glomerular filtration rate (GFR) before and after surgery was calculated with the abbreviated Modification of the Diet in Renal Disease equation. For a fair comparison between the 2 techniques, all imperative indications for PN were excluded. A shift to a less favorable GFR group following surgery was considered clinically significant. Results: Median age at diagnosis was 60 years (19-91). Tumor size was smaller than 4 cm in 665 (68.3%) cases and larger than 4 cm in 308 (31.7%) cases. PN and RN were performed in 663 (68.1%) and 310 (31.9%) patients, respectively. In univariate analysis, patients undergoing PN had a smaller risk for developing significant GFR change following surgery than those undergoing RN did. This was true for tumors <= 4 cm (P = 0.0001) and for tumors > 4 cm (P = 0.0001). In multivariate analysis, the following criteria were independent predictive factors for developing significant postoperative GFR loss: the use of RN (P = 0.0001), preoperative GFR < 60 ml/min (P = 0.0001), tumor size >= 4 cm (P = 0.0001), and older age at diagnosis (P = 0.0001). Conclusions: The renal function benefit carried out by elective PN over RN persists even when expanding nephron-sparing surgery indications beyond the traditional 4-cm cutoff. (C) 2014 Elsevier Inc. All rights reserved.

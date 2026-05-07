@@ -1,0 +1,20 @@
+---
+title: "Edoxaban in atrial fibrillation patients with percutaneous coronary intervention by acute or chronic coronary syndrome presentation: a pre-specified analysis of the ENTRUST-AF PCI trial"
+authors: "Vranckx, Pascal, Valgimigli, Marco, Eckardt, Lars, Lewalter, Thorsten, Unikas, Ramunas, Marin, Francisco, Schiele, Francois, Laeis, Petra, Reimitz, Paul-Egbert, Smolnik, Ruediger, Zierhut, Wolfgang, Tijssen, Jan, Goette, Andreas"
+journal: "EUROPEAN HEART JOURNAL"
+year: 2020
+volume: "41"
+number: "47"
+pages: "4497-4504"
+month: "DEC 14"
+doi: "10.1093/eurheartj/ehaa617"
+abstract: "Aims To compare the safety and efficacy of edoxaban combined with P2Y12 inhibition following percutaneous coronary intervention (PCI) in patients with atrial fibrillation (AF) presenting with an acute coronary syndrome (ACS) or chronic coronary syndrome (CCS). Methods and results In this pre-specified sub-analysis of the ENTRUST-AF PCI trial, participants were randomly assigned 1:1 to edoxaban- or vitamin K antagonist (VKA)-based strategy and randomization was stratified by ACS (edoxaban n = 388, VKA n = 389) vs. CCS (edoxaban n = 363, VKA = 366). Participants received edoxaban 60 mg once-daily plus a P2Y12 inhibitor for 12 months, or VKA combined with a P2Y12 inhibitor and aspirin 100 mg (for 1-12 months). The primary bleeding endpoint at 12 months occurred in 59 (15.2%) vs. 79 (20.3%) ACS patients [hazard ratio (HR): 0.73, 95% confidence interval (CI): 0.59-1.02, P = 0.063], and in 69 (19.0%) vs. 73 (19.9%) CCS patients (HR: 0.94, 95%CI: 0.68-1.31, P = 0.708) with edoxaban- and VKA-based therapy, respectively [P for interaction (P-int) = 0.2741]. The main secondary endpoint (composite of CV death, myocardial infarction, stroke, systemic embolic events, or definite stent thrombosis) in ACS patients was 33 (8.5%) vs. 28 (7.2%) (HR: 1.16, 95%CI: 0.70-1.92), compared with 16 (4.4%) vs. 18 (4.9%) (HR: 0.91, 95%CI: 0.47-1.78) CCS patients with edoxaban and VKA-based therapy, respectively (P-int = 0.5573). Conclusions In patients with AF who underwent PCI, the edoxaban-based regimen, as compared with VKA-based regimen, provides consistent safety and similar efficacy for ischaemic events in patients with AF regardless of their clinical presentation."
+issn: "0195-668X"
+eissn: "1522-9645"
+unique_id: "WOS:000608409700013"
+bib_key: "WOS:000608409700013"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Aims To compare the safety and efficacy of edoxaban combined with P2Y12 inhibition following percutaneous coronary intervention (PCI) in patients with atrial fibrillation (AF) presenting with an acute coronary syndrome (ACS) or chronic coronary syndrome (CCS). Methods and results In this pre-specified sub-analysis of the ENTRUST-AF PCI trial, participants were randomly assigned 1:1 to edoxaban- or vitamin K antagonist (VKA)-based strategy and randomization was stratified by ACS (edoxaban n = 388, VKA n = 389) vs. CCS (edoxaban n = 363, VKA = 366). Participants received edoxaban 60 mg once-daily plus a P2Y12 inhibitor for 12 months, or VKA combined with a P2Y12 inhibitor and aspirin 100 mg (for 1-12 months). The primary bleeding endpoint at 12 months occurred in 59 (15.2%) vs. 79 (20.3%) ACS patients [hazard ratio (HR): 0.73, 95% confidence interval (CI): 0.59-1.02, P = 0.063], and in 69 (19.0%) vs. 73 (19.9%) CCS patients (HR: 0.94, 95%CI: 0.68-1.31, P = 0.708) with edoxaban- and VKA-based therapy, respectively [P for interaction (P-int) = 0.2741]. The main secondary endpoint (composite of CV death, myocardial infarction, stroke, systemic embolic events, or definite stent thrombosis) in ACS patients was 33 (8.5%) vs. 28 (7.2%) (HR: 1.16, 95%CI: 0.70-1.92), compared with 16 (4.4%) vs. 18 (4.9%) (HR: 0.91, 95%CI: 0.47-1.78) CCS patients with edoxaban and VKA-based therapy, respectively (P-int = 0.5573). Conclusions In patients with AF who underwent PCI, the edoxaban-based regimen, as compared with VKA-based regimen, provides consistent safety and similar efficacy for ischaemic events in patients with AF regardless of their clinical presentation.

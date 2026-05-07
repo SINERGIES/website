@@ -1,0 +1,20 @@
+---
+title: "Post-exercise cardiac autonomic and cardiovascular responses to heart rate-matched and work rate-matched hypoxic exercise"
+authors: "Fornasiero, Alessandro, Zignoli, Andrea, Rakobowchuk, Mark, Stella, Federico, Savoldelli, Aldo, Skafidas, Spyros, Schena, Federico, Pellegrini, Barbara, Mourot, Laurent"
+journal: "EUROPEAN JOURNAL OF APPLIED PHYSIOLOGY"
+year: 2021
+volume: "121"
+number: "7"
+pages: "2061-2076"
+month: "JUL"
+doi: "10.1007/s00421-021-04678-5"
+abstract: "Purpose This study investigated the effect of performing hypoxic exercise at the same heart rate (HR) or work rate (WR) as normoxic exercise on post-exercise autonomic and cardiovascular responses. Methods Thirteen men performed three interval-type exercise sessions (5 x 5-min; 1-min recovery): normoxic exercise at 80% of the WR at the first ventilatory threshold (N), hypoxic exercise (FiO(2) = 14.2%) at the same WR as N (H-WR) and hypoxic exercise at the same HR as N (H-HR). Autonomic and cardiovascular assessments were conducted before and after exercise, both at rest and during active squat-stand manoeuvres (SS). Results Compared to N, H-WR elicited a higher HR response (approximate to 83% vs approximate to 75%HRmax, p < 0.001) and H-HR a reduced exercise WR (- 21.1 +/- 9.3%, p < 0.001). Cardiac parasympathetic indices were reduced 15 min after exercise and recovered within 60 min in N and H-HR, but not after H-WR (p < 0.05). H-WR altered cardiac baroreflex sensitivity (cBRS) both at rest and during SS (specifically in the control of blood pressure fall during standing phases) in the first 60 min after the exercise bout (p < 0.05). Post-exercise hypotension (PEH) did not occur in H-HR (p > 0.05) but lasted longer in H-WR than in N (p < 0.05). Conclusions Moderate HR-matched hypoxic exercise mimicked post-exercise autonomic responses of normoxic exercise without resulting in significant PEH. This may relate to the reduced WR and the limited associated mechanical/metabolic strain. Conversely, WR-matched hypoxic exercise impacted upon post-exercise autonomic and cardiovascular responses, delaying cardiac autonomic recovery, temporarily decreasing cBRS and evoking prolonged PEH."
+issn: "1439-6319"
+eissn: "1439-6327"
+unique_id: "WOS:000636408400004"
+bib_key: "WOS:000636408400004"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Purpose This study investigated the effect of performing hypoxic exercise at the same heart rate (HR) or work rate (WR) as normoxic exercise on post-exercise autonomic and cardiovascular responses. Methods Thirteen men performed three interval-type exercise sessions (5 x 5-min; 1-min recovery): normoxic exercise at 80% of the WR at the first ventilatory threshold (N), hypoxic exercise (FiO(2) = 14.2%) at the same WR as N (H-WR) and hypoxic exercise at the same HR as N (H-HR). Autonomic and cardiovascular assessments were conducted before and after exercise, both at rest and during active squat-stand manoeuvres (SS). Results Compared to N, H-WR elicited a higher HR response (approximate to 83% vs approximate to 75%HRmax, p < 0.001) and H-HR a reduced exercise WR (- 21.1 +/- 9.3%, p < 0.001). Cardiac parasympathetic indices were reduced 15 min after exercise and recovered within 60 min in N and H-HR, but not after H-WR (p < 0.05). H-WR altered cardiac baroreflex sensitivity (cBRS) both at rest and during SS (specifically in the control of blood pressure fall during standing phases) in the first 60 min after the exercise bout (p < 0.05). Post-exercise hypotension (PEH) did not occur in H-HR (p > 0.05) but lasted longer in H-WR than in N (p < 0.05). Conclusions Moderate HR-matched hypoxic exercise mimicked post-exercise autonomic responses of normoxic exercise without resulting in significant PEH. This may relate to the reduced WR and the limited associated mechanical/metabolic strain. Conversely, WR-matched hypoxic exercise impacted upon post-exercise autonomic and cardiovascular responses, delaying cardiac autonomic recovery, temporarily decreasing cBRS and evoking prolonged PEH.

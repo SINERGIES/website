@@ -1,0 +1,20 @@
+---
+title: "Urinary tract infection after flexible ureterorenoscopy for urolithiasis in patients with positive treated preoperative urinalysis"
+authors: "Simon, Jeanne, Kleinclauss, Francois, Chabannes, Eric, Bouiller, Kevin, Frontczak, Alexandre"
+journal: "UROLITHIASIS"
+year: 2024
+volume: "52"
+number: "1"
+month: "MAR 11"
+doi: "10.1007/s00240-024-01546-7"
+abstract: "Prevalence of kidney stones is increasing worldwide, flexible ureterorenoscopy (f-URS) is the most common surgical treatment. Postoperative urinary tract infection (PUTI) is the primary complication. Some risk factors are classically associated with PUTI, especially preoperative positive urinalysis (POPU). We aimed to identify risk factors for PUTI after f-URS for urolithiasis in patients with treated POPU, and to identify the different pre and postoperative pathogens. Retrospective, single-center study of all f-URS for urolithiasis between January 2004 and December 2020. Procedures with treated POPU were categorized as PUTI or no PUTI (NPUTI). We examined demographics, preoperative, perioperative and postoperative characteristics in each group. Among 1934 procedures analyzed, 401 (20.7%) had POPU; these were categorized into NPUTI (n = 352, 87.8%) and PUTI (n = 49, 12.2%). By univariate analysis, only preoperative stenting duration (76.3 in NPUTI group vs 107.7 days in PUTI group, p = 0.001) was significantly associated with a higher risk of PUTI in univariate analysis. Germ distribution was similar in both groups. We compared pre- and postoperative microbiological data for interventions with PUTI, and found that only 8.7% of pathogens were identical between pre and postoperative urinalysis. Our study shows that the rate of PUTI is higher for patients with a POPU and that preoperative stent duration is the sole risk factor in patients with POPU. The low concordance rate (8.7%) between POPU and post-operative pathogens highlights the need for further research on obtaining sterile preoperative urinalysis, or performing intraoperative culture (urines, stent or stone), to treat PUTI early with an adapted antibiotic therapy."
+article_number: "45"
+issn: "2194-7228"
+eissn: "2194-7236"
+unique_id: "WOS:001180245900001"
+bib_key: "WOS:001180245900001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Prevalence of kidney stones is increasing worldwide, flexible ureterorenoscopy (f-URS) is the most common surgical treatment. Postoperative urinary tract infection (PUTI) is the primary complication. Some risk factors are classically associated with PUTI, especially preoperative positive urinalysis (POPU). We aimed to identify risk factors for PUTI after f-URS for urolithiasis in patients with treated POPU, and to identify the different pre and postoperative pathogens. Retrospective, single-center study of all f-URS for urolithiasis between January 2004 and December 2020. Procedures with treated POPU were categorized as PUTI or no PUTI (NPUTI). We examined demographics, preoperative, perioperative and postoperative characteristics in each group. Among 1934 procedures analyzed, 401 (20.7%) had POPU; these were categorized into NPUTI (n = 352, 87.8%) and PUTI (n = 49, 12.2%). By univariate analysis, only preoperative stenting duration (76.3 in NPUTI group vs 107.7 days in PUTI group, p = 0.001) was significantly associated with a higher risk of PUTI in univariate analysis. Germ distribution was similar in both groups. We compared pre- and postoperative microbiological data for interventions with PUTI, and found that only 8.7% of pathogens were identical between pre and postoperative urinalysis. Our study shows that the rate of PUTI is higher for patients with a POPU and that preoperative stent duration is the sole risk factor in patients with POPU. The low concordance rate (8.7%) between POPU and post-operative pathogens highlights the need for further research on obtaining sterile preoperative urinalysis, or performing intraoperative culture (urines, stent or stone), to treat PUTI early with an adapted antibiotic therapy.

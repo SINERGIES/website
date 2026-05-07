@@ -1,0 +1,20 @@
+---
+title: "The Thoracic Surgery Scoring System (Thoracoscore): Risk model for in-hospital death in 15,183 patients requiring thoracic surgery"
+authors: "Falcoz, Pierre Emmanuel, Conti, Massimo, Brouchet, Laurent, Chocron, Sidney, Puyraveau, Marc, Mercier, Mariette, Etievent, Joseph Philippe, Dahan, Marcel"
+journal: "JOURNAL OF THORACIC AND CARDIOVASCULAR SURGERY"
+year: 2007
+volume: "133"
+number: "2"
+pages: "325-332"
+month: "FEB"
+doi: "10.1016/j.jtcvs.2006.09.020"
+abstract: "Objective: This study was undertaken to determine factors associated with in-hospital mortality among patients after general thoracic surgery and to construct a risk model. Methods: Data from a nationally representative thoracic surgery database were collected prospectively between June 2002 and July 2005. Logistic regression analysis was used to predict the risk of in-hospital death. A risk model was developed with a training set of data (two thirds of patients) and validated on an independent test set (one third of patients). Model fit was assessed by the Hosmer-Lemeshow test; predictive accuracy was assessed by the c-index. Results: Of the 15,183 original patients, 338 (2.2%) died during the same hospital admission. Within the data used to develop the model, these factors were found to be significantly associated with the occurrence of in-hospital death in a multivariate analysis: age, sex, dyspnea score, American Society of Anesthesiologists score, performance status classification, priority of surgery, diagnosis group, procedure class, and comorbid disease. The model was reliable (Hosmer-Lemeshow test 3.22; P = .92) and accurate, with a c-index of 0.85 (95% confidence interval 0.83-0.87) for the training set and 0.86 (95% confidence interval 0.83-0.89) for the test set of data. The correlation between the expected and observed number of deaths was 0.99. Conclusions: The validated multivariate model Thoracoscore, described in this report for risk of in-hospital death among adult patients after general thoracic surgery was developed with national data, uses only 9 variables, and has good performance characteristics. It appears to be a valid clinical tool for predicting the risk of death."
+issn: "0022-5223"
+eissn: "1097-685X"
+unique_id: "WOS:000243783900010"
+bib_key: "WOS:000243783900010"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+Objective: This study was undertaken to determine factors associated with in-hospital mortality among patients after general thoracic surgery and to construct a risk model. Methods: Data from a nationally representative thoracic surgery database were collected prospectively between June 2002 and July 2005. Logistic regression analysis was used to predict the risk of in-hospital death. A risk model was developed with a training set of data (two thirds of patients) and validated on an independent test set (one third of patients). Model fit was assessed by the Hosmer-Lemeshow test; predictive accuracy was assessed by the c-index. Results: Of the 15,183 original patients, 338 (2.2%) died during the same hospital admission. Within the data used to develop the model, these factors were found to be significantly associated with the occurrence of in-hospital death in a multivariate analysis: age, sex, dyspnea score, American Society of Anesthesiologists score, performance status classification, priority of surgery, diagnosis group, procedure class, and comorbid disease. The model was reliable (Hosmer-Lemeshow test 3.22; P = .92) and accurate, with a c-index of 0.85 (95% confidence interval 0.83-0.87) for the training set and 0.86 (95% confidence interval 0.83-0.89) for the test set of data. The correlation between the expected and observed number of deaths was 0.99. Conclusions: The validated multivariate model Thoracoscore, described in this report for risk of in-hospital death among adult patients after general thoracic surgery was developed with national data, uses only 9 variables, and has good performance characteristics. It appears to be a valid clinical tool for predicting the risk of death.

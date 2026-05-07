@@ -1,0 +1,17 @@
+---
+title: "A Perfect Challenge to Select the Ideal Virus Vaccine Using a New Potent Hierarchical Algorithm in a Smart Laboratory"
+authors: "Ar-Reyouchi, El Miloud, Varshney, Gunjan, Ghoumid, Kamal, Picaud, Fabien, Herlem, Guillaume, Mostefaoui, Ahmed, Yahiaoui, Reda"
+journal: "IEEE ACCESS"
+year: 2023
+volume: "11"
+pages: "79890-79910"
+doi: "10.1109/ACCESS.2023.3295329"
+abstract: "Improving the bit error rate (BER) in dense wireless medical sensor networks (WMSNs) using small areas is challenging. Ensuring the relay of big data in healthcare, such as human virus vaccine signs, is always a huge challenge. This paper proposes a new potent hierarchical algorithm (PHA) for controlling several vaccine types in real-time using a uniquely challenging laboratory before being recommended and authorized. This healthcare research paper offers a new medical application in the virus testing communication of several separate and independent patient groups (subnets), exploiting a smart laboratory. The health data aggregator (HDA) nodes of the patients are wirelessly connected to a relay network (RN) via the central node (CN). We develop an efficient communication scheme, improving BER values versus signal-to-noise ratio (SNR), proposing a PHA that requires three main creation stages. The first stage is responsible for collecting big medical data. In the second and third stages, we use coding approaches based on network coding (NC) and low-density parity-check code (LDPC). The proposed PHA reduces BER in deep fading environment receivers for different creating parameters. This paper introduces an innovative approach to tracking the evolution of virus vaccines by integrating IoMT, Big Data, and Artificial Intelligence (AI). This integration enables identifying and selecting the optimal and most effective vaccine."
+issn: "2169-3536"
+unique_id: "WOS:001043107500001"
+bib_key: "WOS:001043107500001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Improving the bit error rate (BER) in dense wireless medical sensor networks (WMSNs) using small areas is challenging. Ensuring the relay of big data in healthcare, such as human virus vaccine signs, is always a huge challenge. This paper proposes a new potent hierarchical algorithm (PHA) for controlling several vaccine types in real-time using a uniquely challenging laboratory before being recommended and authorized. This healthcare research paper offers a new medical application in the virus testing communication of several separate and independent patient groups (subnets), exploiting a smart laboratory. The health data aggregator (HDA) nodes of the patients are wirelessly connected to a relay network (RN) via the central node (CN). We develop an efficient communication scheme, improving BER values versus signal-to-noise ratio (SNR), proposing a PHA that requires three main creation stages. The first stage is responsible for collecting big medical data. In the second and third stages, we use coding approaches based on network coding (NC) and low-density parity-check code (LDPC). The proposed PHA reduces BER in deep fading environment receivers for different creating parameters. This paper introduces an innovative approach to tracking the evolution of virus vaccines by integrating IoMT, Big Data, and Artificial Intelligence (AI). This integration enables identifying and selecting the optimal and most effective vaccine.

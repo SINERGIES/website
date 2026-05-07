@@ -1,0 +1,19 @@
+---
+title: "Non-South East Asians have a better running economy and different anthropometrics and biomechanics than South East Asians"
+authors: "Patoz, Aurelien, Lussiana, Thibault, Breine, Bastiaan, Gindre, Cyrille, Mourot, Laurent, Hebert-Losier, Kim"
+journal: "SCIENTIFIC REPORTS"
+year: 2022
+volume: "12"
+number: "1"
+month: "APR 15"
+doi: "10.1038/s41598-022-10030-4"
+abstract: "Running biomechanics and ethnicity can influence running economy (RE), which is a critical factor of running performance. Our aim was to compare RE of South East Asian (SEA) and non-South East Asian (non-SEA) runners at several endurance running speeds (10-14 km/h) matched for on-road racing performance and sex. Secondly, we explored anthropometric characteristics and relationships between RE and anthropometric and biomechanical variables. SEA were 6% less economical (p = 0.04) than non-SEA. SEA were lighter and shorter than non-SEA, and had lower body mass indexes and leg lengths (p <= 0.01). In terms of biomechanics, a higher prevalence of forefoot strikers in SEA than non-SEA was seen at each speed tested (p <= 0.04). Furthermore, SEA had a significantly higher step frequency (p = 0.02), shorter contact time (p = 0.04), smaller footstrike angle (p < 0.001), and less knee extension at toe-off (p = 0.03) than non-SEA. Amongst these variables, only mass was positively correlated to RE for both SEA (12 km/h) and non-SEA (all speeds); step frequency, negatively correlated to RE for both SEA (10 km/h) and non-SEA (12 km/h); and contact time, positively correlated to RE for SEA (12 km/h). Despite the observed anthropometric and biomechanical differences between cohorts, these data were limited in underpinning the observed RE differences at a group level. This exploratory study provides preliminary indications of potential differences between SEA and non-SEA runners warranting further consideration. Altogether, these findings suggest caution when generalizing from non-SEA running studies to SEA runners."
+article_number: "6291"
+issn: "2045-2322"
+unique_id: "WOS:000782844000020"
+bib_key: "WOS:000782844000020"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Running biomechanics and ethnicity can influence running economy (RE), which is a critical factor of running performance. Our aim was to compare RE of South East Asian (SEA) and non-South East Asian (non-SEA) runners at several endurance running speeds (10-14 km/h) matched for on-road racing performance and sex. Secondly, we explored anthropometric characteristics and relationships between RE and anthropometric and biomechanical variables. SEA were 6% less economical (p = 0.04) than non-SEA. SEA were lighter and shorter than non-SEA, and had lower body mass indexes and leg lengths (p <= 0.01). In terms of biomechanics, a higher prevalence of forefoot strikers in SEA than non-SEA was seen at each speed tested (p <= 0.04). Furthermore, SEA had a significantly higher step frequency (p = 0.02), shorter contact time (p = 0.04), smaller footstrike angle (p < 0.001), and less knee extension at toe-off (p = 0.03) than non-SEA. Amongst these variables, only mass was positively correlated to RE for both SEA (12 km/h) and non-SEA (all speeds); step frequency, negatively correlated to RE for both SEA (10 km/h) and non-SEA (12 km/h); and contact time, positively correlated to RE for SEA (12 km/h). Despite the observed anthropometric and biomechanical differences between cohorts, these data were limited in underpinning the observed RE differences at a group level. This exploratory study provides preliminary indications of potential differences between SEA and non-SEA runners warranting further consideration. Altogether, these findings suggest caution when generalizing from non-SEA running studies to SEA runners.

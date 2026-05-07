@@ -1,0 +1,21 @@
+---
+title: "Risk stratification tool for all surgical site infections after coronary artery bypass grafting"
+authors: "Gatti, Giuseppe, Fiore, Antonio, Ceschia, Alessandro, Ecarnot, Fiona, Chaara, Rim, Luzzati, Roberto, Folliguet, Thierry, Chocron, Sidney, Pappalardo, Aniello, Perrotti, Andrea"
+journal: "INFECTION CONTROL & HOSPITAL EPIDEMIOLOGY"
+year: 2021
+volume: "42"
+number: "2"
+pages: "182-193"
+month: "FEB"
+doi: "10.1017/ice.2020.412"
+abstract: "Objective: To develop a risk score for surgical site infections (SSIs) after coronary artery bypass grafting (CABG). Design: Retrospective study. Setting: University hospital. Patients: A derivation sample of 7,090 consecutive isolated or combined CABG patients and 2 validation samples (2,660 total patients). Methods: Predictors of SSIs were identified by multivariable analyses from the derivation sample, and a risk stratification tool (additive and logistic) for all SSIs after CABG (acronym, ASSIST) was created. Accuracy of prediction was evaluated with C-statistic and compared 1:1 (using the Hanley-McNeil method) with most relevant risk scores for SSIs after CABG. Both internal (1,000 bootstrap replications) and external validation were performed. Results: SSIs occurred in 724 (10.2%) cases and 2 models of ASSIST were created, including either baseline patient characteristics alone or combined with other perioperative factors. Female gender, body mass index >29.3 kg/m(2), diabetes, chronic obstructive pulmonary disease, extracardiac arteriopathy, angina at rest, and nonelective surgical priority were predictors of SSIs common to both models, which outperformed (P < .0001) 6 specific risk scores (10 models) for SSIs after CABG. Although ASSIST performed differently in the 2 validation samples, in both, as well as in the derivation data set, the combined model outweighed (albeit not always significantly) the preoperative-only model, both for additive and logistic ASSIST. Conclusions: In the derivation data set, ASSIST outperformed specific risk scores in predicting SSIs after CABG. The combined model had a higher accuracy of prediction than the preoperative-only model both in the derivation and validation samples. Additive and logistic ASSIST showed equivalent performance."
+article_number: "PII S0899823X20004122"
+issn: "0899-823X"
+eissn: "1559-6834"
+unique_id: "WOS:000617007400010"
+bib_key: "WOS:000617007400010"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Objective: To develop a risk score for surgical site infections (SSIs) after coronary artery bypass grafting (CABG). Design: Retrospective study. Setting: University hospital. Patients: A derivation sample of 7,090 consecutive isolated or combined CABG patients and 2 validation samples (2,660 total patients). Methods: Predictors of SSIs were identified by multivariable analyses from the derivation sample, and a risk stratification tool (additive and logistic) for all SSIs after CABG (acronym, ASSIST) was created. Accuracy of prediction was evaluated with C-statistic and compared 1:1 (using the Hanley-McNeil method) with most relevant risk scores for SSIs after CABG. Both internal (1,000 bootstrap replications) and external validation were performed. Results: SSIs occurred in 724 (10.2%) cases and 2 models of ASSIST were created, including either baseline patient characteristics alone or combined with other perioperative factors. Female gender, body mass index >29.3 kg/m(2), diabetes, chronic obstructive pulmonary disease, extracardiac arteriopathy, angina at rest, and nonelective surgical priority were predictors of SSIs common to both models, which outperformed (P < .0001) 6 specific risk scores (10 models) for SSIs after CABG. Although ASSIST performed differently in the 2 validation samples, in both, as well as in the derivation data set, the combined model outweighed (albeit not always significantly) the preoperative-only model, both for additive and logistic ASSIST. Conclusions: In the derivation data set, ASSIST outperformed specific risk scores in predicting SSIs after CABG. The combined model had a higher accuracy of prediction than the preoperative-only model both in the derivation and validation samples. Additive and logistic ASSIST showed equivalent performance.

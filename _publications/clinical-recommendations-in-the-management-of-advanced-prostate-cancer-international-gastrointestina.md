@@ -1,0 +1,20 @@
+---
+title: "Clinical recommendations in the management of advanced prostate cancer: International Gastrointestinal, Liver and Uro-oncology (IGILUC 2019) experts"
+authors: "Elghazaly, Hesham, Mottet, Nicolas, Garcia, Jorge, Oudard, Stephane, Roach, Mack, Abbou, Claude, Merseburger, Axel, Emara, Amr, Shehata, Samir, Tawfik, Hesham, Khorshid, Ola, Selim, Ahmed, Assem, Akram, Abdelkarim, Khalid, El-Arab, Lobna Ezz, Bazarbashi, Shouki, Omar, Abbass, Elwakil, Hesham, Elashry, Mohamed, Abou ElFotouh, Mohamed, Osman, Tarek, El Din, Mai Ezz"
+journal: "WORLD JOURNAL OF UROLOGY"
+year: 2021
+volume: "39"
+number: "5, SI"
+pages: "1421-1429"
+month: "MAY"
+doi: "10.1007/s00345-020-03328-3"
+abstract: "Purpose Advancements in the diagnosis and treatment of prostate cancer (PC) have rapidly progressed through the past years. Various factors should be taken into account while treating individual patients to ensure optimal and careful decision making. The purpose of this consensus review is to summarize the current practice patterns when managing patients with advanced prostate cancer (APC) as there is still a lack of or very limited evidence on its clinical management in some areas. Methods Pre-defined questions were shared with experts prior to the consensus session that took place in Cairo, Egypt in April 2019 during the 8th International gastrointestinal, liver and uro-oncology conference (IGILUC). Voting was based mainly on the expert opinions of the panel after a thorough discussion and review of available evidence from guidelines or best evidence available concerning the topic at hand. Results A strong consensus or unanimity was reached on 47% of the proposed questions. Notably, the panelists reached consensus on several topics based on high-level expert opinion. These findings contribute in several ways to our understanding of the management of PC and provide a basis for future recommendations. There was also a lack of consensus on other several topics, which suggests the need for further supporting data addressing these knowledge gaps. Conclusion This review offers a thorough understanding of APC practice and offers insight on the various opinions shared amongst experts in the field that can serve as guidance regionally and deepens our understanding of disease management globally."
+issn: "0724-4983"
+eissn: "1433-8726"
+unique_id: "WOS:000546547600002"
+bib_key: "WOS:000546547600002"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Purpose Advancements in the diagnosis and treatment of prostate cancer (PC) have rapidly progressed through the past years. Various factors should be taken into account while treating individual patients to ensure optimal and careful decision making. The purpose of this consensus review is to summarize the current practice patterns when managing patients with advanced prostate cancer (APC) as there is still a lack of or very limited evidence on its clinical management in some areas. Methods Pre-defined questions were shared with experts prior to the consensus session that took place in Cairo, Egypt in April 2019 during the 8th International gastrointestinal, liver and uro-oncology conference (IGILUC). Voting was based mainly on the expert opinions of the panel after a thorough discussion and review of available evidence from guidelines or best evidence available concerning the topic at hand. Results A strong consensus or unanimity was reached on 47% of the proposed questions. Notably, the panelists reached consensus on several topics based on high-level expert opinion. These findings contribute in several ways to our understanding of the management of PC and provide a basis for future recommendations. There was also a lack of consensus on other several topics, which suggests the need for further supporting data addressing these knowledge gaps. Conclusion This review offers a thorough understanding of APC practice and offers insight on the various opinions shared amongst experts in the field that can serve as guidance regionally and deepens our understanding of disease management globally.

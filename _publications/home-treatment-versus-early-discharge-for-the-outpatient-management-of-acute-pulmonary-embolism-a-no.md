@@ -1,0 +1,19 @@
+---
+title: "Home treatment versus early discharge for the outpatient management of acute pulmonary embolism: A non-interventional, post-hoc cohort analysis"
+authors: "Adda-Rezig, Ibrahim, Cossu, Johann, Falvo, Nicolas, Ecarnot, Fiona, Desmettre, Thibaut, Meneveau, Nicolas, Piazza, Gregory, Chopard, Romain"
+journal: "THROMBOSIS RESEARCH"
+year: 2023
+volume: "227"
+pages: "25-33"
+month: "JUL"
+doi: "10.1016/j.thromres.2023.05.013"
+abstract: "Introduction: We prospectively investigated whether home treatment of pulmonary embolism (PE), is as effective and safe as the recommended early discharge management in terms of outcomes at 3 months. Methods: We performed a post hoc analysis of prospectively and consecutively recorded data in acute PE patients from a tertiary care facility between January 2012 and November 2021. Home treatment was defined as discharge to home directly from the emergency department (ED) after <24 h stay. Early discharge was defined as in-hospital stay of >= 24 h and <= 48 h. Primary efficacy and safety outcomes were a composite of PE-related death or recurrent venous thrombo-embolism, and major bleeding, respectively. Outcomes between groups were compared using penalized multivariable models. Results: In total, 181 patients (30.6 %) were included in the home treatment group and 463 (69.4 %) patients in the early discharge group. Median duration of ED stay was 8.1 h (IQR, 3.6-10.2 h) in the home treatment group, and median length of hospital stay was 36.4 h (IQR, 28.7-40.2) in the early discharge group. The adjusted rate of the primary efficacy outcome was 1.90 % (95 % CI, 0.16-15.2) vs 2.05 % (95 % CI, 0.24-10.1) for home treatment vs early discharge (hazard ratio (HR) 0.86 (95 % CI, 0.27-2.74). The adjusted rates of the primary safety outcome did not differ between groups at 3 months. Conclusions: In a non-randomized cohort of selected acute PE patients, home treatment provided comparable rates of adverse VTE and bleeding events to the recommended early discharge management, and appears to have similar clinical outcomes at 3 months."
+issn: "0049-3848"
+eissn: "1879-2472"
+unique_id: "WOS:001001598000001"
+bib_key: "WOS:001001598000001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Introduction: We prospectively investigated whether home treatment of pulmonary embolism (PE), is as effective and safe as the recommended early discharge management in terms of outcomes at 3 months. Methods: We performed a post hoc analysis of prospectively and consecutively recorded data in acute PE patients from a tertiary care facility between January 2012 and November 2021. Home treatment was defined as discharge to home directly from the emergency department (ED) after <24 h stay. Early discharge was defined as in-hospital stay of >= 24 h and <= 48 h. Primary efficacy and safety outcomes were a composite of PE-related death or recurrent venous thrombo-embolism, and major bleeding, respectively. Outcomes between groups were compared using penalized multivariable models. Results: In total, 181 patients (30.6 %) were included in the home treatment group and 463 (69.4 %) patients in the early discharge group. Median duration of ED stay was 8.1 h (IQR, 3.6-10.2 h) in the home treatment group, and median length of hospital stay was 36.4 h (IQR, 28.7-40.2) in the early discharge group. The adjusted rate of the primary efficacy outcome was 1.90 % (95 % CI, 0.16-15.2) vs 2.05 % (95 % CI, 0.24-10.1) for home treatment vs early discharge (hazard ratio (HR) 0.86 (95 % CI, 0.27-2.74). The adjusted rates of the primary safety outcome did not differ between groups at 3 months. Conclusions: In a non-randomized cohort of selected acute PE patients, home treatment provided comparable rates of adverse VTE and bleeding events to the recommended early discharge management, and appears to have similar clinical outcomes at 3 months.

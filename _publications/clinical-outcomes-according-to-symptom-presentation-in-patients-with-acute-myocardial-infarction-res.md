@@ -1,0 +1,20 @@
+---
+title: "Clinical outcomes according to symptom presentation in patients with acute myocardial infarction: Results from the FAST-MI 2010 registry"
+authors: "Puymirat, Etienne, Aissaoui, Nadia, Bonello, Laurent, Cayla, Guillaume, Labeque, Jean-Noel, Nallet, Olivier, Motreff, Pascal, Varenne, Olivier, Schiele, Francois, Ferrieres, Jean, Simon, Tabassome, Danchin, Nicolas, FAST-MI Investigators"
+journal: "CLINICAL CARDIOLOGY"
+year: 2017
+volume: "40"
+number: "12"
+pages: "1256-1263"
+month: "DEC"
+doi: "10.1002/clc.22819"
+abstract: "Background: Atypical clinical presentation in acute myocardial infarction (AMI) patients is not uncommon; most studies suggest that it is associated with unfavorable prognosis. Hypothesis: Long-term clinical impact differs according to predominant symptom presentation (typical chest pain, atypical chest pain, syncope, cardiac arrest, or dyspnea) in AMI patients. Methods: FAST-MI 2010, a nationwide French registry, included 4169 patients with AMI in 213 centers at the end of 2010 (76% of active centers). Demographics, medical history, hospital management, and outcomes were compared according to predominant symptom presentation. Results: Typical chest pain with no other symptom was reported in 3020 patients (68% in STEMI patients, 76% in NSTEMI patients). Atypical chest pain, dyspnea, syncope, and cardiac arrest were reported in 11%, 11%, 5%, and 1%, respectively. Patients with atypical clinical presentation had a higher cardiovascular risk profile and received fewer medications and a less invasive strategy. Using Cox multivariate analysis, atypical chest pain was not associated with higher death rate at 3 years (HR: 0.96, 95% CI: 0.69-1.33, P = 0.78), whereas cardiac arrest (HR: 2.44, 95% CI: 1.00-5.97, P = 0.05), syncope (HR: 1.70, 95% CI: 1.18-2.46, P = 0.005), and dyspnea (HR: 1.66, 95% CI: 1.31-2.10, P < 0.001) were associated with higher long-term mortality compared with patients with typical isolated chest pain. Similar trends were observed in STEMI and NSTEMI populations. Conclusions: Atypical clinical presentation is observed in about 20% of AMI patients. Cardiac arrest, dyspnea, and syncope represent independent predictors of long-term mortality in STEMI and NSTEMI populations."
+issn: "0160-9289"
+eissn: "1932-8737"
+unique_id: "WOS:000422845100012"
+bib_key: "WOS:000422845100012"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Background: Atypical clinical presentation in acute myocardial infarction (AMI) patients is not uncommon; most studies suggest that it is associated with unfavorable prognosis. Hypothesis: Long-term clinical impact differs according to predominant symptom presentation (typical chest pain, atypical chest pain, syncope, cardiac arrest, or dyspnea) in AMI patients. Methods: FAST-MI 2010, a nationwide French registry, included 4169 patients with AMI in 213 centers at the end of 2010 (76% of active centers). Demographics, medical history, hospital management, and outcomes were compared according to predominant symptom presentation. Results: Typical chest pain with no other symptom was reported in 3020 patients (68% in STEMI patients, 76% in NSTEMI patients). Atypical chest pain, dyspnea, syncope, and cardiac arrest were reported in 11%, 11%, 5%, and 1%, respectively. Patients with atypical clinical presentation had a higher cardiovascular risk profile and received fewer medications and a less invasive strategy. Using Cox multivariate analysis, atypical chest pain was not associated with higher death rate at 3 years (HR: 0.96, 95% CI: 0.69-1.33, P = 0.78), whereas cardiac arrest (HR: 2.44, 95% CI: 1.00-5.97, P = 0.05), syncope (HR: 1.70, 95% CI: 1.18-2.46, P = 0.005), and dyspnea (HR: 1.66, 95% CI: 1.31-2.10, P < 0.001) were associated with higher long-term mortality compared with patients with typical isolated chest pain. Similar trends were observed in STEMI and NSTEMI populations. Conclusions: Atypical clinical presentation is observed in about 20% of AMI patients. Cardiac arrest, dyspnea, and syncope represent independent predictors of long-term mortality in STEMI and NSTEMI populations.

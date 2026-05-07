@@ -1,0 +1,20 @@
+---
+title: "Predictors, prognosis and costs of prolonged intensive care unit stay after surgery for type A aortic dissection"
+authors: "Biancari, Fausto, Herve, Amelie, Peterss, Sven, Radner, Caroline, Buech, Joscha, Pettinari, Matteo, Rodriguez Lega, Javier, Pinto, Angel G., Fiore, Antonio, Onorati, Francesco, Francica, Alessandra, Wisniewski, Konrad, Demal, Till, Conradi, Lenard, Rocek, Jan, Kacer, Petr, Gatti, Giuseppe, Vendramin, Igor, Rinaldi, Mauro, Ferrante, Luisa, Pruna-Guillen, Robert, Quintana, Eduard, Di Perna, Dario, Mariscalco, Giovanni, Jormalainen, Mikko, Field, Mark, Harky, Amer, DelL'Aquila, Angelo M., Juvonen, Tatu, Makikallio, Timo, Perrotti, Andrea"
+journal: "MINERVA ANESTESIOLOGICA"
+year: 2024
+volume: "90"
+number: "7-8"
+pages: "654-661"
+month: "JUL-AUG"
+doi: "10.23736/S0375-9393.24.18210-7"
+abstract: "BACKGROUND: The outcomes after prolonged treatment in the intensive care unit (ICU) after surgery for Stanford type A aortic dissection (TAA D) have not been previously investigated. METHODS: This analysis included 3538 patients from a multicenter study who underwent surgery for acute TAAD and were admitted to the cardiac surgical ICU. RESULTS : The mean length of stay in the cardiac surgical ICU was 9.9 +/- 9.5 days. The mean overall costs of treatment in the cardiac surgical ICU 24086 +/- 32084 (sic). In-hospital mortality was 14.8% and 5-year mortality was 30.5%. Adjusted analyses showed that prolonged ICU stay was associated with significantly lower risk of in-hospital mortality (adjusted OR 0.971, 95%CI 0.959-0.982), and of five-year mortality (adjusted OR 0.970, 95%CI 0.962-0.977), respectively. Propensity score matching analysis yielded 870 pairs of patients with short ICU stay (2-5 days) and long ICU stay (>5 days) with balanced baseline, operative and postoperative variables. Patients with prolonged ICU stay (>5 days) had significantly lower in-hospital mortality (8.9% vs. 17.4%, <0.001) and 5-year mortality (28.2% vs. 30.7%, P=0.007) compared to patients with short ICU-stay (2-5 days). CONCLUSIONS: Prolonged ICU stay was common after surgery for acute TAAD. However, when adjusted for multiple baseline and operative variables as well as adverse postoperative events and the cluster effect of hospitals, it was associated with favorable survival up to 5 years after surgery."
+issn: "0375-9393"
+eissn: "1827-1596"
+unique_id: "WOS:001319898700012"
+bib_key: "WOS:001319898700012"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+BACKGROUND: The outcomes after prolonged treatment in the intensive care unit (ICU) after surgery for Stanford type A aortic dissection (TAA D) have not been previously investigated. METHODS: This analysis included 3538 patients from a multicenter study who underwent surgery for acute TAAD and were admitted to the cardiac surgical ICU. RESULTS : The mean length of stay in the cardiac surgical ICU was 9.9 +/- 9.5 days. The mean overall costs of treatment in the cardiac surgical ICU 24086 +/- 32084 (sic). In-hospital mortality was 14.8% and 5-year mortality was 30.5%. Adjusted analyses showed that prolonged ICU stay was associated with significantly lower risk of in-hospital mortality (adjusted OR 0.971, 95%CI 0.959-0.982), and of five-year mortality (adjusted OR 0.970, 95%CI 0.962-0.977), respectively. Propensity score matching analysis yielded 870 pairs of patients with short ICU stay (2-5 days) and long ICU stay (>5 days) with balanced baseline, operative and postoperative variables. Patients with prolonged ICU stay (>5 days) had significantly lower in-hospital mortality (8.9% vs. 17.4%, <0.001) and 5-year mortality (28.2% vs. 30.7%, P=0.007) compared to patients with short ICU-stay (2-5 days). CONCLUSIONS: Prolonged ICU stay was common after surgery for acute TAAD. However, when adjusted for multiple baseline and operative variables as well as adverse postoperative events and the cluster effect of hospitals, it was associated with favorable survival up to 5 years after surgery.

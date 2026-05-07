@@ -1,0 +1,19 @@
+---
+title: "High serum levels of free cortisol indicate severity of cirrhosis in hemodynamically stable patients"
+authors: "Thevenot, Thierry, Dorin, Richard, Monnet, Elisabeth, Qualls, Clifford R., Sapin, Remy, Grandclement, Emilie, Borot, Sophie, Sheppard, Frances, Weil, Delphine, Degand, Thibault, Di Martino, Vincent, Kazlauskaite, Rasa"
+journal: "JOURNAL OF GASTROENTEROLOGY AND HEPATOLOGY"
+year: 2012
+volume: "27"
+number: "10"
+pages: "1596-1601"
+month: "OCT"
+doi: "10.1111/j.1440-1746.2012.07188.x"
+abstract: "Background and Aim: We investigated: (i) the association between severity of cirrhosis and serum levels of free cortisol (SFC) and total cortisol (STC), measured before and 30 min after (T30) the low-dose 1-mu g short synacthen test (LD-SST); and (ii) the prognostic value of SFC and STC. Methods: Consecutive, hemodynamically stable, cirrhotic patients (34 ChildPugh class A, 29B, and 32C) underwent the LD-SST. Patients were followed for at least 12 months to assess non-transplant-related mortality. Results: ChildPugh class C patients had significantly higher basal levels of SFC than ChildPugh class A or B patients. Prevalence of suspected adrenal dysfunction ranged between 7.4% (T0 STC < 138 nmol/L) and 49.4% (change in STC < 250 nmol/L) according to the threshold used. In receiveroperator curve analysis, the area-under-the-curve values were 0.67 for T30 SFC (0.510.79), 0.81 for ChildPugh score (0.700.88), and 0.79 for albumin level (0.630.88). During the follow-up period, 16 patients with high T30 SFC (= 78.9 nmol/L) (26.2%) and one patient with low T30 SFC (< 78.9 nmol/L) (3.4%) died (P = 0.027 for high vs low T30 SFC, logrank test). Albeit not statistically significant, the risk of death for patients with T30 SFC = 78.9 nmol/L was fivefold higher than for patients with lower levels after adjusting for cirrhosis severity and level of albumin. Conclusions: One-year, non-transplant-related mortality is high among patients with T30 levels of SFC = 78.9 nmol/L (26.2%). These findings might result from latent inflammatory stress in hemodynamically stable cirrhotic patients, detected by adrenal testing."
+issn: "0815-9319"
+unique_id: "WOS:000309070000011"
+bib_key: "WOS:000309070000011"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+Background and Aim: We investigated: (i) the association between severity of cirrhosis and serum levels of free cortisol (SFC) and total cortisol (STC), measured before and 30 min after (T30) the low-dose 1-mu g short synacthen test (LD-SST); and (ii) the prognostic value of SFC and STC. Methods: Consecutive, hemodynamically stable, cirrhotic patients (34 ChildPugh class A, 29B, and 32C) underwent the LD-SST. Patients were followed for at least 12 months to assess non-transplant-related mortality. Results: ChildPugh class C patients had significantly higher basal levels of SFC than ChildPugh class A or B patients. Prevalence of suspected adrenal dysfunction ranged between 7.4% (T0 STC < 138 nmol/L) and 49.4% (change in STC < 250 nmol/L) according to the threshold used. In receiveroperator curve analysis, the area-under-the-curve values were 0.67 for T30 SFC (0.510.79), 0.81 for ChildPugh score (0.700.88), and 0.79 for albumin level (0.630.88). During the follow-up period, 16 patients with high T30 SFC (= 78.9 nmol/L) (26.2%) and one patient with low T30 SFC (< 78.9 nmol/L) (3.4%) died (P = 0.027 for high vs low T30 SFC, logrank test). Albeit not statistically significant, the risk of death for patients with T30 SFC = 78.9 nmol/L was fivefold higher than for patients with lower levels after adjusting for cirrhosis severity and level of albumin. Conclusions: One-year, non-transplant-related mortality is high among patients with T30 levels of SFC = 78.9 nmol/L (26.2%). These findings might result from latent inflammatory stress in hemodynamically stable cirrhotic patients, detected by adrenal testing.

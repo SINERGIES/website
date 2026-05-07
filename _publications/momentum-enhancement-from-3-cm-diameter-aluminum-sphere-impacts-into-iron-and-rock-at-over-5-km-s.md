@@ -1,0 +1,14 @@
+---
+title: "MOMENTUM ENHANCEMENT FROM 3-CM-DIAMETER ALUMINUM SPHERE IMPACTS INTO IRON AND ROCK AT OVER 5 KM/S"
+authors: "Walker, James D., Chocron, Sidney, Grosch, Donald J., Marchi, Simone, Alexander, Amanda"
+journal: ""
+year: 2023
+abstract: "Utilizing a large two-stage light gas gun and a large pendulum assembly, experiments were performed to measure the momentum enhancement (or increase in momentum due to the ejecta) of two ARMCO iron targets, a concrete block target, a target of stones held by concrete, and two large hematite rock targets. As we have shown over the past decade in HVIS papers, the role of impactor size is important, and these tests were performed at as large a scale as possible for us at these speeds, with 3-cm-diameter aluminum spheres. All these impacts save one were around 5 km/s. There is a distinct difference in the amount of momentum enhancement that occurs with ductile metals vs. brittle rocks and this is apparent in these impacts. The momentum enhancement with a relatively brittle aluminum falls in between these two extremes. The target comprised of a collection of stones was performed to provide some insight into the upcoming DART impact. Data at this larger scale is highly desirable, especially given our interest in quantifying momentum enhancement to provide needed information in the event hypervelocity impactors are considered in deflecting celestial bodies such as asteroids or comet nuclei."
+article_number: "V001T06A006"
+unique_id: "WOS:001215569800028"
+bib_key: "WOS:001215569800028"
+publication_type: "inproceedings"
+source_file: "savedrecs(1).bib"
+---
+
+Utilizing a large two-stage light gas gun and a large pendulum assembly, experiments were performed to measure the momentum enhancement (or increase in momentum due to the ejecta) of two ARMCO iron targets, a concrete block target, a target of stones held by concrete, and two large hematite rock targets. As we have shown over the past decade in HVIS papers, the role of impactor size is important, and these tests were performed at as large a scale as possible for us at these speeds, with 3-cm-diameter aluminum spheres. All these impacts save one were around 5 km/s. There is a distinct difference in the amount of momentum enhancement that occurs with ductile metals vs. brittle rocks and this is apparent in these impacts. The momentum enhancement with a relatively brittle aluminum falls in between these two extremes. The target comprised of a collection of stones was performed to provide some insight into the upcoming DART impact. Data at this larger scale is highly desirable, especially given our interest in quantifying momentum enhancement to provide needed information in the event hypervelocity impactors are considered in deflecting celestial bodies such as asteroids or comet nuclei.

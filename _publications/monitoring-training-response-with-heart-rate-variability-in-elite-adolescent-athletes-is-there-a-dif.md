@@ -1,0 +1,17 @@
+---
+title: "Monitoring training response with heart rate variability in elite adolescent athletes: is there a difference between judoka and swimmers?"
+authors: "Vacher, Philippe, Nicolas, Michel, Mourot, Laurent"
+journal: "ARCHIVES OF BUDO"
+year: 2016
+volume: "12"
+pages: "35-42"
+month: "JAN 21"
+abstract: "Background & Study Aim: Previous studies in adults and endurance athletes have evaluated whether heart rate variability (HRV) can be used to monitor training load. We aimed to answer to question: whether HRV monitoring is useful in elite adolescent athletes practicing a sport with a major anaerobic component, i.e. judo. Material & Methods: Eleven young swimmers (age 15.5 +/- 0.9 years) were compared to eleven young judoka (age 15.0 +/- 0.9) before and after two weeks of a similar increase in training load. Autonomic nervous system (ANS) activity was evaluated by HRV analysis during an active tilt-test (8 min supine followed by 8 min standing). Results: In both sports, increase in parasympathetic indices (especially the proportion of adjacent RR intervals that differ by >50ms (pNN50) and the square root of the mean of the squares of successive RR differences (rMSSD) was associated with increase in training load). The association was higher in judoka than in swimmers, and higher in standing than in supine. Conclusions: In elite adolescent athletes, we successfully monitored ANS response to training using HRV analysis, independently of the sport practiced. Moreover, pNN50 and rMSSD, both indicators of parasympathetic activity, appear to be the most pertinent indices to monitor ANS response in elite adolescent athletes. Our results also indicate that dynamic evaluation (dynamic change from supine to standing) with an active tilt-test is preferable to resting evaluation (supine rest only)."
+issn: "1643-8698"
+unique_id: "WOS:000441385100001"
+bib_key: "WOS:000441385100001"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Background & Study Aim: Previous studies in adults and endurance athletes have evaluated whether heart rate variability (HRV) can be used to monitor training load. We aimed to answer to question: whether HRV monitoring is useful in elite adolescent athletes practicing a sport with a major anaerobic component, i.e. judo. Material & Methods: Eleven young swimmers (age 15.5 +/- 0.9 years) were compared to eleven young judoka (age 15.0 +/- 0.9) before and after two weeks of a similar increase in training load. Autonomic nervous system (ANS) activity was evaluated by HRV analysis during an active tilt-test (8 min supine followed by 8 min standing). Results: In both sports, increase in parasympathetic indices (especially the proportion of adjacent RR intervals that differ by >50ms (pNN50) and the square root of the mean of the squares of successive RR differences (rMSSD) was associated with increase in training load). The association was higher in judoka than in swimmers, and higher in standing than in supine. Conclusions: In elite adolescent athletes, we successfully monitored ANS response to training using HRV analysis, independently of the sport practiced. Moreover, pNN50 and rMSSD, both indicators of parasympathetic activity, appear to be the most pertinent indices to monitor ANS response in elite adolescent athletes. Our results also indicate that dynamic evaluation (dynamic change from supine to standing) with an active tilt-test is preferable to resting evaluation (supine rest only).

@@ -1,0 +1,20 @@
+---
+title: "Increased Incidence and Characteristics of Alveolar Echinococcosis in Patients With Immunosuppression-Associated Conditions"
+authors: "Chauchet, Adrien, Grenouillet, Frederic, Knapp, Jenny, Richou, Carine, Delabrousse, Eric, Dentan, Charlotte, Millon, Laurence, Di Martino, Vincent, Contreras, Remy, Deconinck, Eric, Blagosklonov, Oleg, Vuitton, Dominique A., Bresson-Hadni, Solange, FrancEchino Network"
+journal: "CLINICAL INFECTIOUS DISEASES"
+year: 2014
+volume: "59"
+number: "8"
+pages: "1095-1104"
+month: "OCT 15"
+doi: "10.1093/cid/ciu520"
+abstract: "Background. An increased incidence of alveolar echinococcosis (AE) in patients with immunosuppression (IS) has been observed; our aim was to study this association and its characteristics. Methods. Fifty AE cases with IS-associated conditions (ISCs) before or at AE diagnosis were collected from the French AE registry (1982-2012, 509 cases). There were 30 cancers, 9 malignant hematological disorders, 14 chronic inflammatory diseases, 5 transplants, and 1 case of AIDS; 9 patients had >= 2 ISCs. Characteristics of the 42 IS/AE cases and the 187 non-IS/AE cases diagnosed during the period 2002-2012 were statistically compared. Results. There was a significant increase in IS/AE cases over time. Risk factors did not differ between IS/AE and non-IS/AE patients. However, AE was more frequently an incidental finding (78% vs 42%) and was diagnosed at earlier stages (41% vs 23%) in IS/AE than in non-IS/AE patients. Serology was more often negative (14% vs 1%) and treatment efficacy was better (51% regression after 1-year treatment vs 27%) in IS/AE patients. All IS/AE patients but 7 took IS drugs; 7 received biotherapeutic agents. When not concomitant, AE occurred in IS patients within a 48-month median time period. Atypical presentation and abscess-, hemangioma-, and metastasis-like images delayed AE diagnosis in 50% of IS/AE patients, resulting in inappropriate treatment. Liver images obtained for 15 patients 1-5 years before diagnosis showed no AE lesions. Albendazole efficacy was good, but 19 of 48 treated patients experienced side effects. Conclusions. Patients with immunosuppression are at increased risk for occurrence, delayed diagnosis, and progression of AE."
+issn: "1058-4838"
+eissn: "1537-6591"
+unique_id: "WOS:000343413200008"
+bib_key: "WOS:000343413200008"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+Background. An increased incidence of alveolar echinococcosis (AE) in patients with immunosuppression (IS) has been observed; our aim was to study this association and its characteristics. Methods. Fifty AE cases with IS-associated conditions (ISCs) before or at AE diagnosis were collected from the French AE registry (1982-2012, 509 cases). There were 30 cancers, 9 malignant hematological disorders, 14 chronic inflammatory diseases, 5 transplants, and 1 case of AIDS; 9 patients had >= 2 ISCs. Characteristics of the 42 IS/AE cases and the 187 non-IS/AE cases diagnosed during the period 2002-2012 were statistically compared. Results. There was a significant increase in IS/AE cases over time. Risk factors did not differ between IS/AE and non-IS/AE patients. However, AE was more frequently an incidental finding (78% vs 42%) and was diagnosed at earlier stages (41% vs 23%) in IS/AE than in non-IS/AE patients. Serology was more often negative (14% vs 1%) and treatment efficacy was better (51% regression after 1-year treatment vs 27%) in IS/AE patients. All IS/AE patients but 7 took IS drugs; 7 received biotherapeutic agents. When not concomitant, AE occurred in IS patients within a 48-month median time period. Atypical presentation and abscess-, hemangioma-, and metastasis-like images delayed AE diagnosis in 50% of IS/AE patients, resulting in inappropriate treatment. Liver images obtained for 15 patients 1-5 years before diagnosis showed no AE lesions. Albendazole efficacy was good, but 19 of 48 treated patients experienced side effects. Conclusions. Patients with immunosuppression are at increased risk for occurrence, delayed diagnosis, and progression of AE.

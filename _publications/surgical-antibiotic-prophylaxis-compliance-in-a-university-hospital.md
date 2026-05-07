@@ -1,0 +1,19 @@
+---
+title: "Surgical antibiotic prophylaxis compliance in a university hospital"
+authors: "Muller, Allison, Leroy, Joel, Henon, Thierry, Patry, Isabelle, Samain, Emmanuel, Chirouze, Catherine, Bertrand, Xavier"
+journal: "ANAESTHESIA CRITICAL CARE & PAIN MEDICINE"
+year: 2015
+volume: "34"
+number: "5"
+pages: "289-294"
+month: "OCT"
+doi: "10.1016/j.accpm.2015.04.004"
+abstract: "Objective: To assess surgical antibiotic prophylaxis (SAP) practices in a university hospital in order to identify risk factors associated with non-compliance. Study design: Retrospective monocentric study conducted over a 4-month period. Patients and methods: Data were collected from the software used in the operating theatre. Practice noncompliance was evaluated in comparison with the 2010 version of the French national recommendations. We only took in account the interventions identified as priority surveillance interventions according to the surgical site infections national surveillance. The risk factors associated with SAP non-compliance were identified with a multivariate statistical analysis. Results: We evaluated 1312 SAPs. Among the 1298 indicated SAPs, 44.4% were not compliant. The most frequent inappropriate criterion was the timing of injection (34.8% non-compliance), which was, in the majority of cases, too close to the time of incision. Other inappropriate criteria were identified: antibiotic choice for patients allergic to beta-lactams (inappropriate among 45% of allergic patients), and antibiotic dosing for obese patients (96% of non-compliance). Obesity (OR = 84.32), allergy to b-lactams (OR = 17.11) and certain types of surgery (digestive, OR = 4.56; gynaecological and obstetrical, OR = 7.10; urological, OR = 3.95) were independently associated with the non-compliance of SAP practices. Conclusion: Improvement measures that target the timing of injection, obese or allergic patients are necessary. (C) 2015 Societe francaise d'anesthesie et de reanimation (Sfar). Published by Elsevier Masson SAS. All rights reserved."
+issn: "2352-5568"
+unique_id: "WOS:000364788400007"
+bib_key: "WOS:000364788400007"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+Objective: To assess surgical antibiotic prophylaxis (SAP) practices in a university hospital in order to identify risk factors associated with non-compliance. Study design: Retrospective monocentric study conducted over a 4-month period. Patients and methods: Data were collected from the software used in the operating theatre. Practice noncompliance was evaluated in comparison with the 2010 version of the French national recommendations. We only took in account the interventions identified as priority surveillance interventions according to the surgical site infections national surveillance. The risk factors associated with SAP non-compliance were identified with a multivariate statistical analysis. Results: We evaluated 1312 SAPs. Among the 1298 indicated SAPs, 44.4% were not compliant. The most frequent inappropriate criterion was the timing of injection (34.8% non-compliance), which was, in the majority of cases, too close to the time of incision. Other inappropriate criteria were identified: antibiotic choice for patients allergic to beta-lactams (inappropriate among 45% of allergic patients), and antibiotic dosing for obese patients (96% of non-compliance). Obesity (OR = 84.32), allergy to b-lactams (OR = 17.11) and certain types of surgery (digestive, OR = 4.56; gynaecological and obstetrical, OR = 7.10; urological, OR = 3.95) were independently associated with the non-compliance of SAP practices. Conclusion: Improvement measures that target the timing of injection, obese or allergic patients are necessary. (C) 2015 Societe francaise d'anesthesie et de reanimation (Sfar). Published by Elsevier Masson SAS. All rights reserved.

@@ -1,0 +1,20 @@
+---
+title: "Quality of acute myocardial infarction care in England and Wales during the COVID-19 pandemic: linked nationwide cohort study"
+authors: "Aktaa, Suleman, Yadegarfar, Mohammad E., Wu, Jianhua, Rashid, Muhammad, de Belder, Mark, Deanfield, John, Schiele, Francois, Minchin, Mark, Mamas, Mamas, Gale, Chris P."
+journal: "BMJ QUALITY & SAFETY"
+year: 2022
+volume: "31"
+number: "2"
+pages: "116-122"
+month: "FEB"
+doi: "10.1136/bmjqs-2021-013040"
+abstract: "Background and objective The impact of the COVID-19 pandemic on the quality of care for patients with acute myocardial infarction (AMI) is uncertain. We aimed to compare quality of AMI care in England and Wales during and before the COVID-19 pandemic using the 2020 European Society of Cardiology Association for Acute Cardiovascular Care quality indicators (QIs) for AMI. Methods Cohort study of linked data from the AMI and the percutaneous coronary intervention registries in England and Wales between 1 January 2017 and 27 May 2020 (representing 236 743 patients from 186 hospitals). At the patient level, the likelihood of attainment for each QI compared with pre COVID-19 was calculated using logistic regression. The date of the first national lockdown in England and Wales (23 March 2020) was chosen for time series comparisons. Results There were 10 749 admissions with AMI after 23 March 2020. Compared with before the lockdown, patients admitted with AMI during the first wave had similar age (mean 68.0 vs 69.0 years), with no major differences in baseline characteristics (history of diabetes (25% vs 26%), renal failure (6.4% vs 6.9%), heart failure (5.8% vs 6.4%) and previous myocardial infarction (22.9% vs 23.7%)), and less frequently had high Global Registry of Acute Coronary Events risk scores (43.6% vs 48.6%). There was an improvement in attainment for 10 (62.5%) of the 16 measured QIs including a composite QI (43.8% to 45.2%, OR 1.06, 95% CI 1.02 to 1.10) during, compared with before, the lockdown. Conclusion During the first wave of the COVID-19 pandemic in England and Wales, quality of care for AMI as measured against international standards did not worsen, but improved modestly."
+issn: "2044-5415"
+eissn: "2044-5423"
+unique_id: "WOS:000726803700001"
+bib_key: "WOS:000726803700001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Background and objective The impact of the COVID-19 pandemic on the quality of care for patients with acute myocardial infarction (AMI) is uncertain. We aimed to compare quality of AMI care in England and Wales during and before the COVID-19 pandemic using the 2020 European Society of Cardiology Association for Acute Cardiovascular Care quality indicators (QIs) for AMI. Methods Cohort study of linked data from the AMI and the percutaneous coronary intervention registries in England and Wales between 1 January 2017 and 27 May 2020 (representing 236 743 patients from 186 hospitals). At the patient level, the likelihood of attainment for each QI compared with pre COVID-19 was calculated using logistic regression. The date of the first national lockdown in England and Wales (23 March 2020) was chosen for time series comparisons. Results There were 10 749 admissions with AMI after 23 March 2020. Compared with before the lockdown, patients admitted with AMI during the first wave had similar age (mean 68.0 vs 69.0 years), with no major differences in baseline characteristics (history of diabetes (25% vs 26%), renal failure (6.4% vs 6.9%), heart failure (5.8% vs 6.4%) and previous myocardial infarction (22.9% vs 23.7%)), and less frequently had high Global Registry of Acute Coronary Events risk scores (43.6% vs 48.6%). There was an improvement in attainment for 10 (62.5%) of the 16 measured QIs including a composite QI (43.8% to 45.2%, OR 1.06, 95% CI 1.02 to 1.10) during, compared with before, the lockdown. Conclusion During the first wave of the COVID-19 pandemic in England and Wales, quality of care for AMI as measured against international standards did not worsen, but improved modestly.

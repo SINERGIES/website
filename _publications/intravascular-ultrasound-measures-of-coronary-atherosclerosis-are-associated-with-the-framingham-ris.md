@@ -1,0 +1,20 @@
+---
+title: "Intravascular ultrasound measures of coronary atherosclerosis are associated with the Framingham risk score: an analysis from a global IVUS registry"
+authors: "Marso, Steven P., Frutkin, Andrew D., Mehta, Sameer K., House, John A., McCrary, Justin R., Klauss, Volker, Lerman, Amir, Leon, Martin B., Nair, Anuja, Margolis, Pauliina, Erbel, Raimund, Nasu, Kenya, Schiele, Francois, Margolis, James"
+journal: "EUROINTERVENTION"
+year: 2009
+volume: "5"
+number: "2"
+pages: "212-218"
+month: "JUN"
+doi: "10.4244/EIJV5I2A33"
+abstract: "Aims: In addition to an adjunctive imaging platform during coronary angiography, intravascular ultrasound (IVUS) with Virtual Histology (TM) (VH) is increasingly being used to quantify coronary atherosclerosis. The relationship between VH-IVUS measures of coronary atherosclerosis and traditional cardiovascular risk factors has not been completely described. The objective of this study was to determine if an association exists between VH-IVUS measures of coronary atherosclerosis and the Framingham risk score in a prospective, multinational registry. Methods and results: Patients enrolled from 2004-2006 at 37 multinational centres in the prospective VH-IVUS Global Registry were analysed. All subjects underwent diagnostic coronary angiography followed by IVUS. A Framingham risk score (FRS) was calculated for each subject, then stratified into three exclusive estimates (<10%, 10-19%, or >= 20%) for future coronary heart disease (CHD) event risk over 10 years. Among 531 patients, plaque volume of the most diseased 10 mm segment increased with increasing FRS (P=0.006, adjusted for multiple comparisons). Patients with higher FRS estimates of CHD risk had a higher proportion of plaque classified as thin cap fibroatheroma compared with patients in the middle and lower risk score categories (21.4% vs 15.2% and 11.3%, respectively, P=0.008, adjusted for multiple comparisons). Conclusions: Using data from a large, multinational VH-IVUS registry we describe an association between the Framingham risk score and VH-IVUS measures of atherosclerosis within the most diseased 10 mm segment, namely plaque volume and the proportion of thin cap fibroatheroma."
+issn: "1774-024X"
+eissn: "1969-6213"
+unique_id: "WOS:000208041300008"
+bib_key: "WOS:000208041300008"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+Aims: In addition to an adjunctive imaging platform during coronary angiography, intravascular ultrasound (IVUS) with Virtual Histology (TM) (VH) is increasingly being used to quantify coronary atherosclerosis. The relationship between VH-IVUS measures of coronary atherosclerosis and traditional cardiovascular risk factors has not been completely described. The objective of this study was to determine if an association exists between VH-IVUS measures of coronary atherosclerosis and the Framingham risk score in a prospective, multinational registry. Methods and results: Patients enrolled from 2004-2006 at 37 multinational centres in the prospective VH-IVUS Global Registry were analysed. All subjects underwent diagnostic coronary angiography followed by IVUS. A Framingham risk score (FRS) was calculated for each subject, then stratified into three exclusive estimates (<10%, 10-19%, or >= 20%) for future coronary heart disease (CHD) event risk over 10 years. Among 531 patients, plaque volume of the most diseased 10 mm segment increased with increasing FRS (P=0.006, adjusted for multiple comparisons). Patients with higher FRS estimates of CHD risk had a higher proportion of plaque classified as thin cap fibroatheroma compared with patients in the middle and lower risk score categories (21.4% vs 15.2% and 11.3%, respectively, P=0.008, adjusted for multiple comparisons). Conclusions: Using data from a large, multinational VH-IVUS registry we describe an association between the Framingham risk score and VH-IVUS measures of atherosclerosis within the most diseased 10 mm segment, namely plaque volume and the proportion of thin cap fibroatheroma.

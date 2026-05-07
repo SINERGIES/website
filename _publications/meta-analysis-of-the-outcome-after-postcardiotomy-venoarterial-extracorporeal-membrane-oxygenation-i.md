@@ -1,0 +1,20 @@
+---
+title: "Meta-Analysis of the Outcome After Postcardiotomy Venoarterial Extracorporeal Membrane Oxygenation in Adult Patients"
+authors: "Biancari, Fausto, Perrotti, Andrea, Dalen, Magnus, Guerrieri, Mariapia, Fiore, Antonio, Reichart, Daniel, Dell'Aquila, Angelo M., Gatti, Giuseppe, Ala-Kokko, Tero, Kinnunen, Eeva-Maija, Tauriainen, Tuomas, Chocron, Sidney, Airaksinen, Juhani K. E., Ruggieri, Vito G., Brascia, Debora"
+journal: "JOURNAL OF CARDIOTHORACIC AND VASCULAR ANESTHESIA"
+year: 2018
+volume: "32"
+number: "3"
+pages: "1175-1182"
+month: "JUN"
+doi: "10.1053/j.jvca.2017.08.048"
+abstract: "Objective: This study was planned to pool existing data on outcome and to evaluate the efficacy of postcardiotomy venoarterial extracorporeal membrane oxygenation (VA-ECMO) in adult patients. Design: Systematic review of the literature and meta-analysis. Setting: Multi-institutional study. Participants: Adult patients with acute heart failure immediately after cardiac surgery. Interventions: VA-ECMO after cardiac surgery. Studies evaluating only heart transplant patients were excluded from this analysis. . Measurements and Main Results: A literature search was performed to identify studies published since 2000. Thirty-one studies reported on 2,986 patients (mean age, 58.1 years) who required postcardiotomy VA-ECMO. The weaning rate from VA-ECMO was 59.5% and hospital survival was 36.1% (95% CI 31.5-40.8). The pooled rate of reoperation for bleeding was 42.9%, major neurological event 11.3%, lower limb ischemia 10.8%, deep sternal wound infection/mediastinitis 14.7%, and renal replacement therapy 47.1%. The pooled mean number of transfused red blood cell units was 17.7 (95% CI 13.3-22.1). The mean stay in the intensive care unit was 13.3 days (95% CI 10.2-16.4). Survivors were significantly younger (mean, 55.7 v 63.6 years, p = 0.015) and their blood lactate level before starting VA-ECMO was lower (mean, 7.7 v 10.7 mmol/L, p = 0.028) than patients who died. One-year survival rate was 30.9% (95% CI 24.3-37.5). Conclusions: Pooled data showed that VA-ECMO may salvage one-third of patients unresponsive to any other resuscitative treatment after adult cardiac surgery. (C) 2017 Elsevier Inc. All rights reserved."
+issn: "1053-0770"
+eissn: "1532-8422"
+unique_id: "WOS:000433384200013"
+bib_key: "WOS:000433384200013"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Objective: This study was planned to pool existing data on outcome and to evaluate the efficacy of postcardiotomy venoarterial extracorporeal membrane oxygenation (VA-ECMO) in adult patients. Design: Systematic review of the literature and meta-analysis. Setting: Multi-institutional study. Participants: Adult patients with acute heart failure immediately after cardiac surgery. Interventions: VA-ECMO after cardiac surgery. Studies evaluating only heart transplant patients were excluded from this analysis. . Measurements and Main Results: A literature search was performed to identify studies published since 2000. Thirty-one studies reported on 2,986 patients (mean age, 58.1 years) who required postcardiotomy VA-ECMO. The weaning rate from VA-ECMO was 59.5% and hospital survival was 36.1% (95% CI 31.5-40.8). The pooled rate of reoperation for bleeding was 42.9%, major neurological event 11.3%, lower limb ischemia 10.8%, deep sternal wound infection/mediastinitis 14.7%, and renal replacement therapy 47.1%. The pooled mean number of transfused red blood cell units was 17.7 (95% CI 13.3-22.1). The mean stay in the intensive care unit was 13.3 days (95% CI 10.2-16.4). Survivors were significantly younger (mean, 55.7 v 63.6 years, p = 0.015) and their blood lactate level before starting VA-ECMO was lower (mean, 7.7 v 10.7 mmol/L, p = 0.028) than patients who died. One-year survival rate was 30.9% (95% CI 24.3-37.5). Conclusions: Pooled data showed that VA-ECMO may salvage one-third of patients unresponsive to any other resuscitative treatment after adult cardiac surgery. (C) 2017 Elsevier Inc. All rights reserved.

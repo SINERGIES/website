@@ -1,0 +1,20 @@
+---
+title: "Bedside cerebral microdialysis monitoring of delayed cerebral hypoperfusion in comatose patients with poor grade aneurysmal subarachnoid haemorrhage"
+authors: "Patet, Camille, Quintard, Herve, Zerlauth, Jean-Baptiste, Maibach, Thomas, Carteron, Laurent, Suys, Tamarah, Bouzat, Pierre, Bervini, David, Levivier, Marc, Daniel, Roy T., Eckert, Philippe, Meuli, Reto, Oddo, Mauro"
+journal: "JOURNAL OF NEUROLOGY NEUROSURGERY AND PSYCHIATRY"
+year: 2017
+volume: "88"
+number: "4"
+pages: "332-338"
+month: "APR"
+doi: "10.1136/jnnp-2016-313766"
+abstract: "Background Delayed cerebral ischaemia (DCI) is frequent after poor grade aneurysmal subarachnoid haemorrhage (SAH). Owing to the limited accuracy of clinical examination, DCI diagnosis is often based on multimodal monitoring. We examined the value of cerebral microdialysis (CMD) in this setting. Methods 20 comatose SAH participants underwent CMD monitoring-for hourly sampling of cerebral extracellular lactate/pyruvate ratio (LPR) and glucose-and brain perfusion CT (PCT). Patients were categorised as DCI when PCT (8 +/- 3 days after SAH) showed cerebral hypoperfusion, defined as cerebral blood flow <32.5 mL/100 g/min with a mean transit time >5.7 s. Clinicians were blinded to CMD data; for the purpose of the study, only patients who developed cerebral hypoperfusion in anterior and/or middle cerebral arteries were analysed. Results DCI (n=9/20 patients) was associated with higher CMD LPR (51 +/- 36 vs 31 +/- 10 in patients without DCI, p=0.0007) and lower CMD glucose (0.64 +/- 0.34 vs 1.22 +/- 1.05, p=0.0005). In patients with DCI, CMD changes over the 18 hours preceding PCT diagnosis revealed a pattern of CMD LPR increase (coefficient +2.96 (95% CI 0.13 to 5.79), p=0.04) with simultaneous CMD glucose decrease (coefficient -0.06 (95% CI -0.08 to -0.01), p=0.03, mixed-effects multilevel regression model). No significant CMD changes were noted in patients without DCI. Conclusions In comatose patients with SAH, delayed cerebral hypoperfusion correlates with a CMD pattern of lactate increase and simultaneous glucose decrease. CMD abnormalities became apparent in the hours preceding PCT, thereby suggesting that CMD monitoring may anticipate targeted therapeutic interventions."
+issn: "0022-3050"
+eissn: "1468-330X"
+unique_id: "WOS:000397621900011"
+bib_key: "WOS:000397621900011"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Background Delayed cerebral ischaemia (DCI) is frequent after poor grade aneurysmal subarachnoid haemorrhage (SAH). Owing to the limited accuracy of clinical examination, DCI diagnosis is often based on multimodal monitoring. We examined the value of cerebral microdialysis (CMD) in this setting. Methods 20 comatose SAH participants underwent CMD monitoring-for hourly sampling of cerebral extracellular lactate/pyruvate ratio (LPR) and glucose-and brain perfusion CT (PCT). Patients were categorised as DCI when PCT (8 +/- 3 days after SAH) showed cerebral hypoperfusion, defined as cerebral blood flow <32.5 mL/100 g/min with a mean transit time >5.7 s. Clinicians were blinded to CMD data; for the purpose of the study, only patients who developed cerebral hypoperfusion in anterior and/or middle cerebral arteries were analysed. Results DCI (n=9/20 patients) was associated with higher CMD LPR (51 +/- 36 vs 31 +/- 10 in patients without DCI, p=0.0007) and lower CMD glucose (0.64 +/- 0.34 vs 1.22 +/- 1.05, p=0.0005). In patients with DCI, CMD changes over the 18 hours preceding PCT diagnosis revealed a pattern of CMD LPR increase (coefficient +2.96 (95% CI 0.13 to 5.79), p=0.04) with simultaneous CMD glucose decrease (coefficient -0.06 (95% CI -0.08 to -0.01), p=0.03, mixed-effects multilevel regression model). No significant CMD changes were noted in patients without DCI. Conclusions In comatose patients with SAH, delayed cerebral hypoperfusion correlates with a CMD pattern of lactate increase and simultaneous glucose decrease. CMD abnormalities became apparent in the hours preceding PCT, thereby suggesting that CMD monitoring may anticipate targeted therapeutic interventions.

@@ -1,0 +1,20 @@
+---
+title: "Recommendations from the French Societies of Rheumatology andPhysical Medicine and Rehabilitation on the non-pharmacologicalmanagement of knee osteoarthritis"
+authors: "Pers, Yves-Marie, Nguyen, Christelle, Borie, Constance, Daste, Camille, Kirren, Quentin, Lopez, Cyril, Ouvrard, Gaelle, Ruscher, Romane, Argenson, Jean-Noel, Bardoux, Sylvie, Baumann, Laurence, Berenbaum, Francis, Binard, Aymeric, Coudeyre, Emmanuel, Czernichow, Sebastien, Dupeyron, Arnaud, Fabre, Marie-Christine, Foulquier, Nathan, Gerard, Caroline, Hausberg, Vivien, Henrotin, Yves, Jeandel, Claude, Lesage, Francois-Xavier, Liesse, Brigitte, Mainard, Didier, Michel, Fabrice, Ninot, Gregory, Ornetti, Paul, Oude-Engberink, Agnes, Rat, Anne-Christine, Richette, Pascal, Roren, Alexandra, Thoumie, Philippe, Walrand, Stephane, Rannou, Francois, Sellam, Jeremie, Soc Francaise Rhumatol, Soc Francaise Med Phys & Readaptat"
+journal: "ANNALS OF PHYSICAL AND REHABILITATION MEDICINE"
+year: 2024
+volume: "67"
+number: "7"
+month: "OCT"
+doi: "10.1016/j.rehab.2024.101883"
+abstract: "Background: Although non-pharmacological therapies for knee osteoarthritis (OA) are essential pillars of care, they are often poorly considered and inconsistently applied. Objectives: Under the umbrella of the French Society of Rheumatology (SFR) and the French Society of Physical Medicine and Rehabilitation (SOFMER), we aimed to establish consensual recommendations for the nonpharmacological management of people with knee OA. Methods: A group of fellows performed a systematic literature review on the efficacy and safety of non-pharmacological modalities (up to October 2021). The fellows then took part in discussions with a multidisciplinary group of experts to draft a list of recommendations. The list was then submitted to an independent reading committee who rated their level of agreement with each recommendation. Each recommendation was assigned a strength of recommendation and a level of evidence. Results: Five general principles were unanimously accepted: (A) the need to combine non-pharmacological and pharmacological measures; (B) the need for personalized management; (C) the need to promote adherence; (D) the need for adapted physical activity; and (E) the need for person-centered education. Specific Conclusions: These SFR/SOFMER recommendations provide important and consensual knowledge to assist (c) 2024 The Author(s). Published by Elsevier Masson SAS. This is an open access article under the CC BY"
+article_number: "101883"
+issn: "1877-0657"
+eissn: "1877-0665"
+unique_id: "WOS:001347909200001"
+bib_key: "WOS:001347909200001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Background: Although non-pharmacological therapies for knee osteoarthritis (OA) are essential pillars of care, they are often poorly considered and inconsistently applied. Objectives: Under the umbrella of the French Society of Rheumatology (SFR) and the French Society of Physical Medicine and Rehabilitation (SOFMER), we aimed to establish consensual recommendations for the nonpharmacological management of people with knee OA. Methods: A group of fellows performed a systematic literature review on the efficacy and safety of non-pharmacological modalities (up to October 2021). The fellows then took part in discussions with a multidisciplinary group of experts to draft a list of recommendations. The list was then submitted to an independent reading committee who rated their level of agreement with each recommendation. Each recommendation was assigned a strength of recommendation and a level of evidence. Results: Five general principles were unanimously accepted: (A) the need to combine non-pharmacological and pharmacological measures; (B) the need for personalized management; (C) the need to promote adherence; (D) the need for adapted physical activity; and (E) the need for person-centered education. Specific Conclusions: These SFR/SOFMER recommendations provide important and consensual knowledge to assist (c) 2024 The Author(s). Published by Elsevier Masson SAS. This is an open access article under the CC BY

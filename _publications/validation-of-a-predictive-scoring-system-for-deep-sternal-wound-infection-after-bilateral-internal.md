@@ -1,0 +1,20 @@
+---
+title: "Validation of a Predictive Scoring System for Deep Sternal Wound Infection after Bilateral Internal Thoracic Artery Grafting in a Cohort of French Patients"
+authors: "Perrotti, Andrea, Gatti, Giuseppe, Dorigo, Enrica, Sinagra, Gianfranco, Pappalardo, Aniello, Chocron, Sidney"
+journal: "SURGICAL INFECTIONS"
+year: 2017
+volume: "18"
+number: "2"
+pages: "181-188"
+month: "FEB-MAR"
+doi: "10.1089/sur.2016.150"
+abstract: "Background: The Gatti score is a weighted scoring system based on risk factors for deep sternal wound infection (DSWI) that was created in an Italian center to predict DSWI risk after bilateral internal thoracic artery (BITA) grafting. No external evaluation based on validation samples derived from other surgical centers has been performed. The aim of this study is to perform this validation. Patients and Methods: During 2015, BITA grafts were used as skeletonized conduits in all 255 consecutive patients with multi-vessel coronary disease who underwent isolated coronary bypass surgery at the Department of Thoracic and Cardio-Vascular Surgery, University Hospital Jean Minjoz, Besanc, on, France. Baseline characteristics, operative data, and immediate outcomes of every patient were collected prospectively. A DSWI risk score was assigned to each patient pre-operatively. The discrimination power of both models, pre-operative and combined, of the Gatti score was assessed with the calculation of the area under the receiver operating characteristic curve. Results: Fourteen (5.5%) patients had DSWI. Major differences both as the baseline characteristics of patients and surgical techniques were found between this series and the original series from which the Gatti score was derived. The area under the receiver operating characteristic curve was 0.78 (95% confidence interval: 0.64-0.92) for the pre-operative model and 0.84 (95% confidence interval: 0.69-0.98) for the combined model. Conclusions: The Gatti score has proven to be effective even in a cohort of French patients despite major differences from the original Italian series. Multi-center validation studies must be performed before introducing the score into clinical practice"
+issn: "1096-2964"
+eissn: "1557-8674"
+unique_id: "WOS:000394500600016"
+bib_key: "WOS:000394500600016"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Background: The Gatti score is a weighted scoring system based on risk factors for deep sternal wound infection (DSWI) that was created in an Italian center to predict DSWI risk after bilateral internal thoracic artery (BITA) grafting. No external evaluation based on validation samples derived from other surgical centers has been performed. The aim of this study is to perform this validation. Patients and Methods: During 2015, BITA grafts were used as skeletonized conduits in all 255 consecutive patients with multi-vessel coronary disease who underwent isolated coronary bypass surgery at the Department of Thoracic and Cardio-Vascular Surgery, University Hospital Jean Minjoz, Besanc, on, France. Baseline characteristics, operative data, and immediate outcomes of every patient were collected prospectively. A DSWI risk score was assigned to each patient pre-operatively. The discrimination power of both models, pre-operative and combined, of the Gatti score was assessed with the calculation of the area under the receiver operating characteristic curve. Results: Fourteen (5.5%) patients had DSWI. Major differences both as the baseline characteristics of patients and surgical techniques were found between this series and the original series from which the Gatti score was derived. The area under the receiver operating characteristic curve was 0.78 (95% confidence interval: 0.64-0.92) for the pre-operative model and 0.84 (95% confidence interval: 0.69-0.98) for the combined model. Conclusions: The Gatti score has proven to be effective even in a cohort of French patients despite major differences from the original Italian series. Multi-center validation studies must be performed before introducing the score into clinical practice

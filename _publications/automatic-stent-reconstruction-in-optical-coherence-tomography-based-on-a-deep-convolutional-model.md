@@ -1,0 +1,19 @@
+---
+title: "Automatic stent reconstruction in optical coherence tomography based on a deep convolutional model"
+authors: "Wu, Peng, Luis Gutierrez-Chico, Juan, Tauzin, Helene, Yang, Wei, Li, Yingguang, Yu, Wei, Chu, Miao, Guillon, Benoit, Bai, Jingfeng, Meneveau, Nicolas, Wijns, William, Tu, Shengxian"
+journal: "BIOMEDICAL OPTICS EXPRESS"
+year: 2020
+volume: "11"
+number: "6"
+pages: "3374-3394"
+month: "JUN 1"
+doi: "10.1364/BOE.390113"
+abstract: "Intravascular optical coherence tomography (IVOCT) can accurately assess stent apposition and expansion, thus enabling the optimisation of a stenting procedure to minimize the risk of device failure. This paper presents a deep convolutional based model for automatic detection and segmentation of stent struts. The input of pseudo-3D images aggregated the information from adjacent frames to refine the probability of strut detection. In addition, multi-scale shortcut connections were implemented to minimize the loss of spatial resolution and refine the segmentation of strut contours. After training, the model was independently tested in 21,363 cross-sectional images from 170 IVOCT image pullbacks. The proposed model obtained excellent segmentation (0.907 Dice and 0.838 Jaccard) and detection metrics (0.943 precision, 0.940 recall and 0.936 F1-score), significantly better than conventional features-based algorithms. This performance was robust and homogenous among IVOCT pullbacks with different sources of acquisition (clinical centres, imaging operators, type of stent, time of acquisition and challenging scenarios). In addition, excellent agreement between the model and a commercialized software was observed in the quantification of clinically relevant parameters. In conclusion, the deep-convolutional model can accurately detect stent struts in IVOCT images, thus enabling the fully-automatic quantification of stent parameters in an extremely short time. It might facilitate the application of quantitative IVOCT analysis in real-world clinical scenarios. (C) 2020 Optical Society of America under the terms of the OSA Open Access Publishing Agreement"
+issn: "2156-7085"
+unique_id: "WOS:000561841000005"
+bib_key: "WOS:000561841000005"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Intravascular optical coherence tomography (IVOCT) can accurately assess stent apposition and expansion, thus enabling the optimisation of a stenting procedure to minimize the risk of device failure. This paper presents a deep convolutional based model for automatic detection and segmentation of stent struts. The input of pseudo-3D images aggregated the information from adjacent frames to refine the probability of strut detection. In addition, multi-scale shortcut connections were implemented to minimize the loss of spatial resolution and refine the segmentation of strut contours. After training, the model was independently tested in 21,363 cross-sectional images from 170 IVOCT image pullbacks. The proposed model obtained excellent segmentation (0.907 Dice and 0.838 Jaccard) and detection metrics (0.943 precision, 0.940 recall and 0.936 F1-score), significantly better than conventional features-based algorithms. This performance was robust and homogenous among IVOCT pullbacks with different sources of acquisition (clinical centres, imaging operators, type of stent, time of acquisition and challenging scenarios). In addition, excellent agreement between the model and a commercialized software was observed in the quantification of clinically relevant parameters. In conclusion, the deep-convolutional model can accurately detect stent struts in IVOCT images, thus enabling the fully-automatic quantification of stent parameters in an extremely short time. It might facilitate the application of quantitative IVOCT analysis in real-world clinical scenarios. (C) 2020 Optical Society of America under the terms of the OSA Open Access Publishing Agreement

@@ -1,0 +1,20 @@
+---
+title: "Moderate heart rate-matched hypoxic exercise: autonomic and cardiovascular responses to different degrees of hypoxic stress"
+authors: "Fornasiero, Alessandro, Represas, Alicia Gonzalez, Zignoli, Andrea, Stella, Federico, Rakobowchuk, Mark, Mourot, Laurent"
+journal: "EUROPEAN JOURNAL OF APPLIED PHYSIOLOGY"
+year: 2026
+volume: "126"
+number: "1"
+pages: "421-435"
+month: "JAN"
+doi: "10.1007/s00421-025-05910-2"
+abstract: "Purpose This study aims to assess the impact of HR-matched exercises under varying hypoxic stress levels on exercise and post-exercise autonomic and cardiovascular responses. Methods Twelve moderately aerobically trained healthy men (mean age: 23 +/- 2 years, height: 179 +/- 8 cm, weight: 71.2 +/- 9.9 kg, BMI: 22.2 +/- 2.2 kg/m(2), VO(2)max: 53.1 +/- 4.2 mL/min/kg) completed an interval exercise session at 75% of their normoxic maximum heart rate (75%HRmax) under three hypoxic conditions: FiO(2) = 16.2% (2000 m a.s.l; H16), FiO(2) = 14.3% (3000 m a.s.l; H14), and FiO(2) = 12.6% (4000 m a.s.l; H12). Each session included 5 min of seated rest, a 5-min sub-maximal load warm-up, and five 5-min work intervals with 1-min passive recovery periods. Results During hypoxic exercise, RMSSD decreased significantly following the first bout coinciding with an increase in heart rate. The RMSSD increase during 60-s recovery intervals was significantly lower after the 4th and 5th bouts compared to the 1st and 2nd bouts (p < 0.05). At 15 min post-exercise, mean RR, systolic blood pressure and stroke volume decreased. No changes were observed in cardiac output or baroreflex sensitivity. At 60 min post-exercise, SDNN, RMSSD, mean arterial pressure and diastolic blood pressure increased significantly compared to 15 min post-exercise. No condition or interaction differences were found. Conclusion Despite the decreased oxygen saturation with increased hypoxia levels, HR-matched interval exercise induced similar cardiac and autonomic responses across all hypoxic conditions. Baseline cardiac autonomic function and hemodynamics recovered within 60 min with no impact of hypoxia on baroreflex sensitivity."
+issn: "1439-6319"
+eissn: "1439-6327"
+unique_id: "WOS:001538644800001"
+bib_key: "WOS:001538644800001"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Purpose This study aims to assess the impact of HR-matched exercises under varying hypoxic stress levels on exercise and post-exercise autonomic and cardiovascular responses. Methods Twelve moderately aerobically trained healthy men (mean age: 23 +/- 2 years, height: 179 +/- 8 cm, weight: 71.2 +/- 9.9 kg, BMI: 22.2 +/- 2.2 kg/m(2), VO(2)max: 53.1 +/- 4.2 mL/min/kg) completed an interval exercise session at 75% of their normoxic maximum heart rate (75%HRmax) under three hypoxic conditions: FiO(2) = 16.2% (2000 m a.s.l; H16), FiO(2) = 14.3% (3000 m a.s.l; H14), and FiO(2) = 12.6% (4000 m a.s.l; H12). Each session included 5 min of seated rest, a 5-min sub-maximal load warm-up, and five 5-min work intervals with 1-min passive recovery periods. Results During hypoxic exercise, RMSSD decreased significantly following the first bout coinciding with an increase in heart rate. The RMSSD increase during 60-s recovery intervals was significantly lower after the 4th and 5th bouts compared to the 1st and 2nd bouts (p < 0.05). At 15 min post-exercise, mean RR, systolic blood pressure and stroke volume decreased. No changes were observed in cardiac output or baroreflex sensitivity. At 60 min post-exercise, SDNN, RMSSD, mean arterial pressure and diastolic blood pressure increased significantly compared to 15 min post-exercise. No condition or interaction differences were found. Conclusion Despite the decreased oxygen saturation with increased hypoxia levels, HR-matched interval exercise induced similar cardiac and autonomic responses across all hypoxic conditions. Baseline cardiac autonomic function and hemodynamics recovered within 60 min with no impact of hypoxia on baroreflex sensitivity.

@@ -1,0 +1,20 @@
+---
+title: "Impact of the initial classic section during a simulated cross-country skiing skiathlon on the cardiopulmonary responses during the subsequent period of skate skiing"
+authors: "Mourot, Laurent, Fabre, Nicolas, Andersson, Erik, Willis, Sarah J., Hebert-Losier, Kim, Holmberg, Hans-Christer"
+journal: "APPLIED PHYSIOLOGY NUTRITION AND METABOLISM"
+year: 2014
+volume: "39"
+number: "8"
+pages: "911-919"
+month: "AUG"
+doi: "10.1139/apnm-2013-0550"
+abstract: "The aim of this study was to assess potential changes in the performance and cardiorespiratory responses of elite cross-country skiers following transition from the classic (CL) to the skating (SK) technique during a simulated skiathlon. Eight elite male skiers performed two 6 km (2 x 3 km) roller-skiing time trials on a treadmill at racing speed: one starting with the classic and switching to the skating technique (CL1-SK2) and another employing the skating technique throughout (SK1-SK2), with continuous monitoring of gas exchanges, heart rates, and kinematics (video). The overall performance times in the CL1-SK2 (21:12 +/- 1:24) and SK1-SK2 (20:48 +/- 2:00) trials were similar, and during the second section of each performance times and overall cardiopulmonary responses were also comparable. However, in comparison with SK1-SK2, the CL1-SK2 trial involved significantly higher increases in minute ventilation (V-E, 89.8 +/- 26.8 vs. 106.8 +/- 17.6 L.min(-1)) and oxygen uptake (VO2; 3.1 +/- 0.8 vs 3.5 +/- 0.5 L.min(-1)) 2 min after the transition as well as longer time constants for V-E, VO2, and heart rate during the first 3 min after the transition. This higher cardiopulmonary exertion was associated with similar to 3% faster cycle rates. In conclusion, overall performance during the 2 time trials did not differ. The similar performance times during the second sections were achieved with comparable mean cardiopulmonary responses. However, the observation that during the initial 3-min post-transition following classic skiing cardiopulmonary responses and cycle rates were slightly higher supports the conclusion that an initial section of classic skiing exerts an impact on performance during a subsequent section of skate skiing."
+issn: "1715-5312"
+eissn: "1715-5320"
+unique_id: "WOS:000341559700007"
+bib_key: "WOS:000341559700007"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+The aim of this study was to assess potential changes in the performance and cardiorespiratory responses of elite cross-country skiers following transition from the classic (CL) to the skating (SK) technique during a simulated skiathlon. Eight elite male skiers performed two 6 km (2 x 3 km) roller-skiing time trials on a treadmill at racing speed: one starting with the classic and switching to the skating technique (CL1-SK2) and another employing the skating technique throughout (SK1-SK2), with continuous monitoring of gas exchanges, heart rates, and kinematics (video). The overall performance times in the CL1-SK2 (21:12 +/- 1:24) and SK1-SK2 (20:48 +/- 2:00) trials were similar, and during the second section of each performance times and overall cardiopulmonary responses were also comparable. However, in comparison with SK1-SK2, the CL1-SK2 trial involved significantly higher increases in minute ventilation (V-E, 89.8 +/- 26.8 vs. 106.8 +/- 17.6 L.min(-1)) and oxygen uptake (VO2; 3.1 +/- 0.8 vs 3.5 +/- 0.5 L.min(-1)) 2 min after the transition as well as longer time constants for V-E, VO2, and heart rate during the first 3 min after the transition. This higher cardiopulmonary exertion was associated with similar to 3% faster cycle rates. In conclusion, overall performance during the 2 time trials did not differ. The similar performance times during the second sections were achieved with comparable mean cardiopulmonary responses. However, the observation that during the initial 3-min post-transition following classic skiing cardiopulmonary responses and cycle rates were slightly higher supports the conclusion that an initial section of classic skiing exerts an impact on performance during a subsequent section of skate skiing.

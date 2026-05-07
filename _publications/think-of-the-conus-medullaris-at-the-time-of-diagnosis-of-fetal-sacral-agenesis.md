@@ -1,0 +1,19 @@
+---
+title: "Think of the Conus Medullaris at the Time of Diagnosis of Fetal Sacral Agenesis"
+authors: "Mottet, Nicolas, Martinovic, Jelena, Baeza, Claire, Guimiot, Fabien, Bault, Jean-Philippe, Aubry, Marie Cecile, Riethmuller, Didier, Zerah, Michel, Cretolle, Celia, Benachi, Alexandra"
+journal: "FETAL DIAGNOSIS AND THERAPY"
+year: 2017
+volume: "42"
+number: "2"
+pages: "137-143"
+doi: "10.1159/000451080"
+abstract: "Background: There is no precise prenatal indicator to refine an accurate prognosis in case of sacral agenesis and to define the diagnostic approach and outcome criteria in case of fetal sacral agenesis using 3 characteristics of the conus medullaris (CM): its position, its appearance, and associated spinal abnormalities. Methods: Ten cases of prenatally diagnosed sacral agenesis were included between 1995 and 2014 after collating ultrasound findings and prenatal computed tomography data. Results: Two cases of total sacral agenesis and 8 of partial agenesis were included. There were 1 or more spinal abnormalities in 8/10 cases: 6 lipomas, 4 low-lying tethered cords, 2 diastematomyelias, and 1 syringomyelia. Three situations were distinguished: sacral agenesis with low-lying tethered cord, sacral agenesis with a truncated CM, and sacral agenesis with CM in place. If the sacral agenesis is isolated, a lipoma should be sought. Lipomas of the filum have a good prognosis, whereas lipomas of the CM cause neurological deficits in 1/3 of cases. When there is a low-lying tethered cord, a diastematomyelia or a syringomyelia may be associated. In truncated CM, there may be a severe form suggestive of caudal regression syndrome. Serious ultrasound signs are immobility of the lower limbs, talipes equinovarus, impaired bladder emptying, and dilatation of the upper urinary tract. Conclusion: A precise description of the morphology of the CM, its position, and associated spinal malformations are important in defining the neurological, urinary, gastrointestinal, and motor functions prognosis in cases of fetal sacral agenesis. (C) 2016 S. Karger AG, Basel"
+issn: "1015-3837"
+eissn: "1421-9964"
+unique_id: "WOS:000409108100008"
+bib_key: "WOS:000409108100008"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+Background: There is no precise prenatal indicator to refine an accurate prognosis in case of sacral agenesis and to define the diagnostic approach and outcome criteria in case of fetal sacral agenesis using 3 characteristics of the conus medullaris (CM): its position, its appearance, and associated spinal abnormalities. Methods: Ten cases of prenatally diagnosed sacral agenesis were included between 1995 and 2014 after collating ultrasound findings and prenatal computed tomography data. Results: Two cases of total sacral agenesis and 8 of partial agenesis were included. There were 1 or more spinal abnormalities in 8/10 cases: 6 lipomas, 4 low-lying tethered cords, 2 diastematomyelias, and 1 syringomyelia. Three situations were distinguished: sacral agenesis with low-lying tethered cord, sacral agenesis with a truncated CM, and sacral agenesis with CM in place. If the sacral agenesis is isolated, a lipoma should be sought. Lipomas of the filum have a good prognosis, whereas lipomas of the CM cause neurological deficits in 1/3 of cases. When there is a low-lying tethered cord, a diastematomyelia or a syringomyelia may be associated. In truncated CM, there may be a severe form suggestive of caudal regression syndrome. Serious ultrasound signs are immobility of the lower limbs, talipes equinovarus, impaired bladder emptying, and dilatation of the upper urinary tract. Conclusion: A precise description of the morphology of the CM, its position, and associated spinal malformations are important in defining the neurological, urinary, gastrointestinal, and motor functions prognosis in cases of fetal sacral agenesis. (C) 2016 S. Karger AG, Basel

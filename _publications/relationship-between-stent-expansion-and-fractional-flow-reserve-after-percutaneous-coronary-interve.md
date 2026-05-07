@@ -1,0 +1,20 @@
+---
+title: "Relationship between stent expansion and fractional flow reserve after percutaneous coronary intervention: a post hoc analysis of the DOCTORS trial"
+authors: "Belguidoum, Salim, Meneveau, Nicolas, Motreff, Pascal, Ohlman, Patrick, Boussaada, Mohamed Mehdi, Silvain, Johanne, Guillon, Benoit, Descotes-Genon, Vincent, Lefrancois, Yohann, Morel, Olivier, Amabile, Nicolas"
+journal: "EUROINTERVENTION"
+year: 2021
+volume: "17"
+number: "2"
+pages: "E132+"
+month: "JUN"
+doi: "10.4244/EIJ-D-19-01103"
+abstract: "Background: The best criteria for adequate stent expansion assessment by intracoronary imaging remain debated and their correlation with post-PCI FFR values is unknown. Aims: This study aimed to analyse the relationship between stent expansion criteria using optical coherence tomography (OCT) analysis and the final PCI functional result. Methods: This post hoc analysis of the DOCTORS study included non-ST-elevation segment ACS patients undergoing OCT-guided PCI. The procedure functional result was assessed by the measurement of fractional flow reserve (FFR). Stent expansion was assessed on OCT runs according to the DOCTORS criteria and ILUMIEN III criteria. Results: The study included N=116 patients (age: 60.8 +/- 11.5 years; male gender: 71%). The final expansion was considered optimal in 10%, acceptable in 9% and unacceptable in 81% of the stents according to ILUMIEN III criteria, although being successful in 70% of the patients according to the DOCTORS criteria. Hypertension and larger proximal reference segment dimension were independent predictors of inadequate device ILUMIEN III expansion. FFR values were, respectively, 0.93 (0.91-0.95) versus 0.95 (0.92-0.97) in patients with optimal+acceptable versus unacceptable ILUMIEN III expansion (p=0.22), 0.94 (0.91-0.97) versus 0.95 (0.93-0.97) in patients with optimal versus non-optimal DOCTORS expansion (p=0.23), and 0.95 (0.92-0.97) versus 0.92 (0.90-0.95) in patients with minimal stent area >= 4.5 mm(2) versus <4.5 mm(2) (p=0.03). Conclusions: In this selected population, no relationship was observed between optimal stent expansion according to ILUMIEN III or DOCTORS OCT criteria and final post-PCI FFR values."
+issn: "1774-024X"
+eissn: "1969-6213"
+unique_id: "WOS:000661460900007"
+bib_key: "WOS:000661460900007"
+publication_type: "article"
+source_file: "savedrecs(1).bib"
+---
+
+Background: The best criteria for adequate stent expansion assessment by intracoronary imaging remain debated and their correlation with post-PCI FFR values is unknown. Aims: This study aimed to analyse the relationship between stent expansion criteria using optical coherence tomography (OCT) analysis and the final PCI functional result. Methods: This post hoc analysis of the DOCTORS study included non-ST-elevation segment ACS patients undergoing OCT-guided PCI. The procedure functional result was assessed by the measurement of fractional flow reserve (FFR). Stent expansion was assessed on OCT runs according to the DOCTORS criteria and ILUMIEN III criteria. Results: The study included N=116 patients (age: 60.8 +/- 11.5 years; male gender: 71%). The final expansion was considered optimal in 10%, acceptable in 9% and unacceptable in 81% of the stents according to ILUMIEN III criteria, although being successful in 70% of the patients according to the DOCTORS criteria. Hypertension and larger proximal reference segment dimension were independent predictors of inadequate device ILUMIEN III expansion. FFR values were, respectively, 0.93 (0.91-0.95) versus 0.95 (0.92-0.97) in patients with optimal+acceptable versus unacceptable ILUMIEN III expansion (p=0.22), 0.94 (0.91-0.97) versus 0.95 (0.93-0.97) in patients with optimal versus non-optimal DOCTORS expansion (p=0.23), and 0.95 (0.92-0.97) versus 0.92 (0.90-0.95) in patients with minimal stent area >= 4.5 mm(2) versus <4.5 mm(2) (p=0.03). Conclusions: In this selected population, no relationship was observed between optimal stent expansion according to ILUMIEN III or DOCTORS OCT criteria and final post-PCI FFR values.

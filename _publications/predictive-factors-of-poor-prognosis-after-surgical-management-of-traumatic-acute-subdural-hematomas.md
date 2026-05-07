@@ -1,0 +1,19 @@
+---
+title: "Predictive Factors of Poor Prognosis After Surgical Management of Traumatic Acute Subdural Hematomas: A Single-Center Series"
+authors: "Baucher, Guillaume, Troude, Lucas, Pauly, Vanessa, Bernard, Florian, Zieleskiewicz, Laurent, Roche, Pierre-Hugues"
+journal: "WORLD NEUROSURGERY"
+year: 2019
+volume: "126"
+pages: "E944-E952"
+month: "JUN"
+doi: "10.1016/j.wneu.2019.02.194"
+abstract: "BACKGROUND: Traumatic acute subdural hematomas (ASDHs) showed the highest mortality of intracranial hematomas. The aim of the current study was to identify predictive factors of poor prognosis among patients who were operated on. METHODS: This is a single-center retrospective cohort study of 82 patients who underwent surgical evacuation of a traumatic ASDH between January 2009 and December 2016. The epidemiologic, clinical, radiologic, and surgical features were recorded. Postoperative outcome were assessed by the Glasgow Outcome Scale (GOS) score at 6 months. Univariate and multivariate analysis and a classification and regression tree (CART) were performed. RESULTS: At 6 months, 76% of patients achieved an unfavorable outcome (GOS score 1-3). The context of polytrauma (P = 0.03) and ASDH thickness >= 20 mm (P = 0.02) were significantly associated with poor outcome in the multivariate analysis. The CART algorithm isolated 3 subgroups of patients with an unfavorable prognosis: polytrauma (91%), isolated head injury (HI) featuring an ASDH thickness >= 20 mm (89%), or isolated HI featuring a thickness < 20 mm in a patient older than 54 years (71%). Isolated patients with HI younger than 54 years harboring an ASDH < 20 mm thick had the most promising results, with 53% with a GOS score of 4 or 5. CONCLUSIONS: The context of polytrauma, ASDH thickness, and age were major predictive factors of poor prognosis in patients with surgically evacuated traumatic ASDH. The CART algorithm using these features isolated subgroups with decreasingly unfavorable outcome, providing a relevant statistical tool to apply to future studies of traumatic ASDH."
+issn: "1878-8750"
+eissn: "1878-8769"
+unique_id: "WOS:000469222400118"
+bib_key: "WOS:000469222400118"
+publication_type: "article"
+source_file: "savedrecs(2).bib"
+---
+
+BACKGROUND: Traumatic acute subdural hematomas (ASDHs) showed the highest mortality of intracranial hematomas. The aim of the current study was to identify predictive factors of poor prognosis among patients who were operated on. METHODS: This is a single-center retrospective cohort study of 82 patients who underwent surgical evacuation of a traumatic ASDH between January 2009 and December 2016. The epidemiologic, clinical, radiologic, and surgical features were recorded. Postoperative outcome were assessed by the Glasgow Outcome Scale (GOS) score at 6 months. Univariate and multivariate analysis and a classification and regression tree (CART) were performed. RESULTS: At 6 months, 76% of patients achieved an unfavorable outcome (GOS score 1-3). The context of polytrauma (P = 0.03) and ASDH thickness >= 20 mm (P = 0.02) were significantly associated with poor outcome in the multivariate analysis. The CART algorithm isolated 3 subgroups of patients with an unfavorable prognosis: polytrauma (91%), isolated head injury (HI) featuring an ASDH thickness >= 20 mm (89%), or isolated HI featuring a thickness < 20 mm in a patient older than 54 years (71%). Isolated patients with HI younger than 54 years harboring an ASDH < 20 mm thick had the most promising results, with 53% with a GOS score of 4 or 5. CONCLUSIONS: The context of polytrauma, ASDH thickness, and age were major predictive factors of poor prognosis in patients with surgically evacuated traumatic ASDH. The CART algorithm using these features isolated subgroups with decreasingly unfavorable outcome, providing a relevant statistical tool to apply to future studies of traumatic ASDH.

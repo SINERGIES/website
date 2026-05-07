@@ -1,0 +1,19 @@
+---
+title: "Intercalary Segmental Reconstruction of Long Bones After Malignant Bone Tumor Resection Using Primary Methyl Methacrylate Cement Spacer Interposition and Secondary Bone Grafting: The Induced Membrane Technique"
+authors: "Villemagne, Thierry, Bonnard, Christian, Accadbled, Franck, L'Kaissi, Mohamed, de Billy, Benoit, de Gauzy, Jerome Sales"
+journal: "JOURNAL OF PEDIATRIC ORTHOPAEDICS"
+year: 2011
+volume: "31"
+number: "5"
+pages: "570-576"
+month: "JUL-AUG"
+doi: "10.1097/BPO.0b013e31821ffa82"
+abstract: "Background: Bone reconstruction after surgical resection of malignant bone tumor in children remains a difficult challenge and various techniques exist. Induced membrane reconstruction as described by Masquelet et al has been reported in traumatic large bone defects. We have been using this 2-stage technique after primary malignant bone tumors resection in children since 2000. Methods: We retrospectively studied 12 cases: 6 Ewing sarcomas and 6 osteosarcomas. Mean age of the patients was 9 years old (range, 3 to 15.5 y). Surgical treatment consisted of wide resection and insertion of a cement spacer then secondary bone grafting. All patients had neoadjuvant and adjuvant chemotherapy and 2 patients had adjuvant radiotherapy. Results: Surgical excision was complete in all cases. There was no local recurrence at 6.2 years (range, 4.6 to 9.1 y) follow-up. Three patients had pulmonary metastasis (of whom 1 deceased) and 1 had a metastasis on the contralateral limb. The 11 patients operated on the lower limb achieved weight bearing 4.1 months (range, 0.2 to 14.2 mo) after the second stage of the procedure. Complications were numerous with 7 nonunions (4 unifocal and 3 bifocal), 5 fractures (in 4 patients), 5 protruding wires (in 4 patients), and 2 femoral varus deformities. There was no infection. Conclusions: Induced membrane reconstruction seems to be a simple and reliable technique in pediatric bone tumors and these results are promising. Extended use of locking nails could reduce the high rate of nonunion though it is not always possible in skeletally immature patients. Level of Evidence: IV (case series)."
+issn: "0271-6798"
+unique_id: "WOS:000291427700023"
+bib_key: "WOS:000291427700023"
+publication_type: "article"
+source_file: "savedrecs(3).bib"
+---
+
+Background: Bone reconstruction after surgical resection of malignant bone tumor in children remains a difficult challenge and various techniques exist. Induced membrane reconstruction as described by Masquelet et al has been reported in traumatic large bone defects. We have been using this 2-stage technique after primary malignant bone tumors resection in children since 2000. Methods: We retrospectively studied 12 cases: 6 Ewing sarcomas and 6 osteosarcomas. Mean age of the patients was 9 years old (range, 3 to 15.5 y). Surgical treatment consisted of wide resection and insertion of a cement spacer then secondary bone grafting. All patients had neoadjuvant and adjuvant chemotherapy and 2 patients had adjuvant radiotherapy. Results: Surgical excision was complete in all cases. There was no local recurrence at 6.2 years (range, 4.6 to 9.1 y) follow-up. Three patients had pulmonary metastasis (of whom 1 deceased) and 1 had a metastasis on the contralateral limb. The 11 patients operated on the lower limb achieved weight bearing 4.1 months (range, 0.2 to 14.2 mo) after the second stage of the procedure. Complications were numerous with 7 nonunions (4 unifocal and 3 bifocal), 5 fractures (in 4 patients), 5 protruding wires (in 4 patients), and 2 femoral varus deformities. There was no infection. Conclusions: Induced membrane reconstruction seems to be a simple and reliable technique in pediatric bone tumors and these results are promising. Extended use of locking nails could reduce the high rate of nonunion though it is not always possible in skeletally immature patients. Level of Evidence: IV (case series).
