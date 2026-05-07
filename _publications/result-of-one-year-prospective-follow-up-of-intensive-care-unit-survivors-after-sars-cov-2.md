@@ -1,11 +1,14 @@
 ---
 title: "Result of one-year, prospective follow-up of intensive care unit survivors after SARS-CoV-2 pneumonia"
-authors: "Eberst G, Claudé F, Laurent L, Meurisse A, Roux-Claudé P, Barnig C, et al"
-journal: "Annals of Intensive Care"
+authors: "Eberst, Guillaume, Claude, Frederic, Laurent, Lucie, Meurisse, Aurelia, Roux-Claude, Pauline, Barnig, Cindy, Vernerey, Dewi, Paget-Bailly, Sophie, Bouiller, Kevin, Chirouze, Catherine, Behr, Julien, Grillet, Franck, Ritter, Ophelie, Karaer, Sinan, Pili-Floury, Sebastien, Winiszewski, Hadrien, Samain, Emmanuel, Decavel, Pierre, Capellier, Gilles, Westeel, Virginie"
+journal: "ANNALS OF INTENSIVE CARE"
 year: 2022
 volume: "12"
-bib_key: "g2022_466"
+number: "1"
+month: "MAR 9"
+doi: "10.1186/s13613-022-00997-8"
+bib_key: "WOS:000766569000001"
 publication_type: "article"
 ---
 
-Eberst G, Claudé F, Laurent L, Meurisse A, Roux-Claudé P, Barnig C, et al. Result of one-year, prospective follow-up of intensive care unit survivors after SARS-CoV-2 pneumonia. Annals of Intensive Care 2022, 12(1).
+Introduction Survivors of viral ARDS are at risk of long-term physical, functional and neuropsychological complications resulting from the lung injury itself, but also from potential multiorgan dysfunction, and the long stay in the intensive care unit (ICU). Recovery profiles after severe SARS-CoV-2 pneumonia in intensive care unit survivors have yet to be clearly defined. Material and methods The goal of this single-center, prospective, observational study was to systematically evaluate pulmonary and extrapulmonary function at 12 months after a stay in the ICU, in a prospectively identified cohort of patients who survived SARS-CoV-2 pneumonia. Eligible patients were assessed at 3, 6 and 12 months after onset of SARS-CoV-2. Patients underwent physical examination, pulmonary function testing, chest computed tomography (CT) scan, a standardized six-minute walk test with continuous oximetry, overnight home respiratory polygraphy and have completed quality of life questionnaire. The primary endpoint was alteration of the alveolar-capillary barrier compared to reference values as measured by DLCO, at 12 months after onset of SARS-CoV-2 symptoms. Results In total, 85 patients (median age 68.4 years, (interquartile range [IQR] = 60.1-72.9 years), 78.8% male) participated in the trial. The median length of hospital stay was 44 days (IQR: 20-60) including 17 days in ICU (IQR: 11-26). Pulmonary function tests were completed at 3 months (n = 85), 6 months (n = 80), and 12 months (n = 73) after onset of symptoms. Most patients showed an improvement in DLCO at each timepoint (3, 6, and 12 months). All patients who normalized their DLCO did not subsequently deteriorate, except one. Chest CT scans were abnormal in 77 patients (96.3%) at 3 months and although the proportion was the same at 12 months, but patterns have changed. Conclusion We report the results of a comprehensive evaluation of 85 patients admitted to the ICU for SARS-CoV-2, at one-year follow-up after symptom onset. We show that most patients had an improvement in DLCO at each timepoint. Trial registration: Clinical trial registration number: NCT04519320.

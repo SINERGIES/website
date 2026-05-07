@@ -1,0 +1,15 @@
+---
+title: "Clinical Effectiveness of Intravenous Exenatide Infusion in Perioperative Glycemic Control after Coronary Artery Bypass Graft Surgery A Phase II/III Randomized Trial"
+authors: "Besch, Guillaume, Perrotti, Andrea, Mauny, Frederic, Puyraveau, Marc, Baltres, Maude, Flicoteaux, Guillaume, du Mont, Lucie Salomon, Barrucand, Benoit, Samain, Emmanuel, Chocron, Sidney, Pili-Floury, Sebastien"
+journal: "ANESTHESIOLOGY"
+year: 2017
+volume: "127"
+number: "5"
+pages: "775-787"
+month: "NOV"
+doi: "10.1097/ALN.0000000000001838"
+bib_key: "WOS:000414634700008"
+publication_type: "article"
+---
+
+Background: We aimed to assess the clinical effectiveness of intravenous exenatide compared to insulin in perioperative blood glucose control in coronary artery bypass grafting surgery patients. Methods: Patients more than 18 yr old admitted for elective coronary artery bypass grafting were included in a phase II/III nonblinded randomized superiority trial. Current insulin use and creatinine clearance of less than 60 ml/min were exclusion criteria. Two groups were compared: the exenatide group, receiving exenatide (1-h bolus of 0.05 mu g/min followed by a constant infusion of 0.025 mu g/min), and the control group, receiving insulin therapy. The blood glucose target range was 100 to 139 mg/dl. The primary outcome was the proportion of patients who spent at least 50% of the study period within the target range. The consumption of insulin (C-insulin) and the time to start insulin (T-insulin) were compared between the two groups. Results: In total, 53 and 51 patients were included and analyzed in the exenatide and control groups, respectively (age: 70 +/- 9 vs. 68 +/- 11 yr; diabetes mellitus: 12 [23%] vs. 10 [20%]). The primary outcome was observed in 38 (72%) patients in the exenatide group and in 41 (80%) patients in the control group (odds ratio [95% CI] = 0.85 [0.34 to 2.11]; P = 0.30). C-insulin was significantly lower (60 [40 to 80] vs. 92 [63 to 121] U, P < 0.001), and T-insulin was significantly longer (12 [7 to 16] vs. 7 [5 to 10] h, P = 0.02) in the exenatide group. Conclusions: Exenatide alone at the dose used was not enough to achieve adequate blood glucose control in coronary artery bypass grafting patients, but it reduces overall consumption of insulin and increases the time to initiation of insulin.

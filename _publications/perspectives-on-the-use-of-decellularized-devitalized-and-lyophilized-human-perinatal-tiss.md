@@ -1,11 +1,13 @@
 ---
 title: "Perspectives on the use of decellularized/devitalized and lyophilized human perinatal tissues for bone repair: Advantages and remaining challenges"
-authors: "Solecki L, Fenelon M, Kerdjoudj H, Di Pietro R, Stati G, Gaudet C, et al"
-journal: "Materials Today Bio"
+authors: "Solecki, Lauriana, Fenelon, Mathilde, Kerdjoudj, Halima, Di Pietro, Roberta, Stati, Gianmarco, Gaudet, Camille, Bertin, Eugenie, Nallet, Jeremie, Louvrier, Aurelien, Gualdi, Thomas, Schiavi-Tritz, Jessica, Gindraux, Florelle"
+journal: "MATERIALS TODAY BIO"
 year: 2025
 volume: "30"
-bib_key: "l2025_68"
+month: "FEB"
+doi: "10.1016/j.mtbio.2024.101364"
+bib_key: "WOS:001392167800001"
 publication_type: "article"
 ---
 
-Solecki L, Fenelon M, Kerdjoudj H, Di Pietro R, Stati G, Gaudet C, et al. Perspectives on the use of decellularized/devitalized and lyophilized human perinatal tissues for bone repair: Advantages and remaining challenges. Materials Today Bio 2025, 30.
+Human amniotic membrane (hAM) has been extensively used for several decades as a bioactive scaffold for regenerative medicine. In its cryopreserved form-one of the main storage formats-the presence of viable cells has often been questioned. Furthermore, there is little published evidence of the role of endogenous amniotic cells from cryopreserved hAM in tissue repair. Some technologies, often patented and combined, have facilitated the use of hAM. Decellularization and devitalization processes have been developed to ensure its safety and prevent immune rejection. Lyophilization and dehydration methods have had a significant impact on clinical practices by enabling storage at room temperature in the operating room and making handling and cutting easier. Consequently, the commercialization of hAM has expanded, initially in the USA, and now in Europe. In the last decade, there has been growing interest in new perinatal tissues in clinical medicine. Similar processes have been adapted for these tissues to prevent immune or inflammatory reactions, and to improve storage and make them easier to use. For example, in the USA, many products marketed for wound healing undergo lyophilization, sometimes in combination with decellularization. Given our expertise, we wanted to highlight the potential of decellularized/devitalized and lyophilized perinatal tissues in regenerative medicine, particularly for bone repair. In this opinion paper, we discuss why these tissues represent the future of regenerative medicine, their potential drawbacks and strategies to overcome these challenges.

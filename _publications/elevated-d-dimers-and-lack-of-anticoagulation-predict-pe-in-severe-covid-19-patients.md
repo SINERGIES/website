@@ -1,11 +1,14 @@
 ---
 title: "Elevated D-dimers and lack of anticoagulation predict PE in severe COVID-19 patients"
-authors: "Mouhat B, Besutti M, Bouiller K, Grillet F, Monnin C, Ecarnot F, et al"
-journal: "European Respiratory Journal"
+authors: "Mouhat, Basile, Besutti, Matthieu, Bouiller, Kevin, Grillet, Franck, Monnin, Charles, Ecarnot, Fiona, Behr, Julien, Capellier, Gilles, Soumagne, Thibaud, Pili-Floury, Sebastien, Besch, Guillaume, Mourey, Guillaume, Lepiller, Quentin, Chirouze, Catherine, Schiele, Francois, Chopard, Romain, Meneveau, Nicolas"
+journal: "EUROPEAN RESPIRATORY JOURNAL"
 year: 2020
 volume: "56"
-bib_key: "b2020_938"
+number: "4"
+month: "OCT 1"
+doi: "10.1183/13993003.01811-2020"
+bib_key: "WOS:000607060500021"
 publication_type: "article"
 ---
 
-Mouhat B, Besutti M, Bouiller K, Grillet F, Monnin C, Ecarnot F, et al. Elevated D-dimers and lack of anticoagulation predict PE in severe COVID-19 patients. European Respiratory Journal 2020, 56(4).
+Background: Coronavirus disease 2019 (COVID-19) may predispose to venous thromboembolism. We determined factors independently associated with computed tomography pulmonary angiography (CTPA)confirmed pulmonary embolism (PE) in hospitalised severe COVID-19 patients. Methods: Among all (n=349) patients hospitalised for COVID-19 in a university hospital in a French region with a high rate of COVID-19, we analysed patients who underwent CTPA for clinical signs of severe disease (oxygen saturation measured by pulse oximetry <= 93% or breathing rate >= 30 breaths.min(-1)) or rapid clinical worsening. Multivariable analysis was performed using Firth penalised maximum likelihood estimates. Results: 162 (46.4%) patients underwent CTPA (mean +/- SD age 65.6 +/- 13.0 years; 67.3% male (95% CI 59.575.5%). PE was diagnosed in 44 (27.2%) patients. Most PEs were segmental and the rate of PE-related right ventricular dysfunction was 15.9%. By multivariable analysis, the only two significant predictors of CTPA-confirmed PE were D-dimer level and the lack of any anticoagulant therapy (OR 4.0 (95% CI 2.4-6.7) per additional quartile and OR 4.5 (95% CI 1.1-7.4), respectively). Receiver operating characteristic curve analysis identified a D-dimer cut-off value of 2590 ng.mL(-1) to best predict occurrence of PE (area under the curve 0.88, p<0.001, sensitivity 83.3%, specificity 83.8%). D-dimer level >2590 ng.mL(-1) was associated with a 17-fold increase in the adjusted risk of PE. Conclusion: Elevated D-dimers (>2590 ng.mL(-1)) and absence of anticoagulant therapy predict PE in hospitalised COVID-19 patients with clinical signs of severity. These data strengthen the evidence base in favour of systematic anticoagulation, and suggest wider use of D-dimer guided CTPA to screen for PE in acutely ill hospitalised patients with COVID-19.

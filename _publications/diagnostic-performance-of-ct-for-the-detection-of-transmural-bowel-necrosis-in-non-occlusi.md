@@ -1,11 +1,15 @@
 ---
-title: "Diagnostic performance of CT for the detection of transmural bowel necrosis in non-occlusive mesenteric ischemia"
-authors: "Verdot P, Calame P, Winiszewski H, Grillet F, Malakhia A, Lakkis Z, et al"
-journal: "European Radiology"
+title: "Diagnostic performance of CT for the detection of transmural bowel necrosis in non-occlusive mesenteric ischemia (Feb, 10.1007/s00330-021-07728-w, 2021)"
+authors: "Verdot, Pierre, Calame, Paul, Winiszewski, Hadrien, Grillet, Franck, Malakhia, Alexandre, Lakkis, Zaher, Ronot, Maxime, Pili-Floury, Sebastien, Piton, Gael, Delabrousse, Eric"
+journal: "EUROPEAN RADIOLOGY"
 year: 2021
 volume: "31"
-bib_key: "p2021_812"
+number: "9"
+pages: "7215"
+month: "SEP"
+doi: "10.1007/s00330-021-07829-6"
+bib_key: "WOS:000628082900002"
 publication_type: "article"
 ---
 
-Verdot P, Calame P, Winiszewski H, Grillet F, Malakhia A, Lakkis Z, et al. Diagnostic performance of CT for the detection of transmural bowel necrosis in non-occlusive mesenteric ischemia. European Radiology 2021, 31(9): 6835-6845.
+A Correction to this paper has been published:
