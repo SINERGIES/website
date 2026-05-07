@@ -6,7 +6,6 @@ permalink: /publications/
 
 <section class="page-hero">
   <h1>Publications</h1>
-  <p>Les publications sont gérées comme une collection Jekyll, avec un fichier Markdown par référence.</p>
 </section>
 
 <section class="page-content archive-list">

@@ -6,7 +6,6 @@ permalink: /actualites/
 
 <section class="page-hero">
   <h1>Actualités</h1>
-  <p>Vie scientifique du laboratoire, événements, publications remarquées et appels à participation.</p>
 </section>
 
 <section class="page-content archive-list">
