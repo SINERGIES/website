@@ -1,8 +1,8 @@
 hero:
   title: Laboratoire SINERGIES
-  subtitle: Expertise multidisciplinaire en santé et recherche clinique
+  subtitle: Soins intégrés, nanomédecine, IA & ingénierie de la santé.
   cta: Découvrir les axes de recherche
-  image: /assets/img/hero-biomed.png
+  image: /assets/img/header-sinergies.png
   stats:
     - value: "3"
       label: équipes de recherche
@@ -23,7 +23,7 @@ intro:
 
 axes:
   title: Axes de recherche
-  text: Le laboratoire articule ses travaux autour de trois équipes de recherche, soutenues par trois axes transversaux qui apportent méthodes, plateformes et expertises communes.
+  text: Le laboratoire articule ses travaux autour de trois équipes de recherche, soutenues par trois axes transversaux.
   research_title: Équipes de recherche
   transversal_title: Axes transversaux
   research:
@@ -62,8 +62,8 @@ master:
     - Recherche clinique et méthodologie
     - Ingénierie, imagerie et données de santé
     - Immersion dans un environnement hospitalo-universitaire
-  cta: Voir la formation
-  url: https://formations.univ-fcomte.fr/fr/index/formations/feuilleter-le-catalogue/master-lmd-XB/master-ingenierie-de-la-sante-M4QW93HX.html
+  cta: Plus d'information
+  url: /master-2/
 
 about:
   title: À propos de nous

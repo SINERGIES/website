@@ -3,6 +3,9 @@ layout: default
 ---
 
 <article class="page-hero post-page">
+  {% if page.logo %}
+    <img class="project-logo" src="{{ page.logo | relative_url }}" alt="Logo {{ page.title }}">
+  {% endif %}
   <p class="meta">{{ page.status }}{% if page.start_year %} · {{ page.start_year }}{% endif %}</p>
   <h1>{{ page.title }}</h1>
   {% if page.summary %}
@@ -29,6 +32,20 @@ layout: default
           </ul>
         </div>
       {% endif %}
+    </div>
+  {% endif %}
+  {% if page.team %}
+    <div class="filter-pills">
+      {% for team in site.teams %}
+        {% if page.team == team.title %}
+          <a href="{{ team.url | relative_url }}">Équipe · {{ team.title }}</a>
+        {% endif %}
+      {% endfor %}
+      {% for axis in site.axes %}
+        {% if page.team == axis.title %}
+          <a href="{{ axis.url | relative_url }}">Axe · {{ axis.title }}</a>
+        {% endif %}
+      {% endfor %}
     </div>
   {% endif %}
   {{ content }}

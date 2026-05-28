@@ -1,6 +1,7 @@
 ---
 title: GESICA
 summary: Coopération franco-suisse visant à concevoir une plateforme d'intelligence artificielle pour détecter, anticiper et aider à gérer les situations sanitaires exceptionnelles.
+logo: /assets/img/projects/gesica.svg
 status: En cours
 start_year: 2024
 end_year: 2027

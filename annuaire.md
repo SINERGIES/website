@@ -11,9 +11,10 @@ permalink: /annuaire/
 
 <section class="page-content directory-page">
   <div class="directory-list">
-    {% for member in site.data.members %}
-      <article>
-        <h2>{{ member.name }}</h2>
+    {% assign people = site.people | sort: "title" %}
+    {% for member in people %}
+      <article id="{{ member.title | slugify: 'latin' }}">
+        <h2><a href="{{ member.url | relative_url }}">{{ member.title }}</a></h2>
         <p>{{ member.role }}</p>
         <span>{{ member.team }}</span>
         {% if member.email %}

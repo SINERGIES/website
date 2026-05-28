@@ -1,0 +1,111 @@
+---
+layout: default
+---
+
+<article class="page-hero person-page">
+  <p class="meta">{{ page.team }}</p>
+  <h1>{{ page.title }}</h1>
+  {% if page.role %}
+    <p>{{ page.role }}</p>
+  {% endif %}
+</article>
+
+<section class="page-content person-details">
+  {% assign person_teams = site.teams | where_exp: "team", "page.team contains team.title" | sort: "number" %}
+  {% assign person_axes = site.axes | where_exp: "axis", "page.role contains axis.title" | sort: "title" %}
+  {% assign publications = site.publications | sort: "year" | reverse %}
+  {% assign person_name_parts = page.title | split: " " %}
+  {% assign person_author_key = person_name_parts | last | append: ", " | append: person_name_parts.first %}
+
+  <dl class="publication-details">
+    {% if page.team %}
+      <div>
+        <dt>Équipe / fonction source</dt>
+        <dd>{{ page.team }}</dd>
+      </div>
+    {% endif %}
+    {% if page.role %}
+      <div>
+        <dt>Rôle</dt>
+        <dd>{{ page.role }}</dd>
+      </div>
+    {% endif %}
+    {% if page.email %}
+      <div>
+        <dt>Email</dt>
+        <dd><a href="mailto:{{ page.email }}">{{ page.email }}</a></dd>
+      </div>
+    {% endif %}
+  </dl>
+
+  <section class="relation-section">
+    <div class="relation-heading">
+      <h2>Affiliations de recherche</h2>
+    </div>
+    <div class="filter-pills">
+      {% for team in person_teams %}
+        <a href="{{ team.url | relative_url }}">{{ team.number }} · {{ team.title }}</a>
+      {% endfor %}
+      {% for axis in person_axes %}
+        <a href="{{ axis.url | relative_url }}">Axe · {{ axis.title }}</a>
+      {% endfor %}
+      {% if person_teams == empty and person_axes == empty %}
+        <p>Aucune affiliation équipe ou axe explicite pour le moment.</p>
+      {% endif %}
+    </div>
+  </section>
+
+  <section class="relation-section">
+    <div class="relation-heading">
+      <h2>Projets associés</h2>
+    </div>
+    <div class="relation-list">
+      {% assign project_count = 0 %}
+      {% for project in site.projects %}
+        {% assign project_match = false %}
+        {% if page.team contains project.team or page.role contains project.team %}
+          {% assign project_match = true %}
+        {% endif %}
+        {% if project_match %}
+          {% assign project_count = project_count | plus: 1 %}
+          <article>
+            <p class="meta">{{ project.status }}{% if project.start_year %} · {{ project.start_year }}{% endif %}</p>
+            <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
+            {% if project.summary %}
+              <p>{{ project.summary }}</p>
+            {% endif %}
+          </article>
+        {% endif %}
+      {% endfor %}
+      {% if project_count == 0 %}
+        <p>Aucun projet relié automatiquement à cette fiche pour le moment.</p>
+      {% endif %}
+    </div>
+  </section>
+
+  <section class="relation-section">
+    <div class="relation-heading">
+      <h2>Publications</h2>
+    </div>
+    <div class="relation-list compact-publications">
+      {% assign publication_count = 0 %}
+      {% for publication in publications %}
+        {% if publication.authors contains page.title or publication.authors contains person_author_key %}
+          {% assign publication_count = publication_count | plus: 1 %}
+          <article>
+            <p class="meta">{{ publication.journal }}{% if publication.year %} · {{ publication.year }}{% endif %}</p>
+            <h3><a class="publication-title-link" href="{{ publication.url | relative_url }}">{{ publication.title }}</a></h3>
+            {% if publication.authors %}
+              <p>{{ publication.authors }}</p>
+            {% endif %}
+          </article>
+        {% endif %}
+      {% endfor %}
+      {% if publication_count == 0 %}
+        <p>Aucune publication reliée automatiquement à cette fiche.</p>
+      {% endif %}
+    </div>
+  </section>
+
+  <p><a class="text-link" href="{{ '/organigrammes/' | relative_url }}">Voir les organigrammes</a></p>
+</section>

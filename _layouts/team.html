@@ -1,0 +1,170 @@
+---
+layout: default
+---
+
+<article class="page-hero post-page">
+  <p class="meta">{{ page.number }}</p>
+  <h1>{{ page.title }}</h1>
+  {% if page.summary %}
+    <p>{{ page.summary }}</p>
+  {% endif %}
+</article>
+
+{% assign team_members = site.people | where_exp: "person", "person.team contains page.title" | sort: "title" %}
+{% assign related_projects = site.projects | where: "team", page.title | sort: "start_year" | reverse %}
+{% assign publications = site.publications | sort: "year" | reverse %}
+
+<section class="page-content relation-page">
+  <div class="relation-summary">
+    <a class="text-link" href="{{ '/#axes' | relative_url }}">Retour aux axes de recherche</a>
+    {% if page.lead %}
+      <p><strong>Responsable</strong><br>{{ page.lead }}</p>
+    {% endif %}
+  </div>
+
+  <section class="relation-section">
+    <div class="relation-heading">
+      <h2>Chercheurs membres de l'équipe</h2>
+      <span>{{ team_members | size }}</span>
+    </div>
+    <div class="relation-grid">
+      {% for person in team_members limit:6 %}
+        <article>
+          <h3><a href="{{ person.url | relative_url }}">{{ person.title }}</a></h3>
+          {% if person.role %}
+            <p>{{ person.role }}</p>
+          {% endif %}
+        </article>
+      {% endfor %}
+    </div>
+    {% if team_members.size > 6 %}
+      <details class="relation-expand">
+        <summary>Voir plus de membres</summary>
+        <div class="relation-grid">
+          {% for person in team_members offset:6 %}
+            <article>
+              <h3><a href="{{ person.url | relative_url }}">{{ person.title }}</a></h3>
+              {% if person.role %}
+                <p>{{ person.role }}</p>
+              {% endif %}
+            </article>
+          {% endfor %}
+        </div>
+      </details>
+    {% endif %}
+  </section>
+
+  <section class="relation-section">
+    <div class="relation-heading">
+      <h2>Projets affiliés à cette équipe</h2>
+      <span>{{ related_projects | size }}</span>
+    </div>
+    <div class="relation-list">
+      {% for project in related_projects limit:2 %}
+        <article>
+          <p class="meta">{{ project.status }}{% if project.start_year %} · {{ project.start_year }}{% endif %}</p>
+          <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
+          {% if project.summary %}
+            <p>{{ project.summary }}</p>
+          {% endif %}
+        </article>
+      {% else %}
+        <p>Aucun projet explicitement affilié à cette équipe pour le moment.</p>
+      {% endfor %}
+    </div>
+    {% if related_projects.size > 2 %}
+      <details class="relation-expand">
+        <summary>Voir plus de projets</summary>
+        <div class="relation-list">
+          {% for project in related_projects offset:2 %}
+            <article>
+              <p class="meta">{{ project.status }}{% if project.start_year %} · {{ project.start_year }}{% endif %}</p>
+              <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
+              {% if project.summary %}
+                <p>{{ project.summary }}</p>
+              {% endif %}
+            </article>
+          {% endfor %}
+        </div>
+      </details>
+    {% endif %}
+  </section>
+
+  <section class="relation-section">
+    <div class="relation-heading">
+      <h2>Publications affiliées à cette équipe</h2>
+    </div>
+    {% assign publication_count = 0 %}
+    {% for publication in publications %}
+      {% assign publication_match = false %}
+      {% for person in team_members %}
+        {% assign person_name_parts = person.title | split: " " %}
+        {% assign person_author_key = person_name_parts | last | append: ", " | append: person_name_parts.first %}
+        {% if publication.authors contains person.title or publication.authors contains person_author_key %}
+          {% assign publication_match = true %}
+        {% endif %}
+      {% endfor %}
+      {% if publication_match %}
+        {% assign publication_count = publication_count | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+    <div class="relation-list compact-publications">
+      {% assign rendered_publications = 0 %}
+      {% for publication in publications %}
+        {% assign publication_match = false %}
+        {% for person in team_members %}
+          {% assign person_name_parts = person.title | split: " " %}
+          {% assign person_author_key = person_name_parts | last | append: ", " | append: person_name_parts.first %}
+          {% if publication.authors contains person.title or publication.authors contains person_author_key %}
+            {% assign publication_match = true %}
+          {% endif %}
+        {% endfor %}
+        {% if publication_match %}
+          {% assign rendered_publications = rendered_publications | plus: 1 %}
+          {% if rendered_publications <= 6 %}
+            <article>
+              <p class="meta">{{ publication.journal }}{% if publication.year %} · {{ publication.year }}{% endif %}</p>
+              <h3><a class="publication-title-link" href="{{ publication.url | relative_url }}">{{ publication.title }}</a></h3>
+              {% if publication.authors %}
+                <p>{{ publication.authors }}</p>
+              {% endif %}
+            </article>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      {% if publication_count == 0 %}
+        <p>Aucune publication reliée automatiquement aux membres de cette équipe.</p>
+      {% endif %}
+    </div>
+    {% if publication_count > 6 %}
+      <details class="relation-expand">
+        <summary>Voir plus de publications</summary>
+        <div class="relation-list compact-publications">
+          {% assign rendered_publications = 0 %}
+          {% for publication in publications %}
+            {% assign publication_match = false %}
+            {% for person in team_members %}
+              {% assign person_name_parts = person.title | split: " " %}
+              {% assign person_author_key = person_name_parts | last | append: ", " | append: person_name_parts.first %}
+              {% if publication.authors contains person.title or publication.authors contains person_author_key %}
+                {% assign publication_match = true %}
+              {% endif %}
+            {% endfor %}
+            {% if publication_match %}
+              {% assign rendered_publications = rendered_publications | plus: 1 %}
+              {% if rendered_publications > 6 %}
+                <article>
+                  <p class="meta">{{ publication.journal }}{% if publication.year %} · {{ publication.year }}{% endif %}</p>
+                  <h3><a class="publication-title-link" href="{{ publication.url | relative_url }}">{{ publication.title }}</a></h3>
+                  {% if publication.authors %}
+                    <p>{{ publication.authors }}</p>
+                  {% endif %}
+                </article>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+        </div>
+      </details>
+    {% endif %}
+  </section>
+</section>

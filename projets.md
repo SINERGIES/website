@@ -17,7 +17,22 @@ permalink: /projets/
       <h2><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h2>
       <p>{{ project.summary }}</p>
       {% if project.team %}
-        <span>{{ project.team }}</span>
+        {% assign project_filter_url = nil %}
+        {% for team in site.teams %}
+          {% if project.team == team.title %}
+            {% assign project_filter_url = team.url %}
+          {% endif %}
+        {% endfor %}
+        {% for axis in site.axes %}
+          {% if project.team == axis.title %}
+            {% assign project_filter_url = axis.url %}
+          {% endif %}
+        {% endfor %}
+        {% if project_filter_url %}
+          <a class="archive-tag" href="{{ project_filter_url | relative_url }}">{{ project.team }}</a>
+        {% else %}
+          <span>{{ project.team }}</span>
+        {% endif %}
       {% endif %}
     </article>
   {% endfor %}

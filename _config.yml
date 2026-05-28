@@ -15,6 +15,15 @@ collections:
   projects:
     output: true
     permalink: /projets/:name/
+  people:
+    output: true
+    permalink: /membres/:name/
+  teams:
+    output: true
+    permalink: /equipes/:name/
+  axes:
+    output: true
+    permalink: /axes/:name/
 
 defaults:
   - scope:
@@ -32,6 +41,21 @@ defaults:
       type: projects
     values:
       layout: project
+  - scope:
+      path: ""
+      type: people
+    values:
+      layout: person
+  - scope:
+      path: ""
+      type: teams
+    values:
+      layout: team
+  - scope:
+      path: ""
+      type: axes
+    values:
+      layout: axis
 
 exclude:
   - .bundle

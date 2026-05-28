@@ -1,0 +1,2 @@
+{% assign person_slug = include.name | slugify: "latin" %}
+<a class="person-link" href="{{ '/membres/' | append: person_slug | append: '/' | relative_url }}">{{ include.name }}</a>
