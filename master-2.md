@@ -15,7 +15,7 @@ permalink: /master-2/
     </div>
   </div>
   <div class="master-visual">
-    <img class="master-placeholder" src="{{ '/assets/img/master-placeholder.svg' | relative_url }}" alt="Visuel temporaire du Master Ingénierie de la santé">
+    <img class="master-placeholder" src="{{ '/assets/img/master-header.jpg' | relative_url }}" alt="Bloc opératoire et instrumentation médicale">
   </div>
 </section>
 

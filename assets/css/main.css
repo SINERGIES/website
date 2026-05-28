@@ -258,6 +258,8 @@ img {
 .news-card a,
 .publication-item > a,
 .doi-link {
+  display: inline-flex;
+  align-items: center;
   color: var(--teal);
   font-size: 14px;
   font-weight: 700;
@@ -269,12 +271,13 @@ img {
 .doi-link::after {
   content: "";
   display: inline-block;
+  flex: 0 0 auto;
   width: 7px;
   height: 7px;
   margin-left: 10px;
   border-top: 2px solid currentColor;
   border-right: 2px solid currentColor;
-  transform: rotate(45deg);
+  transform: rotate(45deg) translateY(-1px);
 }
 
 .secondary-button {
