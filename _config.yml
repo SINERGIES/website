@@ -66,5 +66,4 @@ exclude:
   - _site
   - outputs
   - scripts
-  - tools
   - vendor

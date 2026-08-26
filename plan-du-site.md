@@ -17,7 +17,7 @@ permalink: /plan-du-site/
     <li><a href="{{ '/#projets-laboratoire' | relative_url }}">Projets</a></li>
     <li><a href="{{ '/#publications' | relative_url }}">Publications récentes</a></li>
     <li><a href="{{ '/#actualites' | relative_url }}">Actualités récentes</a></li>
-    <li><a href="{{ '/master-2/' | relative_url }}">Master 2</a></li>
+    <li><a href="{{ '/master-2/' | relative_url }}">Master Ingénierie de la santé</a></li>
     <li><a href="{{ '/publications/' | relative_url }}">Toutes les publications</a></li>
     <li><a href="{{ '/actualites/' | relative_url }}">Toutes les actualités</a></li>
     <li><a href="{{ '/mentions-legales/' | relative_url }}">Mentions légales</a></li>

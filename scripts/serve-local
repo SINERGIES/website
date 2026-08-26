@@ -4,4 +4,9 @@ set -eu
 export BUNDLE_PATH="${BUNDLE_PATH:-vendor/bundle}"
 export BUNDLE_DISABLE_SHARED_GEMS="${BUNDLE_DISABLE_SHARED_GEMS:-true}"
 
-exec /usr/bin/bundle exec jekyll serve --host 127.0.0.1 --port "${PORT:-4000}" "$@"
+if ! command -v bundle >/dev/null 2>&1; then
+  echo "Bundler est requis. Installez-le puis lancez 'bundle install'." >&2
+  exit 1
+fi
+
+exec bundle exec jekyll serve --host 127.0.0.1 --port "${PORT:-4000}" "$@"

@@ -1,8 +1,22 @@
 # Laboratoire SINERGIES
 
-Prototype Jekyll pour la refonte du site du laboratoire.
+Site statique Jekyll du laboratoire SINERGIES. Les informations utiles à la reprise du projet et les travaux restant à réaliser sont regroupés dans [`HANDOFF.md`](HANDOFF.md).
 
-## Lancer en local
+## Prérequis
+
+- Git
+- Ruby et Bundler
+
+Les dépendances générées dans `vendor/`, le site compilé dans `_site/` et le cache Jekyll ne sont pas versionnés.
+
+## Première installation
+
+```bash
+bundle config set --local path vendor/bundle
+bundle install
+```
+
+## Lancer le site en local
 
 ```bash
 ./scripts/serve-local
@@ -14,20 +28,27 @@ Si le port `4000` est déjà occupé :
 PORT=4001 ./scripts/serve-local
 ```
 
-Le site est ensuite visible dans le navigateur à l'adresse `http://127.0.0.1:4000/`.
+Le site est ensuite visible à l'adresse `http://127.0.0.1:4000/sinergies/`.
 
-Pour régénérer le site après suppression de pages :
+## Vérifier la compilation
 
 ```bash
-BUNDLE_PATH=vendor/bundle BUNDLE_DISABLE_SHARED_GEMS=true /usr/bin/bundle exec jekyll clean
-BUNDLE_PATH=vendor/bundle BUNDLE_DISABLE_SHARED_GEMS=true /usr/bin/bundle exec jekyll build
+BUNDLE_PATH=vendor/bundle BUNDLE_DISABLE_SHARED_GEMS=true bundle exec jekyll clean
+BUNDLE_PATH=vendor/bundle BUNDLE_DISABLE_SHARED_GEMS=true bundle exec jekyll build
 ```
 
-Les contenus de la page d'accueil se modifient principalement dans `_data/home.yml`.
-La navigation se modifie dans `_data/navigation.yml`.
+## Organisation des contenus
 
-## Contenus éditoriaux
+- `_data/home.yml` : page d'accueil, organisation et partenaires.
+- `_data/navigation.yml` : navigation principale.
+- `_data/organigrammes.yml` : gouvernance et organigrammes.
+- `_people/` : fiches des membres.
+- `_teams/` et `_axes/` : équipes et axes de recherche.
+- `_projects/` : projets.
+- `_posts/` : actualités, avec un nom au format `AAAA-MM-JJ-titre.md`.
+- `_publications/` : bibliographie ; chaque fichier contient notamment `title`, `authors`, `journal`, `year` et `doi`.
+- `master-2.md` : page du Master Ingénierie de la santé.
 
-- Les actualités utilisent le blog Jekyll : ajouter un fichier Markdown dans `_posts/` avec une date au format `AAAA-MM-JJ-titre.md`.
-- Les publications utilisent la collection `_publications/`. Chaque publication est un fichier Markdown avec les champs `title`, `authors`, `journal`, `year`, `doi`.
-- La page Master 2 dédiée se trouve dans `master-2.md`.
+## Publication
+
+Le dépôt est configuré comme un site de projet GitHub Pages avec `baseurl: /sinergies`. En cas de transfert du dépôt ou d'utilisation d'un domaine personnalisé, mettre à jour `url` et `baseurl` dans `_config.yml`, puis vérifier la configuration dans **Settings > Pages** sur GitHub.

@@ -86,7 +86,7 @@ permalink: /master-2/
       <h2>Formation initiale ou alternance</h2>
       <p>La formation est possible en formation initiale comme en alternance. L'alternance est construite autour de longues périodes en entreprise, pour permettre une immersion concrète dans les missions, la culture professionnelle et les projets de la structure d'accueil.</p>
     </div>
-    <a class="button" href="{{ '/assets/docs/calendrier-alternance-master-ingenierie-sante.html' | relative_url }}" download>Télécharger le calendrier de l'alternance</a>
+    <a class="button" href="https://formations.univ-fcomte.fr/fr/index/formations/feuilleter-le-catalogue/master-lmd-XB/master-ingenierie-de-la-sante-M4QW93HX.html" target="_blank" rel="noopener">Consulter les informations officielles</a>
   </section>
 
   <section class="master-section-block">

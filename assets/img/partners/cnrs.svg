@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 80" role="img" aria-labelledby="title">
-  <title id="title">CNRS</title>
-  <rect width="220" height="80" rx="10" fill="#ffffff"/>
-  <circle cx="49" cy="40" r="22" fill="#1b67a5"/>
-  <text x="82" y="50" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800" fill="#102f4a">CNRS</text>
-</svg>
