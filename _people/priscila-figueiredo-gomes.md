@@ -5,15 +5,17 @@ team: "Equipe 3 « Ingénierie pour la santé »"
 source: "Organigrammes SINERGIES 05.2026"
 photo: /assets/img/people/priscila-figueiredo-gomes.jpg
 photo_alt: "Portrait de Priscila Figueiredo Gomes"
-tagline: "Modélisation moléculaire et découverte de médicaments assistée par ordinateur"
+tagline: "Biophysique computationnelle, mécanobiologie et conception de médicaments"
 bio: >-
-  Priscila Figueiredo Gomes développe des approches computationnelles appliquées à la santé. Ses travaux portent notamment sur l’étude des interactions protéine–ligand et sur la sélection virtuelle de composés, afin d’identifier et de caractériser de nouvelles molécules candidates contre des cibles d’intérêt médical.
+  Priscila Figueiredo Gomes est maîtresse de conférences en biophysique computationnelle. Elle étudie comment la structure, la dynamique et les forces mécaniques gouvernent la reconnaissance biomoléculaire, notamment pour des protéines impliquées dans les maladies infectieuses.
 expertise:
-  - Bioinformatique structurale
-  - Modélisation moléculaire
-  - Interactions protéine–ligand
-  - Criblage virtuel
-  - Découverte de médicaments assistée par ordinateur
+  - Biophysique computationnelle
+  - Biologie structurale
+  - Prédiction de structures protéiques
+  - Docking moléculaire
+  - Dynamique moléculaire
+  - Mécanobiologie des protéines
+  - Bioinformatique des maladies infectieuses
 links:
   - label: ORCID
     url: https://orcid.org/0000-0001-7370-9596
@@ -29,6 +31,12 @@ author_aliases:
 projects: []
 ---
 
-## Approche de recherche
+## Parcours
 
-Ses recherches mobilisent des méthodes de modélisation et d’analyse moléculaire pour mieux décrire la reconnaissance entre protéines et ligands. L’objectif est de transformer ces informations structurales en critères utiles pour prioriser des composés et orienter la recherche de nouvelles molécules bioactives.
+Docteure en sciences de la vie et en biophysique dans le cadre d’un doctorat conjoint entre l’École normale supérieure de Cachan et l’Université fédérale de Rio de Janeiro, elle a ensuite mené des recherches postdoctorales à l’Université de Strasbourg, à l’Université fédérale de Rio de Janeiro et à Auburn University.
+
+Ce parcours international relie découverte de médicaments, bioinformatique, modélisation biomoléculaire et étude de la mécanostabilité des adhésines bactériennes.
+
+## Recherche et enseignement
+
+Ses recherches associent prédiction structurale, docking, criblage virtuel et simulations moléculaires afin d’étudier les mécanismes d’infection et d’orienter l’identification de cibles thérapeutiques. Au sein du Master Ingénierie de la santé, elle enseigne notamment la biophysique, la communication scientifique ainsi que le docking moléculaire et l’intelligence artificielle.
