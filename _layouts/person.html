@@ -140,7 +140,16 @@ layout: default
     <div class="relation-list compact-publications">
       {% assign publication_count = 0 %}
       {% for publication in publications %}
+        {% assign publication_match = false %}
         {% if publication.authors contains page.title or publication.authors contains person_author_key %}
+          {% assign publication_match = true %}
+        {% endif %}
+        {% for author_alias in page.author_aliases %}
+          {% if publication.authors contains author_alias %}
+            {% assign publication_match = true %}
+          {% endif %}
+        {% endfor %}
+        {% if publication_match %}
           {% assign publication_count = publication_count | plus: 1 %}
           <article>
             <p class="meta">{{ publication.journal }}{% if publication.year %} · {{ publication.year }}{% endif %}</p>
