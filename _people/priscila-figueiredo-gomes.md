@@ -14,6 +14,18 @@ expertise:
   - Interactions protéine–ligand
   - Criblage virtuel
   - Découverte de médicaments assistée par ordinateur
+links:
+  - label: ORCID
+    url: https://orcid.org/0000-0001-7370-9596
+  - label: Google Scholar
+    url: https://scholar.google.com/citations?user=t2qdlT0AAAAJ&hl=pt-BR
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/priscila-fgomes/?locale=en
+author_aliases:
+  - "Gomes, P. S. F. C."
+  - "Gomes, P.S.F.C."
+  - "Gomes, Priscila S. F. C."
+  - "Priscila S. F. C. Gomes"
 projects: []
 ---
 
