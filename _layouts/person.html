@@ -3,11 +3,23 @@ layout: default
 ---
 
 <article class="page-hero person-page">
-  <p class="meta">{{ page.team }}</p>
-  <h1>{{ page.title }}</h1>
-  {% if page.role %}
-    <p>{{ page.role }}</p>
-  {% endif %}
+  <div class="person-hero">
+    <div class="person-hero-copy">
+      <p class="meta">{{ page.team }}</p>
+      <h1>{{ page.title }}</h1>
+      {% if page.role %}
+        <p>{{ page.role }}</p>
+      {% endif %}
+      {% if page.tagline %}
+        <p class="person-tagline">{{ page.tagline }}</p>
+      {% endif %}
+    </div>
+    {% if page.photo %}
+      <figure class="person-portrait">
+        <img src="{{ page.photo | relative_url }}" alt="{{ page.photo_alt | default: page.title | escape }}" width="640" height="640">
+      </figure>
+    {% endif %}
+  </div>
 </article>
 
 <section class="page-content person-details">
@@ -17,16 +29,42 @@ layout: default
   {% assign person_name_parts = page.title | split: " " %}
   {% assign person_author_key = person_name_parts | last | append: ", " | append: person_name_parts.first %}
 
+  {% if page.bio %}
+    <section class="person-introduction">
+      <h2>Présentation</h2>
+      <p class="person-lead">{{ page.bio }}</p>
+    </section>
+  {% endif %}
+
+  {% if content != empty %}
+    <section class="person-introduction">
+      {{ content }}
+    </section>
+  {% endif %}
+
+  {% if page.expertise and page.expertise != empty %}
+    <section class="relation-section">
+      <div class="relation-heading">
+        <h2>Domaines d’expertise</h2>
+      </div>
+      <ul class="expertise-list">
+        {% for item in page.expertise %}
+          <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endif %}
+
   <dl class="publication-details">
     {% if page.team %}
       <div>
-        <dt>Équipe / fonction source</dt>
+        <dt>Équipe</dt>
         <dd>{{ page.team }}</dd>
       </div>
     {% endif %}
     {% if page.role %}
       <div>
-        <dt>Rôle</dt>
+        <dt>Fonction</dt>
         <dd>{{ page.role }}</dd>
       </div>
     {% endif %}
@@ -37,6 +75,19 @@ layout: default
       </div>
     {% endif %}
   </dl>
+
+  {% if page.links and page.links != empty %}
+    <section class="relation-section">
+      <div class="relation-heading">
+        <h2>Liens professionnels</h2>
+      </div>
+      <div class="person-links">
+        {% for link in page.links %}
+          <a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>
+        {% endfor %}
+      </div>
+    </section>
+  {% endif %}
 
   <section class="relation-section">
     <div class="relation-heading">
@@ -55,42 +106,50 @@ layout: default
     </div>
   </section>
 
-  <section class="relation-section">
-    <div class="relation-heading">
-      <h2>Projets associés</h2>
-    </div>
-    <div class="relation-list">
-      {% assign project_count = 0 %}
-      {% for project in site.projects %}
-        {% assign project_match = false %}
-        {% if page.team contains project.team or page.role contains project.team %}
-          {% assign project_match = true %}
+  {% if page.projects and page.projects != empty %}
+    <section class="relation-section">
+      <div class="relation-heading">
+        <h2>Projets</h2>
+      </div>
+      <div class="relation-list">
+        {% assign project_count = 0 %}
+        {% for project in site.projects %}
+          {% if page.projects contains project.slug or page.projects contains project.title %}
+            {% assign project_count = project_count | plus: 1 %}
+            <article>
+              <p class="meta">{{ project.status }}{% if project.start_year %} · {{ project.start_year }}{% endif %}</p>
+              <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
+              {% if project.summary %}
+                <p>{{ project.summary }}</p>
+              {% endif %}
+            </article>
+          {% endif %}
+        {% endfor %}
+        {% if project_count == 0 %}
+          <p>Aucun des projets indiqués n’a été retrouvé.</p>
         {% endif %}
-        {% if project_match %}
-          {% assign project_count = project_count | plus: 1 %}
-          <article>
-            <p class="meta">{{ project.status }}{% if project.start_year %} · {{ project.start_year }}{% endif %}</p>
-            <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
-            {% if project.summary %}
-              <p>{{ project.summary }}</p>
-            {% endif %}
-          </article>
-        {% endif %}
-      {% endfor %}
-      {% if project_count == 0 %}
-        <p>Aucun projet relié automatiquement à cette fiche pour le moment.</p>
-      {% endif %}
-    </div>
-  </section>
+      </div>
+    </section>
+  {% endif %}
 
   <section class="relation-section">
     <div class="relation-heading">
       <h2>Publications</h2>
     </div>
+    <p class="person-profile-note">Publications rapprochées automatiquement à partir du nom d’auteur.</p>
     <div class="relation-list compact-publications">
       {% assign publication_count = 0 %}
       {% for publication in publications %}
+        {% assign publication_match = false %}
         {% if publication.authors contains page.title or publication.authors contains person_author_key %}
+          {% assign publication_match = true %}
+        {% endif %}
+        {% for author_alias in page.author_aliases %}
+          {% if publication.authors contains author_alias %}
+            {% assign publication_match = true %}
+          {% endif %}
+        {% endfor %}
+        {% if publication_match %}
           {% assign publication_count = publication_count | plus: 1 %}
           <article>
             <p class="meta">{{ publication.journal }}{% if publication.year %} · {{ publication.year }}{% endif %}</p>
