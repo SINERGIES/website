@@ -1,9 +1,11 @@
 # Reprise du site SINERGIES
 
-## État au 18 août 2026
+## État au 27 août 2026
 
 - Branche principale : `main`.
-- Dépôt distant au moment de la transmission : `https://github.com/servopuma/sinergies.git`.
+- Dépôt officiel du laboratoire : `https://github.com/SINERGIES/website.git`.
+- Site de test GitHub Pages : `https://sinergies.github.io/website/`.
+- Domaine final prévu après validation : `https://lab-sinergies.fr`.
 - Générateur : Jekyll 4.2.
 - La compilation locale réussit.
 - Les liens et ancres internes du site généré ont été contrôlés sans erreur.
@@ -25,8 +27,8 @@
 
 ## Priorités avant mise en production
 
-1. Choisir l'adresse finale : nouveau site GitHub Pages ou domaine `lab-sinergies.fr`.
-2. Mettre à jour `url` et `baseurl` dans `_config.yml` après le transfert GitHub.
+1. Valider le site de test sur `https://sinergies.github.io/website/`, notamment les liens, les ressources et l'affichage mobile.
+2. Configurer `lab-sinergies.fr` seulement après validation du site de test.
 3. Compléter l'identité de l'hébergeur dans `mentions-legales.md`.
 4. Faire valider la déclaration d'accessibilité et réaliser un audit RGAA.
 5. Faire valider les coordonnées, les membres, les responsabilités, les projets et les partenaires.
@@ -44,7 +46,7 @@ bundle install
 ./scripts/serve-local
 ```
 
-Le site est alors disponible sur `http://127.0.0.1:4000/sinergies/`.
+Le site est alors disponible sur `http://127.0.0.1:4000/website/`.
 
 ## Contrôle avant publication
 
