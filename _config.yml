@@ -1,7 +1,7 @@
 title: Laboratoire SINERGIES
 description: Expertise multidisciplinaire en santé et recherche clinique.
-url: "https://servopuma.github.io"
-baseurl: "/sinergies"
+url: "https://sinergies.github.io"
+baseurl: "/website"
 lang: fr
 timezone: Europe/Paris
 

@@ -28,7 +28,7 @@ Si le port `4000` est déjà occupé :
 PORT=4001 ./scripts/serve-local
 ```
 
-Le site est ensuite visible à l'adresse `http://127.0.0.1:4000/sinergies/`.
+Le site est ensuite visible à l'adresse `http://127.0.0.1:4000/website/`.
 
 ## Vérifier la compilation
 
@@ -51,4 +51,4 @@ BUNDLE_PATH=vendor/bundle BUNDLE_DISABLE_SHARED_GEMS=true bundle exec jekyll bui
 
 ## Publication
 
-Le dépôt est configuré comme un site de projet GitHub Pages avec `baseurl: /sinergies`. En cas de transfert du dépôt ou d'utilisation d'un domaine personnalisé, mettre à jour `url` et `baseurl` dans `_config.yml`, puis vérifier la configuration dans **Settings > Pages** sur GitHub.
+Le dépôt appartient à l'organisation GitHub `SINERGIES` et le site de test est configuré à l'adresse <https://sinergies.github.io/website/> avec `baseurl: /website`. Après validation complète de cette version, le domaine `lab-sinergies.fr` pourra être configuré dans **Settings > Pages** et dans `_config.yml`.
