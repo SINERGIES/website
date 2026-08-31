@@ -12,6 +12,23 @@ permalink: /publications/
 
 <section class="page-content publication-archive">
   {% assign publication_groups = site.publications | group_by_exp: "publication", "publication.year" | sort: "name" | reverse %}
+
+  <nav class="publication-year-nav" id="publication-years" aria-labelledby="publication-year-nav-title">
+    <p id="publication-year-nav-title">Aller à une année</p>
+    <div>
+      {% for year in publication_groups %}
+        {% assign year_id = year.name | default: "sans-date" %}
+        <a href="#publications-{{ year_id }}">
+          {% if year.name == "" or year.name == nil %}
+            Sans date
+          {% else %}
+            {{ year.name }}
+          {% endif %}
+        </a>
+      {% endfor %}
+    </div>
+  </nav>
+
   {% for year in publication_groups %}
     {% assign publication_count = year.items | size %}
     {% assign year_id = year.name | default: "sans-date" %}
@@ -24,7 +41,10 @@ permalink: /publications/
             {{ year.name }}
           {% endif %}
         </h2>
-        <p>{{ publication_count }} publication{% if publication_count > 1 %}s{% endif %}</p>
+        <div class="publication-year-actions">
+          <p>{{ publication_count }} publication{% if publication_count > 1 %}s{% endif %}</p>
+          <a href="#publication-years">Toutes les années</a>
+        </div>
       </header>
 
       <div class="archive-list">
