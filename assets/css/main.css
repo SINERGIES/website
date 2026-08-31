@@ -2006,3 +2006,55 @@ img {
     width: min(320px, 100%);
   }
 }
+
+
+/* Publications grouped by year */
+.publication-archive {
+  display: grid;
+  gap: 52px;
+}
+
+.publication-year-group {
+  display: grid;
+  gap: 18px;
+}
+
+.publication-year-heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 20px;
+  padding-bottom: 14px;
+  border-bottom: 2px solid var(--teal);
+}
+
+.publication-year-heading h2 {
+  margin: 0;
+  color: var(--ink-strong);
+  font-size: clamp(32px, 5vw, 48px);
+  line-height: 1;
+}
+
+.publication-year-heading p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 14px;
+  font-weight: 800;
+}
+
+.archive-list h3 {
+  margin: 0;
+  font-size: 26px;
+}
+
+@media (max-width: 640px) {
+  .publication-archive {
+    gap: 42px;
+  }
+
+  .publication-year-heading {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 8px;
+  }
+}
