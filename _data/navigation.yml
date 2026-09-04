@@ -8,11 +8,13 @@
   url: "/#publications"
 - label: Actualités
   url: "/#actualites"
-- label: Organigrammes
-  url: "/organigrammes/"
+- label: Organisation
+  url: "/organisation/"
+- label: Membres
+  url: "/annuaire/"
+- label: Plateformes
+  url: "/plateformes/"
 - label: Master
   url: "/master-2/"
-- label: À propos
-  url: "/#a-propos"
 - label: Contact
-  url: "/#contact"
+  url: "/contact/"

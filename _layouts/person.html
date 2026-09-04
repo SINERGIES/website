@@ -68,13 +68,18 @@ layout: default
         <dd>{{ page.role }}</dd>
       </div>
     {% endif %}
-    {% if page.email %}
-      <div>
-        <dt>Email</dt>
-        <dd><a href="mailto:{{ page.email }}">{{ page.email }}</a></dd>
-      </div>
-    {% endif %}
   </dl>
+
+  {% if page.contact_opt_in == true %}
+    <aside class="person-contact-card">
+      <div>
+        <p class="eyebrow">Contact professionnel</p>
+        <h2>Contacter {{ page.title }}</h2>
+        <p>Votre message est transmis par le formulaire du laboratoire. Aucune adresse personnelle n’est affichée sur le site.</p>
+      </div>
+      <a class="button" href="{{ '/contact/' | relative_url }}?membre={{ page.title | url_encode }}">Envoyer un message</a>
+    </aside>
+  {% endif %}
 
   {% if page.links and page.links != empty %}
     <section class="relation-section">
@@ -166,5 +171,5 @@ layout: default
     </div>
   </section>
 
-  <p><a class="text-link" href="{{ '/organigrammes/' | relative_url }}">Voir les organigrammes</a></p>
+  <p><a class="text-link" href="{{ '/organisation/' | relative_url }}">Voir l’organisation</a></p>
 </section>

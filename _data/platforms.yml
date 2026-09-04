@@ -1,0 +1,75 @@
+- slug: imagerie-medicale
+  title: Imagerie médicale
+  title_en: Medical imaging
+  location: CHU de Besançon
+  summary: Un environnement d’imagerie clinique pour la recherche, l’évaluation et la planification des prises en charge.
+  summary_en: A clinical imaging environment supporting research, evaluation and care planning.
+  equipment:
+    - Bloc de radiologie interventionnelle
+    - Système EOS de stéréographie à basse dose
+    - Échographie et IRM
+    - Radiographie standard et scanner
+    - Thermoablation par micro-ondes
+  equipment_en:
+    - Interventional radiology suite
+    - Low-dose EOS stereography system
+    - Ultrasound and MRI
+    - Standard radiography and CT
+    - Microwave thermal ablation
+  source_url: https://lab-sinergies.fr/fr/imagerie-medicale
+- slug: sciences-et-techniques
+  title: Sciences et techniques
+  title_en: Science and technology
+  location: Université Marie et Louis Pasteur
+  summary: Des équipements de caractérisation, spectroscopie, électrochimie et instrumentation au service des projets interdisciplinaires.
+  summary_en: Characterisation, spectroscopy, electrochemistry and instrumentation equipment for interdisciplinary projects.
+  equipment:
+    - Microscopie à force atomique haute résolution
+    - Spectroscopie Raman et micro-Raman
+    - HPLC et caméra hyperspectrale
+    - Nano-indentation et électrochimie
+    - Électronique analogique et numérique
+  equipment_en:
+    - High-resolution atomic force microscopy
+    - Raman and micro-Raman spectroscopy
+    - HPLC and hyperspectral imaging
+    - Nanoindentation and electrochemistry
+    - Analogue and digital electronics
+  source_url: https://lab-sinergies.fr/fr/sciences-et-techniques
+- slug: impression-3d
+  title: Modélisation et impression 3D médicale
+  title_en: Medical modelling and 3D printing
+  location: CHU de Besançon
+  summary: Une plateforme dédiée à la segmentation, à la planification médicale, à l’impression 3D, à la recherche et à la formation.
+  summary_en: A facility for segmentation, medical planning, 3D printing, research and training.
+  equipment:
+    - Trois stations de travail
+    - Logiciels médicaux réglementaires
+    - Sept imprimantes 3D
+    - Modèles pour la planification et la formation
+  equipment_en:
+    - Three workstations
+    - Regulatory medical software
+    - Seven 3D printers
+    - Models for planning and training
+  source_url: https://lab-sinergies.fr/fr/impression-3d-chu
+- slug: epsi
+  title: EPSI
+  title_en: EPSI
+  location: Université Marie et Louis Pasteur
+  summary: Plus de 200 m² consacrés à l’expérimentation humaine et à l’innovation technologique dans de multiples domaines de la santé.
+  summary_en: More than 200 m² dedicated to human experimentation and technological innovation across health research fields.
+  equipment:
+    - Physiologie et physiopathologie
+    - Neurosciences et biomécanique
+    - Nutrition, comportement et épidémiologie
+    - Tapis roulant de grande dimension
+    - Bassin d’immersion et évaluations de terrain
+  equipment_en:
+    - Physiology and pathophysiology
+    - Neuroscience and biomechanics
+    - Nutrition, behaviour and epidemiology
+    - Large-scale treadmill
+    - Immersion tank and field evaluation
+  source_url: https://lab-sinergies.fr/fr/epsi
+  website_url: https://sites.google.com/view/plateforme-epsi

@@ -2,9 +2,20 @@
   <a class="brand" href="{{ '/' | relative_url }}" aria-label="Retour à l'accueil">
     <img class="brand-logo" src="{{ '/assets/img/logo-sinergies.png' | relative_url }}" alt="Laboratoire SINERGIES">
   </a>
-  <nav class="main-nav" aria-label="Navigation principale">
-    {% for item in site.data.navigation %}
+  {% assign current_lang = page.lang | default: site.lang | default: 'fr' %}
+  {% if current_lang == 'en' %}
+    {% assign navigation = site.data.navigation_en %}
+  {% else %}
+    {% assign navigation = site.data.navigation %}
+  {% endif %}
+  <nav class="main-nav" aria-label="{% if current_lang == 'en' %}Main navigation{% else %}Navigation principale{% endif %}">
+    {% for item in navigation %}
       <a href="{{ item.url | relative_url }}">{{ item.label }}</a>
     {% endfor %}
+    {% if current_lang == 'en' %}
+      <a class="language-link" href="{{ '/' | relative_url }}" lang="fr">FR</a>
+    {% else %}
+      <a class="language-link" href="{{ '/en/' | relative_url }}" lang="en">EN</a>
+    {% endif %}
   </nav>
 </header>

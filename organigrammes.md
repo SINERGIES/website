@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Organigrammes
-permalink: /organigrammes/
+title: Organisation
+permalink: /organisation/
 ---
 
 <section class="page-hero">
-  <h1>Organigrammes</h1>
+  <h1>Organisation</h1>
   <p>Gouvernance, organisation scientifique et organigramme complet du laboratoire.</p>
 </section>
 

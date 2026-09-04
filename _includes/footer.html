@@ -1,4 +1,5 @@
 <footer class="site-footer" id="contact">
+  {% assign current_lang = page.lang | default: site.lang | default: 'fr' %}
   <div class="partner-band" aria-label="Partenaires">
     {% for partner in site.data.home.partners %}
       <a class="partner-logo" href="{{ partner.url }}" aria-label="{{ partner.full_name }}" target="_blank" rel="noopener">
@@ -15,12 +16,22 @@
       25000 Besançon
     </address>
     <div class="footer-contact">
-      <a href="mailto:anne-marie.winninger@univ-fcomte.fr">anne-marie.winninger@univ-fcomte.fr</a>
+      {% if current_lang == 'en' %}
+        <a class="button footer-contact-button" href="{{ '/en/contact/' | relative_url }}">Contact the laboratory</a>
+      {% else %}
+        <a class="button footer-contact-button" href="{{ '/contact/' | relative_url }}">Contacter le laboratoire</a>
+      {% endif %}
     </div>
     <div class="footer-links">
-      <a href="{{ '/mentions-legales/' | relative_url }}">Mentions légales</a>
-      <a href="{{ '/accessibilite/' | relative_url }}">Accessibilité</a>
-      <a href="{{ '/plan-du-site/' | relative_url }}">Plan du site</a>
+      {% if current_lang == 'en' %}
+        <a href="{{ '/mentions-legales/' | relative_url }}">Legal notice</a>
+        <a href="{{ '/accessibilite/' | relative_url }}">Accessibility</a>
+        <a href="{{ '/en/' | relative_url }}#sitemap">Site map</a>
+      {% else %}
+        <a href="{{ '/mentions-legales/' | relative_url }}">Mentions légales</a>
+        <a href="{{ '/accessibilite/' | relative_url }}">Accessibilité</a>
+        <a href="{{ '/plan-du-site/' | relative_url }}">Plan du site</a>
+      {% endif %}
     </div>
   </div>
 </footer>

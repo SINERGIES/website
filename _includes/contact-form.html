@@ -1,0 +1,61 @@
+{% assign form_lang = page.lang | default: 'fr' %}
+<form class="site-contact-form" action="https://docs.google.com/forms/d/e/1FAIpQLSek0sXiEop0Jd3wAjgfnlKOT7vOgMR1p88BvTn4yTmCaoLbJQ/formResponse" method="post" target="contact-form-response" data-contact-form>
+  <div class="form-grid">
+    <label>
+      <span>{% if form_lang == 'en' %}Your name{% else %}Votre nom{% endif %} *</span>
+      <input type="text" name="entry.142224207" autocomplete="name" required>
+    </label>
+    <label>
+      <span>{% if form_lang == 'en' %}Your email address{% else %}Votre adresse e-mail{% endif %} *</span>
+      <input type="email" name="entry.1516522642" autocomplete="email" required>
+    </label>
+  </div>
+  <label>
+    <span>{% if form_lang == 'en' %}Intended member, if applicable{% else %}Membre destinataire, si applicable{% endif %}</span>
+    <input id="contact-member" type="text" name="entry.10629782" autocomplete="off">
+  </label>
+  <label>
+    <span>{% if form_lang == 'en' %}Subject{% else %}Objet{% endif %} *</span>
+    <input type="text" name="entry.994237025" required>
+  </label>
+  <label>
+    <span>{% if form_lang == 'en' %}Your message{% else %}Votre message{% endif %} *</span>
+    <textarea name="entry.401341413" rows="8" required></textarea>
+  </label>
+  <label class="form-consent">
+    <input type="checkbox" required>
+    <span>{% if form_lang == 'en' %}I agree that these details may be used to answer my enquiry. *{% else %}J’accepte que ces informations soient utilisées pour répondre à ma demande. *{% endif %}</span>
+  </label>
+  <label class="form-honeypot" aria-hidden="true">
+    <span>Website</span>
+    <input type="text" name="website" tabindex="-1" autocomplete="off">
+  </label>
+  <button class="button" type="submit">{% if form_lang == 'en' %}Send message{% else %}Envoyer le message{% endif %}</button>
+  <p class="form-status" role="status" aria-live="polite" hidden data-contact-status>
+    {% if form_lang == 'en' %}Thank you. Your message has been sent.{% else %}Merci. Votre message a bien été envoyé.{% endif %}
+  </p>
+</form>
+<iframe class="contact-response-frame" name="contact-form-response" title="" hidden></iframe>
+
+<script>
+  (() => {
+    const form = document.querySelector('[data-contact-form]');
+    const member = document.getElementById('contact-member');
+    const requestedMember = new URLSearchParams(window.location.search).get('membre');
+    if (requestedMember && member) member.value = requestedMember;
+    if (!form) return;
+    form.addEventListener('submit', (event) => {
+      const honeypot = form.querySelector('[name="website"]');
+      if (honeypot && honeypot.value) {
+        event.preventDefault();
+        return;
+      }
+      window.setTimeout(() => {
+        const status = form.querySelector('[data-contact-status]');
+        if (status) status.hidden = false;
+        form.reset();
+        if (requestedMember && member) member.value = requestedMember;
+      }, 900);
+    });
+  })();
+</script>

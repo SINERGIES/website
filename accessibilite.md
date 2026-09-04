@@ -17,5 +17,5 @@ permalink: /accessibilite/
   <p>La déclaration de conformité RGAA complète reste à établir lors de la mise en production.</p>
 
   <h2>Signaler un problème</h2>
-  <p>Si vous rencontrez une difficulté d'accès à un contenu, vous pouvez nous écrire à <a href="mailto:anne-marie.winninger@univ-fcomte.fr">anne-marie.winninger@univ-fcomte.fr</a>.</p>
+  <p>Si vous rencontrez une difficulté d'accès à un contenu, vous pouvez utiliser le <a href="{{ '/contact/' | relative_url }}">formulaire de contact du laboratoire</a>.</p>
 </section>
