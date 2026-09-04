@@ -1,11 +1,10 @@
 <header class="site-header">
   <a class="brand" href="{{ '/' | relative_url }}" aria-label="Retour à l'accueil">
-    <img class="brand-logo" src="{{ '/assets/img/logo-sinergies-v2.png' | relative_url }}" alt="Laboratoire SINERGIES">
+    <img class="brand-logo" src="{{ '/assets/img/logo-sinergies.png' | relative_url }}" alt="Laboratoire SINERGIES">
   </a>
   <nav class="main-nav" aria-label="Navigation principale">
     {% for item in site.data.navigation %}
       <a href="{{ item.url | relative_url }}">{{ item.label }}</a>
     {% endfor %}
   </nav>
-  <p class="site-affiliation">Université Marie &amp; Louis Pasteur · Recherche en santé</p>
 </header>
