@@ -1,0 +1,68 @@
+---
+layout: default
+---
+{% assign person = site.people | where: "slug", page.person_slug | first %}
+{% assign role_en = site.data.profile_translations.roles[person.role] | default: person.role %}
+{% assign team_en = site.data.profile_translations.teams[person.team] | default: person.team %}
+
+<article class="page-hero person-page">
+  <div class="person-hero">
+    <div class="person-hero-copy">
+      <p class="meta">{{ team_en }}</p>
+      <h1>{{ person.title }}</h1>
+      {% if role_en %}<p>{{ role_en }}</p>{% endif %}
+      {% if person.tagline_en %}<p class="person-tagline">{{ person.tagline_en }}</p>{% endif %}
+    </div>
+    {% if person.photo %}
+      <figure class="person-portrait"><img src="{{ person.photo | relative_url }}" alt="Portrait of {{ person.title | escape }}" width="640" height="640"></figure>
+    {% endif %}
+  </div>
+</article>
+
+<section class="page-content person-details">
+  {% assign person_teams = site.teams | where_exp: "team", "person.team contains team.title" | sort: "number" %}
+  {% assign person_axes = site.axes | where_exp: "axis", "person.role contains axis.title" | sort: "title" %}
+  {% assign publications = site.publications | sort: "year" | reverse %}
+  {% assign person_name_parts = person.title | split: " " %}
+  {% assign person_author_key = person_name_parts | last | append: ", " | append: person_name_parts.first %}
+
+  {% if person.bio_en %}<section class="person-introduction"><h2>Profile</h2><p class="person-lead">{{ person.bio_en }}</p></section>{% endif %}
+  {% if person.career_en %}<section class="person-introduction"><h2>Education and experience</h2>{{ person.career_en | markdownify }}</section>{% endif %}
+  {% if person.research_en %}<section class="person-introduction"><h2>Research and teaching</h2>{{ person.research_en | markdownify }}</section>{% endif %}
+  {% if person.current_project_en %}<section class="person-introduction"><h2>Current project</h2>{{ person.current_project_en | markdownify }}</section>{% endif %}
+
+  {% if person.expertise_en and person.expertise_en != empty %}
+    <section class="relation-section"><div class="relation-heading"><h2>Areas of expertise</h2></div><ul class="expertise-list">{% for item in person.expertise_en %}<li>{{ item }}</li>{% endfor %}</ul></section>
+  {% endif %}
+
+  <dl class="publication-details">
+    {% if team_en %}<div><dt>Team</dt><dd>{{ team_en }}</dd></div>{% endif %}
+    {% if role_en %}<div><dt>Position</dt><dd>{{ role_en }}</dd></div>{% endif %}
+  </dl>
+
+  {% if person.contact_opt_in == true %}
+    <aside class="person-contact-card"><div><p class="eyebrow">Professional contact</p><h2>Contact {{ person.title }}</h2><p>Your message is forwarded through the laboratory form. No personal email address is displayed.</p></div><a class="button" href="{{ '/en/contact/' | relative_url }}?member={{ person.title | url_encode }}">Send a message</a></aside>
+  {% endif %}
+
+  {% if person.links and person.links != empty %}
+    <section class="relation-section"><div class="relation-heading"><h2>Professional links</h2></div><div class="person-links">{% for link in person.links %}<a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>{% endfor %}</div></section>
+  {% endif %}
+
+  <section class="relation-section"><div class="relation-heading"><h2>Research affiliations</h2></div><div class="filter-pills">
+    {% for team in person_teams %}<a href="{{ '/en/organisation/' | relative_url }}">Team {{ team.number }}</a>{% endfor %}
+    {% for axis in person_axes %}<a href="{{ '/en/organisation/' | relative_url }}">Research axis · {{ axis.title }}</a>{% endfor %}
+    {% if person_teams == empty and person_axes == empty %}<p>No explicit team or research-axis affiliation is currently listed.</p>{% endif %}
+  </div></section>
+
+  <section class="relation-section"><div class="relation-heading"><h2>Publications</h2></div><p class="person-profile-note">Publications are matched automatically using the author’s name.</p><div class="relation-list compact-publications">
+    {% assign publication_count = 0 %}
+    {% for publication in publications %}
+      {% assign publication_match = false %}
+      {% if publication.authors contains person.title or publication.authors contains person_author_key %}{% assign publication_match = true %}{% endif %}
+      {% for author_alias in person.author_aliases %}{% if publication.authors contains author_alias %}{% assign publication_match = true %}{% endif %}{% endfor %}
+      {% if publication_match %}{% assign publication_count = publication_count | plus: 1 %}<article><p class="meta">{{ publication.journal }}{% if publication.year %} · {{ publication.year }}{% endif %}</p><h3><a class="publication-title-link" href="{{ publication.url | relative_url }}">{{ publication.title }}</a></h3>{% if publication.authors %}<p>{{ publication.authors }}</p>{% endif %}</article>{% endif %}
+    {% endfor %}
+    {% if publication_count == 0 %}<p>No publication has been matched automatically to this profile.</p>{% endif %}
+  </div></section>
+  <p><a class="text-link" href="{{ '/en/members/' | relative_url }}">Back to the members directory</a></p>
+</section>

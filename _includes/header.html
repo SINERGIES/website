@@ -13,9 +13,17 @@
       <a href="{{ item.url | relative_url }}">{{ item.label }}</a>
     {% endfor %}
     {% if current_lang == 'en' %}
-      <a class="language-link" href="{{ '/' | relative_url }}" lang="fr">FR</a>
+      {% if page.person_slug %}
+        <a class="language-link" href="{{ '/membres/' | append: page.person_slug | append: '/' | relative_url }}" lang="fr">FR</a>
+      {% else %}
+        <a class="language-link" href="{{ '/' | relative_url }}" lang="fr">FR</a>
+      {% endif %}
     {% else %}
-      <a class="language-link" href="{{ '/en/' | relative_url }}" lang="en">EN</a>
+      {% if page.collection == 'people' %}
+        <a class="language-link" href="{{ '/en/members/' | append: page.slug | append: '/' | relative_url }}" lang="en">EN</a>
+      {% else %}
+        <a class="language-link" href="{{ '/en/' | relative_url }}" lang="en">EN</a>
+      {% endif %}
     {% endif %}
   </nav>
 </header>
