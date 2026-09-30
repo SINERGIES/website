@@ -167,21 +167,21 @@ layout: default
       {% assign director = direction | first %}
       {% if director %}
         <article class="direction-card director-card">
-          <h3>{{ director.name }}</h3>
+          <h3>{% include person-link.html name=director.name %}</h3>
           <p>Directeur du laboratoire</p>
           <span>{{ director.role }}</span>
         </article>
       {% endif %}
       {% for person in direction offset:1 %}
         <article class="direction-card">
-          <h3>{{ person.name }}</h3>
+          <h3>{% include person-link.html name=person.name %}</h3>
           <p>Directeur adjoint</p>
           <span>{{ person.role }}</span>
         </article>
       {% endfor %}
       {% for person in team_leads %}
         <article class="direction-card muted-card">
-          <h3>{{ person.name }}</h3>
+          <h3>{% include person-link.html name=person.name %}</h3>
           <p>Responsable d’équipe</p>
           <span>{{ person.role }}</span>
         </article>
