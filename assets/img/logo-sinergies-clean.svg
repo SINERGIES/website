@@ -1,14 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 160" role="img" aria-labelledby="logo-title logo-description">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 550 160" role="img" aria-labelledby="logo-title logo-description">
   <title id="logo-title">SINERGIES</title>
   <desc id="logo-description">Soins, Nanomédecine et Intelligence artificielle. Adaptation vectorielle du symbole circulaire proposé par Fabien Picaud.</desc>
-  <text x="8" y="76" fill="#0b3142" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="500" letter-spacing="10">SINERGIES</text>
-  <g fill="#51636b" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" letter-spacing="0.8">
-    <text x="12" y="118">SOINS</text>
-    <text x="108" y="118">NANOMÉDECINE</text>
-    <text x="300" y="118">IA</text>
-  </g>
-  <g fill="#e74b43"><circle cx="91" cy="111" r="4"/><circle cx="283" cy="111" r="4"/></g>
-  <g transform="translate(448 10) scale(1.38)">
+  <text x="8" y="76" fill="#0b3142" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="500" letter-spacing="9" textLength="380" lengthAdjust="spacing">SINERGIES</text>
+  <text x="8" y="118" fill="#51636b" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" letter-spacing="5" textLength="380" lengthAdjust="spacing">SOINS <tspan fill="#e74b43">·</tspan> NANOMÉDECINE <tspan fill="#e74b43">·</tspan> IA</text>
+  <g transform="translate(404 10) scale(1.38)">
     <path fill="#0b3142" d="M57 4C25-3 3 20 3 51C3 80 24 101 52 100C64 100 74 96 80 90C53 100 28 85 24 59C19 34 32 13 57 4Z"/>
     <path fill="#287e87" d="M66 9C91 17 103 38 99 61C96 78 85 91 69 97C83 80 84 61 75 48C64 32 44 30 28 38C34 21 48 11 66 9Z"/>
     <path fill="#45a4a6" d="M29 48C43 38 61 39 72 52C85 68 76 88 66 94C72 77 66 65 56 61C47 57 38 57 29 59Z"/>

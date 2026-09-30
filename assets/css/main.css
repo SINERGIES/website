@@ -2767,7 +2767,7 @@ body {
 }
 
 .brand-logo {
-  width: 212px;
+  width: 238px;
 }
 
 .main-nav {
@@ -2909,6 +2909,94 @@ body {
 
   .main-nav {
     justify-content: flex-start;
+  }
+}
+
+/* Desktop footer: one light surface, balanced partner logos, no individual tiles. */
+@media (min-width: 981px) {
+  .site-footer {
+    color: var(--ink);
+    background: #fff;
+    border-top: 1px solid var(--line);
+  }
+
+  .partner-band {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    justify-items: center;
+    align-items: center;
+    gap: 48px;
+    max-width: 840px;
+    padding: 42px 28px;
+    background: transparent;
+    border: 0;
+  }
+
+  .partner-logo {
+    width: 100%;
+    max-width: 190px;
+    height: 76px;
+    min-height: 0;
+    padding: 0;
+    border-radius: 0;
+    background: transparent;
+    box-shadow: none;
+  }
+
+  .partner-logo img {
+    display: block;
+    width: 100%;
+    height: 64px;
+    max-height: 64px;
+    object-fit: contain;
+  }
+
+  .partner-logo:hover,
+  .partner-logo:focus-visible {
+    background: transparent;
+  }
+
+  .footer-grid {
+    grid-template-columns: minmax(240px, 1fr) 1fr auto;
+    align-items: center;
+    gap: 28px 48px;
+    padding: 32px 28px 24px;
+    border-top: 1px solid var(--line);
+  }
+
+  .footer-brand {
+    align-self: center;
+    padding: 0;
+    background: transparent;
+  }
+
+  .footer-brand .brand-logo {
+    width: 238px;
+  }
+
+  .footer-grid a,
+  .footer-grid address {
+    color: var(--ink);
+  }
+
+  .footer-grid address {
+    color: var(--muted);
+  }
+
+  .footer-links {
+    grid-column: 1 / -1;
+    justify-content: flex-end;
+    gap: 24px;
+    font-size: 13px;
+  }
+
+  .footer-links a {
+    color: var(--muted);
+  }
+
+  .site-footer a:focus-visible {
+    outline: 2px solid var(--teal);
+    outline-offset: 6px;
   }
 }
 

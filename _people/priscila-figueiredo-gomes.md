@@ -1,16 +1,17 @@
 ---
-title: "Priscila Figueiredo Gomes"
+title: "Priscila Gomes"
+full_name: "Priscila da Silva Figueiredo Celestino Gomes"
 role: "Maîtresse de conférences"
 team: "Equipe 3 « Ingénierie pour la santé »"
 source: "Organigrammes SINERGIES 05.2026"
 photo: /assets/img/people/priscila-figueiredo-gomes.jpg
-photo_alt: "Portrait de Priscila Figueiredo Gomes"
+photo_alt: "Portrait de Priscila Gomes"
 tagline: "Biophysique computationnelle, mécanobiologie et conception de médicaments"
 tagline_en: "Computational biophysics, mechanobiology and drug design"
 bio: >-
-  Priscila Figueiredo Gomes est maîtresse de conférences en biophysique computationnelle. Elle étudie comment la structure, la dynamique et les forces mécaniques gouvernent la reconnaissance biomoléculaire, notamment pour des protéines impliquées dans les maladies infectieuses.
+  Priscila da Silva Figueiredo Celestino Gomes est maîtresse de conférences en biophysique computationnelle. Elle étudie comment la structure, la dynamique et les forces mécaniques gouvernent la reconnaissance biomoléculaire, notamment pour des protéines impliquées dans les maladies infectieuses.
 bio_en: >-
-  Priscila Figueiredo Gomes is an Associate Professor in computational biophysics. She investigates how structure, dynamics and mechanical forces govern biomolecular recognition, particularly in proteins involved in infectious diseases.
+  Priscila da Silva Figueiredo Celestino Gomes is an Associate Professor in computational biophysics. She investigates how structure, dynamics and mechanical forces govern biomolecular recognition, particularly in proteins involved in infectious diseases.
 expertise:
   - Biophysique computationnelle
   - Biologie structurale
@@ -39,6 +40,7 @@ links:
   - label: LinkedIn
     url: https://www.linkedin.com/in/priscila-fgomes/?locale=en
 author_aliases:
+  - "Priscila Figueiredo Gomes"
   - "Gomes, P. S. F. C."
   - "Gomes, P.S.F.C."
   - "Gomes, Priscila S. F. C."
