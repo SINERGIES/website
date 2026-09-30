@@ -52,3 +52,5 @@ BUNDLE_PATH=vendor/bundle BUNDLE_DISABLE_SHARED_GEMS=true bundle exec jekyll bui
 ## Publication
 
 Le dépôt appartient à l'organisation GitHub `SINERGIES` et le site de test est configuré à l'adresse <https://sinergies.github.io/website/> avec `baseurl: /website`. Après validation complète de cette version, le domaine `lab-sinergies.fr` pourra être configuré dans **Settings > Pages** et dans `_config.yml`.
+
+<!-- Pages rebuild: 2026-09-30 -->
