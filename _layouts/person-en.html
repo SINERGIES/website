@@ -41,7 +41,7 @@ layout: default
   </dl>
 
   {% if person.contact_opt_in == true %}
-    <aside class="person-contact-card"><div><p class="eyebrow">Professional contact</p><h2>Contact {{ person.title }}</h2><p>Your message is forwarded through the laboratory form. No personal email address is displayed.</p></div><a class="button" href="{{ '/en/contact/' | relative_url }}?member={{ person.title | url_encode }}">Send a message</a></aside>
+    <aside class="person-contact-card"><div><p class="eyebrow">Professional contact</p><h2>Contact {{ person.title }}</h2></div><a class="button" href="{{ '/en/contact/' | relative_url }}?member={{ person.title | url_encode }}">Send a message</a></aside>
   {% endif %}
 
   {% if person.links and person.links != empty %}
