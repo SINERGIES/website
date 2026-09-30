@@ -162,25 +162,28 @@ layout: default
   <div class="direction-block">
     <p class="eyebrow">{{ home.about.direction_title }}</p>
     <div class="direction-grid">
-      {% if home.organisation.director %}
+      {% assign direction = site.data.organigrammes.governance.direction %}
+      {% assign team_leads = site.data.organigrammes.governance.teams %}
+      {% assign director = direction | first %}
+      {% if director %}
         <article class="direction-card director-card">
-          <h3>{{ home.organisation.director.lead }}</h3>
-          <p>{{ home.organisation.director.role }}</p>
-          <span>{{ home.organisation.director.title }}</span>
+          <h3>{{ director.name }}</h3>
+          <p>Directeur du laboratoire</p>
+          <span>{{ director.role }}</span>
         </article>
       {% endif %}
-      {% for team in home.organisation.teams %}
+      {% for person in direction offset:1 %}
         <article class="direction-card">
-          <h3>{{ team.lead }}</h3>
-          <p>{{ team.role }}</p>
-          <span>{{ team.title }}</span>
+          <h3>{{ person.name }}</h3>
+          <p>Directeur adjoint</p>
+          <span>{{ person.role }}</span>
         </article>
       {% endfor %}
-      {% for axis in home.organisation.axes %}
+      {% for person in team_leads %}
         <article class="direction-card muted-card">
-          <h3>{{ axis.lead }}</h3>
-          <p>{{ axis.role }}</p>
-          <span>Axe {{ axis.title }}</span>
+          <h3>{{ person.name }}</h3>
+          <p>Responsable d’équipe</p>
+          <span>{{ person.role }}</span>
         </article>
       {% endfor %}
     </div>

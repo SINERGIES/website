@@ -41,7 +41,8 @@
   (() => {
     const form = document.querySelector('[data-contact-form]');
     const member = document.getElementById('contact-member');
-    const requestedMember = new URLSearchParams(window.location.search).get('membre');
+    const query = new URLSearchParams(window.location.search);
+    const requestedMember = query.get('membre') || query.get('member');
     if (requestedMember && member) member.value = requestedMember;
     if (!form) return;
     form.addEventListener('submit', (event) => {
