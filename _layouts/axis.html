@@ -10,7 +10,8 @@ layout: default
   {% endif %}
 </article>
 
-{% assign axis_members = site.people | where_exp: "person", "person.role contains page.title" | sort: "title" %}
+{% assign current_people = site.people | where_exp: "person", "person.current != false" %}
+{% assign axis_members = current_people | where_exp: "person", "person.role contains page.title" | sort: "title" %}
 {% assign related_projects = site.projects | where: "team", page.title | sort: "start_year" | reverse %}
 {% assign publications = site.publications | sort: "year" | reverse %}
 

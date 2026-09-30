@@ -3,6 +3,8 @@ title: "Guillaume Herlem"
 role: "Professeur des universités en chimie des matériaux"
 team: "Equipe 3 « Ingénierie pour la santé »"
 source: "Questionnaire membre 08.2026"
+photo: "/assets/img/people/guillaume-herlem.png"
+photo_alt: "Portrait de Guillaume Herlem"
 tagline: "Chimie, électrochimie, modélisation moléculaire et matériaux pour la santé"
 tagline_en: "Chemistry, electrochemistry, molecular modelling and materials for health"
 bio: >-

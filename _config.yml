@@ -67,3 +67,4 @@ exclude:
   - outputs
   - scripts
   - vendor
+  - tmp

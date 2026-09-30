@@ -2737,3 +2737,193 @@ body {
     padding: 54px 20px 36px;
   }
 }
+
+/* Refined UMLP visual system — clean proposal, September 2026 */
+:root {
+  --ink: #26343b;
+  --ink-strong: #0b3142;
+  --muted: #647178;
+  --line: #e2e7e8;
+  --soft: #f6f7f6;
+  --surface: #ffffff;
+  --teal: #287e87;
+  --blue: #0b3142;
+  --coral: #e74b43;
+  --sage: #68747a;
+  --shadow: 0 14px 34px rgba(11, 49, 66, 0.07);
+}
+
+body {
+  background: #fff;
+}
+
+.site-header {
+  min-height: 78px;
+  padding-top: 13px;
+  padding-bottom: 12px;
+  border-top-width: 3px;
+  border-bottom-color: var(--line);
+  box-shadow: 0 4px 18px rgba(11, 49, 66, 0.04);
+}
+
+.brand-logo {
+  width: 212px;
+}
+
+.main-nav {
+  color: #35464e;
+}
+
+.main-nav a {
+  border-bottom-width: 2px;
+}
+
+.hero {
+  background: #f7f8f7;
+}
+
+.hero-media {
+  background: #e9eef0;
+}
+
+.hero-media::after {
+  background: linear-gradient(135deg, rgba(11, 49, 66, 0.05), rgba(11, 49, 66, 0.16));
+}
+
+.button {
+  background: var(--blue);
+}
+
+.button:hover,
+.button:focus-visible {
+  background: var(--coral);
+}
+
+.secondary-button {
+  color: var(--blue);
+  background: transparent;
+  border-color: var(--blue);
+}
+
+.hero-stats strong,
+.scroll-cue {
+  color: var(--coral);
+  border-color: var(--coral);
+}
+
+.axis-card,
+.axis-card:nth-child(2),
+.axis-card:nth-child(3),
+.research-axis-card,
+.transversal-axis-grid .axis-card,
+.project-card,
+.news-card,
+.about-grid article,
+.direction-card,
+.muted-card,
+.director-card,
+.master-facts article,
+.master-highlight-grid article,
+.master-path-grid article,
+.master-teacher-grid article,
+.relation-grid article,
+.relation-list article {
+  border: 1px solid var(--line);
+  background: #fff;
+}
+
+.axis-card,
+.axis-card:nth-child(2),
+.axis-card:nth-child(3) {
+  border-top: 2px solid var(--coral);
+}
+
+.director-card {
+  border-left: 3px solid var(--coral);
+}
+
+.news-section {
+  background: var(--soft);
+}
+
+.master-section {
+  background: var(--blue);
+}
+
+.page-hero {
+  color: var(--blue);
+  background: #f6f7f7;
+  border-bottom: 1px solid var(--line);
+}
+
+.page-hero h1 {
+  color: var(--blue);
+}
+
+.page-hero p,
+.page-hero .person-tagline {
+  color: var(--muted);
+}
+
+.page-hero .meta {
+  color: var(--coral);
+}
+
+.person-portrait img {
+  border: 1px solid var(--line);
+  box-shadow: 0 16px 38px rgba(11, 49, 66, 0.13);
+}
+
+.expertise-list li,
+.person-links a,
+.filter-pills a {
+  border-color: var(--line);
+  color: var(--blue);
+  background: #fff;
+}
+
+.publication-year-nav {
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.97);
+  box-shadow: 0 8px 24px rgba(11, 49, 66, 0.06);
+}
+
+.site-contact-form input,
+.site-contact-form textarea {
+  border-color: var(--line);
+  background: #fff;
+}
+
+.site-footer {
+  background: var(--blue);
+}
+
+.partner-band {
+  background: #fafafa;
+}
+
+@media (max-width: 980px) {
+  .site-header {
+    padding-top: 11px;
+  }
+
+  .main-nav {
+    justify-content: flex-start;
+  }
+}
+
+/* Comfortable reading rhythm: justify long-form copy, not compact interface text. */
+@media (min-width: 700px) {
+  .page-content > p:not(.meta):not(.eyebrow):not(.page-update):not(.source-note):not(.translation-note),
+  .person-introduction p,
+  .publication-abstract p,
+  .contact-intro > p:not(.eyebrow),
+  .master-copy > p,
+  .master-page > section > p,
+  .relation-page > p,
+  .about-intro + .about-grid article p {
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: auto;
+  }
+}

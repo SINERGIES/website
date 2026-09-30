@@ -21,11 +21,13 @@ permalink: /annuaire/
   <div class="directory-list">
     {% assign people = site.people | sort: "title" %}
     {% for member in people %}
+      {% unless member.current == false %}
       <article id="{{ member.title | slugify: 'latin' }}">
         <h2><a href="{{ member.url | relative_url }}">{{ member.title }}</a></h2>
         <p>{{ member.role }}</p>
         <span>{{ member.team }}</span>
       </article>
+      {% endunless %}
     {% endfor %}
   </div>
 
