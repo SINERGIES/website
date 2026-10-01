@@ -41,19 +41,29 @@ layout: default
   </dl>
 
   {% if person.contact_opt_in == true %}
-    <aside class="person-contact-card"><div><p class="eyebrow">Professional contact</p><h2>Contact {{ person.title }}</h2></div><a class="button" href="{{ '/en/contact/' | relative_url }}?member={{ person.title | url_encode }}">Send a message</a></aside>
+    <aside class="person-contact-card"><div><p class="eyebrow">Professional contact</p><h2>Contact {{ person.title }}</h2></div>
+      {% if person.contact_email and person.contact_email != empty %}
+        <a class="button" href="mailto:{{ person.contact_email | escape }}">Send an email</a>
+      {% else %}
+        <a class="button" href="{{ '/en/contact/' | relative_url }}?member={{ person.title | url_encode }}">Send a message</a>
+      {% endif %}
+    </aside>
   {% endif %}
 
   {% if person.links and person.links != empty %}
     <section class="relation-section"><div class="relation-heading"><h2>Professional links</h2></div><div class="person-links">{% for link in person.links %}<a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>{% endfor %}</div></section>
   {% endif %}
 
+  {% unless person.show_research_affiliations == false %}
   <section class="relation-section"><div class="relation-heading"><h2>Research affiliations</h2></div><div class="filter-pills">
     {% for team in person_teams %}<a href="{{ '/en/organisation/' | relative_url }}">Team {{ team.number }}</a>{% endfor %}
     {% for axis in person_axes %}<a href="{{ '/en/organisation/' | relative_url }}">Research axis · {{ axis.title }}</a>{% endfor %}
     {% if person_teams == empty and person_axes == empty %}<p>No explicit team or research-axis affiliation is currently listed.</p>{% endif %}
   </div></section>
 
+  {% endunless %}
+
+  {% unless person.show_publications == false %}
   <section class="relation-section"><div class="relation-heading"><h2>Publications</h2></div><p class="person-profile-note">Publications are matched automatically using the author’s name.</p><div class="relation-list compact-publications">
     {% assign publication_count = 0 %}
     {% for publication in publications %}
@@ -64,5 +74,6 @@ layout: default
     {% endfor %}
     {% if publication_count == 0 %}<p>No publication has been matched automatically to this profile.</p>{% endif %}
   </div></section>
+  {% endunless %}
   <p><a class="text-link" href="{{ '/en/members/' | relative_url }}">Back to the members directory</a></p>
 </section>
