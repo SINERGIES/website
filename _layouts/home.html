@@ -187,6 +187,14 @@ layout: default
         </article>
       {% endfor %}
     </div>
+    <div class="direction-block">
+    {% for person in site.data.organigrammes.organisation.support %}
+      <article class="direction-card">
+        <h3>{% include person-link.html name=person.name %}</h3>
+        <p>{{ person.role }}</p>
+      </article>
+    {% endfor %}
+    </div>
     <a class="button direction-button" href="{{ '/annuaire/' | relative_url }}">Voir toute l'équipe</a>
   </div>
 </section>

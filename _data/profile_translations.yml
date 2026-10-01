@@ -7,6 +7,7 @@ teams:
   'Pôle administratif': 'Administrative unit'
 
 roles:
+  'Secrétariat administratif et financier': 'Administrative and financial secretariat'
   'ATER': 'Temporary teaching and research fellow'
   'CPJ': 'Junior professorship chair'
   'Chercheur': 'Researcher'

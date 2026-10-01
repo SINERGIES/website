@@ -64,6 +64,13 @@ permalink: /en/
   <p class="translation-note">Project and news detail pages remain in their source language while approved translations are prepared.</p>
 </section>
 
+<section class="section about-section" id="administration">
+  <div class="section-heading"><h2>Administrative and financial secretariat</h2></div>
+  {% for person in site.data.organigrammes.organisation.support %}
+    <article class="direction-card"><h3><a class="person-link" href="{{ '/en/members/olha-luste-chaa/' | relative_url }}">{{ person.name }}</a></h3></article>
+  {% endfor %}
+</section>
+
 <section class="section about-section" id="sitemap">
   <div class="about-intro"><p class="eyebrow">Explore SINERGIES</p><h2>Laboratory resources</h2></div>
   <div class="quick-link-grid">

@@ -26,7 +26,7 @@ governance:
       role: "Ingénierie pour la santé - PU"
   support:
     - name: "Olha Luste-Chaa"
-      role: "Pôle administratif de l’unité / suivi de projets de recherche"
+      role: "Secrétariat administratif et financier"
     - name: "Cécile Adami"
       role: "Gestion du Master"
   council:
@@ -81,7 +81,7 @@ organisation:
       role: "Gestion du Master"
   support:
     - name: "Olha Luste-Chaa"
-      role: "Pôle administratif de l’unité / suivi de projets de recherche"
+      role: "Secrétariat administratif et financier"
 complete:
   teams:
     - title: "Equipe 1 « Soins intégrés et personnalisés »"

@@ -17,5 +17,6 @@ permalink: /en/organisation/
     <section class="org-section-box"><h2>Research teams</h2><div class="org-person-grid compact">{% for person in site.data.organigrammes.governance.teams %}<p>{% include person-link.html name=person.name %}<small>{{ person.role }}</small></p>{% endfor %}</div></section>
     <section class="org-section-box"><h2>Cross-cutting themes</h2><div class="org-person-grid compact">{% for person in site.data.organigrammes.governance.axes %}<p>{% include person-link.html name=person.name %}<small>{{ person.role }}</small></p>{% endfor %}</div></section>
   </div>
+  <section class="org-section-box"><h2>Administrative and financial secretariat</h2><div class="org-person-grid compact">{% for person in site.data.organigrammes.organisation.support %}<p><a class="person-link" href="{{ '/en/members/olha-luste-chaa/' | relative_url }}">{{ person.name }}</a></p>{% endfor %}</div></section>
   <p class="translation-note">Academic titles and individual roles are retained in their official French form.</p>
 </section>

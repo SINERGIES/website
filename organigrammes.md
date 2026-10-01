@@ -43,6 +43,15 @@ permalink: /organisation/
         </div>
       </div>
 
+      <section class="org-section-box">
+        <h2>Secrétariat administratif et financier</h2>
+        <div class="org-stack-grid">
+          {% for person in site.data.organigrammes.organisation.support %}
+            <p>{% include person-link.html name=person.name %}</p>
+          {% endfor %}
+        </div>
+      </section>
+
       <div class="org-duo-grid">
         <section class="org-section-box">
           <h2>Responsables d'équipes</h2>
@@ -175,7 +184,7 @@ permalink: /organisation/
       </section>
 
       <section class="org-section-box org-section-compact">
-        <h2>Pôle administratif / projets</h2>
+        <h2>Secrétariat administratif et financier</h2>
         <div class="org-stack-grid">
           {% for person in site.data.organigrammes.organisation.support %}
             <p>{% include person-link.html name=person.name %}<small>{{ person.role }}</small></p>
