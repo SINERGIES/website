@@ -45,7 +45,7 @@ layout: default
       {% if person.contact_email and person.contact_email != empty %}
         <a class="button" href="mailto:{{ person.contact_email | escape }}">Send an email</a>
       {% else %}
-        <a class="button" href="{{ '/en/contact/' | relative_url }}?member={{ person.title | url_encode }}">Send a message</a>
+        <a class="button" href="mailto:sinergies-direction@umlp.fr?subject={{ person.title | url_encode }}">Send a message</a>
       {% endif %}
     </aside>
   {% endif %}
