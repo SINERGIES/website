@@ -17,5 +17,5 @@ permalink: /accessibilite/
   <p>La déclaration de conformité RGAA complète reste à établir lors de la mise en production.</p>
 
   <h2>Signaler un problème</h2>
-  <p>Si vous rencontrez une difficulté d'accès à un contenu, vous pouvez utiliser le <a href="{{ '/contact/' | relative_url }}">formulaire de contact du laboratoire</a>.</p>
+  <p>Si vous rencontrez une difficulté d'accès à un contenu, vous pouvez utiliser le <a href="mailto:sinergies-direction@umlp.fr">contact par e-mail du laboratoire</a>.</p>
 </section>
