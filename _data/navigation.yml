@@ -16,3 +16,5 @@
   url: "/plateformes/"
 - label: Master
   url: "/master-2/"
+- label: Contact
+  url: "#contact"
