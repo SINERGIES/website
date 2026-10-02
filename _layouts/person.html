@@ -79,7 +79,7 @@ layout: default
       {% if page.contact_email and page.contact_email != empty %}
         <a class="button" href="mailto:{{ page.contact_email | escape }}">Envoyer un e-mail</a>
       {% else %}
-        <a class="button" href="{{ '/contact/' | relative_url }}?membre={{ page.title | url_encode }}">Envoyer un message</a>
+        <a class="button" href="mailto:sinergies-direction@umlp.fr?subject={{ page.title | url_encode }}">Envoyer un message</a>
       {% endif %}
     </aside>
   {% endif %}
