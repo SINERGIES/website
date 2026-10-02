@@ -11,9 +11,9 @@ permalink: /contact/
 
 <section class="page-content contact-page">
   <div class="contact-intro">
-    <p class="eyebrow">Formulaire sécurisé</p>
-    <h2>Votre message sera transmis à la bonne personne</h2>
-    <p>L’adresse de contact du laboratoire et les adresses personnelles ne sont pas affichées publiquement. Le secrétariat reçoit les demandes générales et transmet les messages destinés aux membres ayant accepté cette option.</p>
+    <p class="eyebrow">Contact par e-mail</p>
+    <h2>Écrire à la direction du laboratoire</h2>
+    <p>Pour toute question ou proposition de collaboration, contactez la direction de SINERGIES. Si votre message concerne un membre du laboratoire, précisez son nom dans l’objet de votre e-mail.</p>
   </div>
   <div class="contact-form-panel">
     {% include contact-form.html %}
