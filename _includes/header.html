@@ -10,7 +10,7 @@
   {% endif %}
   <nav class="main-nav" aria-label="{% if current_lang == 'en' %}Main navigation{% else %}Navigation principale{% endif %}">
     {% for item in navigation %}
-      <a href="{{ item.url | relative_url }}">{{ item.label }}</a>
+      <a href="{% if item.url == '#contact' %}#contact{% else %}{{ item.url | relative_url }}{% endif %}">{{ item.label }}</a>
     {% endfor %}
     {% if current_lang == 'en' %}
       {% if page.person_slug %}
