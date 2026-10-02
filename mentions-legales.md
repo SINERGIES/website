@@ -14,7 +14,7 @@ permalink: /mentions-legales/
   <p>Laboratoire SINERGIES<br>16 route de Gray<br>25000 Besançon</p>
 
   <h2>Contact</h2>
-  <p><a href="{{ '/contact/' | relative_url }}">Formulaire de contact du laboratoire</a></p>
+  <p><a href="mailto:sinergies-direction@umlp.fr">Contacter le laboratoire par e-mail</a></p>
 
   <h2>Responsable de publication</h2>
   <p>Frédéric Auber, directeur du laboratoire.</p>
