@@ -134,6 +134,7 @@ master_contact: true
       <h2>Informations pratiques</h2>
       <p>La formation est portée par l'UFR des Sciences de la santé de l'Université Marie et Louis Pasteur. Pour toute question concernant le Master (candidature, inscription, programme ou alternance), votre contact est Cécile Adami, chargée de la scolarité.</p>
     </div>
+      <p><strong>Demandes de stage :</strong> toutes les demandes de stage doivent être adressées à la scolarité, auprès de <a href="mailto:cecile.adami@univ-fcomte.fr?subject=Demande%20de%20stage">Cécile Adami</a>.</p>
     <div class="master-actions">
       <a class="button" href="https://formations.univ-fcomte.fr/fr/index/formations/feuilleter-le-catalogue/master-lmd-XB/master-ingenierie-de-la-sante-M4QW93HX.html" target="_blank" rel="noopener">Voir la fiche officielle</a>
       <a class="button secondary-button" href="mailto:cecile.adami@univ-fcomte.fr?subject=Master%20Ing%C3%A9nierie%20de%20la%20sant%C3%A9">Contacter Cécile Adami</a>
