@@ -119,7 +119,7 @@ master_contact: true
         <p>Responsable du parcours INASYS</p>
       </article>
       <article>
-        <h3>{% include person-link.html name="Frédéric Auber" %}</h3>
+        <h3><a class="person-link" href="{{ '/membres/priscila-figueiredo-gomes/' | relative_url }}">Priscila Gomes</a></h3>
         <p>Responsable du parcours OPTIMSYS</p>
       </article>
       <article>
