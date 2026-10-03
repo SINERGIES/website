@@ -16,7 +16,9 @@
       25000 Besançon
     </address>
     <div class="footer-contact">
-      {% if current_lang == 'en' %}
+      {% if page.master_contact %}
+        <a class="button footer-contact-button" href="mailto:cecile.adami@univ-fcomte.fr?subject=Master%20Ing%C3%A9nierie%20de%20la%20sant%C3%A9">{% if current_lang == 'en' %}Contact the Master’s programme{% else %}Contacter la scolarité du Master{% endif %}</a>
+      {% elsif current_lang == 'en' %}
         <a class="button footer-contact-button" href="mailto:sinergies-direction@umlp.fr">Contact the laboratory</a>
       {% else %}
         <a class="button footer-contact-button" href="mailto:sinergies-direction@umlp.fr">Contacter le laboratoire</a>
