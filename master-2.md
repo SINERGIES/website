@@ -2,6 +2,7 @@
 layout: default
 title: Master Ingénierie de la santé
 permalink: /master-2/
+master_contact: true
 ---
 
 <section class="master-hero">
@@ -12,6 +13,7 @@ permalink: /master-2/
     <div class="master-actions">
       <a class="button" href="https://formations.univ-fcomte.fr/plugins/odf-web/odf/_content/program-master-ingenierie-de-la-sante-fr-2-2/Master%20Ing%C3%A9nierie%20de%20la%20sant%C3%A9.pdf" target="_blank" rel="noopener">Télécharger la plaquette</a>
       <a class="button secondary-button" href="#alternance">Voir l'alternance</a>
+      <a class="button secondary-button" href="mailto:cecile.adami@univ-fcomte.fr?subject=Master%20Ing%C3%A9nierie%20de%20la%20sant%C3%A9">Contacter la scolarité du Master</a>
     </div>
   </div>
   <div class="master-visual">
@@ -130,11 +132,11 @@ permalink: /master-2/
   <section class="master-section-block">
     <div class="section-heading stacked">
       <h2>Informations pratiques</h2>
-      <p>La formation est portée par l'UFR des Sciences de la santé de l'Université Marie et Louis Pasteur. La scolarité est assurée par Cécile Adami.</p>
+      <p>La formation est portée par l'UFR des Sciences de la santé de l'Université Marie et Louis Pasteur. Pour toute question concernant le Master (candidature, inscription, programme ou alternance), votre contact est Cécile Adami, chargée de la scolarité.</p>
     </div>
     <div class="master-actions">
       <a class="button" href="https://formations.univ-fcomte.fr/fr/index/formations/feuilleter-le-catalogue/master-lmd-XB/master-ingenierie-de-la-sante-M4QW93HX.html" target="_blank" rel="noopener">Voir la fiche officielle</a>
-      <a class="button secondary-button" href="mailto:cecile.adami@univ-fcomte.fr">Contacter la scolarité</a>
+      <a class="button secondary-button" href="mailto:cecile.adami@univ-fcomte.fr?subject=Master%20Ing%C3%A9nierie%20de%20la%20sant%C3%A9">Contacter Cécile Adami</a>
     </div>
   </section>
 </section>
