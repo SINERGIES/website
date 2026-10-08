@@ -1,4 +1,5 @@
 ---
+published: false
 layout: default
 title: Master Ingénierie de la santé
 permalink: /master-2/

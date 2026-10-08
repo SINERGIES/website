@@ -12,7 +12,5 @@
   url: "/en/members/"
 - label: Facilities
   url: "/en/facilities/"
-- label: Master's
-  url: "/en/master/"
 - label: Contact
   url: "#contact"
