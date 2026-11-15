@@ -1,2 +1,6 @@
-{% assign person_slug = include.name | slugify: "latin" %}
-<a class="person-link" href="{{ '/membres/' | append: person_slug | append: '/' | relative_url }}">{{ include.name }}</a>
+{% assign linked_person = site.people | where: 'title', include.name | first %}
+{% if linked_person %}
+  <a class="person-link" href="{{ linked_person.url | relative_url }}">{{ include.name }}</a>
+{% else %}
+  <span class="person-link">{{ include.name }}</span>
+{% endif %}

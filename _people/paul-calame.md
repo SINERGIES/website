@@ -1,6 +1,7 @@
 ---
 title: "Paul Calame"
-role: "Responsable axe Imageries 2D, 3D, 4D"
+role: "MCU-PH"
 team: "Equipe 3 « Ingénierie pour la santé »"
 source: "Organigrammes SINERGIES 05.2026"
+roster_source: "Organigramme SINERGIES 11.2026"
 ---

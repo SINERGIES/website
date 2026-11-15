@@ -46,8 +46,8 @@ author_aliases:
   - "Gomes, Priscila S. F. C."
   - "Priscila S. F. C. Gomes"
 projects: []
+roster_source: "Organigramme SINERGIES 11.2026"
 ---
-
 ## Parcours
 
 Docteure en sciences de la vie et en biophysique dans le cadre d’un doctorat conjoint entre l’École normale supérieure de Cachan et l’Université fédérale de Rio de Janeiro, elle a ensuite mené des recherches postdoctorales à l’Université de Strasbourg, à l’Université fédérale de Rio de Janeiro et à Auburn University.

@@ -1,343 +1,377 @@
+---
 governance:
   direction:
-    - name: "Frédéric Auber"
-      role: "Directeur du laboratoire - PU-PH"
-    - name: "Fabien Picaud"
-      role: "Directeur adjoint UMLP - EC"
-    - name: "Siamak Davani"
-      role: "Directeur adjoint CHU - PU-PH"
-    - name: "Amir Hajjam El Hassani"
-      role: "Directeur adjoint UTBM - EC"
+  - name: Frédéric Auber
+    role: Directeur du laboratoire - PU-PH
+  - name: Fabien Picaud
+    role: Directeur adjoint UMLP - EC
+  - name: Siamak Davani
+    role: Directeur adjoint CHU - PU-PH
+  - name: Amir Hajjam El Hassani
+    role: Directeur adjoint UTBM - EC
   axes:
-    - name: "Oussama Barakat"
-      role: "Intelligence artificielle - PU"
-    - name: "Nicolas Mottet"
-      role: "Recherche clinique - PU-PH"
-    - name: "Paul Calame"
-      role: "Imageries 2D, 3D, 4D - MCU-PH"
+  - name: Oussama Barakat
+    role: Intelligence artificielle - PU
+  - name: Nicolas Mottet
+    role: Recherche clinique - PU-PH
+  - name: Paul Calame
+    role: Imageries 2D, 3D, 4D - MCU-PH
   teams:
-    - name: "Laurent Mourot"
-      role: "Soins intégrés et personnalisés - PU"
-    - name: "Guillaume Besch"
-      role: "Biomarqueurs et cibles thérapeutiques - PU-PH"
-    - name: "Guillaume Herlem"
-      role: "Ingénierie pour la santé - PU"
-    - name: "Olivier Grunder"
-      role: "Ingénierie pour la santé - PU"
+  - name: Laurent Mourot
+    role: Soins intégrés et personnalisés - PU
+  - name: Guillaume Besch
+    role: Biomarqueurs et cibles thérapeutiques - PU-PH
+  - name: Guillaume Herlem
+    role: Ingénierie pour la santé - PU
+  - name: Olivier Grunder
+    role: Ingénierie pour la santé - PU
   support:
-    - name: "Olha Luste-Chaa"
-      role: "Secrétariat administratif et financier"
-    - name: "Cécile Adami"
-      role: "Gestion du Master"
+  - name: Olha Luste-Chaa
+    role: Pôle administratif de l’unité / suivi de projets de recherche
+  - name: Cécile Adami
+    role: Gestion du Master
   council:
-    - name: "Cécile Adami"
-      role: "Représentante des PARF titulaires"
-    - name: "Mince Alaedine"
-      role: "Représentante des doctorants"
-    - name: "Trévis Carlet"
-      role: "Représentant des doctorants"
-    - name: "Yoann Garnier"
-      role: "Représentant des EC titulaires"
-    - name: "Isabelle Lascombe"
-      role: "Représentante des EC titulaires"
-    - name: "Fabienne Mougin-Guillaume"
-      role: "Représentante des EC titulaires"
-    - name: "Réda Yahiaoui"
-      role: "Représentant des EC titulaires"
+  - name: Cécile Adami
+    role: Représentante des PARF titulaires
+  - name: Mince Alaedine
+    role: Représentante des doctorants
+  - name: Trévis Carlet
+    role: Représentant des doctorants
+  - name: Yoann Garnier
+    role: Représentant des EC titulaires
+  - name: Isabelle Lascombe
+    role: Représentante des EC titulaires
+  - name: Fabienne Mougin-Guillaume
+    role: Représentante des EC titulaires
+  - name: Réda Yahiaoui
+    role: Représentant des EC titulaires
 organisation:
   teams:
-    - title: "Equipe 1 « Soins intégrés et personnalisés »"
-      lead:
-        - name: "Laurent Mourot"
-          role: "Responsable - PU HDR"
-      groups:
-    - title: "Equipe 2 « Biomarqueurs et cibles thérapeutiques »"
-      lead:
-        - name: "Guillaume Besch"
-          role: "Responsable - PU-PH HDR"
-      groups:
-    - title: "Equipe 3 « Ingénierie pour la santé »"
-      lead:
-        - name: "Guillaume Herlem"
-          role: "Responsable UMLP - PU HDR"
-        - name: "Olivier Grunder"
-          role: "Responsable UTBM - PU HDR"
-      groups:
+  - title: Equipe 1 « Soins intégrés et personnalisés »
+    lead:
+    - name: Laurent Mourot
+      role: Responsable - PU HDR
+    groups:
+  - title: Equipe 2 « Biomarqueurs et cibles thérapeutiques »
+    lead:
+    - name: Guillaume Besch
+      role: Responsable - PU-PH HDR
+    groups:
+  - title: Equipe 3 « Ingénierie pour la santé »
+    lead:
+    - name: Guillaume Herlem
+      role: Responsable UMLP - PU HDR
+    - name: Olivier Grunder
+      role: Responsable UTBM - PU HDR
+    groups:
   axes:
-    - name: "Oussama Barakat"
-      role: "Responsable Intelligence artificielle"
-    - name: "Nicolas Mottet"
-      role: "Responsable Recherche clinique"
-    - name: "Paul Calame"
-      role: "Responsable Imageries 2D, 3D, 4D"
+  - name: Oussama Barakat
+    role: Responsable Intelligence artificielle
+  - name: Nicolas Mottet
+    role: Responsable Recherche clinique
+  - name: Paul Calame
+    role: Responsable Imageries 2D, 3D, 4D
   master:
-    - name: "Guillaume Herlem"
-      role: "Responsable du Master"
-    - name: "Oussama Barakat"
-      role: "Responsable parcours INASYS"
-    - name: "Priscila Gomes"
-      role: "Responsable du parcours OPTIMSYS"
-    - name: "Cécile Adami"
-      role: "Gestion du Master"
+  - name: Guillaume Herlem
+    role: Responsable du Master
+  - name: Oussama Barakat
+    role: Responsable parcours INASYS
+  - name: Priscila Gomes
+    role: Responsable du parcours OPTIMSYS
+  - name: Cécile Adami
+    role: Gestion du Master
   support:
-    - name: "Olha Luste-Chaa"
-      role: "Secrétariat administratif et financier"
+  - name: Olha Luste-Chaa
+    role: Pôle administratif de l’unité / suivi de projets de recherche
 complete:
   teams:
-    - title: "Equipe 1 « Soins intégrés et personnalisés »"
-      lead:
-        - name: "Laurent Mourot"
-          role: "Responsable - PU HDR"
-      groups:
-        - title: "Membres"
-          people:
-            - name: "Frédéric Auber"
-              role: "PU-PH HDR"
-            - name: "Yann Chaussy"
-              role: "MCU-PH HDR"
-            - name: "Romain Chopard"
-              role: "PU-PH HDR"
-            - name: "Siamak Davani"
-              role: "PU-PH HDR"
-            - name: "Yoann Garnier"
-              role: "MCF"
-            - name: "Jennifer Lagoutte-Renosi"
-              role: "MCU-PH"
-            - name: "Nicolas Meneveau"
-              role: "PU-PH HDR"
-            - name: "Nicolas Mottet"
-              role: "PU-PH HDR"
-            - name: "Laurent Mourot"
-              role: "PU HDR"
-            - name: "Fabienne Mougin-Guillaume"
-              role: "PU HDR"
-            - name: "Sébastien Pili-Floury"
-              role: "PU-PH HDR"
-            - name: "Simon Rinckenbach"
-              role: "PU-PH HDR"
-            - name: "Emmanuel Samain"
-              role: "PU-PH HDR"
-            - name: "François Schiele"
-              role: "PU-PH HDR"
-            - name: "Marie-France Seronde"
-              role: "PU-PH HDR"
-            - name: "Laurent Thines"
-              role: "PU-PH HDR"
-            - name: "Ashiv Ramkalawon"
-              role: "IGR CDD EPSI"
-            - name: "Gilles Capellier"
-              role: "PU-PH émérite HDR"
-            - name: "Emeline Eustache"
-              role: "IGE CDD LabCom"
-            - name: "Mince Alaedine"
-              role: "PhD1"
-            - name: "Jeanne Baran"
-              role: "PhD2"
-            - name: "Matthieu Besutti"
-              role: "PhD1"
-            - name: "Trévis Carlet"
-              role: "PhD3"
-            - name: "Marie Gabrielle Courtes"
-              role: "PhD1"
-            - name: "Olivier Hild"
-              role: "PhD3"
-            - name: "Martial Houndekon"
-              role: "PhD1"
-            - name: "Jérémie Nallet"
-              role: "PhD3"
-        - title: "Membres associés - CHU de Besançon"
-          people:
-            - name: "Francis Berthier"
-              role: "PU-PH"
-            - name: "Marc Badoz"
-              role: "PH"
-            - name: "Samuel Béliard"
-              role: "MCU-PH"
-            - name: "Abdo Khoury"
-              role: "MCU-PH"
-            - name: "Joackim Mahdjoub"
-              role: "PH"
-            - name: "Laurent Carteron"
-              role: "PH"
-            - name: "Fiona Ecarnot"
-              role: "IR HDR"
-            - name: "Arnaud Fotso"
-              role: "PH"
-            - name: "Noor Hamdan"
-              role: "PH"
-            - name: "Guillaume Mourey"
-              role: "PH"
-            - name: "Florence Scheffler"
-              role: "PU-PH"
-            - name: "Marie-Blanche Valnet-Rabier"
-              role: "PH"
-    - title: "Equipe 2 « Biomarqueurs et cibles thérapeutiques »"
-      lead:
-        - name: "Guillaume Besch"
-          role: "Responsable - PU-PH HDR"
-      groups:
-        - title: "Plateforme EPSI intégrée"
-          people:
-            - name: "Guillaume Besch"
-              role: "PU-PH HDR"
-            - name: "Sophie Borot"
-              role: "MCU-PH"
-            - name: "Malika Bouhaddi"
-              role: "MCU-PH"
-            - name: "Sylvie Fauconnet"
-              role: "IR CHU HDR"
-            - name: "Patrick Garbuio"
-              role: "PU-PH HDR"
-            - name: "Alfredo Iandolo"
-              role: "MCU-PH"
-            - name: "François Kleinclauss"
-              role: "PU-PH HDR"
-            - name: "Isabelle Lascombe"
-              role: "MCF HDR"
-            - name: "Daniel Lepage"
-              role: "PU-PH HDR"
-            - name: "François Loisel"
-              role: "MCU-PH"
-            - name: "Aurélien Louvrier"
-              role: "PU-PH HDR"
-            - name: "Christophe Meyer"
-              role: "PU-PH HDR"
-            - name: "Fabrice Michel"
-              role: "PU-PH HDR"
-            - name: "Laurent Obert"
-              role: "PU-PH HDR"
-            - name: "Gaël Piton"
-              role: "PU-PH HDR"
-            - name: "Rajeev Ramanah"
-              role: "PU-PH HDR"
-            - name: "Hadrien Winiszewski"
-              role: "MCU-PH"
-            - name: "Dina Iandolo"
-              role: "MCU-PH"
-            - name: "Jason Bernauer"
-              role: "PhD2"
-            - name: "Alexandre Barbaud"
-              role: "TCH CDD"
-            - name: "Eugénie Bertin"
-              role: "PhD2"
-            - name: "Romain Bronnert"
-              role: "PhD1"
-            - name: "Alexandre Frontczak"
-              role: "PhD1"
-            - name: "Chloé Gaude Hild"
-              role: "PhD2"
-        - title: "Membres associés - CHU de Besançon"
-          people:
-            - name: "Camille Coussens"
-              role: "IGE"
-            - name: "Edouard Euvrard"
-              role: "PU-PH"
-            - name: "Florelle Gindraux"
-              role: "IGR"
-            - name: "Jérémie Nallet"
-              role: "PH"
-    - title: "Equipe 3 « Ingénierie pour la santé »"
-      lead:
-        - name: "Guillaume Herlem"
-          role: "Responsable UMLP - PU HDR"
-        - name: "Olivier Grunder"
-          role: "Responsable UTBM - PU HDR"
-      groups:
-        - title: "UMLP"
-          people:
-            - name: "Oussama Barakat"
-              role: "PU HDR"
-            - name: "Hatem Boulahdour"
-              role: "PU-PH HDR"
-            - name: "Eléonore Brumpt"
-              role: "PHU"
-            - name: "Paul Calame"
-              role: "MCU-PH"
-            - name: "Eric Delabrousse"
-              role: "PU-PH HDR"
-            - name: "Moustafa Fayad"
-              role: "CPJ"
-            - name: "Priscila Gomes"
-              role: "MCF"
-            - name: "Guillaume Herlem"
-              role: "PU HDR"
-            - name: "Isabelle Lajoie"
-              role: "MCF"
-            - name: "Cathy Meunier"
-              role: "MCF HDR"
-            - name: "Fabien Picaud"
-              role: "MCF HDR"
-            - name: "Isabelle Pluvy"
-              role: "MCU-PH"
-            - name: "Laurent Tavernier"
-              role: "PU-PH HDR"
-            - name: "Réda Yahiaoui"
-              role: "MCF"
-            - name: "Nicolas Arroyo"
-              role: "Post-doc"
-            - name: "Nyha Hameed"
-              role: "Post-doc"
-            - name: "Hadrien Herlem"
-              role: "IGR CDD"
-            - name: "Rym Sekkal"
-              role: "MCF"
-            - name: "Abdeljabbar Rachid"
-              role: "IGE CDD Interreg"
-        - title: "UTBM"
-          people:
-            - name: "Rachid Bouyekhf"
-              role: "MCF HDR"
-            - name: "Olivier Grunder"
-              role: "PU HDR"
-            - name: "Amir Hajjam El Hassani"
-              role: "PU HDR"
-            - name: "Serge Iovleff"
-              role: "MCF"
-            - name: "Mohamed Sraitith"
-              role: "Post-doc"
-            - name: "Georges Chababi"
-              role: "PhD1"
-            - name: "Nouha Ed-Daoui"
-              role: "PhD1"
-            - name: "Mohamed El Moutaouadia El Idrissi"
-              role: "PhD1"
-            - name: "Yaovi Hoetowou"
-              role: "PhD3"
-            - name: "Sylvie Sebaaly"
-              role: "PhD1"
-            - name: "Suyu Wu"
-              role: "PhD1"
-        - title: "Doctorants et appuis"
-          people:
-            - name: "Ismail Bouajaja"
-              role: "PhD3"
-            - name: "Justine Chollet-Fictor"
-              role: "PhD1"
-            - name: "Yendouname Kantame"
-              role: "PhD1"
-            - name: "Mahammad Nabizade"
-              role: "PhD2"
-            - name: "Ikram Rajai"
-              role: "PhD1"
-            - name: "Han Yu"
-              role: "PhD3"
-        - title: "Membres associés"
-          people:
-            - name: "Orland Angoue"
-              role: "Ingénieur CHU"
-            - name: "Laurent Comas"
-              role: "Ingénieur CHU"
-            - name: "Abdellah El Moudni"
-              role: "PU HDR"
-            - name: "Mohamed Embarki"
-              role: "PU HDR"
-            - name: "Olivier Gaiffe"
-              role: "Ingénieur CHU"
-            - name: "Thomas Lihoreau"
-              role: "Ingénieur CHU"
-            - name: "Omar Mrani"
-              role: "Chercheur"
-            - name: "Stephan Robert"
-              role: "PU - Suisse"
-            - name: "Fatma Zohra-Nacer"
-              role: "Chercheur"
+  - title: Equipe 1 « Soins intégrés et personnalisés »
+    lead:
+    - name: Laurent Mourot
+      role: Responsable - PU HDR
+    groups:
+    - title: Membres
+      people:
+      - name: Frédéric Auber
+        role: PU-PH HDR
+      - name: Gilles Capellier
+        role: PU-PH émérite HDR
+      - name: Yann Chaussy
+        role: PU-PH HDR
+      - name: Romain Chopard
+        role: PU-PH HDR
+      - name: Siamak Davani
+        role: PU-PH HDR
+      - name: Yoann Garnier
+        role: MCU
+      - name: Jennifer Lagoutte-Renosi
+        role: MCU-PH
+      - name: Nicolas Meneveau
+        role: PU-PH HDR
+      - name: Nicolas Mottet
+        role: PU-PH HDR
+      - name: Fabienne Mougin-Guillaume
+        role: PU HDR
+      - name: Laurent Mourot
+        role: PU HDR
+      - name: Sébastien Pili-Floury
+        role: PU-PH HDR
+      - name: Simon Rinckenbach
+        role: PU-PH HDR
+      - name: Emmanuel Samain
+        role: PU-PH HDR
+      - name: François Schiele
+        role: PU-PH émérite HDR
+      - name: Marie-France Seronde
+        role: PU-PH HDR
+      - name: Laurent Thines
+        role: PU-PH HDR
+    - title: Appui à la recherche
+      people:
+      - name: Emeline Eustache
+        role: IGE CDD LabCom
+      - name: Ashiv Ramkalawon
+        role: IGR CDD LabCom
+    - title: Doctorants
+      people:
+      - name: Mince Alaedine
+        role: PhD2
+      - name: Jeanne Baran
+        role: PhD3
+      - name: Matthieu Besutti
+        role: PhD2
+      - name: Trévis Carlet
+        role: PhD4
+      - name: Marie Gabrielle Courtes
+        role: PhD2
+      - name: Olivier Hild
+        role: PhD4
+      - name: Martial Houndekon
+        role: PhD2
+      - name: Joackim Mahdjoub
+        role: PhD1
+      - name: Jérémie Nallet
+        role: PhD4
+      - name: Pan Wang
+        role: PhD1
+    - title: Membres associés
+      people:
+      - name: Marc Badoz
+        role: PH
+      - name: Samuel Béliard
+        role: MCU-PH
+      - name: Francis Berthier
+        role: Professeur associé
+      - name: Laurent Carteron
+        role: PH
+      - name: Fiona Ecarnot
+        role: IR HDR
+      - name: Arnaud Fotso
+        role: PH
+      - name: Alessandro Gentilin
+        role: Chercheur (Italie)
+      - name: Noor Hamdan
+        role: PH
+      - name: Quentin Jacquinot
+        role: IRFC FC
+      - name: Abdo Khoury
+        role: MCU-PH
+      - name: Guillaume Mourey
+        role: PH
+      - name: Florence Scheffler
+        role: PH
+      - name: Marie-Blanche Valnet-Rabier
+        role: PH
+    platform: Plateforme EPSI (Expertise Performance Santé Innovation) intégrée
+  - title: Equipe 2 « Biomarqueurs et cibles thérapeutiques »
+    lead:
+    - name: Guillaume Besch
+      role: Responsable - PU-PH HDR
+    groups:
+    - title: Membres
+      people:
+      - name: Guillaume Besch
+        role: PU-PH HDR
+      - name: Sophie Borot
+        role: MCU-PH
+      - name: Malika Bouhaddi
+        role: MCU-PH
+      - name: Sylvie Fauconnet
+        role: IR CHU HDR
+      - name: Patrick Garbuio
+        role: PU-PH HDR
+      - name: Alfredo Iandolo
+        role: MCU-PH
+      - name: François Kleinclauss
+        role: PU-PH HDR
+      - name: Isabelle Lascombe
+        role: MCF HDR
+      - name: Daniel Lepage
+        role: PU-PH HDR
+      - name: François Loisel
+        role: MCU-PH
+      - name: Aurélien Louvrier
+        role: PU-PH HDR
+      - name: Christophe Meyer
+        role: PU-PH HDR
+      - name: Fabrice Michel
+        role: PU-PH HDR
+      - name: Laurent Obert
+        role: PU-PH HDR
+      - name: Gaël Piton
+        role: PU-PH HDR
+      - name: Rajeev Ramanah
+        role: PU-PH HDR
+      - name: Hadrien Winiszewski
+        role: MCU-PH
+      - name: Dina Iandolo
+        role: MCU-PH en odontologie
+    - title: Appui à la recherche
+      people:
+      - name: Alexandre Barbaud
+        role: TCH CDD
+    - title: Doctorants
+      people:
+      - name: Jason Bernauer
+        role: PhD3
+      - name: Eugénie Bertin
+        role: PhD3
+      - name: Romain Bronnert
+        role: PhD2
+      - name: Alexandre Frontczak
+        role: PhD2
+      - name: Chloé Gaude Hild
+        role: PhD3
+    - title: Membres associés
+      people:
+      - name: Camille Coussens
+        role: IGE CHU
+      - name: Edouard Euvrard
+        role: PH
+      - name: Florelle Gindraux
+        role: IGR CHU
+      - name: Jérémie Nallet
+        role: PH
+      - name: Jean-Baptiste Pretalli
+        role: CIC-CHU
+      - name: Stéphanie Py
+        role: CIC-CHU
+      - name: Fatimata Saydou Sall Sarr
+        role: CIC-CHU
+  - title: Equipe 3 « Ingénierie pour la santé »
+    lead:
+    - name: Guillaume Herlem
+      role: Responsable UMLP - PU HDR
+    - name: Olivier Grunder
+      role: Responsable UTBM - PU HDR
+    groups:
+    - title: UMLP
+      people:
+      - name: Oussama Barakat
+        role: PU HDR
+      - name: Hatem Boulahdour
+        role: PU-PH HDR
+      - name: Eléonore Brumpt
+        role: MCU-PH
+      - name: Paul Calame
+        role: MCU-PH
+      - name: Eric Delabrousse
+        role: PU-PH HDR
+      - name: Abdellah El Moudni
+        role: PU émérite HDR
+      - name: Moustafa Fayad
+        role: CPJ
+      - name: Priscila Gomes
+        role: MCF
+      - name: Guillaume Herlem
+        role: PU HDR
+      - name: Isabelle Lajoie
+        role: MCU
+      - name: Cathy Meunier
+        role: MCU HDR
+      - name: Fabien Picaud
+        role: MCU HDR
+      - name: Isabelle Pluvy
+        role: MCU-PH
+      - name: Rym Sekkal
+        role: MCU
+      - name: Laurent Tavernier
+        role: PU-PH HDR
+      - name: Réda Yahiaoui
+        role: MCU
+    - title: Post-doctorants
+      people:
+      - name: Nicolas Arroyo
+        role: Post-doc ANR
+      - name: Nyha Hameed
+        role: Post-doc
+    - title: Appui à la recherche
+      people:
+      - name: Hadrien Herlem
+        role: IGR CDD ANR
+      - name: Abdeljabbar Rachid
+        role: IGE CDD Interreg
+      - name: Hossein Zolfaghari
+        role: IGE CDD CPJ
+    - title: Doctorants
+      people:
+      - name: Ismail Bouajaja
+        role: PhD3
+      - name: Justine Chollet-Fictor
+        role: PhD2
+      - name: Yendouname Kantame
+        role: PhD2
+      - name: Léa Melataguia Mekontcho
+        role: PhD1
+      - name: Mahammad Nabizade
+        role: PhD3
+      - name: Ikram Rajai
+        role: PhD2
+      - name: Han Yu
+        role: PhD3
+    - title: Membres associés
+      people:
+      - name: Orland Angoue
+        role: Ingénieur CHU
+      - name: Laurent Comas
+        role: Ingénieur CHU
+      - name: Mohamed Embarki
+        role: PU HDR
+      - name: Olivier Gaiffe
+        role: Ingénieur CHU
+      - name: Thomas Lihoreau
+        role: CIC-CHU
+      - name: Omar Mrani
+        role: Chercheur
+      - name: Stephan Robert
+        role: PU - Suisse
+      - name: Fatma Zohra-Nacer
+        role: Chercheur
+    - title: UTBM
+      people:
+      - name: Rachid Bouyekhf
+        role: MCF HDR
+      - name: Olivier Grunder
+        role: PU HDR
+      - name: Amir Hajjam El Hassani
+        role: PU HDR
+      - name: Serge Iovleff
+        role: MCF
+      - name: Mohamed Sraitith
+        role: Post-doc
+      - name: Georges Chababi
+        role: PhD2
+      - name: Nouha Ed-Daoui
+        role: PhD2
+      - name: Mohamed El Moutaouadia El Idrissi
+        role: PhD2
+      - name: Yaovi Hoetowou
+        role: PhD3
+      - name: Sylvie Sebaaly
+        role: PhD2
+      - name: Suyu Wu
+        role: PhD2
+source: Organigramme détaillé SINERGIES — novembre 2026
+source_note: 'Statut de Dina Iandolo confirmé par Priscila Gomes : MCU-PH en odontologie.
+  Conseil et axes transversaux conservés depuis la précédente version, non détaillés
+  dans ce document.'

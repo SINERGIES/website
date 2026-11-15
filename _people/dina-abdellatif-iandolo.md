@@ -39,8 +39,8 @@ author_aliases:
   - "Dina IANDOLO"
 contact_opt_in: false
 projects: []
+roster_source: "Organigramme SINERGIES 11.2026"
 ---
-
 ## Parcours
 
 Docteure en chirurgie dentaire, Dina Iandolo est maîtresse de conférences des universités–praticienne hospitalière en odontologie et directrice de l’Odontologie à l’UFR Santé de l’Université Marie et Louis Pasteur. Elle est membre de SINERGIES (UR 4662) et praticienne au Centre d’enseignement et de soins dentaires du CHU de Besançon. Elle prépare une thèse de doctorat dont la soutenance est prévue en décembre 2026.

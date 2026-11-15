@@ -43,8 +43,8 @@ links:
 author_aliases:
   - "Guillaume HERLEM"
 projects: []
+roster_source: "Organigramme SINERGIES 11.2026"
 ---
-
 ## Parcours
 
 Titulaire d’un DEA « De la molécule aux matériaux » de l’Université Pierre-et-Marie-Curie et d’un doctorat en chimie-physique de l’Université de Franche-Comté, Guillaume Herlem a également suivi la formation HERCULES consacrée à l’utilisation des très grands instruments scientifiques. Il est habilité à diriger des recherches par l’Université de Franche-Comté.

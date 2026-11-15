@@ -44,7 +44,7 @@ permalink: /organisation/
       </div>
 
       <section class="org-section-box">
-        <h2>Secrétariat administratif et financier</h2>
+        <h2>Pôle administratif de l’unité / suivi de projets de recherche</h2>
         <div class="org-stack-grid">
           {% for person in site.data.organigrammes.organisation.support %}
             <p>{% include person-link.html name=person.name %}</p>
@@ -138,6 +138,7 @@ permalink: /organisation/
               {% endfor %}
             </div>
           </header>
+          {% if team.platform %}<p class="platform-note">{{ team.platform }}</p>{% endif %}
           <div class="complete-groups">
             {% for group in team.groups %}
               <section>
@@ -184,7 +185,7 @@ permalink: /organisation/
       </section>
 
       <section class="org-section-box org-section-compact">
-        <h2>Secrétariat administratif et financier</h2>
+        <h2>Pôle administratif de l’unité / suivi de projets de recherche</h2>
         <div class="org-stack-grid">
           {% for person in site.data.organigrammes.organisation.support %}
             <p>{% include person-link.html name=person.name %}<small>{{ person.role }}</small></p>

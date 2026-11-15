@@ -41,8 +41,8 @@ links:
 author_aliases:
   - "FABIEN picaud"
 projects: []
+roster_source: "Organigramme SINERGIES 11.2026"
 ---
-
 ## Parcours
 
 Fabien Picaud a suivi un cursus complet en physique à l’Université de Franche-Comté, du DEUG au DEA, avant de préparer une thèse consacrée à la nanostructuration des surfaces, soutenue en 2001. Après un séjour postdoctoral à la SISSA de Trieste, il est devenu maître de conférences en 2004 et a obtenu son habilitation à diriger des recherches en 2007. Il est directeur adjoint du laboratoire SINERGIES.

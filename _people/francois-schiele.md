@@ -1,6 +1,7 @@
 ---
 title: "François Schiele"
-role: "PU-PH HDR"
+role: "PU-PH émérite HDR"
 team: "Equipe 1 « Soins intégrés et personnalisés »"
 source: "Organigrammes SINERGIES 05.2026"
+roster_source: "Organigramme SINERGIES 11.2026"
 ---

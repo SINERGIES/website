@@ -41,8 +41,8 @@ author_aliases:
   - "Lagoutte-Renosi"
 contact_opt_in: true
 projects: []
+roster_source: "Organigramme SINERGIES 11.2026"
 ---
-
 ## Parcours
 
 Pharmacienne et docteure en sciences, Jennifer Lagoutte-Renosi est maîtresse de conférences des universités–praticienne hospitalière en pharmacologie clinique et toxicologie à l’Université Marie et Louis Pasteur et au CHU de Besançon. Elle est membre du laboratoire SINERGIES.

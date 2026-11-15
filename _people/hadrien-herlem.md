@@ -22,4 +22,5 @@ expertise_en:
   - Computational chemistry
   - Cheminformatics
 projects: []
+roster_source: "Organigramme SINERGIES 11.2026"
 ---

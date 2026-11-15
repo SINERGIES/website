@@ -40,8 +40,8 @@ author_aliases:
   - "Iandolo A."
 contact_opt_in: true
 projects: []
+roster_source: "Organigramme SINERGIES 11.2026"
 ---
-
 ## Parcours
 
 Docteur en chirurgie dentaire depuis 2006, Alfredo Iandolo a suivi une formation de trois ans en chirurgie orale. Il a obtenu en novembre 2024 un doctorat consacré à la préparation mini-invasive des canaux radiculaires et à leur nettoyage tridimensionnel. Depuis septembre 2025, il est maître de conférences des universités–praticien hospitalier à l’Université Marie et Louis Pasteur et au CHU de Besançon. Il participe aux activités d’endodontie, de dentisterie restauratrice, de réhabilitation orale, de recherche et de simulation.
