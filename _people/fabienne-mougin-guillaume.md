@@ -1,7 +1,5 @@
 ---
 title: "Fabienne Mougin-Guillaume"
-photo: "/assets/img/fabienne-mougin-guillaume.jpg"
-photo_alt: "Fabienne Mougin-Guillaume"
 role: "PU HDR"
 team: "Equipe 1 « Soins intégrés et personnalisés »"
 source: "Questionnaire membre 17.11.2026"
