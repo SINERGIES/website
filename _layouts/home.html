@@ -105,6 +105,7 @@ layout: default
   <a class="button section-button" href="{{ '/publications/' | relative_url }}">Voir plus</a>
 </section>
 
+{% if site.posts != empty %}
 <section class="section news-section" id="actualites">
   <div class="section-heading row-heading">
     <div>
@@ -125,6 +126,7 @@ layout: default
   </div>
 </section>
 
+{% endif %}
 {% comment %}Master section temporarily hidden; content retained for reactivation.
 <section class="section master-section" id="master">
   <div class="master-panel">

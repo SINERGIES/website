@@ -9,6 +9,7 @@ permalink: /actualites/
 </section>
 
 <section class="page-content archive-list">
+  {% if site.posts == empty %}<p>De nouvelles actualités seront publiées prochainement.</p>{% endif %}
   {% for post in site.posts %}
     <article>
       <p class="meta">{{ post.date | date: "%d/%m/%Y" }}</p>

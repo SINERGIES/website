@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: Journée scientifique SINERGIES 2024
 date: 2024-06-06
 category: actualites
